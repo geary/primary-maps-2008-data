@@ -1,5 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[],
+{"date":"02-05","precincts":
+{"total":40,"reporting":39},
+"votes":[
+{"votes":302,"name":"obama"},
+{"votes":103,"name":"clinton"},
+{"votes":1,"name":"uncommitted-d"},
+{"votes":0,"name":"edwards"},
+{"votes":0,"name":"biden"},
+{"votes":0,"name":"richardson"},
+{"votes":0,"name":"kucinich"},
+{"votes":0,"name":"gravel"}],
 "type":"caucus","name":"Alaska"},
-"state":"AK","party":"dem","total":0,"locals":
+"state":"AK","party":"dem","total":406,"locals":
 {}})

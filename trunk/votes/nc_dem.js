@@ -1,5 +1,1 @@
-GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"05-06","votes":[],
-"name":"North Carolina"},
-"state":"NC","party":"dem","total":0,"locals":
-{}})
+GoogleElectionMap.votesReady({ "status":"none", "party":"dem", "state":"nc" })

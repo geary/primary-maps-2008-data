@@ -1,5 +1,1 @@
-GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-12","votes":[],
-"name":"District Of Columbia"},
-"state":"DC","party":"dem","total":0,"locals":
-{}})
+GoogleElectionMap.votesReady({ "status":"none", "party":"dem", "state":"dc" })

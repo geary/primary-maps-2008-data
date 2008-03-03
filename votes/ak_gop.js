@@ -1,5 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[],
+{"date":"02-05","precincts":
+{"total":40,"reporting":39},
+"votes":[
+{"votes":5126,"name":"romney"},
+{"votes":2548,"name":"huckabee"},
+{"votes":1955,"name":"paul"},
+{"votes":1804,"name":"mccain"},
+{"votes":187,"name":"uncommitted-r"}],
 "type":"caucus","name":"Alaska"},
-"state":"AK","party":"gop","total":0,"locals":
+"state":"AK","party":"gop","total":11620,"locals":
 {}})

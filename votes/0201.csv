@@ -1,0 +1,520 @@
+state,county,precincts,reporting,giuliani,huckabee,keyes,mccain,paul,romney,thompson,undecided-r,write-ins-r
+ME,*,626,428,2,268,1,958,851,2362,4,94,3
+ME,Abbot,1,0,0,0,0,0,0,0,0,0,0
+ME,Acton,1,0,0,0,0,0,0,0,0,0,0
+ME,Addison,1,0,0,0,0,0,0,0,0,0,0
+ME,Albany Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Albion,1,0,0,0,0,0,0,0,0,0,0
+ME,Alexander,1,0,0,0,0,0,0,0,0,0,0
+ME,Alfred,1,0,0,0,0,0,0,0,0,0,0
+ME,Allagash,1,0,0,0,0,0,0,0,0,0,0
+ME,Alna,1,0,0,0,0,0,0,0,0,0,0
+ME,Alton,1,0,0,0,0,0,0,0,0,0,0
+ME,Amherst,1,0,0,0,0,0,0,0,0,0,0
+ME,Amity,1,0,0,0,0,0,0,0,0,0,0
+ME,Andover,1,0,0,0,0,0,0,0,0,0,0
+ME,Anson,1,0,0,0,0,0,0,0,0,0,0
+ME,Appleton,1,0,0,0,0,0,0,0,0,0,0
+ME,Arrowsic,1,0,0,0,0,0,0,0,0,0,0
+ME,Arundel,1,0,0,0,0,0,0,0,0,0,0
+ME,Ashland,1,0,0,0,0,0,0,0,0,0,0
+ME,Athens,1,0,0,0,0,0,0,0,0,0,0
+ME,Atkinson,1,0,0,0,0,0,0,0,0,0,0
+ME,Auburn,5,0,0,0,0,0,0,0,0,0,0
+ME,Augusta,5,0,0,0,0,0,0,0,0,0,0
+ME,Aurora,1,0,0,0,0,0,0,0,0,0,0
+ME,Avon,1,0,0,0,0,0,0,0,0,0,0
+ME,Baileyville,1,0,0,0,0,0,0,0,0,0,0
+ME,Baldwin,1,0,0,0,0,0,0,0,0,0,0
+ME,Bancroft,1,0,0,0,0,0,0,0,0,0,0
+ME,Bangor,5,0,0,0,0,0,0,0,0,0,0
+ME,Bar Harbor,1,0,0,0,0,0,0,0,0,0,0
+ME,Baring Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Bath,8,0,0,0,0,0,0,0,0,0,0
+ME,Beals,1,0,0,0,0,0,0,0,0,0,0
+ME,Beaver Cove,1,0,0,0,0,0,0,0,0,0,0
+ME,Beddington,1,0,0,0,0,0,0,0,0,0,0
+ME,Belfast,3,0,0,0,0,0,0,0,0,0,0
+ME,Belgrade,1,0,0,0,0,0,0,0,0,0,0
+ME,Belmont,1,0,0,0,0,0,0,0,0,0,0
+ME,Benton,1,0,0,0,0,0,0,0,0,0,0
+ME,Berwick,1,0,0,0,0,0,0,0,0,0,0
+ME,Bethel,1,0,0,0,0,0,0,0,0,0,0
+ME,Biddeford,7,0,0,0,0,0,0,0,0,0,0
+ME,Bingham,1,0,0,0,0,0,0,0,0,0,0
+ME,Blaine,1,0,0,0,0,0,0,0,0,0,0
+ME,Blue Hill,1,0,0,0,0,0,0,0,0,0,0
+ME,Boothbay,1,0,0,0,0,0,0,0,0,0,0
+ME,Boothbay Harbor,1,0,0,0,0,0,0,0,0,0,0
+ME,Bowdoin,1,0,0,0,0,0,0,0,0,0,0
+ME,Bowdoinham,1,0,0,0,0,0,0,0,0,0,0
+ME,Bowerbank,1,0,0,0,0,0,0,0,0,0,0
+ME,Bradford,1,0,0,0,0,0,0,0,0,0,0
+ME,Bradley,1,0,0,0,0,0,0,0,0,0,0
+ME,Bremen,1,0,0,0,0,0,0,0,0,0,0
+ME,Brewer,2,0,0,0,0,0,0,0,0,0,0
+ME,Bridgewater,1,0,0,0,0,0,0,0,0,0,0
+ME,Bridgton,1,0,0,0,0,0,0,0,0,0,0
+ME,Brighton Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Bristol,1,0,0,0,0,0,0,0,0,0,0
+ME,Brooklin,1,0,0,0,0,0,0,0,0,0,0
+ME,Brooks,1,0,0,0,0,0,0,0,0,0,0
+ME,Brooksville,1,0,0,0,0,0,0,0,0,0,0
+ME,Brookton Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Brownfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Brownville,1,0,0,0,0,0,0,0,0,0,0
+ME,Brunswick,8,0,0,0,0,0,0,0,0,0,0
+ME,Buckfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Bucksport,1,0,0,0,0,0,0,0,0,0,0
+ME,Burlington,1,0,0,0,0,0,0,0,0,0,0
+ME,Burnham,1,0,0,0,0,0,0,0,0,0,0
+ME,Buxton,1,0,0,0,0,0,0,0,0,0,0
+ME,Byron,1,0,0,0,0,0,0,0,0,0,0
+ME,Calais,1,0,0,0,0,0,0,0,0,0,0
+ME,Cambridge,1,0,0,0,0,0,0,0,0,0,0
+ME,Camden,1,0,0,0,0,0,0,0,0,0,0
+ME,Canaan,1,0,0,0,0,0,0,0,0,0,0
+ME,Canton,1,0,0,0,0,0,0,0,0,0,0
+ME,Cape Elizabeth,1,0,0,0,0,0,0,0,0,0,0
+ME,Caratunk,1,0,0,0,0,0,0,0,0,0,0
+ME,Caribou,1,0,0,0,0,0,0,0,0,0,0
+ME,Carmel,1,0,0,0,0,0,0,0,0,0,0
+ME,Carrabassett Valley,1,0,0,0,0,0,0,0,0,0,0
+ME,Carroll Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Carthage,1,0,0,0,0,0,0,0,0,0,0
+ME,Cary Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Casco,1,0,0,0,0,0,0,0,0,0,0
+ME,Castine,1,0,0,0,0,0,0,0,0,0,0
+ME,Castle Hill,1,0,0,0,0,0,0,0,0,0,0
+ME,Caswell,1,0,0,0,0,0,0,0,0,0,0
+ME,Centerville Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Chapman,1,0,0,0,0,0,0,0,0,0,0
+ME,Charleston,1,0,0,0,0,0,0,0,0,0,0
+ME,Charlotte,1,0,0,0,0,0,0,0,0,0,0
+ME,Chebeague Island,1,0,0,0,0,0,0,0,0,0,0
+ME,Chelsea,1,0,0,0,0,0,0,0,0,0,0
+ME,Cherryfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Chester,1,0,0,0,0,0,0,0,0,0,0
+ME,Chesterville,1,0,0,0,0,0,0,0,0,0,0
+ME,China,1,0,0,0,0,0,0,0,0,0,0
+ME,Clifton,1,0,0,0,0,0,0,0,0,0,0
+ME,Clinton,1,0,0,0,0,0,0,0,0,0,0
+ME,Codyville Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Columbia,1,0,0,0,0,0,0,0,0,0,0
+ME,Columbia Falls,1,0,0,0,0,0,0,0,0,0,0
+ME,Connor Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Cooper,1,0,0,0,0,0,0,0,0,0,0
+ME,Coplin Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Corinna,1,0,0,0,0,0,0,0,0,0,0
+ME,Corinth,1,0,0,0,0,0,0,0,0,0,0
+ME,Cornish,1,0,0,0,0,0,0,0,0,0,0
+ME,Cornville,1,0,0,0,0,0,0,0,0,0,0
+ME,Cranberry Isles,2,0,0,0,0,0,0,0,0,0,0
+ME,Crawford,1,0,0,0,0,0,0,0,0,0,0
+ME,Crystal,1,0,0,0,0,0,0,0,0,0,0
+ME,Cumberland,1,0,0,0,0,0,0,0,0,0,0
+ME,Cushing,1,0,0,0,0,0,0,0,0,0,0
+ME,Cutler,1,0,0,0,0,0,0,0,0,0,0
+ME,Cyr Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Dallas Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Damariscotta,1,0,0,0,0,0,0,0,0,0,0
+ME,Danforth,1,0,0,0,0,0,0,0,0,0,0
+ME,Dayton,1,0,0,0,0,0,0,0,0,0,0
+ME,Deblois,1,0,0,0,0,0,0,0,0,0,0
+ME,Dedham,1,0,0,0,0,0,0,0,0,0,0
+ME,Deer Isle,1,0,0,0,0,0,0,0,0,0,0
+ME,Denmark,1,0,0,0,0,0,0,0,0,0,0
+ME,Dennistown Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Dennysville,1,0,0,0,0,0,0,0,0,0,0
+ME,Detroit,1,0,0,0,0,0,0,0,0,0,0
+ME,Dexter,1,0,0,0,0,0,0,0,0,0,0
+ME,Dixfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Dixmont,1,0,0,0,0,0,0,0,0,0,0
+ME,Dover-Foxcroft,1,0,0,0,0,0,0,0,0,0,0
+ME,Dresden,1,0,0,0,0,0,0,0,0,0,0
+ME,Drew Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,DTT9 & T10 Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Durham,1,0,0,0,0,0,0,0,0,0,0
+ME,Dyer Brook,1,0,0,0,0,0,0,0,0,0,0
+ME,Eagle Lake,1,0,0,0,0,0,0,0,0,0,0
+ME,East Machias,1,0,0,0,0,0,0,0,0,0,0
+ME,East Millinocket,1,0,0,0,0,0,0,0,0,0,0
+ME,Eastbrook,1,0,0,0,0,0,0,0,0,0,0
+ME,Easton,1,0,0,0,0,0,0,0,0,0,0
+ME,Eastport,1,0,0,0,0,0,0,0,0,0,0
+ME,Eddington,1,0,0,0,0,0,0,0,0,0,0
+ME,Edgecomb,1,0,0,0,0,0,0,0,0,0,0
+ME,Edinburg,1,0,0,0,0,0,0,0,0,0,0
+ME,Edmunds Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Eliot,1,0,0,0,0,0,0,0,0,0,0
+ME,Ellsworth,4,0,0,0,0,0,0,0,0,0,0
+ME,Embden,1,0,0,0,0,0,0,0,0,0,0
+ME,Enfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Etna,1,0,0,0,0,0,0,0,0,0,0
+ME,Eustis,1,0,0,0,0,0,0,0,0,0,0
+ME,Exeter,1,0,0,0,0,0,0,0,0,0,0
+ME,Fairfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Falmouth,1,0,0,0,0,0,0,0,0,0,0
+ME,Farmingdale,1,0,0,0,0,0,0,0,0,0,0
+ME,Farmington,1,0,0,0,0,0,0,0,0,0,0
+ME,Fayette,1,0,0,0,0,0,0,0,0,0,0
+ME,Fort Fairfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Fort Kent,1,0,0,0,0,0,0,0,0,0,0
+ME,Frankfort,1,0,0,0,0,0,0,0,0,0,0
+ME,Franklin,1,0,0,0,0,0,0,0,0,0,0
+ME,Freedom,1,0,0,0,0,0,0,0,0,0,0
+ME,Freeman Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Freeport,1,0,0,0,0,0,0,0,0,0,0
+ME,Frenchboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Frenchville,1,0,0,0,0,0,0,0,0,0,0
+ME,Friendship,1,0,0,0,0,0,0,0,0,0,0
+ME,Frye Island,1,0,0,0,0,0,0,0,0,0,0
+ME,Fryeburg,1,0,0,0,0,0,0,0,0,0,0
+ME,Gardiner,1,0,0,0,0,0,0,0,0,0,0
+ME,Garfield Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Garland,1,0,0,0,0,0,0,0,0,0,0
+ME,Georgetown,1,0,0,0,0,0,0,0,0,0,0
+ME,Gilead,1,0,0,0,0,0,0,0,0,0,0
+ME,Glenburn,1,0,0,0,0,0,0,0,0,0,0
+ME,Glenwood Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Gorham,4,0,0,0,0,0,0,0,0,0,0
+ME,Gouldsboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Grand Isle,1,0,0,0,0,0,0,0,0,0,0
+ME,Grand Lake Stream Plt,1,0,0,0,0,0,0,0,0,0,0
+ME,Gray,1,0,0,0,0,0,0,0,0,0,0
+ME,Great Pond,1,0,0,0,0,0,0,0,0,0,0
+ME,Greenbush,1,0,0,0,0,0,0,0,0,0,0
+ME,Greene,1,0,0,0,0,0,0,0,0,0,0
+ME,Greenville,1,0,0,0,0,0,0,0,0,0,0
+ME,Greenville Twps,1,0,0,0,0,0,0,0,0,0,0
+ME,Greenwood,1,0,0,0,0,0,0,0,0,0,0
+ME,Guilford,1,0,0,0,0,0,0,0,0,0,0
+ME,Hallowell,5,0,0,0,0,0,0,0,0,0,0
+ME,Hamlin,1,0,0,0,0,0,0,0,0,0,0
+ME,Hammond,1,0,0,0,0,0,0,0,0,0,0
+ME,Hampden,1,0,0,0,0,0,0,0,0,0,0
+ME,Hancock,1,0,0,0,0,0,0,0,0,0,0
+ME,Hanover,1,0,0,0,0,0,0,0,0,0,0
+ME,Harmony,1,0,0,0,0,0,0,0,0,0,0
+ME,Harpswell,3,0,0,0,0,0,0,0,0,0,0
+ME,Harrington,1,0,0,0,0,0,0,0,0,0,0
+ME,Harrison,1,0,0,0,0,0,0,0,0,0,0
+ME,Hartford,1,0,0,0,0,0,0,0,0,0,0
+ME,Hartland,1,0,0,0,0,0,0,0,0,0,0
+ME,Haynesville,1,0,0,0,0,0,0,0,0,0,0
+ME,Hebron,1,0,0,0,0,0,0,0,0,0,0
+ME,Hermon,1,0,0,0,0,0,0,0,0,0,0
+ME,Hersey,1,0,0,0,0,0,0,0,0,0,0
+ME,Highland Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Hiram,2,0,0,0,0,0,0,0,0,0,0
+ME,Hodgdon,1,0,0,0,0,0,0,0,0,0,0
+ME,Holden,1,0,0,0,0,0,0,0,0,0,0
+ME,Hollis,1,0,0,0,0,0,0,0,0,0,0
+ME,Hope,1,0,0,0,0,0,0,0,0,0,0
+ME,Houlton,1,0,0,0,0,0,0,0,0,0,0
+ME,Howland,1,0,0,0,0,0,0,0,0,0,0
+ME,Hudson,1,0,0,0,0,0,0,0,0,0,0
+ME,Indian Purchase T3&T4Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Indian Township Vtng Dst,1,0,0,0,0,0,0,0,0,0,0
+ME,Industry,1,0,0,0,0,0,0,0,0,0,0
+ME,Island Falls,1,0,0,0,0,0,0,0,0,0,0
+ME,Isle Au Haut,1,0,0,0,0,0,0,0,0,0,0
+ME,Islesboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Jackman,1,0,0,0,0,0,0,0,0,0,0
+ME,Jackson,1,0,0,0,0,0,0,0,0,0,0
+ME,Jay,1,0,0,0,0,0,0,0,0,0,0
+ME,Jefferson,1,0,0,0,0,0,0,0,0,0,0
+ME,Jonesboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Jonesport,1,0,0,0,0,0,0,0,0,0,0
+ME,Kenduskeag,1,0,0,0,0,0,0,0,0,0,0
+ME,Kennebunk,1,0,0,0,0,0,0,0,0,0,0
+ME,Kennebunkport,1,0,0,0,0,0,0,0,0,0,0
+ME,Kingfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Kingman Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Kingsbury Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Kittery,1,0,0,0,0,0,0,0,0,0,0
+ME,Knox,1,0,0,0,0,0,0,0,0,0,0
+ME,LaGrange,1,0,0,0,0,0,0,0,0,0,0
+ME,Lake View Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Lakeville,1,0,0,0,0,0,0,0,0,0,0
+ME,Lamoine,1,0,0,0,0,0,0,0,0,0,0
+ME,Lebanon,1,0,0,0,0,0,0,0,0,0,0
+ME,Lee,1,0,0,0,0,0,0,0,0,0,0
+ME,Leeds,1,0,0,0,0,0,0,0,0,0,0
+ME,Levant,1,0,0,0,0,0,0,0,0,0,0
+ME,Lewiston,8,0,0,0,0,0,0,0,0,0,0
+ME,Liberty,1,0,0,0,0,0,0,0,0,0,0
+ME,Limerick,1,0,0,0,0,0,0,0,0,0,0
+ME,Limestone,1,0,0,0,0,0,0,0,0,0,0
+ME,Limington,1,0,0,0,0,0,0,0,0,0,0
+ME,Lincoln,1,0,0,0,0,0,0,0,0,0,0
+ME,Lincoln Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Lincolnville,1,0,0,0,0,0,0,0,0,0,0
+ME,Linneus,1,0,0,0,0,0,0,0,0,0,0
+ME,Lisbon,2,0,0,0,0,0,0,0,0,0,0
+ME,Litchfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Littleton,1,0,0,0,0,0,0,0,0,0,0
+ME,Livermore,1,0,0,0,0,0,0,0,0,0,0
+ME,Livermore Falls,1,0,0,0,0,0,0,0,0,0,0
+ME,Long Island,1,0,0,0,0,0,0,0,0,0,0
+ME,Lovell,1,0,0,0,0,0,0,0,0,0,0
+ME,Lowell,1,0,0,0,0,0,0,0,0,0,0
+ME,Lubec,1,0,0,0,0,0,0,0,0,0,0
+ME,Ludlow,1,0,0,0,0,0,0,0,0,0,0
+ME,Lyman,1,0,0,0,0,0,0,0,0,0,0
+ME,Machias,1,0,0,0,0,0,0,0,0,0,0
+ME,Machiasport,1,0,0,0,0,0,0,0,0,0,0
+ME,Macwahoc Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Madawaska,1,0,0,0,0,0,0,0,0,0,0
+ME,Madawaska Lake Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Madison,1,0,0,0,0,0,0,0,0,0,0
+ME,Madrid Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Magalloway Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Manchester,1,0,0,0,0,0,0,0,0,0,0
+ME,Mapleton,1,0,0,0,0,0,0,0,0,0,0
+ME,Mariaville,1,0,0,0,0,0,0,0,0,0,0
+ME,Mars Hill,1,0,0,0,0,0,0,0,0,0,0
+ME,Marshfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Masardis,1,0,0,0,0,0,0,0,0,0,0
+ME,Matinicus Isle Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Mattawamkeag,1,0,0,0,0,0,0,0,0,0,0
+ME,Maxfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Mechanic Falls,1,0,0,0,0,0,0,0,0,0,0
+ME,Meddybemps,1,0,0,0,0,0,0,0,0,0,0
+ME,Medford,1,0,0,0,0,0,0,0,0,0,0
+ME,Medway,1,0,0,0,0,0,0,0,0,0,0
+ME,Mercer,1,0,0,0,0,0,0,0,0,0,0
+ME,Merrill,1,0,0,0,0,0,0,0,0,0,0
+ME,Mexico,1,0,0,0,0,0,0,0,0,0,0
+ME,Milbridge,1,0,0,0,0,0,0,0,0,0,0
+ME,Milford,1,0,0,0,0,0,0,0,0,0,0
+ME,Millinocket,1,0,0,0,0,0,0,0,0,0,0
+ME,Milo,1,0,0,0,0,0,0,0,0,0,0
+ME,Milton Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Minot,1,0,0,0,0,0,0,0,0,0,0
+ME,Monhegan Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Monmouth,2,0,0,0,0,0,0,0,0,0,0
+ME,Monroe,1,0,0,0,0,0,0,0,0,0,0
+ME,Monson,1,0,0,0,0,0,0,0,0,0,0
+ME,Monticello,1,0,0,0,0,0,0,0,0,0,0
+ME,Montville,1,0,0,0,0,0,0,0,0,0,0
+ME,Moose River,1,0,0,0,0,0,0,0,0,0,0
+ME,Moro Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Morrill,1,0,0,0,0,0,0,0,0,0,0
+ME,Moscow,1,0,0,0,0,0,0,0,0,0,0
+ME,Mount Chase,1,0,0,0,0,0,0,0,0,0,0
+ME,Mount Desert,1,0,0,0,0,0,0,0,0,0,0
+ME,Mount Vernon,1,0,0,0,0,0,0,0,0,0,0
+ME,Naples,1,0,0,0,0,0,0,0,0,0,0
+ME,Nashville Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,New Canada,1,0,0,0,0,0,0,0,0,0,0
+ME,New Gloucester,1,0,0,0,0,0,0,0,0,0,0
+ME,New Limerick,1,0,0,0,0,0,0,0,0,0,0
+ME,New Portland,1,0,0,0,0,0,0,0,0,0,0
+ME,New Sharon,1,0,0,0,0,0,0,0,0,0,0
+ME,New Sweden,1,0,0,0,0,0,0,0,0,0,0
+ME,New Vineyard,1,0,0,0,0,0,0,0,0,0,0
+ME,Newburgh,1,0,0,0,0,0,0,0,0,0,0
+ME,Newcastle,1,0,0,0,0,0,0,0,0,0,0
+ME,Newfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Newport,1,0,0,0,0,0,0,0,0,0,0
+ME,Newry,1,0,0,0,0,0,0,0,0,0,0
+ME,Nobleboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Norridgewock,1,0,0,0,0,0,0,0,0,0,0
+ME,North Berwick,1,0,0,0,0,0,0,0,0,0,0
+ME,North Haven,1,0,0,0,0,0,0,0,0,0,0
+ME,North Yarmouth,1,0,0,0,0,0,0,0,0,0,0
+ME,Northfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Northport,1,0,0,0,0,0,0,0,0,0,0
+ME,Norway,1,0,0,0,0,0,0,0,0,0,0
+ME,Oakfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Oakland,1,0,0,0,0,0,0,0,0,0,0
+ME,Ogunquit,1,0,0,0,0,0,0,0,0,0,0
+ME,Old Orchrd Bch,1,0,0,0,0,0,0,0,0,0,0
+ME,Old Town,4,0,0,0,0,0,0,0,0,0,0
+ME,Orient,1,0,0,0,0,0,0,0,0,0,0
+ME,Orland,1,0,0,0,0,0,0,0,0,0,0
+ME,Orneville Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Orono,4,0,0,0,0,0,0,0,0,0,0
+ME,Orrington,1,0,0,0,0,0,0,0,0,0,0
+ME,Osborn,1,0,0,0,0,0,0,0,0,0,0
+ME,Otis,1,0,0,0,0,0,0,0,0,0,0
+ME,Otisfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Owl's Head,1,0,0,0,0,0,0,0,0,0,0
+ME,Oxbow Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Oxford,1,0,0,0,0,0,0,0,0,0,0
+ME,Palermo,1,0,0,0,0,0,0,0,0,0,0
+ME,Palmyra,1,0,0,0,0,0,0,0,0,0,0
+ME,Paris,1,0,0,0,0,0,0,0,0,0,0
+ME,Parkman,1,0,0,0,0,0,0,0,0,0,0
+ME,Parsonsfield,2,0,0,0,0,0,0,0,0,0,0
+ME,Passadumkeag,1,0,0,0,0,0,0,0,0,0,0
+ME,Patten,1,0,0,0,0,0,0,0,0,0,0
+ME,Pembroke,1,0,0,0,0,0,0,0,0,0,0
+ME,Penobscot,1,0,0,0,0,0,0,0,0,0,0
+ME,Penobscot Nation Vot Dst,1,0,0,0,0,0,0,0,0,0,0
+ME,Perham,1,0,0,0,0,0,0,0,0,0,0
+ME,Perkins Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Perry,1,0,0,0,0,0,0,0,0,0,0
+ME,Peru,1,0,0,0,0,0,0,0,0,0,0
+ME,Phillips,1,0,0,0,0,0,0,0,0,0,0
+ME,Phippsburg,1,0,0,0,0,0,0,0,0,0,0
+ME,Pittsfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Pittston,1,0,0,0,0,0,0,0,0,0,0
+ME,Pleasant Point Votng Dst,1,0,0,0,0,0,0,0,0,0,0
+ME,Pleasant Ridge Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Plymouth,1,0,0,0,0,0,0,0,0,0,0
+ME,Poland,1,0,0,0,0,0,0,0,0,0,0
+ME,Portage Lake,1,0,0,0,0,0,0,0,0,0,0
+ME,Porter,1,0,0,0,0,0,0,0,0,0,0
+ME,Portland,18,0,0,0,0,0,0,0,0,0,0
+ME,Pownal,1,0,0,0,0,0,0,0,0,0,0
+ME,Prentiss Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Presque Isle,1,0,0,0,0,0,0,0,0,0,0
+ME,Princeton,1,0,0,0,0,0,0,0,0,0,0
+ME,Prospect,1,0,0,0,0,0,0,0,0,0,0
+ME,Randolph,1,0,0,0,0,0,0,0,0,0,0
+ME,Rangeley,1,0,0,0,0,0,0,0,0,0,0
+ME,Rangeley Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Raymond,1,0,0,0,0,0,0,0,0,0,0
+ME,Readfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Reed Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Richmond,1,0,0,0,0,0,0,0,0,0,0
+ME,Ripley,1,0,0,0,0,0,0,0,0,0,0
+ME,Robbinston,1,0,0,0,0,0,0,0,0,0,0
+ME,Rockland,1,0,0,0,0,0,0,0,0,0,0
+ME,Rockport,1,0,0,0,0,0,0,0,0,0,0
+ME,Rockwood Twp.,1,0,0,0,0,0,0,0,0,0,0
+ME,Rome,1,0,0,0,0,0,0,0,0,0,0
+ME,Roque Bluffs,1,0,0,0,0,0,0,0,0,0,0
+ME,Roxbury,1,0,0,0,0,0,0,0,0,0,0
+ME,Rumford,1,0,0,0,0,0,0,0,0,0,0
+ME,Sabattus,1,0,0,0,0,0,0,0,0,0,0
+ME,Saco,7,0,0,0,0,0,0,0,0,0,0
+ME,Saint Agatha,1,0,0,0,0,0,0,0,0,0,0
+ME,Sandy River Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Sanford,7,0,0,0,0,0,0,0,0,0,0
+ME,Sangerville,1,0,0,0,0,0,0,0,0,0,0
+ME,Scarborough,3,0,0,0,0,0,0,0,0,0,0
+ME,Searsmont,1,0,0,0,0,0,0,0,0,0,0
+ME,Searsport,1,0,0,0,0,0,0,0,0,0,0
+ME,Sebago,1,0,0,0,0,0,0,0,0,0,0
+ME,Sebec,1,0,0,0,0,0,0,0,0,0,0
+ME,Seboeis Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Sedgwick,1,0,0,0,0,0,0,0,0,0,0
+ME,Shapleigh,1,0,0,0,0,0,0,0,0,0,0
+ME,Sherman,1,0,0,0,0,0,0,0,0,0,0
+ME,Shirley,1,0,0,0,0,0,0,0,0,0,0
+ME,Sidney,1,0,0,0,0,0,0,0,0,0,0
+ME,Sinclair Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Skowhegan,1,0,0,0,0,0,0,0,0,0,0
+ME,Smithfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Smyrna,1,0,0,0,0,0,0,0,0,0,0
+ME,Solon,1,0,0,0,0,0,0,0,0,0,0
+ME,Somerville,1,0,0,0,0,0,0,0,0,0,0
+ME,Sorrento,1,0,0,0,0,0,0,0,0,0,0
+ME,South Berwick,1,0,0,0,0,0,0,0,0,0,0
+ME,South Bristol,1,0,0,0,0,0,0,0,0,0,0
+ME,South Portland,6,0,0,0,0,0,0,0,0,0,0
+ME,South Thomaston,1,0,0,0,0,0,0,0,0,0,0
+ME,Southport,1,0,0,0,0,0,0,0,0,0,0
+ME,Southwest Harbor,1,0,0,0,0,0,0,0,0,0,0
+ME,Springfield,1,0,0,0,0,0,0,0,0,0,0
+ME,St. Albans,1,0,0,0,0,0,0,0,0,0,0
+ME,St. Francis,1,0,0,0,0,0,0,0,0,0,0
+ME,St. George,1,0,0,0,0,0,0,0,0,0,0
+ME,St. John Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Stacyville,1,0,0,0,0,0,0,0,0,0,0
+ME,Standish,1,0,0,0,0,0,0,0,0,0,0
+ME,Starks,1,0,0,0,0,0,0,0,0,0,0
+ME,Stetson,1,0,0,0,0,0,0,0,0,0,0
+ME,Steuben,1,0,0,0,0,0,0,0,0,0,0
+ME,Stockholm,1,0,0,0,0,0,0,0,0,0,0
+ME,Stockton Springs,1,0,0,0,0,0,0,0,0,0,0
+ME,Stoneham,1,0,0,0,0,0,0,0,0,0,0
+ME,Stonington,1,0,0,0,0,0,0,0,0,0,0
+ME,Stow,1,0,0,0,0,0,0,0,0,0,0
+ME,Strong,1,0,0,0,0,0,0,0,0,0,0
+ME,Sullivan,1,0,0,0,0,0,0,0,0,0,0
+ME,Sumner,1,0,0,0,0,0,0,0,0,0,0
+ME,Surry,1,0,0,0,0,0,0,0,0,0,0
+ME,Swan's Island,1,0,0,0,0,0,0,0,0,0,0
+ME,Swanville,1,0,0,0,0,0,0,0,0,0,0
+ME,Sweden,1,0,0,0,0,0,0,0,0,0,0
+ME,T17 R5 Twp (Grt/CrossLk),1,0,0,0,0,0,0,0,0,0,0
+ME,T1-R9 Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,T3 ND Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Talmadge,1,0,0,0,0,0,0,0,0,0,0
+ME,Temple,1,0,0,0,0,0,0,0,0,0,0
+ME,The Forks Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Thomaston,1,0,0,0,0,0,0,0,0,0,0
+ME,Thorndike,1,0,0,0,0,0,0,0,0,0,0
+ME,Topsfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Topsham,1,0,0,0,0,0,0,0,0,0,0
+ME,Township 14,1,0,0,0,0,0,0,0,0,0,0
+ME,Township 21,1,0,0,0,0,0,0,0,0,0,0
+ME,Township 27,1,0,0,0,0,0,0,0,0,0,0
+ME,Township 8, S.D.,1,0,0,0,0,0,0,0,0,0,0
+ME,Tremont,1,0,0,0,0,0,0,0,0,0,0
+ME,Trenton,1,0,0,0,0,0,0,0,0,0,0
+ME,Trescott Twp,1,0,0,0,0,0,0,0,0,0,0
+ME,Troy,1,0,0,0,0,0,0,0,0,0,0
+ME,Turner,1,0,0,0,0,0,0,0,0,0,0
+ME,Union,1,0,0,0,0,0,0,0,0,0,0
+ME,Unity,1,0,0,0,0,0,0,0,0,0,0
+ME,Upton,1,0,0,0,0,0,0,0,0,0,0
+ME,Van Buren,1,0,0,0,0,0,0,0,0,0,0
+ME,Vanceboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Vassalboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Veazie,1,0,0,0,0,0,0,0,0,0,0
+ME,Verona,1,0,0,0,0,0,0,0,0,0,0
+ME,Vienna,1,0,0,0,0,0,0,0,0,0,0
+ME,Vinalhaven,1,0,0,0,0,0,0,0,0,0,0
+ME,Wade,1,0,0,0,0,0,0,0,0,0,0
+ME,Waite,1,0,0,0,0,0,0,0,0,0,0
+ME,Waldo,1,0,0,0,0,0,0,0,0,0,0
+ME,Waldoboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Wales,1,0,0,0,0,0,0,0,0,0,0
+ME,Wallagrass,1,0,0,0,0,0,0,0,0,0,0
+ME,Waltham,1,0,0,0,0,0,0,0,0,0,0
+ME,Warren,1,0,0,0,0,0,0,0,0,0,0
+ME,Washburn,1,0,0,0,0,0,0,0,0,0,0
+ME,Washington,1,0,0,0,0,0,0,0,0,0,0
+ME,Waterboro,1,0,0,0,0,0,0,0,0,0,0
+ME,Waterford,1,0,0,0,0,0,0,0,0,0,0
+ME,Waterville,1,0,0,0,0,0,0,0,0,0,0
+ME,Wayne,1,0,0,0,0,0,0,0,0,0,0
+ME,Webster Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Weld,1,0,0,0,0,0,0,0,0,0,0
+ME,Wellington,1,0,0,0,0,0,0,0,0,0,0
+ME,Wells,1,0,0,0,0,0,0,0,0,0,0
+ME,Wesley,1,0,0,0,0,0,0,0,0,0,0
+ME,West Bath,1,0,0,0,0,0,0,0,0,0,0
+ME,West Forks Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,West Gardiner,1,0,0,0,0,0,0,0,0,0,0
+ME,West Paris,1,0,0,0,0,0,0,0,0,0,0
+ME,Westbrook,6,0,0,0,0,0,0,0,0,0,0
+ME,Westfield,1,0,0,0,0,0,0,0,0,0,0
+ME,Westmanland,1,0,0,0,0,0,0,0,0,0,0
+ME,Weston,1,0,0,0,0,0,0,0,0,0,0
+ME,Westport,1,0,0,0,0,0,0,0,0,0,0
+ME,Whitefield,1,0,0,0,0,0,0,0,0,0,0
+ME,Whiting,1,0,0,0,0,0,0,0,0,0,0
+ME,Whitneyville,1,0,0,0,0,0,0,0,0,0,0
+ME,Willimantic,1,0,0,0,0,0,0,0,0,0,0
+ME,Wilton,1,0,0,0,0,0,0,0,0,0,0
+ME,Windham,3,0,0,0,0,0,0,0,0,0,0
+ME,Windsor,1,0,0,0,0,0,0,0,0,0,0
+ME,Winn,1,0,0,0,0,0,0,0,0,0,0
+ME,Winslow,1,0,0,0,0,0,0,0,0,0,0
+ME,Winter Harbor,1,0,0,0,0,0,0,0,0,0,0
+ME,Winterport,1,0,0,0,0,0,0,0,0,0,0
+ME,Winterville Plt.,1,0,0,0,0,0,0,0,0,0,0
+ME,Winthrop,1,0,0,0,0,0,0,0,0,0,0
+ME,Wiscasset,1,0,0,0,0,0,0,0,0,0,0
+ME,Woodland,1,0,0,0,0,0,0,0,0,0,0
+ME,Woodstock,1,0,0,0,0,0,0,0,0,0,0
+ME,Woodville,1,0,0,0,0,0,0,0,0,0,0
+ME,Woolwich,1,0,0,0,0,0,0,0,0,0,0
+ME,Yarmouth,1,0,0,0,0,0,0,0,0,0,0
+ME,York,1,0,0,0,0,0,0,0,0,0,0

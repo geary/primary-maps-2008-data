@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"01-29","votes":[
-{"votes":693425,"name":"mccain"},
+{"votes":[
+{"votes":693425,"name":"mccain","delegates":"57"},
 {"votes":598152,"name":"romney"},
 {"votes":281755,"name":"giuliani"},
 {"votes":259703,"name":"huckabee"},
@@ -9,9 +9,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":4003,"name":"keyes"},
 {"votes":2787,"name":"hunter"},
 {"votes":1556,"name":"tancredo"}],
-"precincts":
+"name":"Florida","precincts":
 {"total":6913,"reporting":6900},
-"name":"Florida"},
+"delegates":"57","date":"01-29"},
 "state":"FL","party":"gop","total":1925728,"locals":
 {"Alachua":
 {"votes":[

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","precincts":
+{"name":"Colorado","precincts":
 {"total":3213,"reporting":3181},
 "votes":[
-{"votes":79344,"name":"obama"},
-{"votes":38587,"name":"clinton"},
+{"votes":79344,"name":"obama","delegates":"32"},
+{"votes":38587,"name":"clinton","delegates":"13"},
 {"votes":1253,"name":"uncommitted-d"},
 {"votes":16,"name":"gravel"}],
-"type":"caucus","name":"Colorado"},
+"delegates":"55","date":"02-05","type":"caucus"},
 "state":"CO","party":"dem","total":119200,"locals":
 {"San Juan":
 {"votes":[

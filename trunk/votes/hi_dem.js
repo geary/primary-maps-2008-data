@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-19","precincts":
+{"name":"Hawaii","precincts":
 {"total":78,"reporting":78},
 "votes":[
-{"votes":28347,"name":"obama"},
-{"votes":8835,"name":"clinton"},
+{"votes":28347,"name":"obama","delegates":"14"},
+{"votes":8835,"name":"clinton","delegates":"5"},
 {"votes":138,"name":"kucinich"},
 {"votes":41,"name":"edwards"}],
-"type":"caucus","name":"Hawaii"},
+"delegates":"20","date":"02-19","type":"caucus"},
 "state":"HI","party":"dem","total":37361,"locals":
 {"Maui":
 {"votes":[

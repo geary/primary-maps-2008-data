@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"05-13","votes":[
-{"votes":567,"name":"huckabee"},
+{"votes":[
+{"votes":567,"name":"huckabee","delegates":"18"},
 {"votes":521,"name":"romney"},
 {"votes":12,"name":"mccain"},
 {"votes":0,"name":"giuliani"},
 {"votes":0,"name":"paul"}],
-"precincts":
+"name":"West Virginia","precincts":
 {"total":1,"reporting":1},
-"name":"West Virginia"},
+"delegates":"18","date":"05-13"},
 "state":"WV","party":"gop","total":1100,"locals":
 {}})

@@ -1,8 +1,8 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-09","precincts":
+{"name":"Washington","precincts":
 {"total":7150,"reporting":6864},
 "votes":[
-{"votes":238555,"name":"mccain"},
+{"votes":238555,"name":"mccain","delegates":"13"},
 {"votes":114221,"name":"huckabee"},
 {"votes":82143,"name":"romney"},
 {"votes":36526,"name":"paul"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1977,"name":"keyes"},
 {"votes":1662,"name":"uncommitted-r"},
 {"votes":938,"name":"hunter"}],
-"type":"caucus","name":"Washington"},
+"delegates":"19","date":"02-09","type":"caucus"},
 "state":"WA","party":"gop","total":487064,"locals":
 {"San Juan":
 {"votes":[

@@ -1,8 +1,8 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[
-{"votes":189443,"name":"huckabee"},
-{"votes":174763,"name":"mccain"},
-{"votes":129722,"name":"romney"},
+{"votes":[
+{"votes":189443,"name":"huckabee","delegates":"23"},
+{"votes":174763,"name":"mccain","delegates":"18"},
+{"votes":129722,"name":"romney","delegates":"11"},
 {"votes":30730,"name":"paul"},
 {"votes":16044,"name":"thompson"},
 {"votes":5100,"name":"giuliani"},
@@ -10,9 +10,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":971,"name":"keyes"},
 {"votes":738,"name":"hunter"},
 {"votes":192,"name":"tancredo"}],
-"precincts":
+"name":"Tennessee","precincts":
 {"total":2290,"reporting":2290},
-"name":"Tennessee"},
+"delegates":"52","date":"02-05"},
 "state":"TN","party":"gop","total":549515,"locals":
 {"Wilson":
 {"votes":[

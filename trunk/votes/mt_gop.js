@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","precincts":
+{"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":625,"name":"romney"},
+{"votes":625,"name":"romney","delegates":"25"},
 {"votes":400,"name":"paul"},
 {"votes":358,"name":"mccain"},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
-"type":"caucus","name":"Montana"},
+"delegates":"25","date":"02-05","type":"caucus"},
 "state":"MT","party":"gop","total":1630,"locals":
 {"Judith Basin":
 {"votes":[

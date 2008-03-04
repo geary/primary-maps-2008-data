@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[
-{"votes":227764,"name":"mccain"},
+{"votes":[
+{"votes":227764,"name":"mccain","delegates":"53"},
 {"votes":163967,"name":"romney"},
 {"votes":43118,"name":"huckabee"},
 {"votes":20197,"name":"paul"},
@@ -8,9 +8,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":8860,"name":"thompson"},
 {"votes":982,"name":"hunter"},
 {"votes":854,"name":"keyes"}],
-"precincts":
+"name":"Arizona","precincts":
 {"total":957,"reporting":935},
-"name":"Arizona"},
+"delegates":"53","date":"02-05"},
 "state":"AZ","party":"gop","total":478458,"locals":
 {"Yuma":
 {"votes":[

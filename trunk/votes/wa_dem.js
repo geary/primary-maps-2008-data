@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-09","precincts":
+{"name":"Washington","precincts":
 {"total":7150,"reporting":6856},
 "votes":[
-{"votes":327553,"name":"obama"},
-{"votes":294718,"name":"clinton"},
+{"votes":327553,"name":"obama","delegates":"53"},
+{"votes":294718,"name":"clinton","delegates":"25"},
 {"votes":10983,"name":"edwards"},
 {"votes":3988,"name":"biden"},
 {"votes":3688,"name":"kucinich"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":975,"name":"gravel"},
 {"votes":567,"name":"dodd"},
 {"votes":363,"name":"uncommitted-d"}],
-"type":"caucus","name":"Washington"},
+"delegates":"78","date":"02-09","type":"caucus"},
 "state":"WA","party":"dem","total":644701,"locals":
 {"San Juan":
 {"votes":[

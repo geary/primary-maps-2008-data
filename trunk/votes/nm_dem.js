@@ -1,16 +1,16 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","precincts":
+{"name":"New Mexico","precincts":
 {"total":184,"reporting":183},
 "votes":[
-{"votes":68654,"name":"clinton"},
-{"votes":67531,"name":"obama"},
+{"votes":68654,"name":"clinton","delegates":"14"},
+{"votes":67531,"name":"obama","delegates":"12"},
 {"votes":2060,"name":"edwards"},
 {"votes":1211,"name":"richardson"},
 {"votes":511,"name":"kucinich"},
 {"votes":413,"name":"uncommitted-d"},
 {"votes":113,"name":"biden"},
 {"votes":70,"name":"dodd"}],
-"type":"caucus","name":"New Mexico"},
+"delegates":"26","date":"02-05","type":"caucus"},
 "state":"NM","party":"dem","total":140563,"locals":
 {"CD1":
 {"votes":[

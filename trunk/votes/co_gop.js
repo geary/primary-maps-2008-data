@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","precincts":
+{"name":"Colorado","precincts":
 {"total":3213,"reporting":3067},
 "votes":[
-{"votes":33288,"name":"romney"},
+{"votes":33288,"name":"romney","delegates":"43"},
 {"votes":10621,"name":"mccain"},
 {"votes":7266,"name":"huckabee"},
 {"votes":4670,"name":"paul"}],
-"type":"caucus","name":"Colorado"},
+"delegates":"43","date":"02-05","type":"caucus"},
 "state":"CO","party":"gop","total":55845,"locals":
 {"San Juan":
 {"votes":[

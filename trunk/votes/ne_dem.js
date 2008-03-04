@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-09","precincts":
+{"name":"Nebraska","precincts":
 {"total":1665,"reporting":1665},
 "votes":[
-{"votes":26126,"name":"obama"},
-{"votes":12445,"name":"clinton"},
+{"votes":26126,"name":"obama","delegates":"16"},
+{"votes":12445,"name":"clinton","delegates":"8"},
 {"votes":99,"name":"uncommitted-d"}],
-"type":"caucus","name":"Nebraska"},
+"delegates":"24","date":"02-09","type":"caucus"},
 "state":"NE","party":"dem","total":38670,"locals":
 {"CD1":
 {"votes":[

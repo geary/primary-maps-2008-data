@@ -1,5 +1,5 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"01-22","precincts":
+{"name":"Louisiana","precincts":
 {"total":3966,"reporting":3966},
 "votes":[
 {"votes":69665,"name":"huckabee"},
@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":368,"name":"hunter"},
 {"votes":183,"name":"gilbert"},
 {"votes":108,"name":"tancredo"}],
-"type":"caucus","name":"Louisiana"},
+"delegates":"20","date":"01-22","type":"caucus"},
 "state":"LA","party":"gop","total":161319,"locals":
 {"Orleans":
 {"votes":[

@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"01-19","precincts":
+{"name":"Nevada","precincts":
 {"total":1797,"reporting":1762},
 "votes":[
-{"votes":5355,"name":"clinton"},
-{"votes":4773,"name":"obama"},
+{"votes":5355,"name":"clinton","delegates":"12"},
+{"votes":4773,"name":"obama","delegates":"13"},
 {"votes":396,"name":"edwards"},
 {"votes":31,"name":"uncommitted-d"},
 {"votes":5,"name":"kucinich"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"biden"},
 {"votes":0,"name":"richardson"},
 {"votes":0,"name":"gravel"}],
-"type":"caucus","name":"Nevada"},
+"delegates":"25","date":"01-19","type":"caucus"},
 "state":"NV","party":"dem","total":10560,"locals":
 {"Carson City":
 {"votes":[

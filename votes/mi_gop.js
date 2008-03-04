@@ -1,8 +1,8 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"01-15","votes":[
+{"votes":[
 {"votes":337847,"name":"romney"},
-{"votes":257521,"name":"mccain"},
-{"votes":139699,"name":"huckabee"},
+{"votes":257521,"name":"mccain","delegates":"24"},
+{"votes":139699,"name":"huckabee","delegates":"4"},
 {"votes":54434,"name":"paul"},
 {"votes":32135,"name":"thompson"},
 {"votes":24706,"name":"giuliani"},
@@ -10,9 +10,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2823,"name":"hunter"},
 {"votes":458,"name":"tancredo"},
 {"votes":354,"name":"brownback"}],
-"precincts":
+"name":"Michigan","precincts":
 {"total":5385,"reporting":5385},
-"name":"Michigan"},
+"delegates":"30","date":"01-15"},
 "state":"MI","party":"gop","total":867948,"locals":
 {"Mackinac":
 {"votes":[

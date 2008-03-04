@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[
-{"votes":194304,"name":"mccain"},
+{"votes":[
+{"votes":194304,"name":"mccain","delegates":"58"},
 {"votes":185627,"name":"huckabee"},
 {"votes":172564,"name":"romney"},
 {"votes":26445,"name":"paul"},
@@ -10,9 +10,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":894,"name":"keyes"},
 {"votes":306,"name":"hunter"},
 {"votes":108,"name":"tancredo"}],
-"precincts":
+"name":"Missouri","precincts":
 {"total":3371,"reporting":3371},
-"name":"Missouri"},
+"delegates":"58","date":"02-05"},
 "state":"MO","party":"gop","total":589032,"locals":
 {"Daviess":
 {"votes":[

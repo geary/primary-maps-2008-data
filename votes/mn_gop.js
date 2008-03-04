@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","precincts":
+{"name":"Minnesota","precincts":
 {"total":4122,"reporting":4122},
 "votes":[
-{"votes":25990,"name":"romney"},
+{"votes":25990,"name":"romney","delegates":"38"},
 {"votes":13813,"name":"mccain"},
 {"votes":12525,"name":"huckabee"},
 {"votes":9856,"name":"paul"},
 {"votes":369,"name":"keyes"},
 {"votes":0,"name":"giuliani"}],
-"type":"caucus","name":"Minnesota"},
+"delegates":"38","date":"02-05","type":"caucus"},
 "state":"MN","party":"gop","total":62553,"locals":
 {"Red Lake":
 {"votes":[

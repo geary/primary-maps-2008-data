@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"01-15","votes":[
+{"votes":[
 {"votes":328151,"name":"clinton"},
 {"votes":236723,"name":"uncommitted-d"},
 {"votes":21708,"name":"kucinich"},
 {"votes":3853,"name":"dodd"},
 {"votes":2363,"name":"gravel"}],
-"precincts":
+"name":"Michigan","precincts":
 {"total":5385,"reporting":5385},
-"name":"Michigan"},
+"delegates":"0","date":"01-15"},
 "state":"MI","party":"dem","total":592798,"locals":
 {"Mackinac":
 {"votes":[

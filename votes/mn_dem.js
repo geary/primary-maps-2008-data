@@ -1,16 +1,16 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","precincts":
+{"name":"Minnesota","precincts":
 {"total":4122,"reporting":3708},
 "votes":[
-{"votes":141449,"name":"obama"},
-{"votes":68352,"name":"clinton"},
+{"votes":141449,"name":"obama","delegates":"48"},
+{"votes":68352,"name":"clinton","delegates":"24"},
 {"votes":1304,"name":"uncommitted-d"},
 {"votes":974,"name":"edwards"},
 {"votes":360,"name":"kucinich"},
 {"votes":129,"name":"biden"},
 {"votes":81,"name":"richardson"},
 {"votes":76,"name":"dodd"}],
-"type":"caucus","name":"Minnesota"},
+"delegates":"72","date":"02-05","type":"caucus"},
 "state":"MN","party":"dem","total":212725,"locals":
 {"Red Lake":
 {"votes":[

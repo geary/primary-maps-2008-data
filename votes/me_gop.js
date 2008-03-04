@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-01","precincts":
+{"name":"Maine","precincts":
 {"total":626,"reporting":428},
 "votes":[
-{"votes":2362,"name":"romney"},
+{"votes":2362,"name":"romney","delegates":"18"},
 {"votes":958,"name":"mccain"},
 {"votes":851,"name":"paul"},
 {"votes":268,"name":"huckabee"},
 {"votes":4,"name":"thompson"},
 {"votes":2,"name":"giuliani"},
 {"votes":1,"name":"keyes"}],
-"type":"caucus","name":"Maine"},
+"delegates":"18","date":"02-01","type":"caucus"},
 "state":"ME","party":"gop","total":4446,"locals":
 {"Baring Plt.":
 {"votes":[

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-12","votes":[
-{"votes":3929,"name":"mccain"},
+{"votes":[
+{"votes":3929,"name":"mccain","delegates":"16"},
 {"votes":961,"name":"huckabee"},
 {"votes":471,"name":"paul"},
 {"votes":350,"name":"romney"},
 {"votes":90,"name":"giuliani"}],
-"precincts":
+"name":"District of Columbia","precincts":
 {"total":142,"reporting":139},
-"name":"District of Columbia"},
+"delegates":"16","date":"02-12"},
 "state":"DC","party":"gop","total":5801,"locals":
 {}})

@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[
-{"votes":310427,"name":"mccain"},
+{"votes":[
+{"votes":310427,"name":"mccain","delegates":"52"},
 {"votes":158974,"name":"romney"},
 {"votes":45781,"name":"huckabee"},
 {"votes":26952,"name":"paul"},
 {"votes":14721,"name":"giuliani"},
 {"votes":3151,"name":"thompson"}],
-"precincts":
+"name":"New Jersey","precincts":
 {"total":6292,"reporting":6256},
-"name":"New Jersey"},
+"delegates":"52","date":"02-05"},
 "state":"NJ","party":"gop","total":560006,"locals":
 {"Bergen":
 {"votes":[

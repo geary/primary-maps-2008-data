@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[
-{"votes":78741,"name":"mccain"},
+{"votes":[
+{"votes":78741,"name":"mccain","delegates":"27"},
 {"votes":49851,"name":"romney"},
 {"votes":10591,"name":"huckabee"},
 {"votes":6092,"name":"paul"},
@@ -9,9 +9,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":543,"name":"thompson"},
 {"votes":372,"name":"keyes"},
 {"votes":138,"name":"hunter"}],
-"precincts":
+"name":"Connecticut","precincts":
 {"total":732,"reporting":732},
-"name":"Connecticut"},
+"delegates":"27","date":"02-05"},
 "state":"CT","party":"gop","total":151212,"locals":
 {"New London":
 {"votes":[

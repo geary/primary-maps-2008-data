@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-12","votes":[
-{"votes":163677,"name":"mccain"},
+{"votes":[
+{"votes":163677,"name":"mccain","delegates":"37"},
 {"votes":86573,"name":"huckabee"},
 {"votes":18728,"name":"romney"},
 {"votes":17865,"name":"paul"},
@@ -9,9 +9,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2715,"name":"thompson"},
 {"votes":483,"name":"hunter"},
 {"votes":343,"name":"tancredo"}],
-"precincts":
+"name":"Maryland","precincts":
 {"total":1829,"reporting":1782},
-"name":"Maryland"},
+"delegates":"37","date":"02-12"},
 "state":"MD","party":"gop","total":297217,"locals":
 {"Howard":
 {"votes":[

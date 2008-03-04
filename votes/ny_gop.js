@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[
-{"votes":310814,"name":"mccain"},
+{"votes":[
+{"votes":310814,"name":"mccain","delegates":"101"},
 {"votes":168801,"name":"romney"},
 {"votes":65648,"name":"huckabee"},
 {"votes":38918,"name":"paul"},
@@ -8,9 +8,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2047,"name":"thompson"},
 {"votes":1263,"name":"keyes"},
 {"votes":954,"name":"hunter"}],
-"precincts":
+"name":"New York","precincts":
 {"total":14670,"reporting":14585},
-"name":"New York"},
+"delegates":"101","date":"02-05"},
 "state":"NY","party":"gop","total":607011,"locals":
 {"Albany":
 {"votes":[

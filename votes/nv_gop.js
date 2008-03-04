@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"01-19","precincts":
+{"name":"Nevada","precincts":
 {"total":1797,"reporting":1797},
 "votes":[
-{"votes":22649,"name":"romney"},
-{"votes":6087,"name":"paul"},
-{"votes":5651,"name":"mccain"},
-{"votes":3616,"name":"huckabee"},
+{"votes":22649,"name":"romney","delegates":"17"},
+{"votes":6087,"name":"paul","delegates":"4"},
+{"votes":5651,"name":"mccain","delegates":"4"},
+{"votes":3616,"name":"huckabee","delegates":"3"},
 {"votes":3521,"name":"thompson"},
 {"votes":1910,"name":"giuliani"},
 {"votes":890,"name":"hunter"}],
-"type":"caucus","name":"Nevada"},
+"delegates":"31","date":"01-19","type":"caucus"},
 "state":"NV","party":"gop","total":44324,"locals":
 {"Carson City":
 {"votes":[

@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"02-05","votes":[
-{"votes":1003623,"name":"clinton"},
-{"votes":697914,"name":"obama"},
+{"votes":[
+{"votes":1003623,"name":"clinton","delegates":"139"},
+{"votes":697914,"name":"obama","delegates":"93"},
 {"votes":19725,"name":"edwards"},
 {"votes":11723,"name":"kucinich"},
 {"votes":10968,"name":"richardson"},
 {"votes":4880,"name":"biden"}],
-"precincts":
+"name":"New York","precincts":
 {"total":14670,"reporting":14585},
-"name":"New York"},
+"delegates":"232","date":"02-05"},
 "state":"NY","party":"dem","total":1748833,"locals":
 {"Albany":
 {"votes":[

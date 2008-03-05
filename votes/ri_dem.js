@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
+{"votes":875,"name":"obama"},
+{"votes":819,"name":"clinton"},
+{"votes":10,"name":"edwards"},
+{"votes":6,"name":"uncommitted-d"}],
 "name":"Rhode Island","precincts":
-{"total":179,"reporting":0},
+{"total":179,"reporting":2},
 "delegates":21,"date":"03-04"},
-"state":"RI","party":"dem","total":0,"locals":
+"state":"RI","party":"dem","total":1710,"locals":
 {"Middletown":
 {"votes":[
 {"votes":0,"name":"uncommitted-d"},
@@ -154,12 +154,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Glocester"},
 "Little Compton":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":436,"name":"obama"},
+{"votes":327,"name":"clinton"},
+{"votes":6,"name":"edwards"},
+{"votes":2,"name":"uncommitted-d"}],
+"total":771,"precincts":
+{"total":1,"reporting":1},
 "name":"Little Compton"},
 "West Greenwich":
 {"votes":[
@@ -280,12 +280,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"New Shoreham"},
 "Exeter":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":492,"name":"clinton"},
+{"votes":439,"name":"obama"},
+{"votes":4,"name":"uncommitted-d"},
+{"votes":4,"name":"edwards"}],
+"total":939,"precincts":
+{"total":1,"reporting":1},
 "name":"Exeter"},
 "North Providence":
 {"votes":[

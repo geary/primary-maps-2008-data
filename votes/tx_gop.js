@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":905,"name":"cort"},
 {"votes":617,"name":"tran"}],
 "name":"Texas","precincts":
-{"total":7959,"reporting":7784},
+{"total":7959,"reporting":7793},
 "delegates":137,"date":"03-04"},
 "state":"TX","party":"gop","total":1361939,"locals":
 {"Wilson":
@@ -1245,7 +1245,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"tran"},
 {"votes":0,"name":"uncommitted-r"}],
 "total":1472,"precincts":
-{"total":25,"reporting":16},
+{"total":25,"reporting":25},
 "name":"Anderson"},
 "Jefferson":
 {"votes":[

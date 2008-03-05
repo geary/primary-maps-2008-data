@@ -254,21 +254,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":1346,"precincts":
 {"total":24,"reporting":24},
 "name":"New Madrid"},
-"Knox":
-{"votes":[
-{"votes":142,"name":"huckabee"},
-{"votes":101,"name":"mccain"},
-{"votes":72,"name":"romney"},
-{"votes":16,"name":"paul"},
-{"votes":4,"name":"thompson"},
-{"votes":3,"name":"uncommitted-r"},
-{"votes":3,"name":"giuliani"},
-{"votes":1,"name":"hunter"},
-{"votes":1,"name":"tancredo"},
-{"votes":0,"name":"keyes"}],
-"total":343,"precincts":
-{"total":7,"reporting":7},
-"name":"Knox"},
 "Sullivan":
 {"votes":[
 {"votes":209,"name":"huckabee"},
@@ -344,21 +329,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":1804,"precincts":
 {"total":13,"reporting":13},
 "name":"Moniteau"},
-"St. Louis County":
-{"votes":[
-{"votes":39214,"name":"mccain"},
-{"votes":34841,"name":"romney"},
-{"votes":16175,"name":"huckabee"},
-{"votes":3337,"name":"paul"},
-{"votes":721,"name":"giuliani"},
-{"votes":573,"name":"thompson"},
-{"votes":301,"name":"uncommitted-r"},
-{"votes":177,"name":"keyes"},
-{"votes":45,"name":"hunter"},
-{"votes":21,"name":"tancredo"}],
-"total":95405,"precincts":
-{"total":534,"reporting":534},
-"name":"St. Louis County"},
 "Camden":
 {"votes":[
 {"votes":2194,"name":"mccain"},
@@ -451,17 +421,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Perry"},
 "Jackson":
 {"votes":[
-{"votes":17431,"name":"romney"},
-{"votes":17146,"name":"mccain"},
-{"votes":11647,"name":"huckabee"},
-{"votes":2979,"name":"paul"},
-{"votes":357,"name":"giuliani"},
-{"votes":276,"name":"thompson"},
-{"votes":203,"name":"uncommitted-r"},
-{"votes":105,"name":"keyes"},
-{"votes":29,"name":"hunter"},
-{"votes":25,"name":"tancredo"}],
-"total":50198,"precincts":
+{"votes":13312,"name":"romney"},
+{"votes":12356,"name":"mccain"},
+{"votes":8892,"name":"huckabee"},
+{"votes":2121,"name":"paul"},
+{"votes":281,"name":"giuliani"},
+{"votes":206,"name":"thompson"},
+{"votes":146,"name":"uncommitted-r"},
+{"votes":60,"name":"keyes"},
+{"votes":23,"name":"tancredo"},
+{"votes":22,"name":"hunter"}],
+"total":37419,"precincts":
 {"total":389,"reporting":389},
 "name":"Jackson"},
 "Howard":
@@ -1544,21 +1514,21 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":1318,"precincts":
 {"total":19,"reporting":19},
 "name":"St. Clair"},
-"Jackson County":
+"Knox":
 {"votes":[
-{"votes":13312,"name":"romney"},
-{"votes":12356,"name":"mccain"},
-{"votes":8892,"name":"huckabee"},
-{"votes":2121,"name":"paul"},
-{"votes":281,"name":"giuliani"},
-{"votes":206,"name":"thompson"},
-{"votes":146,"name":"uncommitted-r"},
-{"votes":60,"name":"keyes"},
-{"votes":23,"name":"tancredo"},
-{"votes":22,"name":"hunter"}],
-"total":37419,"precincts":
-{"total":257,"reporting":257},
-"name":"Jackson County"},
+{"votes":142,"name":"huckabee"},
+{"votes":101,"name":"mccain"},
+{"votes":72,"name":"romney"},
+{"votes":16,"name":"paul"},
+{"votes":4,"name":"thompson"},
+{"votes":3,"name":"uncommitted-r"},
+{"votes":3,"name":"giuliani"},
+{"votes":1,"name":"hunter"},
+{"votes":1,"name":"tancredo"},
+{"votes":0,"name":"keyes"}],
+"total":343,"precincts":
+{"total":7,"reporting":7},
+"name":"Knox"},
 "Platte":
 {"votes":[
 {"votes":3108,"name":"romney"},
@@ -1694,6 +1664,21 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":2497,"precincts":
 {"total":11,"reporting":11},
 "name":"Morgan"},
+"St. Louis":
+{"votes":[
+{"votes":39214,"name":"mccain"},
+{"votes":34841,"name":"romney"},
+{"votes":16175,"name":"huckabee"},
+{"votes":3337,"name":"paul"},
+{"votes":721,"name":"giuliani"},
+{"votes":573,"name":"thompson"},
+{"votes":301,"name":"uncommitted-r"},
+{"votes":177,"name":"keyes"},
+{"votes":45,"name":"hunter"},
+{"votes":21,"name":"tancredo"}],
+"total":95405,"precincts":
+{"total":534,"reporting":534},
+"name":"St. Louis"},
 "Carter":
 {"votes":[
 {"votes":373,"name":"huckabee"},

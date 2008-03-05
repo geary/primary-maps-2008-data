@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":80744,"name":"obama","delegates":9},
-{"votes":51466,"name":"clinton","delegates":6},
-{"votes":1655,"name":"edwards"},
-{"votes":893,"name":"kucinich"}],
+{"votes":81996,"name":"obama","delegates":9},
+{"votes":52393,"name":"clinton","delegates":6},
+{"votes":1683,"name":"edwards"},
+{"votes":902,"name":"kucinich"}],
 "name":"Vermont","precincts":
 {"total":260,"reporting":223},
 "delegates":15,"date":"03-04"},
-"state":"VT","party":"dem","total":134758,"locals":
+"state":"VT","party":"dem","total":136974,"locals":
 {"Albany":
 {"votes":[
 {"votes":123,"name":"obama"},
@@ -1864,11 +1864,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Wells"},
 "Hartford":
 {"votes":[
-{"votes":129,"name":"obama"},
-{"votes":76,"name":"clinton"},
-{"votes":4,"name":"kucinich"},
-{"votes":2,"name":"edwards"}],
-"total":211,"precincts":
+{"votes":1381,"name":"obama"},
+{"votes":1003,"name":"clinton"},
+{"votes":30,"name":"edwards"},
+{"votes":13,"name":"kucinich"}],
+"total":2427,"precincts":
 {"total":1,"reporting":1},
 "name":"Hartford"},
 "East Haven":

@@ -126,7 +126,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":905,"name":"cort"},
 {"votes":617,"name":"tran"}],
 "name":"Texas","precincts":
-{"total":7959,"reporting":7793},
+{"total":7959,"reporting":7794},
 "delegates":137,"date":"03-04"},
 "Wyoming":
 {"name":"Wyoming","precincts":

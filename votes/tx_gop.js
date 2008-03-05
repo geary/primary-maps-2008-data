@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":905,"name":"cort"},
 {"votes":617,"name":"tran"}],
 "name":"Texas","precincts":
-{"total":7959,"reporting":7793},
+{"total":7959,"reporting":7794},
 "delegates":137,"date":"03-04"},
 "state":"TX","party":"gop","total":1361939,"locals":
 {"Wilson":
@@ -1837,7 +1837,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3,"name":"tran"},
 {"votes":0,"name":"cort"}],
 "total":5583,"precincts":
-{"total":22,"reporting":21},
+{"total":22,"reporting":22},
 "name":"Van Zandt"},
 "Polk":
 {"votes":[

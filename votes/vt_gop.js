@@ -3,12 +3,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":19580,"name":"mccain"},
 {"votes":3898,"name":"huckabee"},
 {"votes":1867,"name":"paul"},
-{"votes":1339,"name":"romney"},
+{"votes":1228,"name":"romney"},
 {"votes":642,"name":"giuliani"}],
 "name":"Vermont","precincts":
 {"total":260,"reporting":192},
 "delegates":17,"date":"03-04"},
-"state":"VT","party":"gop","total":27326,"locals":
+"state":"VT","party":"gop","total":27215,"locals":
 {"Albany":
 {"votes":[
 {"votes":38,"name":"mccain"},
@@ -1812,11 +1812,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Royalton":
 {"votes":[
 {"votes":127,"name":"mccain"},
-{"votes":123,"name":"romney"},
 {"votes":25,"name":"huckabee"},
 {"votes":13,"name":"paul"},
+{"votes":12,"name":"romney"},
 {"votes":7,"name":"giuliani"}],
-"total":295,"precincts":
+"total":184,"precincts":
 {"total":1,"reporting":1},
 "name":"Royalton"},
 "West Fairlee":

@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":48682,"name":"clinton"},
-{"votes":30177,"name":"obama"},
-{"votes":541,"name":"edwards"},
-{"votes":477,"name":"uncommitted-d"}],
+{"votes":49843,"name":"clinton"},
+{"votes":31222,"name":"obama"},
+{"votes":556,"name":"edwards"},
+{"votes":490,"name":"uncommitted-d"}],
 "name":"Rhode Island","precincts":
-{"total":179,"reporting":87},
+{"total":179,"reporting":89},
 "delegates":21,"date":"03-04"},
-"state":"RI","party":"dem","total":79877,"locals":
+"state":"RI","party":"dem","total":82111,"locals":
 {"Middletown":
 {"votes":[
 {"votes":1195,"name":"clinton"},
@@ -64,12 +64,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Richmond"},
 "Providence":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":31,"reporting":0},
+{"votes":2248,"name":"obama"},
+{"votes":1832,"name":"clinton"},
+{"votes":18,"name":"edwards"},
+{"votes":17,"name":"uncommitted-d"}],
+"total":4115,"precincts":
+{"total":31,"reporting":6},
 "name":"Providence"},
 "Foster":
 {"votes":[
@@ -100,12 +100,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jamestown"},
 "Smithfield":
 {"votes":[
-{"votes":1977,"name":"clinton"},
-{"votes":986,"name":"obama"},
-{"votes":29,"name":"edwards"},
-{"votes":15,"name":"uncommitted-d"}],
-"total":3007,"precincts":
-{"total":4,"reporting":3},
+{"votes":2343,"name":"clinton"},
+{"votes":1205,"name":"obama"},
+{"votes":32,"name":"edwards"},
+{"votes":17,"name":"uncommitted-d"}],
+"total":3597,"precincts":
+{"total":4,"reporting":4},
 "name":"Smithfield"},
 "Mail Ballots - CD2":
 {"votes":[

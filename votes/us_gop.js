@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":7094653,"name":"mccain","delegates":1107},
+{"votes":7094653,"name":"mccain","delegates":1111},
 {"votes":4333574,"name":"romney","delegates":271},
 {"votes":3837442,"name":"huckabee","delegates":261},
 {"votes":791881,"name":"paul","delegates":14},
@@ -398,7 +398,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":26,"date":"02-05","type":"caucus"},
 "Rhode Island":
 {"votes":[
-{"votes":17342,"name":"mccain","delegates":9},
+{"votes":17342,"name":"mccain","delegates":13},
 {"votes":5766,"name":"huckabee"},
 {"votes":1761,"name":"paul"},
 {"votes":1173,"name":"romney"},

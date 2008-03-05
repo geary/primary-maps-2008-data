@@ -235,12 +235,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Burrillville"},
 "Newport":
 {"votes":[
-{"votes":1154,"name":"obama"},
-{"votes":913,"name":"clinton"},
-{"votes":13,"name":"uncommitted-d"},
-{"votes":4,"name":"edwards"}],
-"total":2084,"precincts":
-{"total":4,"reporting":2},
+{"votes":2162,"name":"obama"},
+{"votes":1777,"name":"clinton"},
+{"votes":24,"name":"uncommitted-d"},
+{"votes":21,"name":"edwards"}],
+"total":3984,"precincts":
+{"total":4,"reporting":4},
 "name":"Newport"},
 "Bristol":
 {"votes":[
@@ -307,12 +307,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Westerly"},
 "North Kingstown":
 {"votes":[
-{"votes":1906,"name":"clinton"},
-{"votes":1897,"name":"obama"},
-{"votes":21,"name":"uncommitted-d"},
-{"votes":18,"name":"edwards"}],
-"total":3842,"precincts":
-{"total":4,"reporting":3},
+{"votes":2528,"name":"clinton"},
+{"votes":2451,"name":"obama"},
+{"votes":27,"name":"edwards"},
+{"votes":24,"name":"uncommitted-d"}],
+"total":5030,"precincts":
+{"total":4,"reporting":4},
 "name":"North Kingstown"},
 "Portsmouth":
 {"votes":[
@@ -361,12 +361,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"East Greenwich"},
 "Pawtucket":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":17,"reporting":0},
+{"votes":4844,"name":"clinton"},
+{"votes":2773,"name":"obama"},
+{"votes":72,"name":"uncommitted-d"},
+{"votes":60,"name":"edwards"}],
+"total":7749,"precincts":
+{"total":17,"reporting":13},
 "name":"Pawtucket"},
 "Warren":
 {"votes":[

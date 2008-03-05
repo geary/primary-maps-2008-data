@@ -313,15 +313,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Burrillville"},
 "Newport":
 {"votes":[
-{"votes":280,"name":"mccain"},
-{"votes":53,"name":"huckabee"},
-{"votes":19,"name":"paul"},
-{"votes":13,"name":"romney"},
-{"votes":6,"name":"uncommitted-r"},
-{"votes":1,"name":"keyes"},
+{"votes":549,"name":"mccain"},
+{"votes":100,"name":"huckabee"},
+{"votes":45,"name":"paul"},
+{"votes":32,"name":"romney"},
+{"votes":10,"name":"uncommitted-r"},
+{"votes":3,"name":"keyes"},
 {"votes":0,"name":"cort"}],
-"total":372,"precincts":
-{"total":4,"reporting":2},
+"total":739,"precincts":
+{"total":4,"reporting":4},
 "name":"Newport"},
 "Bristol":
 {"votes":[
@@ -409,15 +409,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Westerly"},
 "North Kingstown":
 {"votes":[
-{"votes":657,"name":"mccain"},
-{"votes":188,"name":"huckabee"},
-{"votes":77,"name":"paul"},
-{"votes":45,"name":"romney"},
-{"votes":15,"name":"uncommitted-r"},
+{"votes":856,"name":"mccain"},
+{"votes":264,"name":"huckabee"},
+{"votes":99,"name":"paul"},
+{"votes":61,"name":"romney"},
+{"votes":22,"name":"uncommitted-r"},
 {"votes":4,"name":"keyes"},
 {"votes":0,"name":"cort"}],
-"total":986,"precincts":
-{"total":4,"reporting":3},
+"total":1306,"precincts":
+{"total":4,"reporting":4},
 "name":"North Kingstown"},
 "Portsmouth":
 {"votes":[

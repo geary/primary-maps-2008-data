@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13309707,"name":"obama","delegates":1337},
-{"votes":13306141,"name":"clinton","delegates":1205},
+{"votes":13309707,"name":"obama","delegates":1359},
+{"votes":13306141,"name":"clinton","delegates":1219},
 {"votes":922073,"name":"edwards"},
 {"votes":256942,"name":"uncommitted-d"},
 {"votes":103245,"name":"richardson"},
@@ -392,7 +392,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Ohio":
 {"votes":[
 {"votes":1203924,"name":"clinton","delegates":74},
-{"votes":976368,"name":"obama","delegates":64},
+{"votes":976368,"name":"obama","delegates":65},
 {"votes":37882,"name":"edwards"}],
 "name":"Ohio","precincts":
 {"total":11238,"reporting":11194},
@@ -464,8 +464,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":15,"date":"02-12"},
 "Texas":
 {"votes":[
-{"votes":1452776,"name":"clinton","delegates":78},
-{"votes":1354553,"name":"obama","delegates":70},
+{"votes":1452776,"name":"clinton","delegates":92},
+{"votes":1354553,"name":"obama","delegates":91},
 {"votes":29804,"name":"edwards"},
 {"votes":10667,"name":"richardson"},
 {"votes":5296,"name":"biden"},

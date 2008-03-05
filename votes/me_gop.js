@@ -323,7 +323,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Norridgewock"},
-"Windsor":
+"Waterville Valley":
 {"votes":[
 {"votes":0,"name":"romney"},
 {"votes":0,"name":"mccain"},
@@ -334,7 +334,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"paul"}],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"Windsor"},
+"name":"Waterville Valley"},
 "Mars Hill":
 {"votes":[
 {"votes":0,"name":"romney"},
@@ -2729,7 +2729,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Winterport"},
-"Waterville":
+"Farmington":
 {"votes":[
 {"votes":0,"name":"romney"},
 {"votes":0,"name":"mccain"},
@@ -2740,7 +2740,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"paul"}],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"Waterville"},
+"name":"Farmington"},
 "Winterville Plt.":
 {"votes":[
 {"votes":0,"name":"romney"},
@@ -3929,18 +3929,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Littleton"},
-"Farmington":
-{"votes":[
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"giuliani"},
-{"votes":0,"name":"paul"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
-"name":"Farmington"},
 "Hamlin":
 {"votes":[
 {"votes":0,"name":"romney"},
@@ -4373,6 +4361,18 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Van Buren"},
+"Windsor":
+{"votes":[
+{"votes":0,"name":"romney"},
+{"votes":0,"name":"mccain"},
+{"votes":0,"name":"huckabee"},
+{"votes":0,"name":"thompson"},
+{"votes":0,"name":"keyes"},
+{"votes":0,"name":"giuliani"},
+{"votes":0,"name":"paul"}],
+"total":0,"precincts":
+{"total":1,"reporting":0},
+"name":"Windsor"},
 "Oxford":
 {"votes":[
 {"votes":0,"name":"romney"},

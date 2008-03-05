@@ -139,6 +139,20 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":284,"precincts":
 {"total":1,"reporting":1},
 "name":"Teton"},
+"Idaho":
+{"votes":[
+{"votes":121,"name":"obama"},
+{"votes":43,"name":"clinton"},
+{"votes":3,"name":"uncommitted-d"},
+{"votes":0,"name":"dodd"},
+{"votes":0,"name":"edwards"},
+{"votes":0,"name":"biden"},
+{"votes":0,"name":"richardson"},
+{"votes":0,"name":"kucinich"},
+{"votes":0,"name":"gravel"}],
+"total":167,"precincts":
+{"total":1,"reporting":1},
+"name":"Idaho"},
 "Bingham":
 {"votes":[
 {"votes":129,"name":"obama"},
@@ -377,20 +391,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":54,"precincts":
 {"total":1,"reporting":1},
 "name":"Franklin"},
-"Idaho County":
-{"votes":[
-{"votes":121,"name":"obama"},
-{"votes":43,"name":"clinton"},
-{"votes":3,"name":"uncommitted-d"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"},
-{"votes":0,"name":"gravel"}],
-"total":167,"precincts":
-{"total":1,"reporting":1},
-"name":"Idaho County"},
 "Caribou":
 {"votes":[
 {"votes":17,"name":"obama"},

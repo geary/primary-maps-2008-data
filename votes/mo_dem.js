@@ -237,20 +237,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":2528,"precincts":
 {"total":24,"reporting":24},
 "name":"New Madrid"},
-"Knox":
-{"votes":[
-{"votes":300,"name":"clinton"},
-{"votes":150,"name":"obama"},
-{"votes":28,"name":"edwards"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":1,"name":"richardson"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"gravel"}],
-"total":485,"precincts":
-{"total":7,"reporting":7},
-"name":"Knox"},
 "Sullivan":
 {"votes":[
 {"votes":506,"name":"clinton"},
@@ -321,20 +307,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":1458,"precincts":
 {"total":13,"reporting":13},
 "name":"Moniteau"},
-"St. Louis County":
-{"votes":[
-{"votes":117108,"name":"obama"},
-{"votes":66886,"name":"clinton"},
-{"votes":2368,"name":"edwards"},
-{"votes":309,"name":"uncommitted-d"},
-{"votes":192,"name":"kucinich"},
-{"votes":122,"name":"biden"},
-{"votes":98,"name":"richardson"},
-{"votes":83,"name":"gravel"},
-{"votes":41,"name":"dodd"}],
-"total":187207,"precincts":
-{"total":534,"reporting":534},
-"name":"St. Louis County"},
 "Camden":
 {"votes":[
 {"votes":2793,"name":"clinton"},
@@ -421,16 +393,16 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Perry"},
 "Jackson":
 {"votes":[
-{"votes":63058,"name":"obama"},
-{"votes":48659,"name":"clinton"},
-{"votes":1459,"name":"edwards"},
-{"votes":308,"name":"uncommitted-d"},
-{"votes":108,"name":"kucinich"},
-{"votes":80,"name":"biden"},
-{"votes":73,"name":"richardson"},
-{"votes":45,"name":"gravel"},
-{"votes":21,"name":"dodd"}],
-"total":113811,"precincts":
+{"votes":28752,"name":"clinton"},
+{"votes":23156,"name":"obama"},
+{"votes":1026,"name":"edwards"},
+{"votes":173,"name":"uncommitted-d"},
+{"votes":47,"name":"biden"},
+{"votes":43,"name":"kucinich"},
+{"votes":34,"name":"richardson"},
+{"votes":28,"name":"gravel"},
+{"votes":10,"name":"dodd"}],
+"total":53269,"precincts":
 {"total":389,"reporting":389},
 "name":"Jackson"},
 "Howard":
@@ -1441,20 +1413,20 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":1367,"precincts":
 {"total":19,"reporting":19},
 "name":"St. Clair"},
-"Jackson County":
+"Knox":
 {"votes":[
-{"votes":28752,"name":"clinton"},
-{"votes":23156,"name":"obama"},
-{"votes":1026,"name":"edwards"},
-{"votes":173,"name":"uncommitted-d"},
-{"votes":47,"name":"biden"},
-{"votes":43,"name":"kucinich"},
-{"votes":34,"name":"richardson"},
-{"votes":28,"name":"gravel"},
-{"votes":10,"name":"dodd"}],
-"total":53269,"precincts":
-{"total":257,"reporting":257},
-"name":"Jackson County"},
+{"votes":300,"name":"clinton"},
+{"votes":150,"name":"obama"},
+{"votes":28,"name":"edwards"},
+{"votes":5,"name":"uncommitted-d"},
+{"votes":1,"name":"richardson"},
+{"votes":1,"name":"kucinich"},
+{"votes":0,"name":"dodd"},
+{"votes":0,"name":"biden"},
+{"votes":0,"name":"gravel"}],
+"total":485,"precincts":
+{"total":7,"reporting":7},
+"name":"Knox"},
 "Platte":
 {"votes":[
 {"votes":5434,"name":"clinton"},
@@ -1581,6 +1553,20 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":2311,"precincts":
 {"total":11,"reporting":11},
 "name":"Morgan"},
+"St. Louis":
+{"votes":[
+{"votes":117108,"name":"obama"},
+{"votes":66886,"name":"clinton"},
+{"votes":2368,"name":"edwards"},
+{"votes":309,"name":"uncommitted-d"},
+{"votes":192,"name":"kucinich"},
+{"votes":122,"name":"biden"},
+{"votes":98,"name":"richardson"},
+{"votes":83,"name":"gravel"},
+{"votes":41,"name":"dodd"}],
+"total":187207,"precincts":
+{"total":534,"reporting":534},
+"name":"St. Louis"},
 "Carter":
 {"votes":[
 {"votes":541,"name":"clinton"},

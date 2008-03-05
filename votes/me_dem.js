@@ -215,14 +215,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Norridgewock"},
-"Windsor":
+"Waterville Valley":
 {"votes":[
 {"votes":0,"name":"uncommitted-d"},
 {"votes":0,"name":"clinton"},
 {"votes":0,"name":"obama"}],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"Windsor"},
+"name":"Waterville Valley"},
 "Mars Hill":
 {"votes":[
 {"votes":0,"name":"uncommitted-d"},
@@ -1826,14 +1826,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Winterport"},
-"Waterville":
+"Farmington":
 {"votes":[
 {"votes":0,"name":"uncommitted-d"},
 {"votes":0,"name":"clinton"},
 {"votes":0,"name":"obama"}],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"Waterville"},
+"name":"Farmington"},
 "Winterville Plt.":
 {"votes":[
 {"votes":0,"name":"uncommitted-d"},
@@ -2621,14 +2621,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Littleton"},
-"Farmington":
-{"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
-"name":"Farmington"},
 "Hamlin":
 {"votes":[
 {"votes":0,"name":"uncommitted-d"},
@@ -2917,6 +2909,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Van Buren"},
+"Windsor":
+{"votes":[
+{"votes":0,"name":"uncommitted-d"},
+{"votes":0,"name":"clinton"},
+{"votes":0,"name":"obama"}],
+"total":0,"precincts":
+{"total":1,"reporting":0},
+"name":"Windsor"},
 "Oxford":
 {"votes":[
 {"votes":0,"name":"uncommitted-d"},

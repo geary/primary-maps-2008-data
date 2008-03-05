@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":74399,"name":"clinton"},
-{"votes":49849,"name":"obama"},
-{"votes":798,"name":"edwards"},
-{"votes":679,"name":"uncommitted-d"}],
+{"votes":83728,"name":"clinton"},
+{"votes":57467,"name":"obama"},
+{"votes":879,"name":"edwards"},
+{"votes":749,"name":"uncommitted-d"}],
 "name":"Rhode Island","precincts":
-{"total":179,"reporting":131},
+{"total":179,"reporting":146},
 "delegates":21,"date":"03-04"},
-"state":"RI","party":"dem","total":125725,"locals":
+"state":"RI","party":"dem","total":142823,"locals":
 {"Middletown":
 {"votes":[
 {"votes":1195,"name":"clinton"},
@@ -172,12 +172,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"West Greenwich"},
 "Charlestown":
 {"votes":[
-{"votes":203,"name":"obama"},
-{"votes":202,"name":"clinton"},
-{"votes":3,"name":"edwards"},
-{"votes":1,"name":"uncommitted-d"}],
-"total":409,"precincts":
-{"total":3,"reporting":1},
+{"votes":697,"name":"clinton"},
+{"votes":682,"name":"obama"},
+{"votes":10,"name":"edwards"},
+{"votes":3,"name":"uncommitted-d"}],
+"total":1392,"precincts":
+{"total":3,"reporting":3},
 "name":"Charlestown"},
 "North Smithfield":
 {"votes":[
@@ -244,12 +244,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Newport"},
 "Bristol":
 {"votes":[
-{"votes":1885,"name":"clinton"},
-{"votes":1206,"name":"obama"},
-{"votes":17,"name":"edwards"},
-{"votes":12,"name":"uncommitted-d"}],
-"total":3120,"precincts":
-{"total":3,"reporting":2},
+{"votes":2426,"name":"clinton"},
+{"votes":1486,"name":"obama"},
+{"votes":22,"name":"edwards"},
+{"votes":19,"name":"uncommitted-d"}],
+"total":3953,"precincts":
+{"total":3,"reporting":3},
 "name":"Bristol"},
 "Johnston":
 {"votes":[
@@ -352,12 +352,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Woonsocket"},
 "East Greenwich":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":2,"reporting":0},
+{"votes":1227,"name":"obama"},
+{"votes":1168,"name":"clinton"},
+{"votes":13,"name":"edwards"},
+{"votes":7,"name":"uncommitted-d"}],
+"total":2415,"precincts":
+{"total":2,"reporting":2},
 "name":"East Greenwich"},
 "Pawtucket":
 {"votes":[

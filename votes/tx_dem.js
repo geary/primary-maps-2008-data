@@ -7,7 +7,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5364,"name":"biden"},
 {"votes":3710,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":7865},
+{"total":8247,"reporting":7904},
 "delegates":193,"date":"03-04"},
 "state":"TX","party":"dem","total":2806947,"locals":
 {"Wilson":
@@ -2527,7 +2527,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":28,"name":"richardson"},
 {"votes":10,"name":"dodd"}],
 "total":23301,"precincts":
-{"total":50,"reporting":1},
+{"total":50,"reporting":40},
 "name":"Bell"},
 "Cass":
 {"votes":[

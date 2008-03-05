@@ -109,15 +109,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Foster"},
 "Warwick":
 {"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
-"total":0,"precincts":
-{"total":9,"reporting":0},
+{"votes":1448,"name":"mccain"},
+{"votes":544,"name":"huckabee"},
+{"votes":145,"name":"paul"},
+{"votes":103,"name":"romney"},
+{"votes":49,"name":"uncommitted-r"},
+{"votes":12,"name":"keyes"},
+{"votes":1,"name":"cort"}],
+"total":2302,"precincts":
+{"total":9,"reporting":8},
 "name":"Warwick"},
 "Jamestown":
 {"votes":[
@@ -157,15 +157,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mail Ballots - CD2"},
 "Cranston":
 {"votes":[
-{"votes":112,"name":"mccain"},
-{"votes":49,"name":"huckabee"},
-{"votes":8,"name":"romney"},
-{"votes":7,"name":"uncommitted-r"},
-{"votes":7,"name":"paul"},
-{"votes":1,"name":"keyes"},
-{"votes":0,"name":"cort"}],
-"total":184,"precincts":
-{"total":10,"reporting":1},
+{"votes":894,"name":"mccain"},
+{"votes":376,"name":"huckabee"},
+{"votes":86,"name":"paul"},
+{"votes":55,"name":"romney"},
+{"votes":43,"name":"uncommitted-r"},
+{"votes":5,"name":"keyes"},
+{"votes":3,"name":"cort"}],
+"total":1462,"precincts":
+{"total":10,"reporting":7},
 "name":"Cranston"},
 "East Providence":
 {"votes":[
@@ -289,15 +289,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"South Kingstown"},
 "West Warwick":
 {"votes":[
-{"votes":194,"name":"mccain"},
-{"votes":87,"name":"huckabee"},
-{"votes":24,"name":"paul"},
-{"votes":17,"name":"romney"},
-{"votes":14,"name":"uncommitted-r"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"}],
-"total":336,"precincts":
-{"total":5,"reporting":3},
+{"votes":289,"name":"mccain"},
+{"votes":135,"name":"huckabee"},
+{"votes":31,"name":"paul"},
+{"votes":23,"name":"romney"},
+{"votes":15,"name":"uncommitted-r"},
+{"votes":1,"name":"keyes"},
+{"votes":0,"name":"cort"}],
+"total":494,"precincts":
+{"total":5,"reporting":4},
 "name":"West Warwick"},
 "Burrillville":
 {"votes":[
@@ -457,15 +457,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Tiverton"},
 "Woonsocket":
 {"votes":[
-{"votes":348,"name":"mccain"},
-{"votes":159,"name":"huckabee"},
-{"votes":55,"name":"paul"},
-{"votes":26,"name":"romney"},
-{"votes":20,"name":"uncommitted-r"},
+{"votes":403,"name":"mccain"},
+{"votes":185,"name":"huckabee"},
+{"votes":59,"name":"paul"},
+{"votes":29,"name":"romney"},
+{"votes":22,"name":"uncommitted-r"},
 {"votes":4,"name":"cort"},
 {"votes":3,"name":"keyes"}],
-"total":615,"precincts":
-{"total":8,"reporting":7},
+"total":705,"precincts":
+{"total":8,"reporting":8},
 "name":"Woonsocket"},
 "East Greenwich":
 {"votes":[

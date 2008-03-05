@@ -82,12 +82,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Foster"},
 "Warwick":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":9,"reporting":0},
+{"votes":8786,"name":"clinton"},
+{"votes":5309,"name":"obama"},
+{"votes":99,"name":"edwards"},
+{"votes":76,"name":"uncommitted-d"}],
+"total":14270,"precincts":
+{"total":9,"reporting":8},
 "name":"Warwick"},
 "Jamestown":
 {"votes":[
@@ -118,12 +118,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mail Ballots - CD2"},
 "Cranston":
 {"votes":[
-{"votes":865,"name":"clinton"},
-{"votes":491,"name":"obama"},
-{"votes":13,"name":"edwards"},
-{"votes":10,"name":"uncommitted-d"}],
-"total":1379,"precincts":
-{"total":10,"reporting":1},
+{"votes":6192,"name":"clinton"},
+{"votes":3863,"name":"obama"},
+{"votes":47,"name":"edwards"},
+{"votes":39,"name":"uncommitted-d"}],
+"total":10141,"precincts":
+{"total":10,"reporting":7},
 "name":"Cranston"},
 "East Providence":
 {"votes":[
@@ -217,12 +217,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"South Kingstown"},
 "West Warwick":
 {"votes":[
-{"votes":1732,"name":"clinton"},
-{"votes":798,"name":"obama"},
-{"votes":22,"name":"edwards"},
-{"votes":17,"name":"uncommitted-d"}],
-"total":2569,"precincts":
-{"total":5,"reporting":3},
+{"votes":2374,"name":"clinton"},
+{"votes":1124,"name":"obama"},
+{"votes":27,"name":"edwards"},
+{"votes":24,"name":"uncommitted-d"}],
+"total":3549,"precincts":
+{"total":5,"reporting":4},
 "name":"West Warwick"},
 "Burrillville":
 {"votes":[
@@ -343,12 +343,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Tiverton"},
 "Woonsocket":
 {"votes":[
-{"votes":3233,"name":"clinton"},
-{"votes":1595,"name":"obama"},
-{"votes":44,"name":"edwards"},
-{"votes":38,"name":"uncommitted-d"}],
-"total":4910,"precincts":
-{"total":8,"reporting":7},
+{"votes":3705,"name":"clinton"},
+{"votes":1827,"name":"obama"},
+{"votes":48,"name":"edwards"},
+{"votes":44,"name":"uncommitted-d"}],
+"total":5624,"precincts":
+{"total":8,"reporting":8},
 "name":"Woonsocket"},
 "East Greenwich":
 {"votes":[

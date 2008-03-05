@@ -109,15 +109,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Foster"},
 "Warwick":
 {"votes":[
-{"votes":1448,"name":"mccain"},
-{"votes":544,"name":"huckabee"},
-{"votes":145,"name":"paul"},
-{"votes":103,"name":"romney"},
-{"votes":49,"name":"uncommitted-r"},
-{"votes":12,"name":"keyes"},
-{"votes":1,"name":"cort"}],
-"total":2302,"precincts":
-{"total":9,"reporting":8},
+{"votes":1654,"name":"mccain"},
+{"votes":614,"name":"huckabee"},
+{"votes":157,"name":"paul"},
+{"votes":119,"name":"romney"},
+{"votes":55,"name":"uncommitted-r"},
+{"votes":13,"name":"keyes"},
+{"votes":2,"name":"cort"}],
+"total":2614,"precincts":
+{"total":9,"reporting":9},
 "name":"Warwick"},
 "Jamestown":
 {"votes":[
@@ -217,15 +217,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Little Compton"},
 "West Greenwich":
 {"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":142,"name":"mccain"},
+{"votes":69,"name":"huckabee"},
+{"votes":27,"name":"paul"},
+{"votes":13,"name":"romney"},
+{"votes":3,"name":"uncommitted-r"},
+{"votes":1,"name":"keyes"},
+{"votes":0,"name":"cort"}],
+"total":255,"precincts":
+{"total":1,"reporting":1},
 "name":"West Greenwich"},
 "Charlestown":
 {"votes":[
@@ -289,15 +289,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"South Kingstown"},
 "West Warwick":
 {"votes":[
-{"votes":289,"name":"mccain"},
-{"votes":135,"name":"huckabee"},
-{"votes":31,"name":"paul"},
-{"votes":23,"name":"romney"},
-{"votes":15,"name":"uncommitted-r"},
+{"votes":346,"name":"mccain"},
+{"votes":153,"name":"huckabee"},
+{"votes":36,"name":"paul"},
+{"votes":31,"name":"romney"},
+{"votes":17,"name":"uncommitted-r"},
 {"votes":1,"name":"keyes"},
 {"votes":0,"name":"cort"}],
-"total":494,"precincts":
-{"total":5,"reporting":4},
+"total":584,"precincts":
+{"total":5,"reporting":5},
 "name":"West Warwick"},
 "Burrillville":
 {"votes":[
@@ -397,15 +397,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"North Providence"},
 "Westerly":
 {"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
-"total":0,"precincts":
-{"total":3,"reporting":0},
+{"votes":499,"name":"mccain"},
+{"votes":163,"name":"huckabee"},
+{"votes":32,"name":"romney"},
+{"votes":31,"name":"paul"},
+{"votes":19,"name":"uncommitted-r"},
+{"votes":9,"name":"keyes"},
+{"votes":0,"name":"cort"}],
+"total":753,"precincts":
+{"total":3,"reporting":3},
 "name":"Westerly"},
 "North Kingstown":
 {"votes":[

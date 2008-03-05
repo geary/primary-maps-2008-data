@@ -82,12 +82,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Foster"},
 "Warwick":
 {"votes":[
-{"votes":8786,"name":"clinton"},
-{"votes":5309,"name":"obama"},
-{"votes":99,"name":"edwards"},
-{"votes":76,"name":"uncommitted-d"}],
-"total":14270,"precincts":
-{"total":9,"reporting":8},
+{"votes":10010,"name":"clinton"},
+{"votes":6240,"name":"obama"},
+{"votes":109,"name":"edwards"},
+{"votes":84,"name":"uncommitted-d"}],
+"total":16443,"precincts":
+{"total":9,"reporting":9},
 "name":"Warwick"},
 "Jamestown":
 {"votes":[
@@ -163,12 +163,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Little Compton"},
 "West Greenwich":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":550,"name":"clinton"},
+{"votes":353,"name":"obama"},
+{"votes":3,"name":"edwards"},
+{"votes":1,"name":"uncommitted-d"}],
+"total":907,"precincts":
+{"total":1,"reporting":1},
 "name":"West Greenwich"},
 "Charlestown":
 {"votes":[
@@ -217,12 +217,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"South Kingstown"},
 "West Warwick":
 {"votes":[
-{"votes":2374,"name":"clinton"},
-{"votes":1124,"name":"obama"},
-{"votes":27,"name":"edwards"},
-{"votes":24,"name":"uncommitted-d"}],
-"total":3549,"precincts":
-{"total":5,"reporting":4},
+{"votes":2790,"name":"clinton"},
+{"votes":1348,"name":"obama"},
+{"votes":33,"name":"edwards"},
+{"votes":26,"name":"uncommitted-d"}],
+"total":4197,"precincts":
+{"total":5,"reporting":5},
 "name":"West Warwick"},
 "Burrillville":
 {"votes":[
@@ -298,12 +298,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"North Providence"},
 "Westerly":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":3,"reporting":0},
+{"votes":1817,"name":"clinton"},
+{"votes":1320,"name":"obama"},
+{"votes":19,"name":"uncommitted-d"},
+{"votes":14,"name":"edwards"}],
+"total":3170,"precincts":
+{"total":3,"reporting":3},
 "name":"Westerly"},
 "North Kingstown":
 {"votes":[

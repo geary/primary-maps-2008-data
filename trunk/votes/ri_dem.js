@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":106471,"name":"clinton","delegates":6},
-{"votes":73609,"name":"obama","delegates":6},
+{"votes":106471,"name":"clinton","delegates":13},
+{"votes":73609,"name":"obama","delegates":8},
 {"votes":1112,"name":"edwards"},
 {"votes":1012,"name":"uncommitted-d"}],
 "name":"Rhode Island","precincts":

@@ -1,8 +1,8 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13207485,"name":"clinton","delegates":1162},
-{"votes":13196631,"name":"obama","delegates":1286},
-{"votes":920071,"name":"edwards"},
+{"votes":13212890,"name":"clinton","delegates":1162},
+{"votes":13202308,"name":"obama","delegates":1286},
+{"votes":920202,"name":"edwards"},
 {"votes":256942,"name":"uncommitted-d"},
 {"votes":103224,"name":"richardson"},
 {"votes":101650,"name":"kucinich"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":21161,"name":"gravel"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":27919242,"locals":
+"state":"US","party":"dem","total":27930455,"locals":
 {"Oklahoma":
 {"votes":[
 {"votes":228425,"name":"clinton","delegates":24},
@@ -391,11 +391,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":72,"date":"02-05"},
 "Ohio":
 {"votes":[
-{"votes":1122538,"name":"clinton","delegates":63},
-{"votes":881078,"name":"obama","delegates":48},
-{"votes":36147,"name":"edwards"}],
+{"votes":1127943,"name":"clinton","delegates":63},
+{"votes":886755,"name":"obama","delegates":48},
+{"votes":36278,"name":"edwards"}],
 "name":"Ohio","precincts":
-{"total":11238,"reporting":10377},
+{"total":11238,"reporting":10395},
 "delegates":141,"date":"03-04"},
 "Alabama":
 {"votes":[

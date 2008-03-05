@@ -7,7 +7,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5189,"name":"biden"},
 {"votes":3577,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":7408},
+{"total":8247,"reporting":7411},
 "delegates":193,"date":"03-04"},
 "state":"TX","party":"dem","total":2669587,"locals":
 {"Wilson":
@@ -1933,7 +1933,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":4,"name":"biden"},
 {"votes":2,"name":"dodd"}],
 "total":3142,"precincts":
-{"total":34,"reporting":31},
+{"total":34,"reporting":34},
 "name":"Washington"},
 "Cottle":
 {"votes":[

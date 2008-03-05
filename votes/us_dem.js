@@ -395,7 +395,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":804080,"name":"obama","delegates":35},
 {"votes":33544,"name":"edwards"}],
 "name":"Ohio","precincts":
-{"total":11238,"reporting":9363},
+{"total":11238,"reporting":9683},
 "delegates":141,"date":"03-04"},
 "Alabama":
 {"votes":[
@@ -471,7 +471,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":4570,"name":"biden"},
 {"votes":3210,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":5595},
+{"total":8247,"reporting":5716},
 "delegates":193,"date":"03-04"},
 "Nevada":
 {"name":"Nevada","precincts":

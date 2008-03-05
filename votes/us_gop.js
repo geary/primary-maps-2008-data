@@ -126,7 +126,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":852,"name":"cort"},
 {"votes":535,"name":"tran"}],
 "name":"Texas","precincts":
-{"total":7959,"reporting":6310},
+{"total":7959,"reporting":6340},
 "delegates":140,"date":"03-04"},
 "Wyoming":
 {"name":"Wyoming","precincts":
@@ -431,7 +431,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":31998,"name":"romney"},
 {"votes":15052,"name":"thompson"}],
 "name":"Ohio","precincts":
-{"total":11238,"reporting":9325},
+{"total":11238,"reporting":9649},
 "delegates":88,"date":"03-04"},
 "Alabama":
 {"votes":[

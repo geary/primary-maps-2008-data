@@ -4,7 +4,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":804080,"name":"obama","delegates":35},
 {"votes":33544,"name":"edwards"}],
 "name":"Ohio","precincts":
-{"total":11238,"reporting":9363},
+{"total":11238,"reporting":9683},
 "delegates":141,"date":"03-04"},
 "state":"OH","party":"dem","total":1875164,"locals":
 {"Preble":
@@ -269,7 +269,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":56231,"name":"clinton"},
 {"votes":1073,"name":"edwards"}],
 "total":149180,"precincts":
-{"total":880,"reporting":560},
+{"total":880,"reporting":880},
 "name":"Hamilton"},
 "Scioto":
 {"votes":[

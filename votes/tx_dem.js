@@ -7,7 +7,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":4570,"name":"biden"},
 {"votes":3210,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":5595},
+{"total":8247,"reporting":5716},
 "delegates":193,"date":"03-04"},
 "state":"TX","party":"dem","total":2297392,"locals":
 {"Wilson":
@@ -184,7 +184,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":6,"name":"biden"},
 {"votes":0,"name":"dodd"}],
 "total":476,"precincts":
-{"total":6,"reporting":1},
+{"total":6,"reporting":4},
 "name":"Hudspeth"},
 "La Salle":
 {"votes":[
@@ -536,7 +536,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":18,"name":"dodd"},
 {"votes":17,"name":"biden"}],
 "total":4213,"precincts":
-{"total":12,"reporting":1},
+{"total":12,"reporting":12},
 "name":"San Jacinto"},
 "Montgomery":
 {"votes":[
@@ -646,7 +646,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":13,"name":"biden"},
 {"votes":12,"name":"dodd"}],
 "total":7234,"precincts":
-{"total":17,"reporting":15},
+{"total":17,"reporting":17},
 "name":"Potter"},
 "Hall":
 {"votes":[
@@ -690,7 +690,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":64,"name":"dodd"},
 {"votes":63,"name":"biden"}],
 "total":7062,"precincts":
-{"total":21,"reporting":16},
+{"total":21,"reporting":21},
 "name":"Jasper"},
 "Lampasas":
 {"votes":[
@@ -745,7 +745,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":26,"name":"dodd"},
 {"votes":24,"name":"biden"}],
 "total":2764,"precincts":
-{"total":23,"reporting":22},
+{"total":23,"reporting":23},
 "name":"Newton"},
 "Jackson":
 {"votes":[
@@ -1581,7 +1581,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":11,"name":"dodd"},
 {"votes":10,"name":"biden"}],
 "total":10222,"precincts":
-{"total":61,"reporting":56},
+{"total":61,"reporting":61},
 "name":"Tom Green"},
 "Wharton":
 {"votes":[
@@ -1900,7 +1900,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"dodd"},
 {"votes":0,"name":"richardson"}],
 "total":2545,"precincts":
-{"total":19,"reporting":1},
+{"total":19,"reporting":18},
 "name":"Austin"},
 "Carson":
 {"votes":[
@@ -2087,7 +2087,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":15,"name":"biden"},
 {"votes":14,"name":"dodd"}],
 "total":12553,"precincts":
-{"total":46,"reporting":1},
+{"total":46,"reporting":45},
 "name":"Ellis"},
 "Sutton":
 {"votes":[
@@ -2109,7 +2109,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":67,"name":"biden"},
 {"votes":36,"name":"dodd"}],
 "total":34922,"precincts":
-{"total":102,"reporting":65},
+{"total":102,"reporting":86},
 "name":"Galveston"},
 "Lubbock":
 {"votes":[
@@ -2274,7 +2274,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":131,"name":"biden"},
 {"votes":75,"name":"dodd"}],
 "total":169587,"precincts":
-{"total":211,"reporting":165},
+{"total":211,"reporting":177},
 "name":"Travis"},
 "Coke":
 {"votes":[

@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":1436645,"name":"clinton","delegates":46},
-{"votes":1338297,"name":"obama","delegates":35},
-{"votes":29591,"name":"edwards"},
-{"votes":10646,"name":"richardson"},
-{"votes":5398,"name":"biden"},
-{"votes":3735,"name":"dodd"}],
+{"votes":1440140,"name":"clinton","delegates":46},
+{"votes":1339541,"name":"obama","delegates":35},
+{"votes":29699,"name":"edwards"},
+{"votes":10669,"name":"richardson"},
+{"votes":5404,"name":"biden"},
+{"votes":3744,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":7969},
+{"total":8247,"reporting":7998},
 "delegates":193,"date":"03-04"},
-"state":"TX","party":"dem","total":2824312,"locals":
+"state":"TX","party":"dem","total":2829197,"locals":
 {"Wilson":
 {"votes":[
 {"votes":3486,"name":"clinton"},
@@ -855,7 +855,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":4,"name":"biden"},
 {"votes":3,"name":"dodd"}],
 "total":1257,"precincts":
-{"total":25,"reporting":16},
+{"total":25,"reporting":25},
 "name":"Anderson"},
 "Jefferson":
 {"votes":[
@@ -1255,14 +1255,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Taylor"},
 "Van Zandt":
 {"votes":[
-{"votes":912,"name":"clinton"},
-{"votes":336,"name":"obama"},
-{"votes":29,"name":"edwards"},
-{"votes":5,"name":"richardson"},
-{"votes":1,"name":"dodd"},
-{"votes":1,"name":"biden"}],
-"total":1284,"precincts":
-{"total":22,"reporting":1},
+{"votes":4407,"name":"clinton"},
+{"votes":1580,"name":"obama"},
+{"votes":137,"name":"edwards"},
+{"votes":28,"name":"richardson"},
+{"votes":10,"name":"dodd"},
+{"votes":7,"name":"biden"}],
+"total":6169,"precincts":
+{"total":22,"reporting":21},
 "name":"Van Zandt"},
 "Polk":
 {"votes":[

@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":564,"name":"tran"}],
 "name":"Texas","precincts":
 {"total":7959,"reporting":6751},
-"delegates":140,"date":"03-04"},
+"delegates":137,"date":"03-04"},
 "state":"TX","party":"gop","total":1263935,"locals":
 {"Wilson":
 {"votes":[

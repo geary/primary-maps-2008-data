@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":24,"name":"cort"}],
 "name":"Rhode Island","precincts":
 {"total":179,"reporting":176},
-"delegates":20,"date":"03-04"},
+"delegates":17,"date":"03-04"},
 "state":"RI","party":"gop","total":26745,"locals":
 {"Middletown":
 {"votes":[

@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":905,"name":"cort"},
 {"votes":616,"name":"tran"}],
 "name":"Texas","precincts":
-{"total":7959,"reporting":7763},
+{"total":7959,"reporting":7764},
 "delegates":137,"date":"03-04"},
 "state":"TX","party":"gop","total":1357554,"locals":
 {"Wilson":
@@ -429,7 +429,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1,"name":"keyes"},
 {"votes":0,"name":"tran"}],
 "total":661,"precincts":
-{"total":14,"reporting":13},
+{"total":14,"reporting":14},
 "name":"Live Oak"},
 "Brooks":
 {"votes":[

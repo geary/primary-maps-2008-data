@@ -334,12 +334,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Narragansett"},
 "Tiverton":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":4,"reporting":0},
+{"votes":1950,"name":"clinton"},
+{"votes":1030,"name":"obama"},
+{"votes":20,"name":"edwards"},
+{"votes":18,"name":"uncommitted-d"}],
+"total":3018,"precincts":
+{"total":4,"reporting":4},
 "name":"Tiverton"},
 "Woonsocket":
 {"votes":[
@@ -361,12 +361,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"East Greenwich"},
 "Pawtucket":
 {"votes":[
-{"votes":4844,"name":"clinton"},
-{"votes":2773,"name":"obama"},
-{"votes":72,"name":"uncommitted-d"},
-{"votes":60,"name":"edwards"}],
-"total":7749,"precincts":
-{"total":17,"reporting":13},
+{"votes":6680,"name":"clinton"},
+{"votes":3654,"name":"obama"},
+{"votes":94,"name":"uncommitted-d"},
+{"votes":82,"name":"edwards"}],
+"total":10510,"precincts":
+{"total":17,"reporting":15},
 "name":"Pawtucket"},
 "Warren":
 {"votes":[

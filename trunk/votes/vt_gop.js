@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"03-04","votes":[
-{"votes":23752,"name":"mccain"},
+{"votes":[
+{"votes":23752,"name":"mccain","delegates":17},
 {"votes":4638,"name":"huckabee"},
 {"votes":2246,"name":"paul"},
 {"votes":1479,"name":"romney"},
 {"votes":776,"name":"giuliani"}],
-"precincts":
+"name":"Vermont","precincts":
 {"total":260,"reporting":218},
-"name":"Vermont"},
+"delegates":17,"date":"03-04"},
 "state":"VT","party":"gop","total":32891,"locals":
 {"Albany":
 {"votes":[

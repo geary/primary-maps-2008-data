@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"03-04","votes":[
-{"votes":17342,"name":"mccain"},
+{"votes":[
+{"votes":17342,"name":"mccain","delegates":9},
 {"votes":5766,"name":"huckabee"},
 {"votes":1761,"name":"paul"},
 {"votes":1173,"name":"romney"},
 {"votes":565,"name":"uncommitted-r"},
 {"votes":114,"name":"keyes"},
 {"votes":24,"name":"cort"}],
-"precincts":
+"name":"Rhode Island","precincts":
 {"total":179,"reporting":176},
-"name":"Rhode Island"},
+"delegates":20,"date":"03-04"},
 "state":"RI","party":"gop","total":26745,"locals":
 {"Middletown":
 {"votes":[

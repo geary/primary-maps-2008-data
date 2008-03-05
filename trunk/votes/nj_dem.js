@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":602576,"name":"clinton","delegates":"59"},
-{"votes":492186,"name":"obama","delegates":"48"},
+{"votes":602576,"name":"clinton","delegates":59},
+{"votes":492186,"name":"obama","delegates":48},
 {"votes":14607,"name":"edwards"},
 {"votes":4021,"name":"biden"},
 {"votes":3305,"name":"richardson"},
 {"votes":3073,"name":"kucinich"}],
 "name":"New Jersey","precincts":
 {"total":6292,"reporting":6256},
-"delegates":"107","date":"02-05"},
+"delegates":107,"date":"02-05"},
 "state":"NJ","party":"dem","total":1119768,"locals":
 {"Bergen":
 {"votes":[

@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":646007,"name":"obama","delegates":"42"},
-{"votes":452795,"name":"clinton","delegates":"32"},
+{"votes":646007,"name":"obama","delegates":42},
+{"votes":452795,"name":"clinton","delegates":32},
 {"votes":6673,"name":"edwards"},
 {"votes":2644,"name":"kucinich"},
 {"votes":756,"name":"biden"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":498,"name":"dodd"}],
 "name":"Wisconsin","precincts":
 {"total":3570,"reporting":3570},
-"delegates":"74","date":"02-19"},
+"delegates":74,"date":"02-19"},
 "state":"WI","party":"dem","total":1110426,"locals":
 {"Marinette":
 {"votes":[

@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":623479,"name":"obama","delegates":"54"},
-{"votes":347579,"name":"clinton","delegates":"29"},
+{"votes":623479,"name":"obama","delegates":54},
+{"votes":347579,"name":"clinton","delegates":29},
 {"votes":5100,"name":"edwards"},
 {"votes":2365,"name":"kucinich"},
 {"votes":1065,"name":"richardson"},
 {"votes":794,"name":"biden"}],
 "name":"Virginia","precincts":
 {"total":2444,"reporting":2443},
-"delegates":"83","date":"02-12"},
+"delegates":83,"date":"02-12"},
 "state":"VA","party":"dem","total":980382,"locals":
 {"Roanoke":
 {"votes":[

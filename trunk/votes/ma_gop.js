@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":255248,"name":"romney","delegates":"22"},
-{"votes":204027,"name":"mccain","delegates":"18"},
+{"votes":255248,"name":"romney","delegates":22},
+{"votes":204027,"name":"mccain","delegates":18},
 {"votes":19168,"name":"huckabee"},
 {"votes":13210,"name":"paul"},
 {"votes":2643,"name":"giuliani"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":155,"name":"tancredo"}],
 "name":"Massachusetts","precincts":
 {"total":2167,"reporting":2167},
-"delegates":"40","date":"02-05"},
+"delegates":40,"date":"02-05"},
 "state":"MA","party":"gop","total":495656,"locals":
 {"Pepperell":
 {"votes":[

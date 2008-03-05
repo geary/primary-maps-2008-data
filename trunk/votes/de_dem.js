@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":51124,"name":"obama","delegates":"9"},
-{"votes":40751,"name":"clinton","delegates":"6"},
+{"votes":51124,"name":"obama","delegates":9},
+{"votes":40751,"name":"clinton","delegates":6},
 {"votes":2863,"name":"biden"},
 {"votes":1241,"name":"edwards"},
 {"votes":192,"name":"kucinich"},
 {"votes":170,"name":"dodd"}],
 "name":"Delaware","precincts":
 {"total":312,"reporting":312},
-"delegates":"15","date":"02-05"},
+"delegates":15,"date":"02-05"},
 "state":"DE","party":"dem","total":96341,"locals":
 {"New Castle":
 {"votes":[

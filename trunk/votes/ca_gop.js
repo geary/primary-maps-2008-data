@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":986384,"name":"mccain","delegates":"158"},
-{"votes":801873,"name":"romney","delegates":"12"},
+{"votes":986384,"name":"mccain","delegates":158},
+{"votes":801873,"name":"romney","delegates":12},
 {"votes":272719,"name":"huckabee"},
 {"votes":115787,"name":"giuliani"},
 {"votes":99591,"name":"paul"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3303,"name":"tancredo"}],
 "name":"California","precincts":
 {"total":23109,"reporting":23109},
-"delegates":"170","date":"02-05"},
+"delegates":170,"date":"02-05"},
 "state":"CA","party":"gop","total":2347221,"locals":
 {"Fresno":
 {"votes":[

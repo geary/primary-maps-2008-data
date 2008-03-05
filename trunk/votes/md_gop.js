@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":163677,"name":"mccain","delegates":"37"},
+{"votes":163677,"name":"mccain","delegates":37},
 {"votes":86573,"name":"huckabee"},
 {"votes":18728,"name":"romney"},
 {"votes":17865,"name":"paul"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":343,"name":"tancredo"}],
 "name":"Maryland","precincts":
 {"total":1829,"reporting":1782},
-"delegates":"37","date":"02-12"},
+"delegates":37,"date":"02-12"},
 "state":"MD","party":"gop","total":297217,"locals":
 {"Howard":
 {"votes":[

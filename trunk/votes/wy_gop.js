@@ -2,7 +2,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Wyoming","precincts":
 {"total":12,"reporting":12},
 "votes":[
-{"votes":8,"name":"romney","delegates":"8"},
+{"votes":8,"name":"romney","delegates":8},
 {"votes":3,"name":"thompson"},
 {"votes":1,"name":"hunter"},
 {"votes":0,"name":"uncommitted-r"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"tancredo"},
 {"votes":0,"name":"giuliani"},
 {"votes":0,"name":"paul"}],
-"delegates":"12","date":"01-05","type":"caucus"},
+"delegates":12,"date":"01-05","type":"caucus"},
 "state":"WY","party":"gop","total":12,"locals":
 {"Crook-Weston":
 {"votes":[

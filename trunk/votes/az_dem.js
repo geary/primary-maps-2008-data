@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":201396,"name":"clinton","delegates":"31"},
-{"votes":167525,"name":"obama","delegates":"25"},
+{"votes":201396,"name":"clinton","delegates":31},
+{"votes":167525,"name":"obama","delegates":25},
 {"votes":21095,"name":"edwards"},
 {"votes":2576,"name":"richardson"},
 {"votes":1752,"name":"kucinich"},
@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":298,"name":"gravel"}],
 "name":"Arizona","precincts":
 {"total":957,"reporting":935},
-"delegates":"56","date":"02-05"},
+"delegates":56,"date":"02-05"},
 "state":"AZ","party":"dem","total":395082,"locals":
 {"Yuma":
 {"votes":[

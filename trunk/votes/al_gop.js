@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":230608,"name":"huckabee","delegates":"26"},
-{"votes":210989,"name":"mccain","delegates":"19"},
+{"votes":230608,"name":"huckabee","delegates":26},
+{"votes":210989,"name":"mccain","delegates":19},
 {"votes":103295,"name":"romney"},
 {"votes":15454,"name":"paul"},
 {"votes":2224,"name":"giuliani"},
@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":95,"name":"tancredo"}],
 "name":"Alabama","precincts":
 {"total":2827,"reporting":2821},
-"delegates":"45","date":"02-05"},
+"delegates":45,"date":"02-05"},
 "state":"AL","party":"gop","total":567050,"locals":
 {"Shelby":
 {"votes":[

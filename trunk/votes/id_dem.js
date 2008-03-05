@@ -2,8 +2,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Idaho","precincts":
 {"total":45,"reporting":45},
 "votes":[
-{"votes":16880,"name":"obama","delegates":"15"},
-{"votes":3655,"name":"clinton","delegates":"3"},
+{"votes":16880,"name":"obama","delegates":15},
+{"votes":3655,"name":"clinton","delegates":3},
 {"votes":552,"name":"uncommitted-d"},
 {"votes":137,"name":"edwards"},
 {"votes":0,"name":"dodd"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"richardson"},
 {"votes":0,"name":"kucinich"},
 {"votes":0,"name":"gravel"}],
-"delegates":"18","date":"02-05","type":"caucus"},
+"delegates":18,"date":"02-05","type":"caucus"},
 "state":"ID","party":"dem","total":21224,"locals":
 {"Camas":
 {"votes":[

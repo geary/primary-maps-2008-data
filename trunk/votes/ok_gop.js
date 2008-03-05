@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":122748,"name":"mccain","delegates":"32"},
-{"votes":110486,"name":"huckabee","delegates":"6"},
+{"votes":122748,"name":"mccain","delegates":32},
+{"votes":110486,"name":"huckabee","delegates":6},
 {"votes":83018,"name":"romney"},
 {"votes":11179,"name":"paul"},
 {"votes":2412,"name":"giuliani"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":190,"name":"tancredo"}],
 "name":"Oklahoma","precincts":
 {"total":2220,"reporting":2220},
-"delegates":"38","date":"02-05"},
+"delegates":38,"date":"02-05"},
 "state":"OK","party":"gop","total":333091,"locals":
 {"Garfield":
 {"votes":[

@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":206983,"name":"clinton","delegates":"27"},
-{"votes":78898,"name":"obama","delegates":"8"},
+{"votes":206983,"name":"clinton","delegates":27},
+{"votes":78898,"name":"obama","delegates":8},
 {"votes":5527,"name":"edwards"},
 {"votes":3225,"name":"uncommitted-d"},
 {"votes":776,"name":"richardson"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":253,"name":"dodd"}],
 "name":"Arkansas","precincts":
 {"total":2480,"reporting":2402},
-"delegates":"35","date":"02-05"},
+"delegates":35,"date":"02-05"},
 "state":"AR","party":"dem","total":296821,"locals":
 {"Saline":
 {"votes":[

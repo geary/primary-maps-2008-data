@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":368,"name":"hunter"},
 {"votes":183,"name":"gilbert"},
 {"votes":108,"name":"tancredo"}],
-"delegates":"20","date":"01-22","type":"caucus"},
+"delegates":20,"date":"01-22","type":"caucus"},
 "state":"LA","party":"gop","total":161319,"locals":
 {"Orleans":
 {"votes":[

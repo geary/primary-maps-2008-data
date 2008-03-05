@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":295091,"name":"obama","delegates":"25"},
-{"votes":141128,"name":"clinton","delegates":"12"},
+{"votes":295091,"name":"obama","delegates":25},
+{"votes":141128,"name":"clinton","delegates":12},
 {"votes":93552,"name":"edwards"},
 {"votes":725,"name":"richardson"},
 {"votes":693,"name":"biden"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":240,"name":"gravel"}],
 "name":"South Carolina","precincts":
 {"total":2259,"reporting":2258},
-"delegates":"45","date":"01-26"},
+"delegates":45,"date":"01-26"},
 "state":"SC","party":"dem","total":532227,"locals":
 {"Lancaster":
 {"votes":[

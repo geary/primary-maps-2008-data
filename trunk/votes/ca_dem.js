@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":2133975,"name":"clinton","delegates":"207"},
-{"votes":1737807,"name":"obama","delegates":"163"},
+{"votes":2133975,"name":"clinton","delegates":207},
+{"votes":1737807,"name":"obama","delegates":163},
 {"votes":170050,"name":"edwards"},
 {"votes":20216,"name":"kucinich"},
 {"votes":16964,"name":"richardson"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":6670,"name":"gravel"}],
 "name":"California","precincts":
 {"total":23109,"reporting":23109},
-"delegates":"370","date":"02-05"},
+"delegates":370,"date":"02-05"},
 "state":"CA","party":"dem","total":4107890,"locals":
 {"Fresno":
 {"votes":[

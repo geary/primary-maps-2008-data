@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":244208,"name":"mccain","delegates":"60"},
+{"votes":244208,"name":"mccain","delegates":60},
 {"votes":198324,"name":"huckabee"},
 {"votes":22070,"name":"paul"},
 {"votes":17573,"name":"romney"},
@@ -8,7 +8,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2080,"name":"giuliani"}],
 "name":"Virginia","precincts":
 {"total":2444,"reporting":2443},
-"delegates":"60","date":"02-12"},
+"delegates":60,"date":"02-12"},
 "state":"VA","party":"gop","total":487854,"locals":
 {"Roanoke":
 {"votes":[

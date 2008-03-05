@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":700366,"name":"obama","delegates":"61"},
-{"votes":328129,"name":"clinton","delegates":"26"},
+{"votes":700366,"name":"obama","delegates":61},
+{"votes":328129,"name":"clinton","delegates":26},
 {"votes":17990,"name":"edwards"},
 {"votes":2531,"name":"biden"},
 {"votes":2088,"name":"kucinich"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":900,"name":"dodd"}],
 "name":"Georgia","precincts":
 {"total":3157,"reporting":3154},
-"delegates":"87","date":"02-05"},
+"delegates":87,"date":"02-05"},
 "state":"GA","party":"dem","total":1054831,"locals":
 {"Union":
 {"votes":[

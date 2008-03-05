@@ -1,8 +1,8 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":326069,"name":"huckabee","delegates":"54"},
-{"votes":303639,"name":"mccain","delegates":"12"},
-{"votes":289737,"name":"romney","delegates":"6"},
+{"votes":326069,"name":"huckabee","delegates":54},
+{"votes":303639,"name":"mccain","delegates":12},
+{"votes":289737,"name":"romney","delegates":6},
 {"votes":27978,"name":"paul"},
 {"votes":7039,"name":"giuliani"},
 {"votes":3378,"name":"thompson"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":323,"name":"tancredo"}],
 "name":"Georgia","precincts":
 {"total":3157,"reporting":3154},
-"delegates":"72","date":"02-05"},
+"delegates":72,"date":"02-05"},
 "state":"GA","party":"gop","total":960372,"locals":
 {"Union":
 {"votes":[

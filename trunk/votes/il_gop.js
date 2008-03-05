@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":424071,"name":"mccain","delegates":"54"},
-{"votes":256805,"name":"romney","delegates":"3"},
+{"votes":424071,"name":"mccain","delegates":54},
+{"votes":256805,"name":"romney","delegates":3},
 {"votes":147626,"name":"huckabee"},
 {"votes":45166,"name":"paul"},
 {"votes":11341,"name":"giuliani"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"uncommitted-r"}],
 "name":"Illinois","precincts":
 {"total":11574,"reporting":11510},
-"delegates":"57","date":"02-05"},
+"delegates":57,"date":"02-05"},
 "state":"IL","party":"gop","total":894774,"locals":
 {"Richland":
 {"votes":[

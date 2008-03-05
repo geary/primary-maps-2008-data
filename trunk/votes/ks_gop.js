@@ -2,7 +2,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Kansas","precincts":
 {"total":66,"reporting":66},
 "votes":[
-{"votes":11627,"name":"huckabee","delegates":"36"},
+{"votes":11627,"name":"huckabee","delegates":36},
 {"votes":4587,"name":"mccain"},
 {"votes":2182,"name":"paul"},
 {"votes":653,"name":"romney"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":84,"name":"uncommitted-r"},
 {"votes":61,"name":"thompson"},
 {"votes":34,"name":"giuliani"}],
-"delegates":"36","date":"02-09","type":"caucus"},
+"delegates":36,"date":"02-09","type":"caucus"},
 "state":"KS","party":"gop","total":19516,"locals":
 {"CD4":
 {"votes":[

@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"votes":[
-{"votes":90358,"name":"clinton"},
-{"votes":61583,"name":"obama"},
-{"votes":955,"name":"edwards"},
-{"votes":818,"name":"uncommitted-d"}],
-"name":"Rhode Island","precincts":
-{"total":179,"reporting":156},
-"delegates":21,"date":"03-04"},
-"state":"RI","party":"dem","total":153714,"locals":
+{"date":"03-04","votes":[
+{"votes":106471,"name":"clinton"},
+{"votes":73609,"name":"obama"},
+{"votes":1112,"name":"edwards"},
+{"votes":1012,"name":"uncommitted-d"}],
+"precincts":
+{"total":179,"reporting":176},
+"name":"Rhode Island"},
+"state":"RI","party":"dem","total":182204,"locals":
 {"Middletown":
 {"votes":[
 {"votes":1195,"name":"clinton"},
@@ -64,21 +64,21 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Richmond"},
 "Providence":
 {"votes":[
-{"votes":8178,"name":"obama"},
-{"votes":7432,"name":"clinton"},
-{"votes":67,"name":"uncommitted-d"},
-{"votes":66,"name":"edwards"}],
-"total":15743,"precincts":
-{"total":31,"reporting":20},
+{"votes":11634,"name":"obama"},
+{"votes":9966,"name":"clinton"},
+{"votes":81,"name":"uncommitted-d"},
+{"votes":79,"name":"edwards"}],
+"total":21760,"precincts":
+{"total":31,"reporting":28},
 "name":"Providence"},
 "Foster":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":377,"name":"clinton"},
+{"votes":304,"name":"obama"},
+{"votes":5,"name":"edwards"},
+{"votes":3,"name":"uncommitted-d"}],
+"total":689,"precincts":
+{"total":1,"reporting":1},
 "name":"Foster"},
 "Warwick":
 {"votes":[
@@ -127,12 +127,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Cranston"},
 "East Providence":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":4,"reporting":0},
+{"votes":5614,"name":"clinton"},
+{"votes":3950,"name":"obama"},
+{"votes":42,"name":"uncommitted-d"},
+{"votes":35,"name":"edwards"}],
+"total":9641,"precincts":
+{"total":4,"reporting":4},
 "name":"East Providence"},
 "Mail Ballots - CD1":
 {"votes":[
@@ -199,12 +199,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lincoln"},
 "Coventry":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":5,"reporting":0},
+{"votes":3736,"name":"clinton"},
+{"votes":2152,"name":"obama"},
+{"votes":44,"name":"edwards"},
+{"votes":40,"name":"uncommitted-d"}],
+"total":5972,"precincts":
+{"total":5,"reporting":5},
 "name":"Coventry"},
 "South Kingstown":
 {"votes":[
@@ -280,21 +280,21 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"New Shoreham"},
 "Exeter":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":492,"name":"clinton"},
+{"votes":439,"name":"obama"},
+{"votes":4,"name":"uncommitted-d"},
+{"votes":4,"name":"edwards"}],
+"total":939,"precincts":
+{"total":1,"reporting":1},
 "name":"Exeter"},
 "North Providence":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":3,"reporting":0},
+{"votes":5566,"name":"clinton"},
+{"votes":2332,"name":"obama"},
+{"votes":61,"name":"uncommitted-d"},
+{"votes":60,"name":"edwards"}],
+"total":8019,"precincts":
+{"total":3,"reporting":3},
 "name":"North Providence"},
 "Westerly":
 {"votes":[

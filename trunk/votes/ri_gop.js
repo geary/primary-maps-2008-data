@@ -1,16 +1,16 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
+{"votes":149,"name":"mccain"},
+{"votes":82,"name":"huckabee"},
+{"votes":27,"name":"paul"},
+{"votes":6,"name":"romney"},
+{"votes":5,"name":"uncommitted-r"},
+{"votes":1,"name":"keyes"},
+{"votes":0,"name":"cort"}],
 "name":"Rhode Island","precincts":
-{"total":179,"reporting":0},
+{"total":179,"reporting":1},
 "delegates":20,"date":"03-04"},
-"state":"RI","party":"gop","total":0,"locals":
+"state":"RI","party":"gop","total":270,"locals":
 {"Middletown":
 {"votes":[
 {"votes":0,"name":"huckabee"},
@@ -373,15 +373,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"New Shoreham"},
 "Exeter":
 {"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":149,"name":"mccain"},
+{"votes":82,"name":"huckabee"},
+{"votes":27,"name":"paul"},
+{"votes":6,"name":"romney"},
+{"votes":5,"name":"uncommitted-r"},
+{"votes":1,"name":"keyes"},
+{"votes":0,"name":"cort"}],
+"total":270,"precincts":
+{"total":1,"reporting":1},
 "name":"Exeter"},
 "North Providence":
 {"votes":[

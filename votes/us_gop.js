@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":7145456,"name":"mccain","delegates":1111},
-{"votes":4336005,"name":"romney","delegates":271},
+{"votes":4335948,"name":"romney","delegates":271},
 {"votes":3875190,"name":"huckabee","delegates":261},
-{"votes":796766,"name":"paul","delegates":14},
+{"votes":796748,"name":"paul","delegates":14},
 {"votes":566688,"name":"giuliani"},
-{"votes":282853,"name":"thompson"},
+{"votes":282828,"name":"thompson"},
 {"votes":46126,"name":"uncommitted-r"},
 {"votes":38696,"name":"keyes"},
 {"votes":37274,"name":"hunter"},
@@ -19,7 +19,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":17135546,"locals":
+"state":"US","party":"gop","total":17135446,"locals":
 {"Oklahoma":
 {"votes":[
 {"votes":122748,"name":"mccain","delegates":32},
@@ -427,9 +427,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":602380,"name":"mccain","delegates":85},
 {"votes":313060,"name":"huckabee"},
-{"votes":46499,"name":"paul"},
-{"votes":33519,"name":"romney"},
-{"votes":15775,"name":"thompson"}],
+{"votes":46481,"name":"paul"},
+{"votes":33462,"name":"romney"},
+{"votes":15750,"name":"thompson"}],
 "name":"Ohio","precincts":
 {"total":11238,"reporting":10269},
 "delegates":85,"date":"03-04"},

@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":1373992,"name":"clinton","delegates":46},
-{"votes":1276280,"name":"obama","delegates":35},
-{"votes":28885,"name":"edwards"},
-{"votes":10301,"name":"richardson"},
-{"votes":5229,"name":"biden"},
-{"votes":3609,"name":"dodd"}],
+{"votes":1388440,"name":"clinton","delegates":46},
+{"votes":1282042,"name":"obama","delegates":35},
+{"votes":29020,"name":"edwards"},
+{"votes":10448,"name":"richardson"},
+{"votes":5286,"name":"biden"},
+{"votes":3661,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":7511},
+{"total":8247,"reporting":7619},
 "delegates":193,"date":"03-04"},
-"state":"TX","party":"dem","total":2698296,"locals":
+"state":"TX","party":"dem","total":2718897,"locals":
 {"Wilson":
 {"votes":[
 {"votes":3486,"name":"clinton"},
@@ -331,14 +331,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Montague"},
 "El Paso":
 {"votes":[
-{"votes":58351,"name":"clinton"},
-{"votes":24794,"name":"obama"},
-{"votes":753,"name":"richardson"},
-{"votes":408,"name":"edwards"},
-{"votes":206,"name":"biden"},
-{"votes":145,"name":"dodd"}],
-"total":84657,"precincts":
-{"total":171,"reporting":93},
+{"votes":71229,"name":"clinton"},
+{"votes":29974,"name":"obama"},
+{"votes":885,"name":"richardson"},
+{"votes":487,"name":"edwards"},
+{"votes":246,"name":"biden"},
+{"votes":178,"name":"dodd"}],
+"total":102999,"precincts":
+{"total":171,"reporting":171},
 "name":"El Paso"},
 "Harris":
 {"votes":[
@@ -1530,14 +1530,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Hockley"},
 "Palo Pinto":
 {"votes":[
-{"votes":578,"name":"clinton"},
-{"votes":225,"name":"obama"},
-{"votes":9,"name":"edwards"},
-{"votes":4,"name":"richardson"},
-{"votes":3,"name":"dodd"},
-{"votes":0,"name":"biden"}],
-"total":819,"precincts":
-{"total":31,"reporting":1},
+{"votes":2148,"name":"clinton"},
+{"votes":807,"name":"obama"},
+{"votes":65,"name":"edwards"},
+{"votes":22,"name":"dodd"},
+{"votes":19,"name":"richardson"},
+{"votes":17,"name":"biden"}],
+"total":3078,"precincts":
+{"total":31,"reporting":31},
 "name":"Palo Pinto"},
 "Starr":
 {"votes":[

@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":7074226,"name":"mccain","delegates":1101},
+{"votes":7074226,"name":"mccain","delegates":1110},
 {"votes":4332741,"name":"romney","delegates":271},
 {"votes":3823933,"name":"huckabee","delegates":261},
 {"votes":790082,"name":"paul","delegates":14},
@@ -425,7 +425,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":58,"date":"02-05"},
 "Ohio":
 {"votes":[
-{"votes":575833,"name":"mccain","delegates":79},
+{"votes":575833,"name":"mccain","delegates":88},
 {"votes":300130,"name":"huckabee"},
 {"votes":44334,"name":"paul"},
 {"votes":31998,"name":"romney"},

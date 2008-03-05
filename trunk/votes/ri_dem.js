@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":49843,"name":"clinton"},
-{"votes":31222,"name":"obama"},
-{"votes":556,"name":"edwards"},
-{"votes":490,"name":"uncommitted-d"}],
+{"votes":74399,"name":"clinton"},
+{"votes":49849,"name":"obama"},
+{"votes":798,"name":"edwards"},
+{"votes":679,"name":"uncommitted-d"}],
 "name":"Rhode Island","precincts":
-{"total":179,"reporting":89},
+{"total":179,"reporting":131},
 "delegates":21,"date":"03-04"},
-"state":"RI","party":"dem","total":82111,"locals":
+"state":"RI","party":"dem","total":125725,"locals":
 {"Middletown":
 {"votes":[
 {"votes":1195,"name":"clinton"},
@@ -46,12 +46,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Central Falls"},
 "Barrington":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":3,"reporting":0},
+{"votes":2031,"name":"obama"},
+{"votes":1874,"name":"clinton"},
+{"votes":15,"name":"edwards"},
+{"votes":12,"name":"uncommitted-d"}],
+"total":3932,"precincts":
+{"total":3,"reporting":3},
 "name":"Barrington"},
 "Richmond":
 {"votes":[
@@ -244,12 +244,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Newport"},
 "Bristol":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":3,"reporting":0},
+{"votes":1885,"name":"clinton"},
+{"votes":1206,"name":"obama"},
+{"votes":17,"name":"edwards"},
+{"votes":12,"name":"uncommitted-d"}],
+"total":3120,"precincts":
+{"total":3,"reporting":2},
 "name":"Bristol"},
 "Johnston":
 {"votes":[

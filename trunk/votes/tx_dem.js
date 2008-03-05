@@ -7,7 +7,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5226,"name":"biden"},
 {"votes":3719,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":8032},
+{"total":8247,"reporting":8052},
 "delegates":193,"date":"03-04"},
 "state":"TX","party":"dem","total":2816129,"locals":
 {"Wilson":
@@ -558,7 +558,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":39,"name":"biden"},
 {"votes":29,"name":"dodd"}],
 "total":5788,"precincts":
-{"total":21,"reporting":1},
+{"total":21,"reporting":21},
 "name":"Upshur"},
 "Colorado":
 {"votes":[

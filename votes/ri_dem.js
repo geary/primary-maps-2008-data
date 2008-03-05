@@ -1,21 +1,21 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":875,"name":"obama"},
-{"votes":819,"name":"clinton"},
-{"votes":10,"name":"edwards"},
-{"votes":6,"name":"uncommitted-d"}],
+{"votes":4317,"name":"clinton"},
+{"votes":4138,"name":"obama"},
+{"votes":46,"name":"edwards"},
+{"votes":31,"name":"uncommitted-d"}],
 "name":"Rhode Island","precincts":
-{"total":179,"reporting":2},
+{"total":179,"reporting":10},
 "delegates":21,"date":"03-04"},
-"state":"RI","party":"dem","total":1710,"locals":
+"state":"RI","party":"dem","total":8532,"locals":
 {"Middletown":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":4,"reporting":0},
+{"votes":543,"name":"clinton"},
+{"votes":490,"name":"obama"},
+{"votes":8,"name":"edwards"},
+{"votes":5,"name":"uncommitted-d"}],
+"total":1046,"precincts":
+{"total":4,"reporting":1},
 "name":"Middletown"},
 "Cumberland":
 {"votes":[
@@ -28,12 +28,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Cumberland"},
 "Hopkinton":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":580,"name":"clinton"},
+{"votes":519,"name":"obama"},
+{"votes":6,"name":"edwards"},
+{"votes":5,"name":"uncommitted-d"}],
+"total":1110,"precincts":
+{"total":1,"reporting":1},
 "name":"Hopkinton"},
 "Central Falls":
 {"votes":[
@@ -73,12 +73,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Providence"},
 "Foster":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":377,"name":"clinton"},
+{"votes":304,"name":"obama"},
+{"votes":5,"name":"edwards"},
+{"votes":3,"name":"uncommitted-d"}],
+"total":689,"precincts":
+{"total":1,"reporting":1},
 "name":"Foster"},
 "Warwick":
 {"votes":[
@@ -91,12 +91,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Warwick"},
 "Jamestown":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":815,"name":"obama"},
+{"votes":644,"name":"clinton"},
+{"votes":5,"name":"uncommitted-d"},
+{"votes":4,"name":"edwards"}],
+"total":1468,"precincts":
+{"total":1,"reporting":1},
 "name":"Jamestown"},
 "Smithfield":
 {"votes":[
@@ -163,12 +163,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Little Compton"},
 "West Greenwich":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":550,"name":"clinton"},
+{"votes":353,"name":"obama"},
+{"votes":3,"name":"edwards"},
+{"votes":1,"name":"uncommitted-d"}],
+"total":907,"precincts":
+{"total":1,"reporting":1},
 "name":"West Greenwich"},
 "Charlestown":
 {"votes":[
@@ -271,12 +271,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Scituate"},
 "New Shoreham":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":209,"name":"obama"},
+{"votes":117,"name":"clinton"},
+{"votes":2,"name":"uncommitted-d"},
+{"votes":0,"name":"edwards"}],
+"total":328,"precincts":
+{"total":1,"reporting":1},
 "name":"New Shoreham"},
 "Exeter":
 {"votes":[
@@ -316,12 +316,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"North Kingstown"},
 "Portsmouth":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":5,"reporting":0},
+{"votes":436,"name":"clinton"},
+{"votes":404,"name":"obama"},
+{"votes":6,"name":"edwards"},
+{"votes":3,"name":"uncommitted-d"}],
+"total":849,"precincts":
+{"total":5,"reporting":1},
 "name":"Portsmouth"},
 "Narragansett":
 {"votes":[
@@ -334,12 +334,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Narragansett"},
 "Tiverton":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":4,"reporting":0},
+{"votes":251,"name":"clinton"},
+{"votes":169,"name":"obama"},
+{"votes":4,"name":"edwards"},
+{"votes":1,"name":"uncommitted-d"}],
+"total":425,"precincts":
+{"total":4,"reporting":1},
 "name":"Tiverton"},
 "Woonsocket":
 {"votes":[

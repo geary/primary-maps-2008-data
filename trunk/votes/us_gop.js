@@ -431,7 +431,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":34810,"name":"romney"},
 {"votes":16342,"name":"thompson"}],
 "name":"Ohio","precincts":
-{"total":11238,"reporting":11192},
+{"total":11238,"reporting":11194},
 "delegates":85,"date":"03-04"},
 "Alabama":
 {"votes":[

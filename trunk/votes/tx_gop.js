@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":852,"name":"cort"},
 {"votes":535,"name":"tran"}],
 "name":"Texas","precincts":
-{"total":7959,"reporting":6310},
+{"total":7959,"reporting":6340},
 "delegates":140,"date":"03-04"},
 "state":"TX","party":"gop","total":1230093,"locals":
 {"Wilson":
@@ -1037,7 +1037,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"tran"},
 {"votes":0,"name":"cort"}],
 "total":1025,"precincts":
-{"total":9,"reporting":8},
+{"total":9,"reporting":9},
 "name":"Hemphill"},
 "McLennan":
 {"votes":[
@@ -1901,7 +1901,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"tran"},
 {"votes":0,"name":"cort"}],
 "total":1130,"precincts":
-{"total":17,"reporting":12},
+{"total":17,"reporting":15},
 "name":"Bosque"},
 "Kendall":
 {"votes":[
@@ -3309,7 +3309,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":11,"name":"tran"},
 {"votes":7,"name":"cort"}],
 "total":36739,"precincts":
-{"total":211,"reporting":165},
+{"total":211,"reporting":177},
 "name":"Travis"},
 "Coke":
 {"votes":[
@@ -3389,7 +3389,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1,"name":"giuliani"},
 {"votes":0,"name":"cort"}],
 "total":287,"precincts":
-{"total":15,"reporting":1},
+{"total":15,"reporting":15},
 "name":"Nolan"},
 "Hale":
 {"votes":[

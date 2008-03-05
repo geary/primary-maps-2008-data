@@ -471,7 +471,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5364,"name":"biden"},
 {"votes":3710,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":7865},
+{"total":8247,"reporting":7904},
 "delegates":193,"date":"03-04"},
 "Nevada":
 {"name":"Nevada","precincts":

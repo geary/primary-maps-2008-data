@@ -127,7 +127,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":564,"name":"tran"}],
 "name":"Texas","precincts":
 {"total":7959,"reporting":6751},
-"delegates":140,"date":"03-04"},
+"delegates":137,"date":"03-04"},
 "Wyoming":
 {"name":"Wyoming","precincts":
 {"total":12,"reporting":12},
@@ -407,7 +407,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":24,"name":"cort"}],
 "name":"Rhode Island","precincts":
 {"total":179,"reporting":176},
-"delegates":20,"date":"03-04"},
+"delegates":17,"date":"03-04"},
 "Missouri":
 {"votes":[
 {"votes":194304,"name":"mccain","delegates":58},

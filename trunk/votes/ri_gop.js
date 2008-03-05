@@ -1,16 +1,16 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13126,"name":"mccain"},
-{"votes":4404,"name":"huckabee"},
-{"votes":1326,"name":"paul"},
-{"votes":878,"name":"romney"},
-{"votes":418,"name":"uncommitted-r"},
-{"votes":83,"name":"keyes"},
-{"votes":19,"name":"cort"}],
+{"votes":14370,"name":"mccain"},
+{"votes":4808,"name":"huckabee"},
+{"votes":1459,"name":"paul"},
+{"votes":963,"name":"romney"},
+{"votes":456,"name":"uncommitted-r"},
+{"votes":96,"name":"keyes"},
+{"votes":21,"name":"cort"}],
 "name":"Rhode Island","precincts":
-{"total":179,"reporting":131},
+{"total":179,"reporting":146},
 "delegates":20,"date":"03-04"},
-"state":"RI","party":"gop","total":20254,"locals":
+"state":"RI","party":"gop","total":22173,"locals":
 {"Middletown":
 {"votes":[
 {"votes":413,"name":"mccain"},
@@ -229,15 +229,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"West Greenwich"},
 "Charlestown":
 {"votes":[
-{"votes":60,"name":"mccain"},
-{"votes":27,"name":"huckabee"},
-{"votes":17,"name":"paul"},
-{"votes":3,"name":"romney"},
-{"votes":3,"name":"uncommitted-r"},
-{"votes":0,"name":"cort"},
+{"votes":244,"name":"mccain"},
+{"votes":75,"name":"huckabee"},
+{"votes":33,"name":"paul"},
+{"votes":11,"name":"uncommitted-r"},
+{"votes":8,"name":"romney"},
+{"votes":1,"name":"cort"},
 {"votes":0,"name":"keyes"}],
-"total":110,"precincts":
-{"total":3,"reporting":1},
+"total":372,"precincts":
+{"total":3,"reporting":3},
 "name":"Charlestown"},
 "North Smithfield":
 {"votes":[
@@ -325,15 +325,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Newport"},
 "Bristol":
 {"votes":[
-{"votes":320,"name":"mccain"},
-{"votes":82,"name":"huckabee"},
-{"votes":28,"name":"paul"},
-{"votes":26,"name":"romney"},
-{"votes":4,"name":"uncommitted-r"},
+{"votes":407,"name":"mccain"},
+{"votes":104,"name":"huckabee"},
+{"votes":42,"name":"paul"},
+{"votes":29,"name":"romney"},
+{"votes":7,"name":"uncommitted-r"},
 {"votes":1,"name":"cort"},
 {"votes":1,"name":"keyes"}],
-"total":462,"precincts":
-{"total":3,"reporting":2},
+"total":591,"precincts":
+{"total":3,"reporting":3},
 "name":"Bristol"},
 "Johnston":
 {"votes":[
@@ -469,15 +469,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Woonsocket"},
 "East Greenwich":
 {"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
-"total":0,"precincts":
-{"total":2,"reporting":0},
+{"votes":548,"name":"mccain"},
+{"votes":134,"name":"huckabee"},
+{"votes":34,"name":"romney"},
+{"votes":30,"name":"paul"},
+{"votes":6,"name":"uncommitted-r"},
+{"votes":2,"name":"keyes"},
+{"votes":0,"name":"cort"}],
+"total":754,"precincts":
+{"total":2,"reporting":2},
 "name":"East Greenwich"},
 "Pawtucket":
 {"votes":[

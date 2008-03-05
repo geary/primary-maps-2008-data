@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":10821665,"name":"obama"},
-{"votes":10489430,"name":"clinton"},
+{"votes":10821689,"name":"obama"},
+{"votes":10489445,"name":"clinton"},
 {"votes":851544,"name":"edwards"},
 {"votes":255930,"name":"uncommitted-d"},
 {"votes":100745,"name":"kucinich"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":21161,"name":"gravel"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":22735998,"locals":
+"state":"US","party":"dem","total":22736037,"locals":
 {"Oklahoma":
 {"votes":[
 {"votes":228425,"name":"clinton","delegates":"24"},
@@ -302,12 +302,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":"74","date":"02-19"},
 "Vermont":
 {"votes":[
-{"votes":516,"name":"obama"},
-{"votes":438,"name":"clinton"},
+{"votes":540,"name":"obama"},
+{"votes":453,"name":"clinton"},
 {"votes":19,"name":"edwards"},
 {"votes":5,"name":"kucinich"}],
 "name":"Vermont","precincts":
-{"total":260,"reporting":1},
+{"total":260,"reporting":2},
 "delegates":"15","date":"03-04"},
 "Georgia":
 {"votes":[

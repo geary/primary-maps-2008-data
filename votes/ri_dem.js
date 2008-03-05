@@ -6,7 +6,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"obama"}],
 "name":"Rhode Island","precincts":
 {"total":179,"reporting":0},
-"delegates":"21","date":"03-04"},
+"delegates":21,"date":"03-04"},
 "state":"RI","party":"dem","total":0,"locals":
 {"Middletown":
 {"votes":[

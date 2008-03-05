@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":704591,"name":"clinton","delegates":"55"},
-{"votes":511887,"name":"obama","delegates":"38"},
+{"votes":704591,"name":"clinton","delegates":55},
+{"votes":511887,"name":"obama","delegates":38},
 {"votes":19889,"name":"edwards"},
 {"votes":3689,"name":"biden"},
 {"votes":2984,"name":"kucinich"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":819,"name":"dodd"}],
 "name":"Massachusetts","precincts":
 {"total":2167,"reporting":2167},
-"delegates":"93","date":"02-05"},
+"delegates":93,"date":"02-05"},
 "state":"MA","party":"dem","total":1246771,"locals":
 {"Pepperell":
 {"votes":[

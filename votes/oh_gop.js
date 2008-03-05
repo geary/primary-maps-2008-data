@@ -7,7 +7,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":146,"name":"thompson"}],
 "name":"Ohio","precincts":
 {"total":11238,"reporting":5},
-"delegates":"88","date":"03-04"},
+"delegates":88,"date":"03-04"},
 "state":"OH","party":"gop","total":12403,"locals":
 {"Preble":
 {"votes":[

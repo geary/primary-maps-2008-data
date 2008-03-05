@@ -2,10 +2,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Maine","precincts":
 {"total":626,"reporting":621},
 "votes":[
-{"votes":2079,"name":"obama","delegates":"15"},
-{"votes":1397,"name":"clinton","delegates":"9"},
+{"votes":2079,"name":"obama","delegates":15},
+{"votes":1397,"name":"clinton","delegates":9},
 {"votes":18,"name":"uncommitted-d"}],
-"delegates":"24","date":"02-10","type":"caucus"},
+"delegates":24,"date":"02-10","type":"caucus"},
 "state":"ME","party":"dem","total":3494,"locals":
 {"Baring Plt.":
 {"votes":[

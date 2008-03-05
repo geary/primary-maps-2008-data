@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":220588,"name":"obama","delegates":"34"},
-{"votes":136959,"name":"clinton","delegates":"22"},
+{"votes":220588,"name":"obama","delegates":34},
+{"votes":136959,"name":"clinton","delegates":22},
 {"votes":13034,"name":"edwards"},
 {"votes":6179,"name":"biden"},
 {"votes":4258,"name":"richardson"},
@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1405,"name":"kucinich"}],
 "name":"Louisiana","precincts":
 {"total":3966,"reporting":3966},
-"delegates":"56","date":"02-09"},
+"delegates":56,"date":"02-09"},
 "state":"LA","party":"dem","total":384348,"locals":
 {"Orleans":
 {"votes":[

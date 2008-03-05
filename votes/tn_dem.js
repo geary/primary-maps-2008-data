@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":332599,"name":"clinton","delegates":"39"},
-{"votes":250730,"name":"obama","delegates":"29"},
+{"votes":332599,"name":"clinton","delegates":39},
+{"votes":250730,"name":"obama","delegates":29},
 {"votes":27644,"name":"edwards"},
 {"votes":3123,"name":"uncommitted-d"},
 {"votes":1522,"name":"biden"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":460,"name":"gravel"}],
 "name":"Tennessee","precincts":
 {"total":2290,"reporting":2290},
-"delegates":"68","date":"02-05"},
+"delegates":68,"date":"02-05"},
 "state":"TN","party":"dem","total":618723,"locals":
 {"Wilson":
 {"votes":[

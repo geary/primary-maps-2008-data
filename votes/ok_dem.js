@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":228425,"name":"clinton","delegates":"24"},
-{"votes":130087,"name":"obama","delegates":"14"},
+{"votes":228425,"name":"clinton","delegates":24},
+{"votes":130087,"name":"obama","delegates":14},
 {"votes":42718,"name":"edwards"},
 {"votes":7076,"name":"richardson"},
 {"votes":2511,"name":"dodd"},
 {"votes":2377,"name":"kucinich"}],
 "name":"Oklahoma","precincts":
 {"total":2220,"reporting":2220},
-"delegates":"38","date":"02-05"},
+"delegates":38,"date":"02-05"},
 "state":"OK","party":"dem","total":413194,"locals":
 {"Garfield":
 {"votes":[

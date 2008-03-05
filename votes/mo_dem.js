@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":405284,"name":"obama","delegates":"36"},
-{"votes":395287,"name":"clinton","delegates":"36"},
+{"votes":405284,"name":"obama","delegates":36},
+{"votes":395287,"name":"clinton","delegates":36},
 {"votes":16747,"name":"edwards"},
 {"votes":3135,"name":"uncommitted-d"},
 {"votes":821,"name":"kucinich"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":249,"name":"dodd"}],
 "name":"Missouri","precincts":
 {"total":3371,"reporting":3371},
-"delegates":"72","date":"02-05"},
+"delegates":72,"date":"02-05"},
 "state":"MO","party":"dem","total":823280,"locals":
 {"Daviess":
 {"votes":[

@@ -7,7 +7,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2363,"name":"gravel"}],
 "name":"Michigan","precincts":
 {"total":5385,"reporting":5385},
-"delegates":"0","date":"01-15"},
+"delegates":0,"date":"01-15"},
 "state":"MI","party":"dem","total":592798,"locals":
 {"Mackinac":
 {"votes":[

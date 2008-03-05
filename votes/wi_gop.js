@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":224226,"name":"mccain","delegates":"31"},
-{"votes":151201,"name":"huckabee","delegates":"3"},
+{"votes":224226,"name":"mccain","delegates":31},
+{"votes":151201,"name":"huckabee","delegates":3},
 {"votes":19210,"name":"paul"},
 {"votes":8082,"name":"romney"},
 {"votes":2705,"name":"thompson"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":187,"name":"tancredo"}],
 "name":"Wisconsin","precincts":
 {"total":3570,"reporting":3570},
-"delegates":"37","date":"02-19"},
+"delegates":37,"date":"02-19"},
 "state":"WI","party":"gop","total":408497,"locals":
 {"Marinette":
 {"votes":[

@@ -2,13 +2,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Kansas","precincts":
 {"total":50,"reporting":50},
 "votes":[
-{"votes":27172,"name":"obama","delegates":"23"},
-{"votes":9462,"name":"clinton","delegates":"9"},
+{"votes":27172,"name":"obama","delegates":23},
+{"votes":9462,"name":"clinton","delegates":9},
 {"votes":53,"name":"edwards"},
 {"votes":35,"name":"kucinich"},
 {"votes":8,"name":"uncommitted-d"},
 {"votes":1,"name":"richardson"}],
-"delegates":"32","date":"02-05","type":"caucus"},
+"delegates":32,"date":"02-05","type":"caucus"},
 "state":"KS","party":"dem","total":36731,"locals":
 {"CD4":
 {"votes":[

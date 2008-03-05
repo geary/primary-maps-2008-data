@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":143224,"name":"mccain","delegates":"19"},
-{"votes":128908,"name":"huckabee","delegates":"5"},
+{"votes":143224,"name":"mccain","delegates":19},
+{"votes":128908,"name":"huckabee","delegates":5},
 {"votes":67897,"name":"thompson"},
 {"votes":64970,"name":"romney"},
 {"votes":15773,"name":"paul"},
@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "name":"South Carolina","precincts":
 {"total":2259,"reporting":2249},
-"delegates":"24","date":"01-19"},
+"delegates":24,"date":"01-19"},
 "state":"SC","party":"gop","total":431196,"locals":
 {"Lancaster":
 {"votes":[

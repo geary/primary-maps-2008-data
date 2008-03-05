@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":70373,"name":"obama","delegates":"14"},
-{"votes":48719,"name":"clinton","delegates":"9"},
+{"votes":70373,"name":"obama","delegates":14},
+{"votes":48719,"name":"clinton","delegates":9},
 {"votes":3525,"name":"edwards"},
 {"votes":526,"name":"richardson"},
 {"votes":447,"name":"biden"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":110,"name":"dodd"}],
 "name":"Utah","precincts":
 {"total":2257,"reporting":2256},
-"delegates":"23","date":"02-05"},
+"delegates":23,"date":"02-05"},
 "state":"UT","party":"dem","total":124239,"locals":
 {"San Juan":
 {"votes":[

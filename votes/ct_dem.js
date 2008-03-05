@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":179349,"name":"obama","delegates":"26"},
-{"votes":164831,"name":"clinton","delegates":"22"},
+{"votes":179349,"name":"obama","delegates":26},
+{"votes":164831,"name":"clinton","delegates":22},
 {"votes":3408,"name":"edwards"},
 {"votes":3007,"name":"uncommitted-d"},
 {"votes":906,"name":"dodd"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":272,"name":"gravel"}],
 "name":"Connecticut","precincts":
 {"total":732,"reporting":732},
-"delegates":"48","date":"02-05"},
+"delegates":48,"date":"02-05"},
 "state":"CT","party":"dem","total":353515,"locals":
 {"New London":
 {"votes":[

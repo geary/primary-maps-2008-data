@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":22626,"name":"mccain","delegates":"18"},
+{"votes":22626,"name":"mccain","delegates":18},
 {"votes":16344,"name":"romney"},
 {"votes":7706,"name":"huckabee"},
 {"votes":2131,"name":"paul"},
@@ -8,7 +8,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":175,"name":"tancredo"}],
 "name":"Delaware","precincts":
 {"total":312,"reporting":312},
-"delegates":"18","date":"02-05"},
+"delegates":18,"date":"02-05"},
 "state":"DE","party":"gop","total":50237,"locals":
 {"New Castle":
 {"votes":[

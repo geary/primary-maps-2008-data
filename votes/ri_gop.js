@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":0,"name":"paul"}],
 "name":"Rhode Island","precincts":
 {"total":179,"reporting":0},
-"delegates":"20","date":"03-04"},
+"delegates":20,"date":"03-04"},
 "state":"RI","party":"gop","total":0,"locals":
 {"Middletown":
 {"votes":[

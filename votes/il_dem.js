@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":1301954,"name":"obama","delegates":"104"},
-{"votes":662845,"name":"clinton","delegates":"49"},
+{"votes":1301954,"name":"obama","delegates":104},
+{"votes":662845,"name":"clinton","delegates":49},
 {"votes":39001,"name":"edwards"},
 {"votes":4148,"name":"kucinich"},
 {"votes":3727,"name":"biden"},
@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1155,"name":"dodd"}],
 "name":"Illinois","precincts":
 {"total":11574,"reporting":11510},
-"delegates":"153","date":"02-05"},
+"delegates":153,"date":"02-05"},
 "state":"IL","party":"dem","total":2016316,"locals":
 {"Richland":
 {"votes":[

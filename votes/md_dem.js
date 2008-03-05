@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":464474,"name":"obama","delegates":"42"},
-{"votes":285440,"name":"clinton","delegates":"28"},
+{"votes":464474,"name":"obama","delegates":42},
+{"votes":285440,"name":"clinton","delegates":28},
 {"votes":8869,"name":"edwards"},
 {"votes":3428,"name":"biden"},
 {"votes":1889,"name":"richardson"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":720,"name":"dodd"}],
 "name":"Maryland","precincts":
 {"total":1829,"reporting":1782},
-"delegates":"70","date":"02-12"},
+"delegates":70,"date":"02-12"},
 "state":"MD","party":"dem","total":767275,"locals":
 {"Howard":
 {"votes":[

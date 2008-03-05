@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":112238,"name":"clinton","delegates":"9"},
-{"votes":104757,"name":"obama","delegates":"9"},
+{"votes":112238,"name":"clinton","delegates":9},
+{"votes":104757,"name":"obama","delegates":9},
 {"votes":48666,"name":"edwards"},
 {"votes":13245,"name":"richardson"},
 {"votes":3912,"name":"kucinich"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":202,"name":"dodd"}],
 "name":"New Hampshire","precincts":
 {"total":301,"reporting":300},
-"delegates":"22","date":"01-08"},
+"delegates":22,"date":"01-08"},
 "state":"NH","party":"dem","total":284050,"locals":
 {"Albany":
 {"votes":[

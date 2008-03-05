@@ -1,8 +1,8 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":88447,"name":"mccain","delegates":"7"},
-{"votes":75202,"name":"romney","delegates":"4"},
-{"votes":26760,"name":"huckabee","delegates":"1"},
+{"votes":88447,"name":"mccain","delegates":7},
+{"votes":75202,"name":"romney","delegates":4},
+{"votes":26760,"name":"huckabee","delegates":1},
 {"votes":20387,"name":"giuliani"},
 {"votes":18276,"name":"paul"},
 {"votes":2884,"name":"thompson"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":68,"name":"tancredo"}],
 "name":"New Hampshire","precincts":
 {"total":301,"reporting":300},
-"delegates":"12","date":"01-08"},
+"delegates":12,"date":"01-08"},
 "state":"NH","party":"gop","total":233464,"locals":
 {"Albany":
 {"votes":[

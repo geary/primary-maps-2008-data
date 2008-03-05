@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":255218,"name":"romney","delegates":"36"},
+{"votes":255218,"name":"romney","delegates":36},
 {"votes":15264,"name":"mccain"},
 {"votes":8295,"name":"paul"},
 {"votes":4054,"name":"huckabee"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":204,"name":"hunter"}],
 "name":"Utah","precincts":
 {"total":2257,"reporting":2256},
-"delegates":"36","date":"02-05"},
+"delegates":36,"date":"02-05"},
 "state":"UT","party":"gop","total":284790,"locals":
 {"San Juan":
 {"votes":[

@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":302684,"name":"obama","delegates":"27"},
-{"votes":226454,"name":"clinton","delegates":"25"},
+{"votes":302684,"name":"obama","delegates":27},
+{"votes":226454,"name":"clinton","delegates":25},
 {"votes":7933,"name":"edwards"},
 {"votes":2672,"name":"uncommitted-d"},
 {"votes":1193,"name":"biden"},
@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":529,"name":"dodd"}],
 "name":"Alabama","precincts":
 {"total":2827,"reporting":2821},
-"delegates":"52","date":"02-05"},
+"delegates":52,"date":"02-05"},
 "state":"AL","party":"dem","total":542511,"locals":
 {"Shelby":
 {"votes":[

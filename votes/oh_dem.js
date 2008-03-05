@@ -2,11 +2,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":1080439,"name":"clinton","delegates":63},
 {"votes":842994,"name":"obama","delegates":48},
-{"votes":34919,"name":"edwards"}],
+{"votes":34918,"name":"edwards"}],
 "name":"Ohio","precincts":
 {"total":11238,"reporting":10372},
 "delegates":141,"date":"03-04"},
-"state":"OH","party":"dem","total":1958352,"locals":
+"state":"OH","party":"dem","total":1958351,"locals":
 {"Preble":
 {"votes":[
 {"votes":4291,"name":"clinton"},
@@ -227,8 +227,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":11992,"name":"clinton"},
 {"votes":5090,"name":"obama"},
-{"votes":942,"name":"edwards"}],
-"total":18024,"precincts":
+{"votes":941,"name":"edwards"}],
+"total":18023,"precincts":
 {"total":82,"reporting":82},
 "name":"Jefferson"},
 "Ashtabula":

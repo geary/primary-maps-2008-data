@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"03-04","votes":[
-{"votes":106471,"name":"clinton"},
-{"votes":73609,"name":"obama"},
+{"votes":[
+{"votes":106471,"name":"clinton","delegates":6},
+{"votes":73609,"name":"obama","delegates":6},
 {"votes":1112,"name":"edwards"},
 {"votes":1012,"name":"uncommitted-d"}],
-"precincts":
+"name":"Rhode Island","precincts":
 {"total":179,"reporting":176},
-"name":"Rhode Island"},
+"delegates":21,"date":"03-04"},
 "state":"RI","party":"dem","total":182204,"locals":
 {"Middletown":
 {"votes":[

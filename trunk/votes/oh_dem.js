@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"03-04","votes":[
-{"votes":886278,"name":"clinton"},
-{"votes":662057,"name":"obama"},
+{"votes":[
+{"votes":886278,"name":"clinton","delegates":50},
+{"votes":662057,"name":"obama","delegates":35},
 {"votes":29173,"name":"edwards"}],
-"precincts":
+"name":"Ohio","precincts":
 {"total":11238,"reporting":8042},
-"name":"Ohio"},
+"delegates":141,"date":"03-04"},
 "state":"OH","party":"dem","total":1577508,"locals":
 {"Preble":
 {"votes":[

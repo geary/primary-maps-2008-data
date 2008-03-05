@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"03-04","votes":[
-{"votes":77768,"name":"obama"},
-{"votes":49508,"name":"clinton"},
+{"votes":[
+{"votes":77768,"name":"obama","delegates":9},
+{"votes":49508,"name":"clinton","delegates":6},
 {"votes":1601,"name":"edwards"},
 {"votes":850,"name":"kucinich"}],
-"precincts":
+"name":"Vermont","precincts":
 {"total":260,"reporting":218},
-"name":"Vermont"},
+"delegates":15,"date":"03-04"},
 "state":"VT","party":"dem","total":129727,"locals":
 {"Albany":
 {"votes":[

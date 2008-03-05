@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":1433998,"name":"clinton","delegates":46},
-{"votes":1337395,"name":"obama","delegates":35},
-{"votes":29450,"name":"edwards"},
-{"votes":10559,"name":"richardson"},
-{"votes":5237,"name":"biden"},
-{"votes":3721,"name":"dodd"}],
+{"votes":1435178,"name":"clinton","delegates":46},
+{"votes":1338085,"name":"obama","delegates":35},
+{"votes":29479,"name":"edwards"},
+{"votes":10578,"name":"richardson"},
+{"votes":5240,"name":"biden"},
+{"votes":3729,"name":"dodd"}],
 "name":"Texas","precincts":
-{"total":8247,"reporting":8088},
+{"total":8247,"reporting":8089},
 "delegates":193,"date":"03-04"},
-"state":"TX","party":"dem","total":2820360,"locals":
+"state":"TX","party":"dem","total":2822289,"locals":
 {"Wilson":
 {"votes":[
 {"votes":3486,"name":"clinton"},
@@ -2652,14 +2652,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Limestone"},
 "Val Verde":
 {"votes":[
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":14,"reporting":0},
+{"votes":1180,"name":"clinton"},
+{"votes":690,"name":"obama"},
+{"votes":29,"name":"edwards"},
+{"votes":19,"name":"richardson"},
+{"votes":8,"name":"dodd"},
+{"votes":3,"name":"biden"}],
+"total":1929,"precincts":
+{"total":14,"reporting":1},
 "name":"Val Verde"},
 "Zavala":
 {"votes":[

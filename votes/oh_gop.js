@@ -6,7 +6,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":34810,"name":"romney"},
 {"votes":16342,"name":"thompson"}],
 "name":"Ohio","precincts":
-{"total":11238,"reporting":11192},
+{"total":11238,"reporting":11194},
 "delegates":85,"date":"03-04"},
 "state":"OH","party":"gop","total":1055543,"locals":
 {"Preble":
@@ -347,7 +347,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":83,"name":"romney"},
 {"votes":72,"name":"thompson"}],
 "total":6181,"precincts":
-{"total":92,"reporting":90},
+{"total":92,"reporting":92},
 "name":"Scioto"},
 "Greene":
 {"votes":[

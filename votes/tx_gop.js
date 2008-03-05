@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":905,"name":"cort"},
 {"votes":617,"name":"tran"}],
 "name":"Texas","precincts":
-{"total":7959,"reporting":7794},
+{"total":7959,"reporting":7804},
 "delegates":137,"date":"03-04"},
 "state":"TX","party":"gop","total":1361939,"locals":
 {"Wilson":
@@ -3677,7 +3677,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":9,"name":"cort"},
 {"votes":3,"name":"tran"}],
 "total":17800,"precincts":
-{"total":50,"reporting":40},
+{"total":50,"reporting":50},
 "name":"Bell"},
 "Cass":
 {"votes":[

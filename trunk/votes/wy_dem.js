@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Wyoming","precincts":
-{"total":23,"reporting":16},
+{"total":23,"reporting":18},
 "votes":[
-{"votes":2725,"name":"obama"},
-{"votes":1933,"name":"clinton"},
-{"votes":42,"name":"uncommitted-d"}],
+{"votes":4000,"name":"obama"},
+{"votes":2756,"name":"clinton"},
+{"votes":64,"name":"uncommitted-d"}],
 "delegates":12,"date":"03-08","type":"caucus"},
-"state":"WY","party":"dem","total":4700,"locals":
+"state":"WY","party":"dem","total":6820,"locals":
 {"Sublette":
 {"votes":[
 {"votes":48,"name":"obama"},
@@ -60,11 +60,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lincoln"},
 "Laramie":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":940,"name":"obama"},
+{"votes":588,"name":"clinton"},
+{"votes":0,"name":"uncommitted-d"}],
+"total":1528,"precincts":
+{"total":1,"reporting":1},
 "name":"Laramie"},
 "Converse-Niobrara":
 {"votes":[],
@@ -90,11 +90,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"name":"Hot Springs-Washakie"},
 "Fremont":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":335,"name":"obama"},
+{"votes":235,"name":"clinton"},
+{"votes":22,"name":"uncommitted-d"}],
+"total":592,"precincts":
+{"total":1,"reporting":1},
 "name":"Fremont"},
 "Hot Springs":
 {"votes":[

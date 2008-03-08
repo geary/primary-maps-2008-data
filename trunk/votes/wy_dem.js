@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Wyoming","precincts":
-{"total":23,"reporting":21},
+{"total":23,"reporting":22},
 "votes":[
-{"votes":4138,"name":"obama"},
-{"votes":2876,"name":"clinton"},
-{"votes":64,"name":"uncommitted-d"}],
+{"votes":4459,"name":"obama"},
+{"votes":3081,"name":"clinton"},
+{"votes":65,"name":"uncommitted-d"}],
 "delegates":12,"date":"03-08","type":"caucus"},
-"state":"WY","party":"dem","total":7078,"locals":
+"state":"WY","party":"dem","total":7605,"locals":
 {"Sublette":
 {"votes":[
 {"votes":48,"name":"obama"},
@@ -122,11 +122,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Platte"},
 "Sheridan":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":321,"name":"obama"},
+{"votes":205,"name":"clinton"},
+{"votes":1,"name":"uncommitted-d"}],
+"total":527,"precincts":
+{"total":1,"reporting":1},
 "name":"Sheridan"},
 "Sheridan-Big Horn":
 {"votes":[],

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Wyoming","precincts":
-{"total":23,"reporting":18},
+{"total":23,"reporting":20},
 "votes":[
-{"votes":4000,"name":"obama"},
-{"votes":2756,"name":"clinton"},
+{"votes":4077,"name":"obama"},
+{"votes":2838,"name":"clinton"},
 {"votes":64,"name":"uncommitted-d"}],
 "delegates":12,"date":"03-08","type":"caucus"},
-"state":"WY","party":"dem","total":6820,"locals":
+"state":"WY","party":"dem","total":6979,"locals":
 {"Sublette":
 {"votes":[
 {"votes":48,"name":"obama"},
@@ -144,11 +144,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"name":"Fremont-Park"},
 "Big Horn":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":49,"name":"obama"},
+{"votes":42,"name":"clinton"},
+{"votes":0,"name":"uncommitted-d"}],
+"total":91,"precincts":
+{"total":1,"reporting":1},
 "name":"Big Horn"},
 "Goshen-Platte":
 {"votes":[],
@@ -180,11 +180,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sweetwater"},
 "Weston":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":40,"name":"clinton"},
+{"votes":28,"name":"obama"},
+{"votes":0,"name":"uncommitted-d"}],
+"total":68,"precincts":
+{"total":1,"reporting":1},
 "name":"Weston"},
 "Crook":
 {"votes":[

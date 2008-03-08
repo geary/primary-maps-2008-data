@@ -2,8 +2,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Wyoming","precincts":
 {"total":23,"reporting":22},
 "votes":[
-{"votes":4459,"name":"obama"},
-{"votes":3081,"name":"clinton"},
+{"votes":4459,"name":"obama","delegates":7},
+{"votes":3081,"name":"clinton","delegates":5},
 {"votes":65,"name":"uncommitted-d"}],
 "delegates":12,"date":"03-08","type":"caucus"},
 "state":"WY","party":"dem","total":7605,"locals":

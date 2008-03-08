@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Wyoming","precincts":
-{"total":23,"reporting":20},
+{"total":23,"reporting":21},
 "votes":[
-{"votes":4077,"name":"obama"},
-{"votes":2838,"name":"clinton"},
+{"votes":4138,"name":"obama"},
+{"votes":2876,"name":"clinton"},
 {"votes":64,"name":"uncommitted-d"}],
 "delegates":12,"date":"03-08","type":"caucus"},
-"state":"WY","party":"dem","total":6979,"locals":
+"state":"WY","party":"dem","total":7078,"locals":
 {"Sublette":
 {"votes":[
 {"votes":48,"name":"obama"},
@@ -133,11 +133,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"name":"Sheridan-Big Horn"},
 "Johnson":
 {"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":61,"name":"obama"},
+{"votes":38,"name":"clinton"},
+{"votes":0,"name":"uncommitted-d"}],
+"total":99,"precincts":
+{"total":1,"reporting":1},
 "name":"Johnson"},
 "Fremont-Park":
 {"votes":[],

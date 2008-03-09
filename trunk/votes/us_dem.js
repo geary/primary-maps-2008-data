@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":13314166,"name":"obama","delegates":1371},
 {"votes":13309222,"name":"clinton","delegates":1220},
 {"votes":922073,"name":"edwards"},
-{"votes":257007,"name":"uncommitted-d"},
+{"votes":257005,"name":"uncommitted-d"},
 {"votes":103245,"name":"richardson"},
 {"votes":101659,"name":"kucinich"},
 {"votes":79381,"name":"biden"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":21161,"name":"gravel"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":28140491,"locals":
+"state":"US","party":"dem","total":28140489,"locals":
 {"Oklahoma":
 {"votes":[
 {"votes":228425,"name":"clinton","delegates":24},
@@ -131,7 +131,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "votes":[
 {"votes":4459,"name":"obama","delegates":7},
 {"votes":3081,"name":"clinton","delegates":5},
-{"votes":65,"name":"uncommitted-d"}],
+{"votes":63,"name":"uncommitted-d"}],
 "delegates":12,"date":"03-08","type":"caucus"},
 "Tennessee":
 {"votes":[

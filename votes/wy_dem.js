@@ -4,9 +4,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "votes":[
 {"votes":4459,"name":"obama","delegates":7},
 {"votes":3081,"name":"clinton","delegates":5},
-{"votes":65,"name":"uncommitted-d"}],
+{"votes":63,"name":"uncommitted-d"}],
 "delegates":12,"date":"03-08","type":"caucus"},
-"state":"WY","party":"dem","total":7605,"locals":
+"state":"WY","party":"dem","total":7603,"locals":
 {"Sublette":
 {"votes":[
 {"votes":48,"name":"obama"},
@@ -54,8 +54,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":81,"name":"obama"},
 {"votes":53,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"}],
-"total":136,"precincts":
+{"votes":0,"name":"uncommitted-d"}],
+"total":134,"precincts":
 {"total":1,"reporting":1},
 "name":"Lincoln"},
 "Laramie":

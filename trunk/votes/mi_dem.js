@@ -154,8 +154,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":84,"name":"clinton"},
 {"votes":49,"name":"uncommitted-d"},
 {"votes":14,"name":"kucinich"},
-{"votes":1,"name":"gravel"},
-{"votes":0,"name":"dodd"}],
+{"votes":1,"name":"gravel"}],
 "total":148,"precincts":
 {"total":5,"reporting":5},
 "name":"Keweenaw"},
@@ -434,8 +433,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":788,"name":"clinton"},
 {"votes":86,"name":"kucinich"},
 {"votes":11,"name":"gravel"},
-{"votes":9,"name":"dodd"},
-{"votes":0,"name":"uncommitted-d"}],
+{"votes":9,"name":"dodd"}],
 "total":894,"precincts":
 {"total":31,"reporting":31},
 "name":"Houghton"},
@@ -754,8 +752,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":695,"name":"clinton"},
 {"votes":49,"name":"kucinich"},
 {"votes":11,"name":"dodd"},
-{"votes":5,"name":"gravel"},
-{"votes":0,"name":"uncommitted-d"}],
+{"votes":5,"name":"gravel"}],
 "total":760,"precincts":
 {"total":20,"reporting":20},
 "name":"Wexford"},
@@ -784,8 +781,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":622,"name":"clinton"},
 {"votes":32,"name":"kucinich"},
 {"votes":12,"name":"gravel"},
-{"votes":9,"name":"dodd"},
-{"votes":0,"name":"uncommitted-d"}],
+{"votes":9,"name":"dodd"}],
 "total":675,"precincts":
 {"total":15,"reporting":15},
 "name":"Otsego"},

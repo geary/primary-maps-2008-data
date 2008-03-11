@@ -78,8 +78,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":43,"name":"giuliani"},
 {"votes":24,"name":"keyes"},
 {"votes":21,"name":"thompson"},
-{"votes":8,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":8,"name":"hunter"}],
 "total":1896,"precincts":
 {"total":10,"reporting":10},
 "name":"Kent"},

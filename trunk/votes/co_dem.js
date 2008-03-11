@@ -12,8 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":18,"name":"obama"},
 {"votes":8,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"uncommitted-d"}],
 "total":28,"precincts":
 {"total":1,"reporting":1},
 "name":"San Juan"},
@@ -21,8 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":333,"name":"obama"},
 {"votes":52,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"uncommitted-d"}],
 "total":387,"precincts":
 {"total":7,"reporting":7},
 "name":"San Miguel"},
@@ -30,8 +28,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":116,"name":"obama"},
 {"votes":110,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"uncommitted-d"}],
 "total":228,"precincts":
 {"total":17,"reporting":17},
 "name":"Otero"},
@@ -39,17 +36,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":166,"name":"obama"},
 {"votes":64,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"uncommitted-d"}],
 "total":232,"precincts":
 {"total":6,"reporting":6},
 "name":"Gilpin"},
 "Jackson":
 {"votes":[
 {"votes":12,"name":"clinton"},
-{"votes":8,"name":"obama"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":8,"name":"obama"}],
 "total":20,"precincts":
 {"total":5,"reporting":5},
 "name":"Jackson"},
@@ -57,8 +51,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":309,"name":"obama"},
 {"votes":140,"name":"clinton"},
-{"votes":10,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":10,"name":"uncommitted-d"}],
 "total":459,"precincts":
 {"total":15,"reporting":15},
 "name":"Chaffee"},
@@ -66,8 +59,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":104,"name":"obama"},
 {"votes":68,"name":"clinton"},
-{"votes":3,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":3,"name":"uncommitted-d"}],
 "total":175,"precincts":
 {"total":18,"reporting":18},
 "name":"Elbert"},
@@ -75,8 +67,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":336,"name":"obama"},
 {"votes":319,"name":"clinton"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":5,"name":"uncommitted-d"}],
 "total":660,"precincts":
 {"total":30,"reporting":30},
 "name":"Fremont"},
@@ -84,8 +75,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":166,"name":"obama"},
 {"votes":72,"name":"clinton"},
-{"votes":3,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":3,"name":"uncommitted-d"}],
 "total":241,"precincts":
 {"total":8,"reporting":8},
 "name":"Alamosa"},
@@ -93,8 +83,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":33,"name":"obama"},
 {"votes":18,"name":"uncommitted-d"},
-{"votes":14,"name":"clinton"},
-{"votes":0,"name":"gravel"}],
+{"votes":14,"name":"clinton"}],
 "total":65,"precincts":
 {"total":4,"reporting":4},
 "name":"Dolores"},
@@ -111,8 +100,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":165,"name":"obama"},
 {"votes":37,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"uncommitted-d"}],
 "total":204,"precincts":
 {"total":5,"reporting":5},
 "name":"Ouray"},
@@ -120,8 +108,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":27,"name":"obama"},
 {"votes":26,"name":"clinton"},
-{"votes":3,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":3,"name":"uncommitted-d"}],
 "total":56,"precincts":
 {"total":8,"reporting":8},
 "name":"Phillips"},
@@ -129,8 +116,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":675,"name":"obama"},
 {"votes":249,"name":"clinton"},
-{"votes":10,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":10,"name":"uncommitted-d"}],
 "total":934,"precincts":
 {"total":27,"reporting":27},
 "name":"Garfield"},
@@ -138,8 +124,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":9101,"name":"obama"},
 {"votes":5208,"name":"clinton"},
-{"votes":5,"name":"gravel"},
-{"votes":0,"name":"uncommitted-d"}],
+{"votes":5,"name":"gravel"}],
 "total":14314,"precincts":
 {"total":324,"reporting":324},
 "name":"Jefferson"},
@@ -147,8 +132,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":12,"name":"clinton"},
 {"votes":7,"name":"obama"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":5,"name":"uncommitted-d"}],
 "total":24,"precincts":
 {"total":5,"reporting":4},
 "name":"Cheyenne"},
@@ -156,8 +140,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":52,"name":"clinton"},
 {"votes":22,"name":"obama"},
-{"votes":7,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":7,"name":"uncommitted-d"}],
 "total":81,"precincts":
 {"total":13,"reporting":13},
 "name":"Kit Carson"},
@@ -165,8 +148,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":188,"name":"obama"},
 {"votes":104,"name":"clinton"},
-{"votes":8,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":8,"name":"uncommitted-d"}],
 "total":300,"precincts":
 {"total":12,"reporting":12},
 "name":"Grand"},
@@ -183,8 +165,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":230,"name":"obama"},
 {"votes":84,"name":"clinton"},
-{"votes":8,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":8,"name":"uncommitted-d"}],
 "total":322,"precincts":
 {"total":15,"reporting":15},
 "name":"Gunnison"},
@@ -192,8 +173,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":2792,"name":"obama"},
 {"votes":2542,"name":"clinton"},
-{"votes":146,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":146,"name":"uncommitted-d"}],
 "total":5480,"precincts":
 {"total":216,"reporting":216},
 "name":"Adams"},
@@ -219,8 +199,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":1170,"name":"obama"},
 {"votes":285,"name":"clinton"},
-{"votes":23,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":23,"name":"uncommitted-d"}],
 "total":1478,"precincts":
 {"total":30,"reporting":30},
 "name":"La Plata"},
@@ -228,8 +207,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":45,"name":"obama"},
 {"votes":20,"name":"clinton"},
-{"votes":3,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":3,"name":"uncommitted-d"}],
 "total":68,"precincts":
 {"total":3,"reporting":3},
 "name":"Custer"},
@@ -237,8 +215,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":232,"name":"obama"},
 {"votes":95,"name":"clinton"},
-{"votes":1,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":1,"name":"uncommitted-d"}],
 "total":328,"precincts":
 {"total":9,"reporting":9},
 "name":"Clear Creek"},
@@ -246,8 +223,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":307,"name":"obama"},
 {"votes":137,"name":"clinton"},
-{"votes":4,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":4,"name":"uncommitted-d"}],
 "total":448,"precincts":
 {"total":11,"reporting":10},
 "name":"Montezuma"},
@@ -255,17 +231,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":210,"name":"obama"},
 {"votes":94,"name":"clinton"},
-{"votes":1,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":1,"name":"uncommitted-d"}],
 "total":305,"precincts":
 {"total":13,"reporting":13},
 "name":"Park"},
 "Saguache":
 {"votes":[
 {"votes":87,"name":"clinton"},
-{"votes":80,"name":"obama"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":80,"name":"obama"}],
 "total":167,"precincts":
 {"total":9,"reporting":9},
 "name":"Saguache"},
@@ -273,8 +246,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":184,"name":"obama"},
 {"votes":56,"name":"clinton"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":5,"name":"uncommitted-d"}],
 "total":245,"precincts":
 {"total":8,"reporting":8},
 "name":"Archuleta"},
@@ -291,8 +263,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":11,"name":"clinton"},
 {"votes":8,"name":"obama"},
-{"votes":4,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":4,"name":"uncommitted-d"}],
 "total":23,"precincts":
 {"total":4,"reporting":3},
 "name":"Kiowa"},
@@ -300,8 +271,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":72,"name":"clinton"},
 {"votes":46,"name":"obama"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":5,"name":"uncommitted-d"}],
 "total":123,"precincts":
 {"total":8,"reporting":8},
 "name":"Costilla"},
@@ -309,8 +279,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":297,"name":"obama"},
 {"votes":114,"name":"clinton"},
-{"votes":7,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":7,"name":"uncommitted-d"}],
 "total":418,"precincts":
 {"total":20,"reporting":20},
 "name":"Delta"},
@@ -318,8 +287,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":87,"name":"clinton"},
 {"votes":83,"name":"obama"},
-{"votes":7,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":7,"name":"uncommitted-d"}],
 "total":177,"precincts":
 {"total":10,"reporting":10},
 "name":"Conejos"},
@@ -345,8 +313,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":230,"name":"obama"},
 {"votes":105,"name":"clinton"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":5,"name":"uncommitted-d"}],
 "total":340,"precincts":
 {"total":13,"reporting":13},
 "name":"Teller"},
@@ -354,8 +321,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":817,"name":"obama"},
 {"votes":420,"name":"clinton"},
-{"votes":11,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":11,"name":"uncommitted-d"}],
 "total":1248,"precincts":
 {"total":38,"reporting":38},
 "name":"Broomfield"},
@@ -363,8 +329,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":66,"name":"obama"},
 {"votes":46,"name":"clinton"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":5,"name":"uncommitted-d"}],
 "total":117,"precincts":
 {"total":14,"reporting":14},
 "name":"Yuma"},
@@ -372,8 +337,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":31,"name":"obama"},
 {"votes":23,"name":"clinton"},
-{"votes":5,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":5,"name":"uncommitted-d"}],
 "total":59,"precincts":
 {"total":13,"reporting":13},
 "name":"Lincoln"},
@@ -381,8 +345,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":1660,"name":"obama"},
 {"votes":920,"name":"clinton"},
-{"votes":38,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":38,"name":"uncommitted-d"}],
 "total":2618,"precincts":
 {"total":103,"reporting":103},
 "name":"Weld"},
@@ -390,8 +353,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":22,"name":"obama"},
 {"votes":16,"name":"clinton"},
-{"votes":8,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":8,"name":"uncommitted-d"}],
 "total":46,"precincts":
 {"total":1,"reporting":1},
 "name":"Mineral"},
@@ -399,8 +361,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":259,"name":"obama"},
 {"votes":147,"name":"clinton"},
-{"votes":4,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":4,"name":"uncommitted-d"}],
 "total":410,"precincts":
 {"total":25,"reporting":25},
 "name":"Montrose"},
@@ -408,8 +369,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":101,"name":"obama"},
 {"votes":36,"name":"clinton"},
-{"votes":17,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":17,"name":"uncommitted-d"}],
 "total":154,"precincts":
 {"total":6,"reporting":6},
 "name":"Lake"},
@@ -417,17 +377,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":49,"name":"obama"},
 {"votes":30,"name":"clinton"},
-{"votes":1,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":1,"name":"uncommitted-d"}],
 "total":80,"precincts":
 {"total":6,"reporting":6},
 "name":"Crowley"},
 "Summit":
 {"votes":[
 {"votes":365,"name":"obama"},
-{"votes":221,"name":"clinton"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":221,"name":"clinton"}],
 "total":586,"precincts":
 {"total":17,"reporting":17},
 "name":"Summit"},
@@ -435,8 +392,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":3326,"name":"obama"},
 {"votes":1960,"name":"clinton"},
-{"votes":16,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":16,"name":"uncommitted-d"}],
 "total":5302,"precincts":
 {"total":138,"reporting":138},
 "name":"Douglas"},
@@ -444,26 +400,21 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":98,"name":"clinton"},
 {"votes":90,"name":"obama"},
-{"votes":12,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":12,"name":"uncommitted-d"}],
 "total":200,"precincts":
 {"total":17,"reporting":17},
 "name":"Morgan"},
 "Hinsdale":
 {"votes":[
 {"votes":23,"name":"obama"},
-{"votes":7,"name":"clinton"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":7,"name":"clinton"}],
 "total":30,"precincts":
 {"total":3,"reporting":3},
 "name":"Hinsdale"},
 "Sedgwick":
 {"votes":[
 {"votes":14,"name":"clinton"},
-{"votes":7,"name":"obama"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":7,"name":"obama"}],
 "total":21,"precincts":
 {"total":5,"reporting":5},
 "name":"Sedgwick"},
@@ -471,8 +422,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":428,"name":"obama"},
 {"votes":148,"name":"clinton"},
-{"votes":8,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":8,"name":"uncommitted-d"}],
 "total":584,"precincts":
 {"total":18,"reporting":18},
 "name":"Routt"},
@@ -480,8 +430,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":126,"name":"obama"},
 {"votes":67,"name":"clinton"},
-{"votes":6,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":6,"name":"uncommitted-d"}],
 "total":199,"precincts":
 {"total":11,"reporting":11},
 "name":"Huerfano"},
@@ -489,8 +438,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":32,"name":"clinton"},
 {"votes":32,"name":"obama"},
-{"votes":10,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":10,"name":"uncommitted-d"}],
 "total":74,"precincts":
 {"total":5,"reporting":5},
 "name":"Bent"},
@@ -498,8 +446,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":38,"name":"obama"},
 {"votes":15,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"uncommitted-d"}],
 "total":55,"precincts":
 {"total":5,"reporting":5},
 "name":"Rio Blanco"},
@@ -507,17 +454,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":59,"name":"clinton"},
 {"votes":40,"name":"obama"},
-{"votes":3,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":3,"name":"uncommitted-d"}],
 "total":102,"precincts":
 {"total":13,"reporting":13},
 "name":"Prowers"},
 "Pitkin":
 {"votes":[
 {"votes":431,"name":"obama"},
-{"votes":124,"name":"clinton"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":124,"name":"clinton"}],
 "total":555,"precincts":
 {"total":10,"reporting":10},
 "name":"Pitkin"},
@@ -525,17 +469,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":28,"name":"clinton"},
 {"votes":19,"name":"uncommitted-d"},
-{"votes":12,"name":"obama"},
-{"votes":0,"name":"gravel"}],
+{"votes":12,"name":"obama"}],
 "total":59,"precincts":
 {"total":9,"reporting":9},
 "name":"Baca"},
 "Washington":
 {"votes":[
 {"votes":18,"name":"obama"},
-{"votes":11,"name":"clinton"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":11,"name":"clinton"}],
 "total":29,"precincts":
 {"total":6,"reporting":5},
 "name":"Washington"},
@@ -543,8 +484,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":62,"name":"obama"},
 {"votes":32,"name":"clinton"},
-{"votes":1,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":1,"name":"uncommitted-d"}],
 "total":95,"precincts":
 {"total":13,"reporting":13},
 "name":"Moffat"},
@@ -552,8 +492,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":61,"name":"obama"},
 {"votes":38,"name":"clinton"},
-{"votes":3,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":3,"name":"uncommitted-d"}],
 "total":102,"precincts":
 {"total":15,"reporting":15},
 "name":"Rio Grande"},
@@ -561,8 +500,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":76,"name":"clinton"},
 {"votes":58,"name":"obama"},
-{"votes":9,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":9,"name":"uncommitted-d"}],
 "total":143,"precincts":
 {"total":16,"reporting":15},
 "name":"Logan"},
@@ -570,8 +508,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":6192,"name":"obama"},
 {"votes":2403,"name":"clinton"},
-{"votes":37,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":37,"name":"uncommitted-d"}],
 "total":8632,"precincts":
 {"total":153,"reporting":153},
 "name":"Larimer"},
@@ -579,8 +516,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":181,"name":"clinton"},
 {"votes":122,"name":"obama"},
-{"votes":12,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":12,"name":"uncommitted-d"}],
 "total":315,"precincts":
 {"total":16,"reporting":16},
 "name":"Las Animas"}}})

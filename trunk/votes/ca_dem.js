@@ -72,8 +72,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":10,"name":"kucinich"},
 {"votes":6,"name":"richardson"},
 {"votes":5,"name":"biden"},
-{"votes":2,"name":"dodd"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"dodd"}],
 "total":541,"precincts":
 {"total":22,"reporting":22},
 "name":"Sierra"},
@@ -215,8 +214,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":35,"name":"kucinich"},
 {"votes":9,"name":"richardson"},
 {"votes":6,"name":"biden"},
-{"votes":4,"name":"gravel"},
-{"votes":0,"name":"dodd"}],
+{"votes":4,"name":"gravel"}],
 "total":1830,"precincts":
 {"total":24,"reporting":24},
 "name":"Trinity"},
@@ -381,11 +379,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":127,"name":"obama"},
 {"votes":87,"name":"clinton"},
 {"votes":10,"name":"edwards"},
-{"votes":8,"name":"kucinich"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"gravel"}],
+{"votes":8,"name":"kucinich"}],
 "total":232,"precincts":
 {"total":5,"reporting":5},
 "name":"Alpine"},

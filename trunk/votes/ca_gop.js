@@ -78,8 +78,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":50,"name":"giuliani"},
 {"votes":38,"name":"thompson"},
 {"votes":11,"name":"hunter"},
-{"votes":6,"name":"keyes"},
-{"votes":0,"name":"tancredo"}],
+{"votes":6,"name":"keyes"}],
 "total":687,"precincts":
 {"total":22,"reporting":22},
 "name":"Sierra"},
@@ -413,9 +412,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":15,"name":"huckabee"},
 {"votes":8,"name":"giuliani"},
 {"votes":6,"name":"thompson"},
-{"votes":4,"name":"hunter"},
-{"votes":0,"name":"tancredo"},
-{"votes":0,"name":"keyes"}],
+{"votes":4,"name":"hunter"}],
 "total":180,"precincts":
 {"total":5,"reporting":5},
 "name":"Alpine"},
@@ -442,8 +439,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":199,"name":"giuliani"},
 {"votes":155,"name":"thompson"},
 {"votes":30,"name":"hunter"},
-{"votes":28,"name":"keyes"},
-{"votes":0,"name":"tancredo"}],
+{"votes":28,"name":"keyes"}],
 "total":5867,"precincts":
 {"total":61,"reporting":61},
 "name":"Siskiyou"},
@@ -568,8 +564,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":95,"name":"giuliani"},
 {"votes":73,"name":"thompson"},
 {"votes":13,"name":"keyes"},
-{"votes":6,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":6,"name":"hunter"}],
 "total":2433,"precincts":
 {"total":25,"reporting":25},
 "name":"Inyo"},
@@ -694,8 +689,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":143,"name":"paul"},
 {"votes":88,"name":"thompson"},
 {"votes":18,"name":"keyes"},
-{"votes":10,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":10,"name":"hunter"}],
 "total":3184,"precincts":
 {"total":21,"reporting":21},
 "name":"Mariposa"},

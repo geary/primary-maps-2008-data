@@ -90,8 +90,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":43,"name":"edwards"},
 {"votes":4,"name":"biden"},
 {"votes":2,"name":"richardson"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":1,"name":"kucinich"}],
 "total":1234,"precincts":
 {"total":16,"reporting":16},
 "name":"Wabash"},
@@ -102,8 +101,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":176,"name":"edwards"},
 {"votes":11,"name":"biden"},
 {"votes":10,"name":"richardson"},
-{"votes":4,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":4,"name":"kucinich"}],
 "total":2405,"precincts":
 {"total":27,"reporting":27},
 "name":"White"},
@@ -114,8 +112,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":50,"name":"edwards"},
 {"votes":3,"name":"richardson"},
 {"votes":1,"name":"biden"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":1,"name":"kucinich"}],
 "total":1123,"precincts":
 {"total":13,"reporting":13},
 "name":"Henderson"},
@@ -222,8 +219,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":74,"name":"edwards"},
 {"votes":8,"name":"kucinich"},
 {"votes":3,"name":"richardson"},
-{"votes":2,"name":"biden"},
-{"votes":0,"name":"dodd"}],
+{"votes":2,"name":"biden"}],
 "total":1783,"precincts":
 {"total":24,"reporting":24},
 "name":"Washington"},
@@ -270,8 +266,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":119,"name":"edwards"},
 {"votes":12,"name":"kucinich"},
 {"votes":6,"name":"biden"},
-{"votes":6,"name":"richardson"},
-{"votes":0,"name":"dodd"}],
+{"votes":6,"name":"richardson"}],
 "total":5367,"precincts":
 {"total":52,"reporting":52},
 "name":"Ogle"},
@@ -498,8 +493,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":25,"name":"edwards"},
 {"votes":6,"name":"richardson"},
 {"votes":1,"name":"dodd"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"kucinich"}],
 "total":1205,"precincts":
 {"total":16,"reporting":16},
 "name":"Menard"},
@@ -675,11 +669,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":387,"name":"obama"},
 {"votes":199,"name":"clinton"},
-{"votes":18,"name":"edwards"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"}],
+{"votes":18,"name":"edwards"}],
 "total":604,"precincts":
 {"total":10,"reporting":10},
 "name":"Stark"},
@@ -762,8 +752,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":237,"name":"edwards"},
 {"votes":17,"name":"richardson"},
 {"votes":10,"name":"biden"},
-{"votes":2,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":2,"name":"kucinich"}],
 "total":6503,"precincts":
 {"total":80,"reporting":80},
 "name":"Adams"},
@@ -834,8 +823,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":42,"name":"edwards"},
 {"votes":4,"name":"kucinich"},
 {"votes":3,"name":"biden"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"dodd"}],
+{"votes":1,"name":"richardson"}],
 "total":1391,"precincts":
 {"total":16,"reporting":16},
 "name":"Marshall"},
@@ -894,8 +882,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":98,"name":"edwards"},
 {"votes":8,"name":"biden"},
 {"votes":8,"name":"richardson"},
-{"votes":2,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":2,"name":"kucinich"}],
 "total":2657,"precincts":
 {"total":24,"reporting":24},
 "name":"Mercer"},
@@ -930,8 +917,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":37,"name":"edwards"},
 {"votes":3,"name":"richardson"},
 {"votes":2,"name":"biden"},
-{"votes":2,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":2,"name":"kucinich"}],
 "total":594,"precincts":
 {"total":12,"reporting":12},
 "name":"Edwards"},
@@ -1098,8 +1084,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":104,"name":"edwards"},
 {"votes":10,"name":"biden"},
 {"votes":7,"name":"richardson"},
-{"votes":7,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":7,"name":"kucinich"}],
 "total":974,"precincts":
 {"total":6,"reporting":6},
 "name":"Hardin"},
@@ -1146,8 +1131,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":48,"name":"edwards"},
 {"votes":4,"name":"biden"},
 {"votes":4,"name":"richardson"},
-{"votes":3,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":3,"name":"kucinich"}],
 "total":1235,"precincts":
 {"total":21,"reporting":21},
 "name":"Cass"},
@@ -1204,10 +1188,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":358,"name":"obama"},
 {"votes":228,"name":"clinton"},
 {"votes":31,"name":"edwards"},
-{"votes":6,"name":"biden"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"}],
+{"votes":6,"name":"biden"}],
 "total":623,"precincts":
 {"total":10,"reporting":10},
 "name":"Scott"},

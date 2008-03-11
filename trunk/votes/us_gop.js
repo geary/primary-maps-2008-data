@@ -21,16 +21,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":0,"reporting":0}},
 "state":"US","party":"gop","total":17219377,"locals":
 {"Mississippi":
-{"votes":[
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"hunter"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"tancredo"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"giuliani"},
-{"votes":0,"name":"paul"}],
+{"votes":[],
 "name":"Mississippi","precincts":
 {"total":1912,"reporting":0},
 "delegates":39,"date":"03-11"},
@@ -67,8 +58,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":13813,"name":"mccain"},
 {"votes":12525,"name":"huckabee"},
 {"votes":9856,"name":"paul"},
-{"votes":369,"name":"keyes"},
-{"votes":0,"name":"giuliani"}],
+{"votes":369,"name":"keyes"}],
 "delegates":38,"date":"02-05","type":"caucus"},
 "Illinois":
 {"votes":[
@@ -79,8 +69,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":11341,"name":"giuliani"},
 {"votes":7100,"name":"thompson"},
 {"votes":2296,"name":"keyes"},
-{"votes":369,"name":"tancredo"},
-{"votes":0,"name":"uncommitted-r"}],
+{"votes":369,"name":"tancredo"}],
 "name":"Illinois","precincts":
 {"total":11574,"reporting":11510},
 "delegates":57,"date":"02-05"},
@@ -148,13 +137,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "votes":[
 {"votes":8,"name":"romney","delegates":8},
 {"votes":3,"name":"thompson"},
-{"votes":1,"name":"hunter"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"tancredo"},
-{"votes":0,"name":"giuliani"},
-{"votes":0,"name":"paul"}],
+{"votes":1,"name":"hunter"}],
 "delegates":12,"date":"01-05","type":"caucus"},
 "Tennessee":
 {"votes":[
@@ -304,9 +287,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":567,"name":"huckabee","delegates":18},
 {"votes":521,"name":"romney"},
-{"votes":12,"name":"mccain"},
-{"votes":0,"name":"giuliani"},
-{"votes":0,"name":"paul"}],
+{"votes":12,"name":"mccain"}],
 "name":"West Virginia","precincts":
 {"total":1,"reporting":1},
 "delegates":18,"date":"05-13"},

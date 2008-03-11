@@ -41,9 +41,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":17,"name":"mccain"},
 {"votes":13,"name":"huckabee"},
 {"votes":12,"name":"paul"},
-{"votes":10,"name":"thompson"},
-{"votes":0,"name":"hunter"},
-{"votes":0,"name":"giuliani"}],
+{"votes":10,"name":"thompson"}],
 "total":260,"precincts":
 {"total":5,"reporting":5},
 "name":"Lincoln"},
@@ -186,8 +184,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":16,"name":"paul"},
 {"votes":15,"name":"huckabee"},
 {"votes":7,"name":"thompson"},
-{"votes":6,"name":"giuliani"},
-{"votes":0,"name":"hunter"}],
+{"votes":6,"name":"giuliani"}],
 "total":86,"precincts":
 {"total":4,"reporting":4},
 "name":"Eureka"},

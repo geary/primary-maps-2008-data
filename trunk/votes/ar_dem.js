@@ -36,8 +36,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":20,"name":"richardson"},
 {"votes":6,"name":"gravel"},
 {"votes":4,"name":"biden"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":1,"name":"kucinich"}],
 "total":3398,"precincts":
 {"total":21,"reporting":21},
 "name":"Clark"},
@@ -64,8 +63,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":9,"name":"richardson"},
 {"votes":6,"name":"biden"},
 {"votes":2,"name":"gravel"},
-{"votes":1,"name":"dodd"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"dodd"}],
 "total":1576,"precincts":
 {"total":19,"reporting":19},
 "name":"Perry"},
@@ -91,9 +89,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":18,"name":"uncommitted-d"},
 {"votes":5,"name":"biden"},
 {"votes":3,"name":"richardson"},
-{"votes":3,"name":"gravel"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"kucinich"}],
+{"votes":3,"name":"gravel"}],
 "total":1574,"precincts":
 {"total":21,"reporting":21},
 "name":"Howard"},
@@ -147,9 +143,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":15,"name":"uncommitted-d"},
 {"votes":5,"name":"richardson"},
 {"votes":3,"name":"gravel"},
-{"votes":2,"name":"biden"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"kucinich"}],
+{"votes":2,"name":"biden"}],
 "total":1090,"precincts":
 {"total":18,"reporting":18},
 "name":"Montgomery"},
@@ -288,8 +282,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":15,"name":"biden"},
 {"votes":4,"name":"richardson"},
 {"votes":4,"name":"gravel"},
-{"votes":2,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":2,"name":"kucinich"}],
 "total":2307,"precincts":
 {"total":19,"reporting":19},
 "name":"Columbia"},
@@ -302,8 +295,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3,"name":"richardson"},
 {"votes":2,"name":"dodd"},
 {"votes":2,"name":"biden"},
-{"votes":2,"name":"gravel"},
-{"votes":0,"name":"kucinich"}],
+{"votes":2,"name":"gravel"}],
 "total":1296,"precincts":
 {"total":15,"reporting":15},
 "name":"Lee"},
@@ -344,8 +336,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":10,"name":"richardson"},
 {"votes":2,"name":"biden"},
 {"votes":1,"name":"dodd"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"gravel"}],
+{"votes":1,"name":"kucinich"}],
 "total":3167,"precincts":
 {"total":19,"reporting":19},
 "name":"Saint Francis"},
@@ -364,16 +355,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":22,"reporting":22},
 "name":"Dallas"},
 "Van Buren":
-{"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"},
-{"votes":0,"name":"gravel"},
-{"votes":0,"name":"obama"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":22,"reporting":0},
 "name":"Van Buren"},
@@ -386,22 +368,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":10,"name":"richardson"},
 {"votes":4,"name":"biden"},
 {"votes":2,"name":"gravel"},
-{"votes":1,"name":"dodd"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"dodd"}],
 "total":2352,"precincts":
 {"total":19,"reporting":19},
 "name":"Drew"},
 "Craighead":
-{"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"},
-{"votes":0,"name":"gravel"},
-{"votes":0,"name":"obama"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":25,"reporting":0},
 "name":"Craighead"},
@@ -428,8 +400,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":7,"name":"richardson"},
 {"votes":5,"name":"biden"},
 {"votes":4,"name":"gravel"},
-{"votes":3,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":3,"name":"kucinich"}],
 "total":2263,"precincts":
 {"total":22,"reporting":22},
 "name":"Grant"},
@@ -456,8 +427,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":9,"name":"richardson"},
 {"votes":3,"name":"dodd"},
 {"votes":3,"name":"biden"},
-{"votes":2,"name":"kucinich"},
-{"votes":0,"name":"gravel"}],
+{"votes":2,"name":"kucinich"}],
 "total":1753,"precincts":
 {"total":22,"reporting":22},
 "name":"Little River"},
@@ -476,16 +446,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":15,"reporting":15},
 "name":"Pike"},
 "Stone":
-{"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"},
-{"votes":0,"name":"gravel"},
-{"votes":0,"name":"obama"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":31,"reporting":0},
 "name":"Stone"},
@@ -609,9 +570,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5,"name":"kucinich"},
 {"votes":3,"name":"biden"},
 {"votes":1,"name":"dodd"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"gravel"}],
+{"votes":1,"name":"richardson"}],
 "total":635,"precincts":
 {"total":17,"reporting":17},
 "name":"Searcy"},
@@ -624,8 +583,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3,"name":"biden"},
 {"votes":2,"name":"gravel"},
 {"votes":1,"name":"richardson"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"dodd"}],
+{"votes":1,"name":"kucinich"}],
 "total":945,"precincts":
 {"total":22,"reporting":22},
 "name":"Lafayette"},
@@ -652,8 +610,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":6,"name":"biden"},
 {"votes":5,"name":"kucinich"},
 {"votes":4,"name":"dodd"},
-{"votes":1,"name":"gravel"},
-{"votes":0,"name":"uncommitted-d"}],
+{"votes":1,"name":"gravel"}],
 "total":3186,"precincts":
 {"total":21,"reporting":21},
 "name":"Boone"},
@@ -778,8 +735,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3,"name":"biden"},
 {"votes":2,"name":"dodd"},
 {"votes":2,"name":"gravel"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"richardson"}],
 "total":1428,"precincts":
 {"total":20,"reporting":20},
 "name":"Woodruff"},
@@ -792,8 +748,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":13,"name":"richardson"},
 {"votes":3,"name":"dodd"},
 {"votes":2,"name":"gravel"},
-{"votes":1,"name":"biden"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"biden"}],
 "total":2023,"precincts":
 {"total":28,"reporting":28},
 "name":"Madison"},
@@ -806,8 +761,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3,"name":"richardson"},
 {"votes":3,"name":"gravel"},
 {"votes":2,"name":"dodd"},
-{"votes":2,"name":"kucinich"},
-{"votes":0,"name":"biden"}],
+{"votes":2,"name":"kucinich"}],
 "total":1510,"precincts":
 {"total":28,"reporting":28},
 "name":"Lincoln"},
@@ -889,9 +843,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5,"name":"uncommitted-d"},
 {"votes":2,"name":"richardson"},
 {"votes":1,"name":"biden"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"gravel"}],
+{"votes":1,"name":"kucinich"}],
 "total":850,"precincts":
 {"total":22,"reporting":22},
 "name":"Newton"},
@@ -946,8 +898,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":15,"name":"richardson"},
 {"votes":7,"name":"biden"},
 {"votes":6,"name":"kucinich"},
-{"votes":5,"name":"gravel"},
-{"votes":0,"name":"dodd"}],
+{"votes":5,"name":"gravel"}],
 "total":2599,"precincts":
 {"total":38,"reporting":38},
 "name":"Logan"},
@@ -958,10 +909,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":38,"name":"edwards"},
 {"votes":17,"name":"uncommitted-d"},
 {"votes":3,"name":"richardson"},
-{"votes":1,"name":"gravel"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"gravel"}],
 "total":1323,"precincts":
 {"total":9,"reporting":9},
 "name":"Prairie"},
@@ -974,8 +922,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5,"name":"kucinich"},
 {"votes":3,"name":"richardson"},
 {"votes":3,"name":"gravel"},
-{"votes":1,"name":"biden"},
-{"votes":0,"name":"dodd"}],
+{"votes":1,"name":"biden"}],
 "total":1769,"precincts":
 {"total":35,"reporting":35},
 "name":"Marion"},
@@ -1030,8 +977,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":9,"name":"richardson"},
 {"votes":6,"name":"biden"},
 {"votes":4,"name":"kucinich"},
-{"votes":4,"name":"gravel"},
-{"votes":0,"name":"dodd"}],
+{"votes":4,"name":"gravel"}],
 "total":1364,"precincts":
 {"total":21,"reporting":21},
 "name":"Nevada"},
@@ -1058,8 +1004,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":4,"name":"richardson"},
 {"votes":3,"name":"kucinich"},
 {"votes":3,"name":"gravel"},
-{"votes":2,"name":"dodd"},
-{"votes":0,"name":"biden"}],
+{"votes":2,"name":"dodd"}],
 "total":1407,"precincts":
 {"total":40,"reporting":40},
 "name":"Monroe"}}})

@@ -176,10 +176,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":52,"reporting":52},
 "name":"Huron"},
 "Darke":
-{"votes":[
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":43,"reporting":0},
 "name":"Darke"},

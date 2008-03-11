@@ -220,12 +220,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":52,"reporting":52},
 "name":"Huron"},
 "Darke":
-{"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"paul"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"mccain"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":43,"reporting":0},
 "name":"Darke"},

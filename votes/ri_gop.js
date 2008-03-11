@@ -18,8 +18,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":32,"name":"paul"},
 {"votes":23,"name":"romney"},
 {"votes":13,"name":"uncommitted-r"},
-{"votes":3,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":3,"name":"keyes"}],
 "total":590,"precincts":
 {"total":4,"reporting":4},
 "name":"Middletown"},
@@ -30,8 +29,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":58,"name":"paul"},
 {"votes":52,"name":"romney"},
 {"votes":13,"name":"uncommitted-r"},
-{"votes":3,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":3,"name":"keyes"}],
 "total":904,"precincts":
 {"total":5,"reporting":5},
 "name":"Cumberland"},
@@ -42,8 +40,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":22,"name":"paul"},
 {"votes":8,"name":"uncommitted-r"},
 {"votes":4,"name":"romney"},
-{"votes":1,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":1,"name":"keyes"}],
 "total":293,"precincts":
 {"total":1,"reporting":1},
 "name":"Hopkinton"},
@@ -54,8 +51,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":8,"name":"uncommitted-r"},
 {"votes":6,"name":"paul"},
 {"votes":5,"name":"romney"},
-{"votes":2,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":2,"name":"keyes"}],
 "total":100,"precincts":
 {"total":5,"reporting":5},
 "name":"Central Falls"},
@@ -78,8 +74,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":25,"name":"paul"},
 {"votes":11,"name":"romney"},
 {"votes":4,"name":"uncommitted-r"},
-{"votes":1,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":1,"name":"keyes"}],
 "total":291,"precincts":
 {"total":1,"reporting":1},
 "name":"Richmond"},
@@ -102,8 +97,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":19,"name":"paul"},
 {"votes":6,"name":"romney"},
 {"votes":1,"name":"uncommitted-r"},
-{"votes":1,"name":"cort"},
-{"votes":0,"name":"keyes"}],
+{"votes":1,"name":"cort"}],
 "total":167,"precincts":
 {"total":1,"reporting":1},
 "name":"Foster"},
@@ -125,9 +119,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":40,"name":"huckabee"},
 {"votes":25,"name":"paul"},
 {"votes":12,"name":"romney"},
-{"votes":9,"name":"uncommitted-r"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"}],
+{"votes":9,"name":"uncommitted-r"}],
 "total":347,"precincts":
 {"total":1,"reporting":1},
 "name":"Jamestown"},
@@ -144,14 +136,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":4},
 "name":"Smithfield"},
 "Mail Ballots - CD2":
-{"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Mail Ballots - CD2"},
@@ -180,14 +165,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":4},
 "name":"East Providence"},
 "Mail Ballots - CD1":
-{"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"},
-{"votes":0,"name":"paul"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Mail Ballots - CD1"},
@@ -209,9 +187,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":43,"name":"huckabee"},
 {"votes":18,"name":"paul"},
 {"votes":15,"name":"romney"},
-{"votes":3,"name":"uncommitted-r"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"}],
+{"votes":3,"name":"uncommitted-r"}],
 "total":272,"precincts":
 {"total":1,"reporting":1},
 "name":"Little Compton"},
@@ -222,8 +198,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":27,"name":"paul"},
 {"votes":13,"name":"romney"},
 {"votes":3,"name":"uncommitted-r"},
-{"votes":1,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":1,"name":"keyes"}],
 "total":255,"precincts":
 {"total":1,"reporting":1},
 "name":"West Greenwich"},
@@ -234,8 +209,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":33,"name":"paul"},
 {"votes":11,"name":"uncommitted-r"},
 {"votes":8,"name":"romney"},
-{"votes":1,"name":"cort"},
-{"votes":0,"name":"keyes"}],
+{"votes":1,"name":"cort"}],
 "total":372,"precincts":
 {"total":3,"reporting":3},
 "name":"Charlestown"},
@@ -270,8 +244,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":71,"name":"paul"},
 {"votes":51,"name":"romney"},
 {"votes":22,"name":"uncommitted-r"},
-{"votes":4,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":4,"name":"keyes"}],
 "total":1060,"precincts":
 {"total":5,"reporting":5},
 "name":"Coventry"},
@@ -282,8 +255,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":59,"name":"paul"},
 {"votes":39,"name":"romney"},
 {"votes":21,"name":"uncommitted-r"},
-{"votes":9,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":9,"name":"keyes"}],
 "total":860,"precincts":
 {"total":3,"reporting":3},
 "name":"South Kingstown"},
@@ -294,8 +266,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":36,"name":"paul"},
 {"votes":31,"name":"romney"},
 {"votes":17,"name":"uncommitted-r"},
-{"votes":1,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":1,"name":"keyes"}],
 "total":584,"precincts":
 {"total":5,"reporting":5},
 "name":"West Warwick"},
@@ -305,9 +276,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":98,"name":"huckabee"},
 {"votes":38,"name":"paul"},
 {"votes":22,"name":"romney"},
-{"votes":11,"name":"uncommitted-r"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"}],
+{"votes":11,"name":"uncommitted-r"}],
 "total":399,"precincts":
 {"total":4,"reporting":4},
 "name":"Burrillville"},
@@ -318,8 +287,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":45,"name":"paul"},
 {"votes":32,"name":"romney"},
 {"votes":10,"name":"uncommitted-r"},
-{"votes":3,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":3,"name":"keyes"}],
 "total":739,"precincts":
 {"total":4,"reporting":4},
 "name":"Newport"},
@@ -342,8 +310,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":32,"name":"paul"},
 {"votes":16,"name":"romney"},
 {"votes":4,"name":"uncommitted-r"},
-{"votes":3,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":3,"name":"keyes"}],
 "total":471,"precincts":
 {"total":5,"reporting":5},
 "name":"Johnston"},
@@ -354,8 +321,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":45,"name":"paul"},
 {"votes":26,"name":"romney"},
 {"votes":13,"name":"uncommitted-r"},
-{"votes":3,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":3,"name":"keyes"}],
 "total":563,"precincts":
 {"total":2,"reporting":2},
 "name":"Scituate"},
@@ -364,10 +330,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":44,"name":"mccain"},
 {"votes":4,"name":"paul"},
 {"votes":3,"name":"huckabee"},
-{"votes":1,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"cort"},
-{"votes":0,"name":"keyes"}],
+{"votes":1,"name":"romney"}],
 "total":52,"precincts":
 {"total":1,"reporting":1},
 "name":"New Shoreham"},
@@ -378,8 +341,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":27,"name":"paul"},
 {"votes":6,"name":"romney"},
 {"votes":5,"name":"uncommitted-r"},
-{"votes":1,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":1,"name":"keyes"}],
 "total":270,"precincts":
 {"total":1,"reporting":1},
 "name":"Exeter"},
@@ -390,8 +352,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":33,"name":"paul"},
 {"votes":15,"name":"romney"},
 {"votes":10,"name":"uncommitted-r"},
-{"votes":1,"name":"cort"},
-{"votes":0,"name":"keyes"}],
+{"votes":1,"name":"cort"}],
 "total":442,"precincts":
 {"total":3,"reporting":3},
 "name":"North Providence"},
@@ -402,8 +363,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":32,"name":"romney"},
 {"votes":31,"name":"paul"},
 {"votes":19,"name":"uncommitted-r"},
-{"votes":9,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":9,"name":"keyes"}],
 "total":753,"precincts":
 {"total":3,"reporting":3},
 "name":"Westerly"},
@@ -414,8 +374,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":99,"name":"paul"},
 {"votes":61,"name":"romney"},
 {"votes":22,"name":"uncommitted-r"},
-{"votes":4,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":4,"name":"keyes"}],
 "total":1306,"precincts":
 {"total":4,"reporting":4},
 "name":"North Kingstown"},
@@ -426,8 +385,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":49,"name":"romney"},
 {"votes":49,"name":"paul"},
 {"votes":13,"name":"uncommitted-r"},
-{"votes":2,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":2,"name":"keyes"}],
 "total":984,"precincts":
 {"total":5,"reporting":5},
 "name":"Portsmouth"},
@@ -450,8 +408,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":24,"name":"paul"},
 {"votes":22,"name":"romney"},
 {"votes":10,"name":"uncommitted-r"},
-{"votes":3,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":3,"name":"keyes"}],
 "total":552,"precincts":
 {"total":4,"reporting":4},
 "name":"Tiverton"},
@@ -474,8 +431,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":34,"name":"romney"},
 {"votes":30,"name":"paul"},
 {"votes":6,"name":"uncommitted-r"},
-{"votes":2,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":2,"name":"keyes"}],
 "total":754,"precincts":
 {"total":2,"reporting":2},
 "name":"East Greenwich"},
@@ -486,8 +442,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":60,"name":"paul"},
 {"votes":41,"name":"romney"},
 {"votes":24,"name":"uncommitted-r"},
-{"votes":2,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":2,"name":"keyes"}],
 "total":824,"precincts":
 {"total":17,"reporting":17},
 "name":"Pawtucket"},
@@ -498,8 +453,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":18,"name":"romney"},
 {"votes":13,"name":"paul"},
 {"votes":6,"name":"uncommitted-r"},
-{"votes":1,"name":"keyes"},
-{"votes":0,"name":"cort"}],
+{"votes":1,"name":"keyes"}],
 "total":305,"precincts":
 {"total":3,"reporting":3},
 "name":"Warren"}}})

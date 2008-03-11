@@ -102,8 +102,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":98,"name":"romney"},
 {"votes":18,"name":"paul"},
 {"votes":3,"name":"uncommitted-r"},
-{"votes":3,"name":"giuliani"},
-{"votes":0,"name":"thompson"}],
+{"votes":3,"name":"giuliani"}],
 "total":828,"precincts":
 {"total":19,"reporting":19},
 "name":"Sevier"},
@@ -312,14 +311,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":22,"reporting":22},
 "name":"Dallas"},
 "Van Buren":
-{"votes":[
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"giuliani"},
-{"votes":0,"name":"paul"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":22,"reporting":0},
 "name":"Van Buren"},
@@ -330,20 +322,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":93,"name":"romney"},
 {"votes":31,"name":"paul"},
 {"votes":5,"name":"uncommitted-r"},
-{"votes":5,"name":"thompson"},
-{"votes":0,"name":"giuliani"}],
+{"votes":5,"name":"thompson"}],
 "total":1239,"precincts":
 {"total":19,"reporting":19},
 "name":"Drew"},
 "Craighead":
-{"votes":[
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"giuliani"},
-{"votes":0,"name":"paul"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":25,"reporting":0},
 "name":"Craighead"},
@@ -408,14 +392,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":15,"reporting":15},
 "name":"Pike"},
 "Stone":
-{"votes":[
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"uncommitted-r"},
-{"votes":0,"name":"mccain"},
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"giuliani"},
-{"votes":0,"name":"paul"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":31,"reporting":0},
 "name":"Stone"},
@@ -522,8 +499,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":132,"name":"paul"},
 {"votes":77,"name":"romney"},
 {"votes":2,"name":"thompson"},
-{"votes":1,"name":"uncommitted-r"},
-{"votes":0,"name":"giuliani"}],
+{"votes":1,"name":"uncommitted-r"}],
 "total":817,"precincts":
 {"total":17,"reporting":17},
 "name":"Searcy"},
@@ -558,8 +534,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":342,"name":"romney"},
 {"votes":237,"name":"paul"},
 {"votes":12,"name":"thompson"},
-{"votes":8,"name":"giuliani"},
-{"votes":0,"name":"uncommitted-r"}],
+{"votes":8,"name":"giuliani"}],
 "total":3803,"precincts":
 {"total":21,"reporting":21},
 "name":"Boone"},
@@ -666,8 +641,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":17,"name":"romney"},
 {"votes":12,"name":"paul"},
 {"votes":2,"name":"uncommitted-r"},
-{"votes":1,"name":"giuliani"},
-{"votes":0,"name":"thompson"}],
+{"votes":1,"name":"giuliani"}],
 "total":293,"precincts":
 {"total":20,"reporting":20},
 "name":"Woodruff"},
@@ -761,9 +735,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":191,"name":"mccain"},
 {"votes":78,"name":"romney"},
 {"votes":70,"name":"paul"},
-{"votes":5,"name":"uncommitted-r"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"giuliani"}],
+{"votes":5,"name":"uncommitted-r"}],
 "total":895,"precincts":
 {"total":22,"reporting":22},
 "name":"Newton"},
@@ -786,8 +758,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":29,"name":"romney"},
 {"votes":13,"name":"paul"},
 {"votes":3,"name":"uncommitted-r"},
-{"votes":3,"name":"thompson"},
-{"votes":0,"name":"giuliani"}],
+{"votes":3,"name":"thompson"}],
 "total":517,"precincts":
 {"total":22,"reporting":22},
 "name":"Desha"},
@@ -798,8 +769,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":60,"name":"romney"},
 {"votes":9,"name":"paul"},
 {"votes":1,"name":"thompson"},
-{"votes":1,"name":"giuliani"},
-{"votes":0,"name":"uncommitted-r"}],
+{"votes":1,"name":"giuliani"}],
 "total":777,"precincts":
 {"total":16,"reporting":16},
 "name":"Bradley"},
@@ -882,8 +852,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":56,"name":"romney"},
 {"votes":18,"name":"paul"},
 {"votes":4,"name":"thompson"},
-{"votes":2,"name":"uncommitted-r"},
-{"votes":0,"name":"giuliani"}],
+{"votes":2,"name":"uncommitted-r"}],
 "total":592,"precincts":
 {"total":21,"reporting":21},
 "name":"Nevada"},
@@ -906,8 +875,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":31,"name":"romney"},
 {"votes":15,"name":"paul"},
 {"votes":4,"name":"giuliani"},
-{"votes":2,"name":"thompson"},
-{"votes":0,"name":"uncommitted-r"}],
+{"votes":2,"name":"thompson"}],
 "total":607,"precincts":
 {"total":40,"reporting":40},
 "name":"Monroe"}}})

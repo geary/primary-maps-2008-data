@@ -357,8 +357,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":353,"name":"mccain"},
 {"votes":31,"name":"paul"},
 {"votes":7,"name":"romney"},
-{"votes":2,"name":"giuliani"},
-{"votes":0,"name":"thompson"}],
+{"votes":2,"name":"giuliani"}],
 "total":832,"precincts":
 {"total":11,"reporting":11},
 "name":"Charlotte"},
@@ -566,8 +565,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":199,"name":"huckabee"},
 {"votes":19,"name":"romney"},
 {"votes":14,"name":"paul"},
-{"votes":6,"name":"thompson"},
-{"votes":0,"name":"giuliani"}],
+{"votes":6,"name":"thompson"}],
 "total":515,"precincts":
 {"total":11,"reporting":11},
 "name":"Sussex"},
@@ -863,8 +861,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":203,"name":"huckabee"},
 {"votes":19,"name":"paul"},
 {"votes":10,"name":"romney"},
-{"votes":1,"name":"giuliani"},
-{"votes":0,"name":"thompson"}],
+{"votes":1,"name":"giuliani"}],
 "total":575,"precincts":
 {"total":7,"reporting":7},
 "name":"Richmond"},
@@ -1358,8 +1355,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":133,"name":"mccain"},
 {"votes":12,"name":"paul"},
 {"votes":7,"name":"romney"},
-{"votes":4,"name":"thompson"},
-{"votes":0,"name":"giuliani"}],
+{"votes":4,"name":"thompson"}],
 "total":471,"precincts":
 {"total":7,"reporting":7},
 "name":"Bland"},
@@ -1446,8 +1442,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":611,"name":"mccain"},
 {"votes":35,"name":"paul"},
 {"votes":10,"name":"romney"},
-{"votes":8,"name":"thompson"},
-{"votes":0,"name":"giuliani"}],
+{"votes":8,"name":"thompson"}],
 "total":1569,"precincts":
 {"total":17,"reporting":17},
 "name":"Scott"},

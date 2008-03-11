@@ -59,8 +59,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":8,"name":"romney"},
 {"votes":6,"name":"thompson"},
 {"votes":4,"name":"giuliani"},
-{"votes":3,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":3,"name":"hunter"}],
 "total":1124,"precincts":
 {"total":33,"reporting":33},
 "name":"Richland"},
@@ -84,9 +83,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":38,"name":"paul"},
 {"votes":13,"name":"romney"},
 {"votes":2,"name":"giuliani"},
-{"votes":1,"name":"hunter"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"tancredo"}],
+{"votes":1,"name":"hunter"}],
 "total":475,"precincts":
 {"total":19,"reporting":19},
 "name":"Iron"},
@@ -124,8 +121,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":64,"name":"romney"},
 {"votes":17,"name":"thompson"},
 {"votes":15,"name":"giuliani"},
-{"votes":4,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":4,"name":"hunter"}],
 "total":2915,"precincts":
 {"total":25,"reporting":25},
 "name":"Lincoln"},
@@ -202,8 +198,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":16,"name":"romney"},
 {"votes":6,"name":"giuliani"},
 {"votes":4,"name":"hunter"},
-{"votes":3,"name":"thompson"},
-{"votes":0,"name":"tancredo"}],
+{"votes":3,"name":"thompson"}],
 "total":793,"precincts":
 {"total":18,"reporting":18},
 "name":"Forest"},
@@ -228,8 +223,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":129,"name":"romney"},
 {"votes":49,"name":"thompson"},
 {"votes":36,"name":"giuliani"},
-{"votes":12,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":12,"name":"hunter"}],
 "total":8325,"precincts":
 {"total":74,"reporting":74},
 "name":"Fond du Lac"},
@@ -241,8 +235,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":21,"name":"romney"},
 {"votes":6,"name":"giuliani"},
 {"votes":5,"name":"thompson"},
-{"votes":4,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":4,"name":"hunter"}],
 "total":925,"precincts":
 {"total":27,"reporting":27},
 "name":"Crawford"},
@@ -332,8 +325,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":57,"name":"romney"},
 {"votes":24,"name":"thompson"},
 {"votes":14,"name":"giuliani"},
-{"votes":5,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":5,"name":"hunter"}],
 "total":2594,"precincts":
 {"total":35,"reporting":35},
 "name":"Dunn"},
@@ -358,8 +350,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":20,"name":"giuliani"},
 {"votes":9,"name":"romney"},
 {"votes":5,"name":"hunter"},
-{"votes":3,"name":"thompson"},
-{"votes":0,"name":"tancredo"}],
+{"votes":3,"name":"thompson"}],
 "total":901,"precincts":
 {"total":23,"reporting":23},
 "name":"Buffalo"},
@@ -618,8 +609,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":19,"name":"romney"},
 {"votes":16,"name":"giuliani"},
 {"votes":8,"name":"thompson"},
-{"votes":5,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":5,"name":"hunter"}],
 "total":1778,"precincts":
 {"total":27,"reporting":27},
 "name":"Langlade"},
@@ -670,8 +660,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":22,"name":"romney"},
 {"votes":8,"name":"thompson"},
 {"votes":4,"name":"giuliani"},
-{"votes":3,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":3,"name":"hunter"}],
 "total":1844,"precincts":
 {"total":16,"reporting":16},
 "name":"Green Lake"},
@@ -679,12 +668,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":21,"name":"mccain"},
 {"votes":18,"name":"huckabee"},
-{"votes":1,"name":"paul"},
-{"votes":0,"name":"hunter"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"thompson"},
-{"votes":0,"name":"tancredo"},
-{"votes":0,"name":"giuliani"}],
+{"votes":1,"name":"paul"}],
 "total":40,"precincts":
 {"total":5,"reporting":5},
 "name":"Menominee"},
@@ -696,8 +680,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":17,"name":"romney"},
 {"votes":7,"name":"thompson"},
 {"votes":7,"name":"giuliani"},
-{"votes":2,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":2,"name":"hunter"}],
 "total":1563,"precincts":
 {"total":30,"reporting":30},
 "name":"Taylor"},
@@ -800,8 +783,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":22,"name":"romney"},
 {"votes":4,"name":"thompson"},
 {"votes":4,"name":"giuliani"},
-{"votes":2,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":2,"name":"hunter"}],
 "total":830,"precincts":
 {"total":26,"reporting":26},
 "name":"Ashland"},
@@ -930,8 +912,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":42,"name":"romney"},
 {"votes":19,"name":"thompson"},
 {"votes":8,"name":"giuliani"},
-{"votes":7,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":7,"name":"hunter"}],
 "total":3059,"precincts":
 {"total":34,"reporting":34},
 "name":"Monroe"},
@@ -943,8 +924,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":19,"name":"romney"},
 {"votes":8,"name":"thompson"},
 {"votes":5,"name":"giuliani"},
-{"votes":2,"name":"hunter"},
-{"votes":0,"name":"tancredo"}],
+{"votes":2,"name":"hunter"}],
 "total":1539,"precincts":
 {"total":14,"reporting":14},
 "name":"Kewaunee"}}})

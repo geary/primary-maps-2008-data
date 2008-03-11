@@ -18,8 +18,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "CD2":
 {"votes":[
 {"votes":12252,"name":"obama"},
-{"votes":3709,"name":"clinton"},
-{"votes":0,"name":"uncommitted-d"}],
+{"votes":3709,"name":"clinton"}],
 "total":15961,"precincts":
 {"total":422,"reporting":422},
 "name":"CD2"},

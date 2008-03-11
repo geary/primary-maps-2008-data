@@ -70,9 +70,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":502,"name":"obama"},
 {"votes":356,"name":"clinton"},
 {"votes":6,"name":"edwards"},
-{"votes":1,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"biden"}],
 "total":865,"precincts":
 {"total":3,"reporting":3},
 "name":"Manassas Park"},
@@ -115,8 +113,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1624,"name":"clinton"},
 {"votes":26,"name":"edwards"},
 {"votes":16,"name":"kucinich"},
-{"votes":6,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":6,"name":"richardson"}],
 "total":3853,"precincts":
 {"total":14,"reporting":14},
 "name":"Culpeper"},
@@ -148,8 +145,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":844,"name":"clinton"},
 {"votes":16,"name":"edwards"},
 {"votes":6,"name":"kucinich"},
-{"votes":2,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":2,"name":"richardson"}],
 "total":2786,"precincts":
 {"total":6,"reporting":6},
 "name":"Harrisonburg"},
@@ -181,8 +177,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":725,"name":"clinton"},
 {"votes":13,"name":"edwards"},
 {"votes":4,"name":"biden"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"richardson"}],
+{"votes":1,"name":"kucinich"}],
 "total":2078,"precincts":
 {"total":5,"reporting":5},
 "name":"King George"},
@@ -258,8 +253,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":617,"name":"clinton"},
 {"votes":7,"name":"edwards"},
 {"votes":5,"name":"kucinich"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"richardson"}],
 "total":2082,"precincts":
 {"total":3,"reporting":3},
 "name":"Williamsburg"},
@@ -267,10 +261,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":597,"name":"obama"},
 {"votes":271,"name":"clinton"},
-{"votes":4,"name":"edwards"},
 {"votes":4,"name":"kucinich"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"}],
+{"votes":4,"name":"edwards"}],
 "total":876,"precincts":
 {"total":2,"reporting":2},
 "name":"Lexington"},
@@ -324,8 +316,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":464,"name":"clinton"},
 {"votes":16,"name":"edwards"},
 {"votes":2,"name":"kucinich"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"richardson"}],
 "total":1745,"precincts":
 {"total":9,"reporting":9},
 "name":"Nottoway"},
@@ -510,9 +501,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":259,"name":"clinton"},
 {"votes":85,"name":"obama"},
 {"votes":6,"name":"edwards"},
-{"votes":1,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"biden"}],
 "total":351,"precincts":
 {"total":1,"reporting":1},
 "name":"Norton"},
@@ -555,8 +544,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":211,"name":"obama"},
 {"votes":18,"name":"edwards"},
 {"votes":5,"name":"kucinich"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"richardson"}],
 "total":1622,"precincts":
 {"total":19,"reporting":19},
 "name":"Lee"},
@@ -654,8 +642,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":514,"name":"clinton"},
 {"votes":12,"name":"edwards"},
 {"votes":6,"name":"kucinich"},
-{"votes":2,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":2,"name":"richardson"}],
 "total":1228,"precincts":
 {"total":3,"reporting":3},
 "name":"Radford"},
@@ -676,8 +663,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":357,"name":"clinton"},
 {"votes":6,"name":"edwards"},
 {"votes":5,"name":"kucinich"},
-{"votes":2,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":2,"name":"richardson"}],
 "total":1361,"precincts":
 {"total":7,"reporting":7},
 "name":"Franklin City"},
@@ -687,8 +673,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":572,"name":"clinton"},
 {"votes":11,"name":"edwards"},
 {"votes":5,"name":"kucinich"},
-{"votes":3,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":3,"name":"richardson"}],
 "total":1462,"precincts":
 {"total":10,"reporting":10},
 "name":"Madison"},
@@ -742,8 +727,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":508,"name":"clinton"},
 {"votes":8,"name":"edwards"},
 {"votes":6,"name":"kucinich"},
-{"votes":3,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":3,"name":"richardson"}],
 "total":1822,"precincts":
 {"total":7,"reporting":7},
 "name":"Northampton"},
@@ -773,10 +757,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":774,"name":"obama"},
 {"votes":515,"name":"clinton"},
-{"votes":5,"name":"edwards"},
 {"votes":5,"name":"kucinich"},
-{"votes":1,"name":"biden"},
-{"votes":0,"name":"richardson"}],
+{"votes":5,"name":"edwards"},
+{"votes":1,"name":"biden"}],
 "total":1300,"precincts":
 {"total":6,"reporting":6},
 "name":"Rappahannock"},
@@ -797,8 +780,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":249,"name":"clinton"},
 {"votes":8,"name":"edwards"},
 {"votes":5,"name":"kucinich"},
-{"votes":2,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":2,"name":"richardson"}],
 "total":1407,"precincts":
 {"total":3,"reporting":3},
 "name":"Charles City"},
@@ -841,8 +823,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":454,"name":"clinton"},
 {"votes":12,"name":"edwards"},
 {"votes":3,"name":"richardson"},
-{"votes":2,"name":"biden"},
-{"votes":0,"name":"kucinich"}],
+{"votes":2,"name":"biden"}],
 "total":1195,"precincts":
 {"total":3,"reporting":3},
 "name":"Mathews"},
@@ -863,8 +844,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":264,"name":"clinton"},
 {"votes":7,"name":"edwards"},
 {"votes":2,"name":"biden"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"richardson"}],
 "total":790,"precincts":
 {"total":7,"reporting":7},
 "name":"Richmond"},
@@ -896,8 +876,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":198,"name":"obama"},
 {"votes":3,"name":"richardson"},
 {"votes":2,"name":"edwards"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"kucinich"}],
 "total":533,"precincts":
 {"total":2,"reporting":2},
 "name":"Buena Vista"},
@@ -950,9 +929,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":655,"name":"obama"},
 {"votes":635,"name":"clinton"},
 {"votes":24,"name":"edwards"},
-{"votes":10,"name":"kucinich"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"}],
+{"votes":10,"name":"kucinich"}],
 "total":1324,"precincts":
 {"total":6,"reporting":6},
 "name":"Floyd"},
@@ -1026,10 +1003,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":131,"name":"obama"},
 {"votes":109,"name":"clinton"},
-{"votes":2,"name":"edwards"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"richardson"},
-{"votes":0,"name":"kucinich"}],
+{"votes":2,"name":"edwards"}],
 "total":242,"precincts":
 {"total":6,"reporting":6},
 "name":"Highland"},
@@ -1072,8 +1046,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":191,"name":"obama"},
 {"votes":4,"name":"edwards"},
 {"votes":3,"name":"richardson"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"kucinich"}],
 "total":535,"precincts":
 {"total":4,"reporting":4},
 "name":"Galax"},
@@ -1082,9 +1055,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":248,"name":"clinton"},
 {"votes":197,"name":"obama"},
 {"votes":10,"name":"edwards"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"biden"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"richardson"}],
 "total":456,"precincts":
 {"total":7,"reporting":7},
 "name":"Bath"},
@@ -1105,8 +1076,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1208,"name":"obama"},
 {"votes":28,"name":"edwards"},
 {"votes":5,"name":"kucinich"},
-{"votes":1,"name":"richardson"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"richardson"}],
 "total":2889,"precincts":
 {"total":17,"reporting":17},
 "name":"Botetourt"},
@@ -1171,8 +1141,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":300,"name":"clinton"},
 {"votes":9,"name":"edwards"},
 {"votes":2,"name":"richardson"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"biden"}],
+{"votes":1,"name":"kucinich"}],
 "total":1170,"precincts":
 {"total":5,"reporting":5},
 "name":"Cumberland"},
@@ -1457,8 +1426,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":535,"name":"obama"},
 {"votes":8,"name":"edwards"},
 {"votes":1,"name":"biden"},
-{"votes":1,"name":"kucinich"},
-{"votes":0,"name":"richardson"}],
+{"votes":1,"name":"kucinich"}],
 "total":1242,"precincts":
 {"total":6,"reporting":6},
 "name":"Colonial Heights"},
@@ -1468,8 +1436,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":576,"name":"clinton"},
 {"votes":9,"name":"edwards"},
 {"votes":5,"name":"richardson"},
-{"votes":2,"name":"kucinich"},
-{"votes":0,"name":"biden"}],
+{"votes":2,"name":"kucinich"}],
 "total":2189,"precincts":
 {"total":6,"reporting":6},
 "name":"King William"},

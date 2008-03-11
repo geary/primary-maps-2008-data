@@ -12,8 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":6,"name":"romney"},
 {"votes":5,"name":"mccain"},
-{"votes":1,"name":"huckabee"},
-{"votes":0,"name":"paul"}],
+{"votes":1,"name":"huckabee"}],
 "total":12,"precincts":
 {"total":1,"reporting":1},
 "name":"San Juan"},
@@ -45,11 +44,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":6,"reporting":6},
 "name":"Gilpin"},
 "Jackson":
-{"votes":[
-{"votes":0,"name":"huckabee"},
-{"votes":0,"name":"paul"},
-{"votes":0,"name":"romney"},
-{"votes":0,"name":"mccain"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":5,"reporting":5},
 "name":"Jackson"},
@@ -462,8 +457,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":45,"name":"romney"},
 {"votes":36,"name":"mccain"},
-{"votes":15,"name":"huckabee"},
-{"votes":0,"name":"paul"}],
+{"votes":15,"name":"huckabee"}],
 "total":96,"precincts":
 {"total":5,"reporting":5},
 "name":"Sedgwick"},

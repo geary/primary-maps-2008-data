@@ -108,11 +108,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":4},
 "name":"Smithfield"},
 "Mail Ballots - CD2":
-{"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Mail Ballots - CD2"},
@@ -135,11 +131,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":4},
 "name":"East Providence"},
 "Mail Ballots - CD1":
-{"votes":[
-{"votes":0,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"clinton"},
-{"votes":0,"name":"obama"}],
+{"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Mail Ballots - CD1"},
@@ -273,8 +265,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":209,"name":"obama"},
 {"votes":117,"name":"clinton"},
-{"votes":2,"name":"uncommitted-d"},
-{"votes":0,"name":"edwards"}],
+{"votes":2,"name":"uncommitted-d"}],
 "total":328,"precincts":
 {"total":1,"reporting":1},
 "name":"New Shoreham"},

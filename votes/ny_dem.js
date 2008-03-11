@@ -444,9 +444,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1880,"name":"clinton"},
 {"votes":521,"name":"obama"},
 {"votes":21,"name":"richardson"},
-{"votes":14,"name":"biden"},
-{"votes":0,"name":"edwards"},
-{"votes":0,"name":"kucinich"}],
+{"votes":14,"name":"biden"}],
 "total":2436,"precincts":
 {"total":50,"reporting":50},
 "name":"Fulton"},

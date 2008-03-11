@@ -41,9 +41,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":383,"name":"obama"},
 {"votes":121,"name":"edwards"},
 {"votes":30,"name":"richardson"},
-{"votes":3,"name":"kucinich"},
-{"votes":0,"name":"dodd"},
-{"votes":0,"name":"gravel"}],
+{"votes":3,"name":"kucinich"}],
 "total":1109,"precincts":
 {"total":6,"reporting":6},
 "name":"Greenlee"},
@@ -90,8 +88,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":74,"name":"edwards"},
 {"votes":23,"name":"richardson"},
 {"votes":13,"name":"kucinich"},
-{"votes":6,"name":"dodd"},
-{"votes":0,"name":"gravel"}],
+{"votes":6,"name":"dodd"}],
 "total":3492,"precincts":
 {"total":9,"reporting":9},
 "name":"Santa Cruz"},
@@ -114,8 +111,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":55,"name":"edwards"},
 {"votes":10,"name":"richardson"},
 {"votes":3,"name":"gravel"},
-{"votes":1,"name":"dodd"},
-{"votes":0,"name":"kucinich"}],
+{"votes":1,"name":"dodd"}],
 "total":981,"precincts":
 {"total":12,"reporting":12},
 "name":"La Paz"},
@@ -174,8 +170,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":184,"name":"edwards"},
 {"votes":50,"name":"richardson"},
 {"votes":10,"name":"dodd"},
-{"votes":4,"name":"kucinich"},
-{"votes":0,"name":"gravel"}],
+{"votes":4,"name":"kucinich"}],
 "total":2179,"precincts":
 {"total":9,"reporting":9},
 "name":"Graham"},

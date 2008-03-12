@@ -32,7 +32,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":407,"name":"hunter"},
 {"votes":241,"name":"tancredo"}],
 "name":"Mississippi","precincts":
-{"total":1912,"reporting":1875},
+{"total":1912,"reporting":1878},
 "delegates":39,"date":"03-11"},
 "Oklahoma":
 {"votes":[

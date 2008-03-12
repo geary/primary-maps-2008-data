@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":710,"name":"dodd"},
 {"votes":573,"name":"gravel"}],
 "name":"Mississippi","precincts":
-{"total":1912,"reporting":1890},
+{"total":1912,"reporting":1893},
 "delegates":33,"date":"03-11"},
 "state":"MS","party":"dem","total":410245,"locals":
 {"Yalobusha":
@@ -43,7 +43,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":18,"name":"dodd"},
 {"votes":11,"name":"gravel"}],
 "total":14737,"precincts":
-{"total":43,"reporting":40},
+{"total":43,"reporting":43},
 "name":"Jackson"},
 "Sunflower":
 {"votes":[

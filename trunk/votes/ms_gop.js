@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":110775,"name":"mccain"},
+{"votes":110621,"name":"mccain"},
 {"votes":17477,"name":"huckabee"},
 {"votes":5422,"name":"paul"},
 {"votes":2094,"name":"romney"},
@@ -10,9 +10,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":389,"name":"hunter"},
 {"votes":200,"name":"tancredo"}],
 "name":"Mississippi","precincts":
-{"total":1912,"reporting":1878},
+{"total":1912,"reporting":1863},
 "delegates":39,"date":"03-11"},
-"state":"MS","party":"gop","total":140138,"locals":
+"state":"MS","party":"gop","total":139984,"locals":
 {"Yalobusha":
 {"votes":[
 {"votes":566,"name":"mccain"},
@@ -26,10 +26,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":11,"reporting":11},
 "name":"Yalobusha"},
 "Perry":
-{"votes":[
-{"votes":154,"name":"mccain"}],
-"total":154,"precincts":
-{"total":15,"reporting":15},
+{"votes":[],
+"total":0,"precincts":
+{"total":15,"reporting":0},
 "name":"Perry"},
 "Jackson":
 {"votes":[

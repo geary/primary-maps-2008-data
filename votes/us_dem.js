@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13530029,"name":"obama","delegates":1388},
-{"votes":13450154,"name":"clinton","delegates":1234},
+{"votes":13530102,"name":"obama","delegates":1388},
+{"votes":13450204,"name":"clinton","delegates":1234},
 {"votes":925545,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104378,"name":"richardson"},
@@ -11,11 +11,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":21647,"name":"gravel"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":28505309,"locals":
+"state":"US","party":"dem","total":28505432,"locals":
 {"Mississippi":
 {"votes":[
-{"votes":214944,"name":"obama","delegates":17},
-{"votes":140701,"name":"clinton","delegates":14},
+{"votes":215017,"name":"obama","delegates":17},
+{"votes":140751,"name":"clinton","delegates":14},
 {"votes":3472,"name":"edwards"},
 {"votes":1549,"name":"biden"},
 {"votes":1133,"name":"richardson"},
@@ -23,7 +23,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":617,"name":"dodd"},
 {"votes":486,"name":"gravel"}],
 "name":"Mississippi","precincts":
-{"total":1912,"reporting":1698},
+{"total":1912,"reporting":1699},
 "delegates":33,"date":"03-11"},
 "Oklahoma":
 {"votes":[

@@ -1,8 +1,8 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":7300879,"name":"mccain","delegates":1111},
+{"votes":7300883,"name":"mccain","delegates":1111},
 {"votes":4339937,"name":"romney","delegates":271},
-{"votes":3919409,"name":"huckabee","delegates":265},
+{"votes":3919410,"name":"huckabee","delegates":265},
 {"votes":805921,"name":"paul","delegates":14},
 {"votes":567761,"name":"giuliani"},
 {"votes":285750,"name":"thompson"},
@@ -19,11 +19,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":17354443,"locals":
+"state":"US","party":"gop","total":17354448,"locals":
 {"Mississippi":
 {"votes":[
-{"votes":106533,"name":"mccain"},
-{"votes":16928,"name":"huckabee"},
+{"votes":106537,"name":"mccain"},
+{"votes":16929,"name":"huckabee"},
 {"votes":5288,"name":"paul"},
 {"votes":2041,"name":"romney"},
 {"votes":2012,"name":"thompson"},
@@ -32,7 +32,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":379,"name":"hunter"},
 {"votes":197,"name":"tancredo"}],
 "name":"Mississippi","precincts":
-{"total":1912,"reporting":1757},
+{"total":1912,"reporting":1758},
 "delegates":39,"date":"03-11"},
 "Oklahoma":
 {"votes":[

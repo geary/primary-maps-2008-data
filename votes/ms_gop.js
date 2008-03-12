@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":407,"name":"hunter"},
 {"votes":241,"name":"tancredo"}],
 "name":"Mississippi","precincts":
-{"total":1912,"reporting":1875},
+{"total":1912,"reporting":1878},
 "delegates":39,"date":"03-11"},
 "state":"MS","party":"gop","total":141152,"locals":
 {"Yalobusha":
@@ -42,7 +42,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":21,"name":"hunter"},
 {"votes":4,"name":"tancredo"}],
 "total":5135,"precincts":
-{"total":43,"reporting":40},
+{"total":43,"reporting":43},
 "name":"Jackson"},
 "Sunflower":
 {"votes":[

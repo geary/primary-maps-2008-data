@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":7305121,"name":"mccain","delegates":1111},
+{"votes":7304967,"name":"mccain","delegates":1111},
 {"votes":4339990,"name":"romney","delegates":271},
 {"votes":3919958,"name":"huckabee","delegates":265},
 {"votes":806055,"name":"paul","delegates":14},
@@ -19,10 +19,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":17359515,"locals":
+"state":"US","party":"gop","total":17359361,"locals":
 {"Mississippi":
 {"votes":[
-{"votes":110775,"name":"mccain"},
+{"votes":110621,"name":"mccain"},
 {"votes":17477,"name":"huckabee"},
 {"votes":5422,"name":"paul"},
 {"votes":2094,"name":"romney"},
@@ -32,7 +32,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":389,"name":"hunter"},
 {"votes":200,"name":"tancredo"}],
 "name":"Mississippi","precincts":
-{"total":1912,"reporting":1878},
+{"total":1912,"reporting":1863},
 "delegates":39,"date":"03-11"},
 "Oklahoma":
 {"votes":[

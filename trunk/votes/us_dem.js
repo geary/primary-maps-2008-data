@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13389371,"name":"obama","delegates":1371},
-{"votes":13370106,"name":"clinton","delegates":1220},
+{"votes":13389371,"name":"obama","delegates":1388},
+{"votes":13370106,"name":"clinton","delegates":1234},
 {"votes":923575,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":103728,"name":"richardson"},
@@ -14,8 +14,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "state":"US","party":"dem","total":28279831,"locals":
 {"Mississippi":
 {"votes":[
-{"votes":74286,"name":"obama"},
-{"votes":60653,"name":"clinton"},
+{"votes":74286,"name":"obama","delegates":17},
+{"votes":60653,"name":"clinton","delegates":14},
 {"votes":1502,"name":"edwards"},
 {"votes":570,"name":"biden"},
 {"votes":483,"name":"richardson"},

@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13568526,"name":"obama","delegates":1388},
-{"votes":13464305,"name":"clinton","delegates":1234},
+{"votes":13568526,"name":"obama","delegates":1396},
+{"votes":13464305,"name":"clinton","delegates":1237},
 {"votes":925914,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104584,"name":"richardson"},
@@ -14,7 +14,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "state":"US","party":"dem","total":28559067,"locals":
 {"Mississippi":
 {"votes":[
-{"votes":253441,"name":"obama","delegates":17},
+{"votes":253441,"name":"obama","delegates":19},
 {"votes":154852,"name":"clinton","delegates":14},
 {"votes":3841,"name":"edwards"},
 {"votes":1768,"name":"biden"},
@@ -473,8 +473,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":15,"date":"02-12"},
 "Texas":
 {"votes":[
-{"votes":1452776,"name":"clinton","delegates":92},
-{"votes":1354553,"name":"obama","delegates":92},
+{"votes":1452776,"name":"clinton","delegates":95},
+{"votes":1354553,"name":"obama","delegates":98},
 {"votes":29804,"name":"edwards"},
 {"votes":10667,"name":"richardson"},
 {"votes":5296,"name":"biden"},

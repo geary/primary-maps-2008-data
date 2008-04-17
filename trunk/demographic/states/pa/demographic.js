@@ -1,4 +1,4 @@
-GoogleElectionMap.agesReady({
+Demographics = {
     "status": "ok", 
     "state": "pa", 
     "ages": {
@@ -17,7 +17,7 @@ GoogleElectionMap.agesReady({
                     "name": "Adams", 
                     "min": 4733, 
                     "max": 12429, 
-                    "meanAge": 49, 
+                    "meanAge": "50.0", 
                     "counts": [
                         4733, 
                         8223, 
@@ -33,7 +33,7 @@ GoogleElectionMap.agesReady({
                     "name": "Allegheny", 
                     "min": 85579, 
                     "max": 177255, 
-                    "meanAge": 49, 
+                    "meanAge": "49.5", 
                     "counts": [
                         87570, 
                         154073, 
@@ -49,7 +49,7 @@ GoogleElectionMap.agesReady({
                     "name": "Armstrong", 
                     "min": 3066, 
                     "max": 9298, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         3066, 
                         6347, 
@@ -65,7 +65,7 @@ GoogleElectionMap.agesReady({
                     "name": "Beaver", 
                     "min": 9296, 
                     "max": 24161, 
-                    "meanAge": 50, 
+                    "meanAge": "50.9", 
                     "counts": [
                         9296, 
                         16266, 
@@ -81,7 +81,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bedford", 
                     "min": 2421, 
                     "max": 6791, 
-                    "meanAge": 51, 
+                    "meanAge": "51.0", 
                     "counts": [
                         2421, 
                         4772, 
@@ -97,7 +97,7 @@ GoogleElectionMap.agesReady({
                     "name": "Berks", 
                     "min": 21784, 
                     "max": 51080, 
-                    "meanAge": 48, 
+                    "meanAge": "48.7", 
                     "counts": [
                         21784, 
                         38811, 
@@ -113,7 +113,7 @@ GoogleElectionMap.agesReady({
                     "name": "Blair", 
                     "min": 6192, 
                     "max": 16194, 
-                    "meanAge": 50, 
+                    "meanAge": "50.4", 
                     "counts": [
                         6192, 
                         12817, 
@@ -129,7 +129,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bradford", 
                     "min": 2805, 
                     "max": 8052, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         2805, 
                         5528, 
@@ -145,7 +145,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bucks", 
                     "min": 36199, 
                     "max": 97337, 
-                    "meanAge": 48, 
+                    "meanAge": "49.0", 
                     "counts": [
                         36199, 
                         62698, 
@@ -161,7 +161,7 @@ GoogleElectionMap.agesReady({
                     "name": "Butler", 
                     "min": 9494, 
                     "max": 25342, 
-                    "meanAge": 49, 
+                    "meanAge": "49.2", 
                     "counts": [
                         9494, 
                         17218, 
@@ -177,7 +177,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cambria", 
                     "min": 6883, 
                     "max": 17867, 
-                    "meanAge": 51, 
+                    "meanAge": "51.9", 
                     "counts": [
                         6883, 
                         12301, 
@@ -193,7 +193,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cameron", 
                     "min": 294, 
                     "max": 751, 
-                    "meanAge": 53, 
+                    "meanAge": "53.1", 
                     "counts": [
                         294, 
                         415, 
@@ -209,7 +209,7 @@ GoogleElectionMap.agesReady({
                     "name": "Carbon", 
                     "min": 2629, 
                     "max": 7861, 
-                    "meanAge": 50, 
+                    "meanAge": "50.9", 
                     "counts": [
                         2629, 
                         5324, 
@@ -225,7 +225,7 @@ GoogleElectionMap.agesReady({
                     "name": "Centre", 
                     "min": 6369, 
                     "max": 17793, 
-                    "meanAge": 44, 
+                    "meanAge": "44.1", 
                     "counts": [
                         16605, 
                         17793, 
@@ -241,7 +241,7 @@ GoogleElectionMap.agesReady({
                     "name": "Chester", 
                     "min": 24485, 
                     "max": 69257, 
-                    "meanAge": 48, 
+                    "meanAge": "48.2", 
                     "counts": [
                         28534, 
                         45230, 
@@ -257,7 +257,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clarion", 
                     "min": 2277, 
                     "max": 4642, 
-                    "meanAge": 50, 
+                    "meanAge": "50.2", 
                     "counts": [
                         2277, 
                         3395, 
@@ -273,7 +273,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clearfield", 
                     "min": 3663, 
                     "max": 10345, 
-                    "meanAge": 50, 
+                    "meanAge": "50.8", 
                     "counts": [
                         3663, 
                         7192, 
@@ -289,7 +289,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clinton", 
                     "min": 1863, 
                     "max": 4048, 
-                    "meanAge": 50, 
+                    "meanAge": "50.1", 
                     "counts": [
                         1863, 
                         3361, 
@@ -305,7 +305,7 @@ GoogleElectionMap.agesReady({
                     "name": "Columbia", 
                     "min": 4271, 
                     "max": 7716, 
-                    "meanAge": 47, 
+                    "meanAge": "47.8", 
                     "counts": [
                         5797, 
                         7644, 
@@ -321,7 +321,7 @@ GoogleElectionMap.agesReady({
                     "name": "Crawford", 
                     "min": 4932, 
                     "max": 11964, 
-                    "meanAge": 49, 
+                    "meanAge": "49.9", 
                     "counts": [
                         4932, 
                         9627, 
@@ -337,7 +337,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cumberland", 
                     "min": 13073, 
                     "max": 28555, 
-                    "meanAge": 49, 
+                    "meanAge": "49.4", 
                     "counts": [
                         13073, 
                         22181, 
@@ -353,7 +353,7 @@ GoogleElectionMap.agesReady({
                     "name": "Dauphin", 
                     "min": 15266, 
                     "max": 38038, 
-                    "meanAge": 47, 
+                    "meanAge": "48.0", 
                     "counts": [
                         15266, 
                         33395, 
@@ -369,7 +369,7 @@ GoogleElectionMap.agesReady({
                     "name": "Delaware", 
                     "min": 33153, 
                     "max": 80126, 
-                    "meanAge": 48, 
+                    "meanAge": "48.4", 
                     "counts": [
                         39256, 
                         63065, 
@@ -385,7 +385,7 @@ GoogleElectionMap.agesReady({
                     "name": "Elk", 
                     "min": 1890, 
                     "max": 4270, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         1890, 
                         2463, 
@@ -401,7 +401,7 @@ GoogleElectionMap.agesReady({
                     "name": "Erie", 
                     "min": 16594, 
                     "max": 35715, 
-                    "meanAge": 48, 
+                    "meanAge": "48.7", 
                     "counts": [
                         17634, 
                         28801, 
@@ -417,7 +417,7 @@ GoogleElectionMap.agesReady({
                     "name": "Fayette", 
                     "min": 5714, 
                     "max": 18128, 
-                    "meanAge": 51, 
+                    "meanAge": "51.3", 
                     "counts": [
                         5714, 
                         12932, 
@@ -433,7 +433,7 @@ GoogleElectionMap.agesReady({
                     "name": "Forest", 
                     "min": 237, 
                     "max": 667, 
-                    "meanAge": 53, 
+                    "meanAge": "54.0", 
                     "counts": [
                         237, 
                         303, 
@@ -449,7 +449,7 @@ GoogleElectionMap.agesReady({
                     "name": "Franklin", 
                     "min": 5756, 
                     "max": 16835, 
-                    "meanAge": 50, 
+                    "meanAge": "50.4", 
                     "counts": [
                         5756, 
                         13155, 
@@ -465,7 +465,7 @@ GoogleElectionMap.agesReady({
                     "name": "Fulton", 
                     "min": 714, 
                     "max": 1784, 
-                    "meanAge": 50, 
+                    "meanAge": "50.2", 
                     "counts": [
                         714, 
                         1497, 
@@ -481,7 +481,7 @@ GoogleElectionMap.agesReady({
                     "name": "Greene", 
                     "min": 1737, 
                     "max": 5197, 
-                    "meanAge": 50, 
+                    "meanAge": "50.3", 
                     "counts": [
                         1737, 
                         3861, 
@@ -497,7 +497,7 @@ GoogleElectionMap.agesReady({
                     "name": "Huntingdon", 
                     "min": 1900, 
                     "max": 5785, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         1900, 
                         4382, 
@@ -513,7 +513,7 @@ GoogleElectionMap.agesReady({
                     "name": "Indiana", 
                     "min": 5542, 
                     "max": 10171, 
-                    "meanAge": 48, 
+                    "meanAge": "48.9", 
                     "counts": [
                         5542, 
                         9265, 
@@ -529,7 +529,7 @@ GoogleElectionMap.agesReady({
                     "name": "Jefferson", 
                     "min": 2429, 
                     "max": 6087, 
-                    "meanAge": 50, 
+                    "meanAge": "50.7", 
                     "counts": [
                         2429, 
                         4206, 
@@ -545,7 +545,7 @@ GoogleElectionMap.agesReady({
                     "name": "Juniata", 
                     "min": 1054, 
                     "max": 2878, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         1054, 
                         1912, 
@@ -561,7 +561,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lackawanna", 
                     "min": 13693, 
                     "max": 28990, 
-                    "meanAge": 50, 
+                    "meanAge": "50.1", 
                     "counts": [
                         13693, 
                         23306, 
@@ -577,7 +577,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lancaster", 
                     "min": 27951, 
                     "max": 63304, 
-                    "meanAge": 48, 
+                    "meanAge": "48.8", 
                     "counts": [
                         27951, 
                         52467, 
@@ -593,7 +593,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lawrence", 
                     "min": 4492, 
                     "max": 12128, 
-                    "meanAge": 51, 
+                    "meanAge": "51.6", 
                     "counts": [
                         4492, 
                         8935, 
@@ -609,7 +609,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lebanon", 
                     "min": 6032, 
                     "max": 15558, 
-                    "meanAge": 50, 
+                    "meanAge": "50.1", 
                     "counts": [
                         6032, 
                         11759, 
@@ -625,7 +625,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lehigh", 
                     "min": 18748, 
                     "max": 43601, 
-                    "meanAge": 48, 
+                    "meanAge": "48.5", 
                     "counts": [
                         18748, 
                         35632, 
@@ -641,7 +641,7 @@ GoogleElectionMap.agesReady({
                     "name": "Luzerne", 
                     "min": 15009, 
                     "max": 35049, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         15009, 
                         24193, 
@@ -657,7 +657,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lycoming", 
                     "min": 5510, 
                     "max": 14428, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         5510, 
                         10292, 
@@ -673,7 +673,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mckean", 
                     "min": 1929, 
                     "max": 5493, 
-                    "meanAge": 51, 
+                    "meanAge": "51.3", 
                     "counts": [
                         1929, 
                         3613, 
@@ -689,7 +689,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mercer", 
                     "min": 6635, 
                     "max": 15772, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         6635, 
                         11753, 
@@ -705,7 +705,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mifflin", 
                     "min": 1637, 
                     "max": 4868, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         1637, 
                         3484, 
@@ -721,7 +721,7 @@ GoogleElectionMap.agesReady({
                     "name": "Monroe", 
                     "min": 8039, 
                     "max": 24355, 
-                    "meanAge": 48, 
+                    "meanAge": "48.3", 
                     "counts": [
                         9059, 
                         15700, 
@@ -737,7 +737,7 @@ GoogleElectionMap.agesReady({
                     "name": "Montgomery", 
                     "min": 46108, 
                     "max": 116838, 
-                    "meanAge": 48, 
+                    "meanAge": "48.8", 
                     "counts": [
                         46108, 
                         90588, 
@@ -753,7 +753,7 @@ GoogleElectionMap.agesReady({
                     "name": "Montour", 
                     "min": 819, 
                     "max": 2571, 
-                    "meanAge": 51, 
+                    "meanAge": "51.5", 
                     "counts": [
                         819, 
                         1691, 
@@ -769,7 +769,7 @@ GoogleElectionMap.agesReady({
                     "name": "Northampton", 
                     "min": 16903, 
                     "max": 41052, 
-                    "meanAge": 49, 
+                    "meanAge": "49.0", 
                     "counts": [
                         16903, 
                         30836, 
@@ -785,7 +785,7 @@ GoogleElectionMap.agesReady({
                     "name": "Northumberland", 
                     "min": 3485, 
                     "max": 10448, 
-                    "meanAge": 52, 
+                    "meanAge": "52.1", 
                     "counts": [
                         3485, 
                         7253, 
@@ -801,7 +801,7 @@ GoogleElectionMap.agesReady({
                     "name": "Perry", 
                     "min": 2067, 
                     "max": 5878, 
-                    "meanAge": 48, 
+                    "meanAge": "48.6", 
                     "counts": [
                         2444, 
                         4065, 
@@ -817,7 +817,7 @@ GoogleElectionMap.agesReady({
                     "name": "Philadelphia", 
                     "min": 81535, 
                     "max": 225547, 
-                    "meanAge": 45, 
+                    "meanAge": "45.7", 
                     "counts": [
                         125725, 
                         225547, 
@@ -833,7 +833,7 @@ GoogleElectionMap.agesReady({
                     "name": "Pike", 
                     "min": 2817, 
                     "max": 9714, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         2817, 
                         5044, 
@@ -849,7 +849,7 @@ GoogleElectionMap.agesReady({
                     "name": "Potter", 
                     "min": 905, 
                     "max": 2278, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         905, 
                         1469, 
@@ -865,7 +865,7 @@ GoogleElectionMap.agesReady({
                     "name": "Schuylkill", 
                     "min": 6357, 
                     "max": 18195, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         6357, 
                         12979, 
@@ -881,7 +881,7 @@ GoogleElectionMap.agesReady({
                     "name": "Snyder", 
                     "min": 1818, 
                     "max": 4307, 
-                    "meanAge": 49, 
+                    "meanAge": "49.9", 
                     "counts": [
                         1818, 
                         3081, 
@@ -897,7 +897,7 @@ GoogleElectionMap.agesReady({
                     "name": "Somerset", 
                     "min": 4155, 
                     "max": 10660, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         4155, 
                         7418, 
@@ -913,7 +913,7 @@ GoogleElectionMap.agesReady({
                     "name": "Sullivan", 
                     "min": 273, 
                     "max": 955, 
-                    "meanAge": 53, 
+                    "meanAge": "53.9", 
                     "counts": [
                         273, 
                         476, 
@@ -929,7 +929,7 @@ GoogleElectionMap.agesReady({
                     "name": "Susquehanna", 
                     "min": 2009, 
                     "max": 6027, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         2009, 
                         3690, 
@@ -945,7 +945,7 @@ GoogleElectionMap.agesReady({
                     "name": "Tioga", 
                     "min": 1851, 
                     "max": 5308, 
-                    "meanAge": 51, 
+                    "meanAge": "51.6", 
                     "counts": [
                         1851, 
                         3575, 
@@ -961,7 +961,7 @@ GoogleElectionMap.agesReady({
                     "name": "Union", 
                     "min": 2449, 
                     "max": 4367, 
-                    "meanAge": 48, 
+                    "meanAge": "48.5", 
                     "counts": [
                         2901, 
                         3709, 
@@ -977,7 +977,7 @@ GoogleElectionMap.agesReady({
                     "name": "Venango", 
                     "min": 2839, 
                     "max": 7232, 
-                    "meanAge": 50, 
+                    "meanAge": "50.8", 
                     "counts": [
                         2839, 
                         4809, 
@@ -993,7 +993,7 @@ GoogleElectionMap.agesReady({
                     "name": "Warren", 
                     "min": 2118, 
                     "max": 5802, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         2118, 
                         3702, 
@@ -1009,7 +1009,7 @@ GoogleElectionMap.agesReady({
                     "name": "Washington", 
                     "min": 9878, 
                     "max": 30760, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         9878, 
                         20253, 
@@ -1025,7 +1025,7 @@ GoogleElectionMap.agesReady({
                     "name": "Wayne", 
                     "min": 2390, 
                     "max": 6265, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         2390, 
                         3677, 
@@ -1041,7 +1041,7 @@ GoogleElectionMap.agesReady({
                     "name": "Westmoreland", 
                     "min": 18082, 
                     "max": 51056, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         18082, 
                         32209, 
@@ -1057,7 +1057,7 @@ GoogleElectionMap.agesReady({
                     "name": "Wyoming", 
                     "min": 1521, 
                     "max": 4145, 
-                    "meanAge": 49, 
+                    "meanAge": "50.0", 
                     "counts": [
                         1521, 
                         2845, 
@@ -1073,7 +1073,7 @@ GoogleElectionMap.agesReady({
                     "name": "York", 
                     "min": 20902, 
                     "max": 61339, 
-                    "meanAge": 48, 
+                    "meanAge": "48.7", 
                     "counts": [
                         20902, 
                         45735, 
@@ -1102,7 +1102,7 @@ GoogleElectionMap.agesReady({
                     "name": "Adams", 
                     "min": 1613, 
                     "max": 3947, 
-                    "meanAge": 52, 
+                    "meanAge": "52.1", 
                     "counts": [
                         1613, 
                         2328, 
@@ -1118,7 +1118,7 @@ GoogleElectionMap.agesReady({
                     "name": "Allegheny", 
                     "min": 51560, 
                     "max": 111401, 
-                    "meanAge": 50, 
+                    "meanAge": "50.9", 
                     "counts": [
                         51560, 
                         84336, 
@@ -1134,7 +1134,7 @@ GoogleElectionMap.agesReady({
                     "name": "Armstrong", 
                     "min": 1150, 
                     "max": 4354, 
-                    "meanAge": 53, 
+                    "meanAge": "53.2", 
                     "counts": [
                         1150, 
                         2338, 
@@ -1150,7 +1150,7 @@ GoogleElectionMap.agesReady({
                     "name": "Beaver", 
                     "min": 4509, 
                     "max": 14654, 
-                    "meanAge": 53, 
+                    "meanAge": "53.1", 
                     "counts": [
                         4509, 
                         8245, 
@@ -1166,7 +1166,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bedford", 
                     "min": 729, 
                     "max": 2293, 
-                    "meanAge": 52, 
+                    "meanAge": "52.9", 
                     "counts": [
                         729, 
                         1393, 
@@ -1182,7 +1182,7 @@ GoogleElectionMap.agesReady({
                     "name": "Berks", 
                     "min": 10417, 
                     "max": 22994, 
-                    "meanAge": 49, 
+                    "meanAge": "49.9", 
                     "counts": [
                         10417, 
                         16678, 
@@ -1198,7 +1198,7 @@ GoogleElectionMap.agesReady({
                     "name": "Blair", 
                     "min": 2199, 
                     "max": 5553, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         2199, 
                         4084, 
@@ -1214,7 +1214,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bradford", 
                     "min": 942, 
                     "max": 2398, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         942, 
                         1584, 
@@ -1230,7 +1230,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bucks", 
                     "min": 16964, 
                     "max": 41661, 
-                    "meanAge": 49, 
+                    "meanAge": "49.1", 
                     "counts": [
                         17483, 
                         26890, 
@@ -1246,7 +1246,7 @@ GoogleElectionMap.agesReady({
                     "name": "Butler", 
                     "min": 3293, 
                     "max": 9698, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         3293, 
                         5882, 
@@ -1262,7 +1262,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cambria", 
                     "min": 3691, 
                     "max": 11431, 
-                    "meanAge": 53, 
+                    "meanAge": "53.2", 
                     "counts": [
                         3691, 
                         6622, 
@@ -1278,7 +1278,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cameron", 
                     "min": 112, 
                     "max": 330, 
-                    "meanAge": 53, 
+                    "meanAge": "53.8", 
                     "counts": [
                         112, 
                         153, 
@@ -1294,7 +1294,7 @@ GoogleElectionMap.agesReady({
                     "name": "Carbon", 
                     "min": 1274, 
                     "max": 4037, 
-                    "meanAge": 52, 
+                    "meanAge": "52.3", 
                     "counts": [
                         1274, 
                         2395, 
@@ -1310,7 +1310,7 @@ GoogleElectionMap.agesReady({
                     "name": "Centre", 
                     "min": 2674, 
                     "max": 8646, 
-                    "meanAge": 43, 
+                    "meanAge": "43.4", 
                     "counts": [
                         8646, 
                         7313, 
@@ -1326,7 +1326,7 @@ GoogleElectionMap.agesReady({
                     "name": "Chester", 
                     "min": 8001, 
                     "max": 24363, 
-                    "meanAge": 47, 
+                    "meanAge": "47.0", 
                     "counts": [
                         13406, 
                         17618, 
@@ -1342,7 +1342,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clarion", 
                     "min": 923, 
                     "max": 1842, 
-                    "meanAge": 51, 
+                    "meanAge": "51.9", 
                     "counts": [
                         923, 
                         1170, 
@@ -1358,7 +1358,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clearfield", 
                     "min": 1505, 
                     "max": 4636, 
-                    "meanAge": 52, 
+                    "meanAge": "52.7", 
                     "counts": [
                         1505, 
                         2781, 
@@ -1374,7 +1374,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clinton", 
                     "min": 1016, 
                     "max": 1934, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         1016, 
                         1304, 
@@ -1390,7 +1390,7 @@ GoogleElectionMap.agesReady({
                     "name": "Columbia", 
                     "min": 2179, 
                     "max": 3332, 
-                    "meanAge": 50, 
+                    "meanAge": "50.0", 
                     "counts": [
                         2334, 
                         2915, 
@@ -1406,7 +1406,7 @@ GoogleElectionMap.agesReady({
                     "name": "Crawford", 
                     "min": 1938, 
                     "max": 5038, 
-                    "meanAge": 51, 
+                    "meanAge": "51.5", 
                     "counts": [
                         1938, 
                         3453, 
@@ -1422,7 +1422,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cumberland", 
                     "min": 5081, 
                     "max": 9326, 
-                    "meanAge": 49, 
+                    "meanAge": "49.7", 
                     "counts": [
                         5081, 
                         7298, 
@@ -1438,7 +1438,7 @@ GoogleElectionMap.agesReady({
                     "name": "Dauphin", 
                     "min": 6042, 
                     "max": 16603, 
-                    "meanAge": 47, 
+                    "meanAge": "47.4", 
                     "counts": [
                         7475, 
                         14575, 
@@ -1454,7 +1454,7 @@ GoogleElectionMap.agesReady({
                     "name": "Delaware", 
                     "min": 11420, 
                     "max": 31383, 
-                    "meanAge": 46, 
+                    "meanAge": "46.1", 
                     "counts": [
                         20177, 
                         28428, 
@@ -1470,7 +1470,7 @@ GoogleElectionMap.agesReady({
                     "name": "Elk", 
                     "min": 976, 
                     "max": 2284, 
-                    "meanAge": 52, 
+                    "meanAge": "53.0", 
                     "counts": [
                         976, 
                         1127, 
@@ -1486,7 +1486,7 @@ GoogleElectionMap.agesReady({
                     "name": "Erie", 
                     "min": 9061, 
                     "max": 19950, 
-                    "meanAge": 49, 
+                    "meanAge": "50.0", 
                     "counts": [
                         9061, 
                         14073, 
@@ -1502,7 +1502,7 @@ GoogleElectionMap.agesReady({
                     "name": "Fayette", 
                     "min": 3376, 
                     "max": 12724, 
-                    "meanAge": 52, 
+                    "meanAge": "52.9", 
                     "counts": [
                         3376, 
                         7781, 
@@ -1518,7 +1518,7 @@ GoogleElectionMap.agesReady({
                     "name": "Forest", 
                     "min": 121, 
                     "max": 320, 
-                    "meanAge": 54, 
+                    "meanAge": "54.2", 
                     "counts": [
                         121, 
                         125, 
@@ -1534,7 +1534,7 @@ GoogleElectionMap.agesReady({
                     "name": "Franklin", 
                     "min": 1626, 
                     "max": 4981, 
-                    "meanAge": 52, 
+                    "meanAge": "52.9", 
                     "counts": [
                         1626, 
                         3427, 
@@ -1550,7 +1550,7 @@ GoogleElectionMap.agesReady({
                     "name": "Fulton", 
                     "min": 190, 
                     "max": 702, 
-                    "meanAge": 53, 
+                    "meanAge": "53.8", 
                     "counts": [
                         190, 
                         403, 
@@ -1566,7 +1566,7 @@ GoogleElectionMap.agesReady({
                     "name": "Greene", 
                     "min": 1018, 
                     "max": 3587, 
-                    "meanAge": 51, 
+                    "meanAge": "52.0", 
                     "counts": [
                         1018, 
                         2221, 
@@ -1582,7 +1582,7 @@ GoogleElectionMap.agesReady({
                     "name": "Huntingdon", 
                     "min": 672, 
                     "max": 1991, 
-                    "meanAge": 51, 
+                    "meanAge": "51.7", 
                     "counts": [
                         672, 
                         1343, 
@@ -1598,7 +1598,7 @@ GoogleElectionMap.agesReady({
                     "name": "Indiana", 
                     "min": 2620, 
                     "max": 4669, 
-                    "meanAge": 49, 
+                    "meanAge": "49.8", 
                     "counts": [
                         2620, 
                         3748, 
@@ -1614,7 +1614,7 @@ GoogleElectionMap.agesReady({
                     "name": "Jefferson", 
                     "min": 843, 
                     "max": 2418, 
-                    "meanAge": 52, 
+                    "meanAge": "52.4", 
                     "counts": [
                         843, 
                         1371, 
@@ -1630,7 +1630,7 @@ GoogleElectionMap.agesReady({
                     "name": "Juniata", 
                     "min": 317, 
                     "max": 1002, 
-                    "meanAge": 52, 
+                    "meanAge": "52.9", 
                     "counts": [
                         317, 
                         520, 
@@ -1646,7 +1646,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lackawanna", 
                     "min": 8911, 
                     "max": 19161, 
-                    "meanAge": 50, 
+                    "meanAge": "51.0", 
                     "counts": [
                         8911, 
                         13890, 
@@ -1662,7 +1662,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lancaster", 
                     "min": 8440, 
                     "max": 18490, 
-                    "meanAge": 47, 
+                    "meanAge": "47.9", 
                     "counts": [
                         10256, 
                         16260, 
@@ -1678,7 +1678,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lawrence", 
                     "min": 2283, 
                     "max": 6926, 
-                    "meanAge": 52, 
+                    "meanAge": "52.8", 
                     "counts": [
                         2283, 
                         4270, 
@@ -1694,7 +1694,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lebanon", 
                     "min": 1988, 
                     "max": 4929, 
-                    "meanAge": 50, 
+                    "meanAge": "50.5", 
                     "counts": [
                         1988, 
                         3724, 
@@ -1710,7 +1710,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lehigh", 
                     "min": 9633, 
                     "max": 20497, 
-                    "meanAge": 49, 
+                    "meanAge": "49.2", 
                     "counts": [
                         9633, 
                         16443, 
@@ -1726,7 +1726,7 @@ GoogleElectionMap.agesReady({
                     "name": "Luzerne", 
                     "min": 8721, 
                     "max": 20760, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         8721, 
                         13441, 
@@ -1742,7 +1742,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lycoming", 
                     "min": 1902, 
                     "max": 5336, 
-                    "meanAge": 52, 
+                    "meanAge": "52.2", 
                     "counts": [
                         1902, 
                         3329, 
@@ -1758,7 +1758,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mckean", 
                     "min": 703, 
                     "max": 1682, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         703, 
                         1113, 
@@ -1774,7 +1774,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mercer", 
                     "min": 2886, 
                     "max": 8083, 
-                    "meanAge": 52, 
+                    "meanAge": "52.2", 
                     "counts": [
                         2886, 
                         4920, 
@@ -1790,7 +1790,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mifflin", 
                     "min": 515, 
                     "max": 1755, 
-                    "meanAge": 53, 
+                    "meanAge": "53.6", 
                     "counts": [
                         515, 
                         1042, 
@@ -1806,7 +1806,7 @@ GoogleElectionMap.agesReady({
                     "name": "Monroe", 
                     "min": 3847, 
                     "max": 11331, 
-                    "meanAge": 48, 
+                    "meanAge": "48.7", 
                     "counts": [
                         4370, 
                         6645, 
@@ -1822,7 +1822,7 @@ GoogleElectionMap.agesReady({
                     "name": "Montgomery", 
                     "min": 20688, 
                     "max": 50955, 
-                    "meanAge": 47, 
+                    "meanAge": "48.0", 
                     "counts": [
                         24482, 
                         40725, 
@@ -1838,7 +1838,7 @@ GoogleElectionMap.agesReady({
                     "name": "Montour", 
                     "min": 350, 
                     "max": 1011, 
-                    "meanAge": 53, 
+                    "meanAge": "53.2", 
                     "counts": [
                         350, 
                         566, 
@@ -1854,7 +1854,7 @@ GoogleElectionMap.agesReady({
                     "name": "Northampton", 
                     "min": 8429, 
                     "max": 19350, 
-                    "meanAge": 50, 
+                    "meanAge": "50.7", 
                     "counts": [
                         8429, 
                         13650, 
@@ -1870,7 +1870,7 @@ GoogleElectionMap.agesReady({
                     "name": "Northumberland", 
                     "min": 1381, 
                     "max": 4675, 
-                    "meanAge": 53, 
+                    "meanAge": "53.5", 
                     "counts": [
                         1381, 
                         2919, 
@@ -1886,7 +1886,7 @@ GoogleElectionMap.agesReady({
                     "name": "Perry", 
                     "min": 637, 
                     "max": 1600, 
-                    "meanAge": 50, 
+                    "meanAge": "50.4", 
                     "counts": [
                         637, 
                         1053, 
@@ -1902,7 +1902,7 @@ GoogleElectionMap.agesReady({
                     "name": "Philadelphia", 
                     "min": 65650, 
                     "max": 164381, 
-                    "meanAge": 46, 
+                    "meanAge": "46.2", 
                     "counts": [
                         95191, 
                         164381, 
@@ -1918,7 +1918,7 @@ GoogleElectionMap.agesReady({
                     "name": "Pike", 
                     "min": 1097, 
                     "max": 3524, 
-                    "meanAge": 51, 
+                    "meanAge": "51.3", 
                     "counts": [
                         1097, 
                         1819, 
@@ -1934,7 +1934,7 @@ GoogleElectionMap.agesReady({
                     "name": "Potter", 
                     "min": 265, 
                     "max": 716, 
-                    "meanAge": 52, 
+                    "meanAge": "52.9", 
                     "counts": [
                         265, 
                         410, 
@@ -1950,7 +1950,7 @@ GoogleElectionMap.agesReady({
                     "name": "Schuylkill", 
                     "min": 2840, 
                     "max": 7555, 
-                    "meanAge": 51, 
+                    "meanAge": "52.0", 
                     "counts": [
                         2840, 
                         5131, 
@@ -1966,7 +1966,7 @@ GoogleElectionMap.agesReady({
                     "name": "Snyder", 
                     "min": 519, 
                     "max": 1116, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         519, 
                         746, 
@@ -1982,7 +1982,7 @@ GoogleElectionMap.agesReady({
                     "name": "Somerset", 
                     "min": 1507, 
                     "max": 4630, 
-                    "meanAge": 52, 
+                    "meanAge": "52.8", 
                     "counts": [
                         1507, 
                         2785, 
@@ -1998,7 +1998,7 @@ GoogleElectionMap.agesReady({
                     "name": "Sullivan", 
                     "min": 115, 
                     "max": 377, 
-                    "meanAge": 54, 
+                    "meanAge": "54.4", 
                     "counts": [
                         115, 
                         172, 
@@ -2014,7 +2014,7 @@ GoogleElectionMap.agesReady({
                     "name": "Susquehanna", 
                     "min": 796, 
                     "max": 2079, 
-                    "meanAge": 51, 
+                    "meanAge": "51.6", 
                     "counts": [
                         796, 
                         1238, 
@@ -2030,7 +2030,7 @@ GoogleElectionMap.agesReady({
                     "name": "Tioga", 
                     "min": 616, 
                     "max": 1556, 
-                    "meanAge": 51, 
+                    "meanAge": "51.5", 
                     "counts": [
                         616, 
                         1052, 
@@ -2046,7 +2046,7 @@ GoogleElectionMap.agesReady({
                     "name": "Union", 
                     "min": 744, 
                     "max": 1415, 
-                    "meanAge": 47, 
+                    "meanAge": "47.6", 
                     "counts": [
                         1338, 
                         1059, 
@@ -2062,7 +2062,7 @@ GoogleElectionMap.agesReady({
                     "name": "Venango", 
                     "min": 1016, 
                     "max": 2884, 
-                    "meanAge": 51, 
+                    "meanAge": "51.7", 
                     "counts": [
                         1016, 
                         1602, 
@@ -2078,7 +2078,7 @@ GoogleElectionMap.agesReady({
                     "name": "Warren", 
                     "min": 790, 
                     "max": 2339, 
-                    "meanAge": 52, 
+                    "meanAge": "52.6", 
                     "counts": [
                         790, 
                         1229, 
@@ -2094,7 +2094,7 @@ GoogleElectionMap.agesReady({
                     "name": "Washington", 
                     "min": 4784, 
                     "max": 17810, 
-                    "meanAge": 53, 
+                    "meanAge": "53.6", 
                     "counts": [
                         4784, 
                         10034, 
@@ -2110,7 +2110,7 @@ GoogleElectionMap.agesReady({
                     "name": "Wayne", 
                     "min": 873, 
                     "max": 2056, 
-                    "meanAge": 51, 
+                    "meanAge": "51.5", 
                     "counts": [
                         873, 
                         1166, 
@@ -2126,7 +2126,7 @@ GoogleElectionMap.agesReady({
                     "name": "Westmoreland", 
                     "min": 8426, 
                     "max": 27794, 
-                    "meanAge": 53, 
+                    "meanAge": "53.7", 
                     "counts": [
                         8426, 
                         14770, 
@@ -2142,7 +2142,7 @@ GoogleElectionMap.agesReady({
                     "name": "Wyoming", 
                     "min": 641, 
                     "max": 1523, 
-                    "meanAge": 49, 
+                    "meanAge": "49.4", 
                     "counts": [
                         665, 
                         957, 
@@ -2158,7 +2158,7 @@ GoogleElectionMap.agesReady({
                     "name": "York", 
                     "min": 7510, 
                     "max": 21393, 
-                    "meanAge": 50, 
+                    "meanAge": "50.5", 
                     "counts": [
                         7510, 
                         15419, 
@@ -2188,7 +2188,7 @@ GoogleElectionMap.agesReady({
                     "name": "Adams", 
                     "min": 2054, 
                     "max": 7046, 
-                    "meanAge": 50, 
+                    "meanAge": "50.5", 
                     "counts": [
                         2054, 
                         4081, 
@@ -2204,7 +2204,7 @@ GoogleElectionMap.agesReady({
                     "name": "Allegheny", 
                     "min": 20407, 
                     "max": 51165, 
-                    "meanAge": 50, 
+                    "meanAge": "50.1", 
                     "counts": [
                         20407, 
                         39615, 
@@ -2220,7 +2220,7 @@ GoogleElectionMap.agesReady({
                     "name": "Armstrong", 
                     "min": 1419, 
                     "max": 4197, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         1419, 
                         2886, 
@@ -2236,7 +2236,7 @@ GoogleElectionMap.agesReady({
                     "name": "Beaver", 
                     "min": 3230, 
                     "max": 7631, 
-                    "meanAge": 49, 
+                    "meanAge": "49.4", 
                     "counts": [
                         3230, 
                         5295, 
@@ -2252,7 +2252,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bedford", 
                     "min": 1351, 
                     "max": 4022, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         1351, 
                         2667, 
@@ -2268,7 +2268,7 @@ GoogleElectionMap.agesReady({
                     "name": "Berks", 
                     "min": 6578, 
                     "max": 21752, 
-                    "meanAge": 49, 
+                    "meanAge": "49.9", 
                     "counts": [
                         6578, 
                         13057, 
@@ -2284,7 +2284,7 @@ GoogleElectionMap.agesReady({
                     "name": "Blair", 
                     "min": 3000, 
                     "max": 9139, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         3000, 
                         6363, 
@@ -2300,7 +2300,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bradford", 
                     "min": 1431, 
                     "max": 4824, 
-                    "meanAge": 52, 
+                    "meanAge": "52.1", 
                     "counts": [
                         1431, 
                         2878, 
@@ -2316,7 +2316,7 @@ GoogleElectionMap.agesReady({
                     "name": "Bucks", 
                     "min": 10936, 
                     "max": 43811, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         10936, 
                         20580, 
@@ -2332,7 +2332,7 @@ GoogleElectionMap.agesReady({
                     "name": "Butler", 
                     "min": 4403, 
                     "max": 13104, 
-                    "meanAge": 49, 
+                    "meanAge": "49.4", 
                     "counts": [
                         4403, 
                         8005, 
@@ -2348,7 +2348,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cambria", 
                     "min": 2120, 
                     "max": 5282, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         2120, 
                         3797, 
@@ -2364,7 +2364,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cameron", 
                     "min": 128, 
                     "max": 347, 
-                    "meanAge": 54, 
+                    "meanAge": "54.3", 
                     "counts": [
                         128, 
                         194, 
@@ -2380,7 +2380,7 @@ GoogleElectionMap.agesReady({
                     "name": "Carbon", 
                     "min": 804, 
                     "max": 2973, 
-                    "meanAge": 51, 
+                    "meanAge": "51.5", 
                     "counts": [
                         804, 
                         1849, 
@@ -2396,7 +2396,7 @@ GoogleElectionMap.agesReady({
                     "name": "Centre", 
                     "min": 3437, 
                     "max": 6999, 
-                    "meanAge": 47, 
+                    "meanAge": "47.6", 
                     "counts": [
                         4645, 
                         5953, 
@@ -2412,7 +2412,7 @@ GoogleElectionMap.agesReady({
                     "name": "Chester", 
                     "min": 8874, 
                     "max": 35370, 
-                    "meanAge": 50, 
+                    "meanAge": "51.0", 
                     "counts": [
                         8874, 
                         16595, 
@@ -2428,7 +2428,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clarion", 
                     "min": 968, 
                     "max": 2452, 
-                    "meanAge": 50, 
+                    "meanAge": "50.7", 
                     "counts": [
                         968, 
                         1663, 
@@ -2444,7 +2444,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clearfield", 
                     "min": 1599, 
                     "max": 4845, 
-                    "meanAge": 50, 
+                    "meanAge": "50.9", 
                     "counts": [
                         1599, 
                         3049, 
@@ -2460,7 +2460,7 @@ GoogleElectionMap.agesReady({
                     "name": "Clinton", 
                     "min": 581, 
                     "max": 1786, 
-                    "meanAge": 50, 
+                    "meanAge": "50.8", 
                     "counts": [
                         581, 
                         1404, 
@@ -2476,7 +2476,7 @@ GoogleElectionMap.agesReady({
                     "name": "Columbia", 
                     "min": 1875, 
                     "max": 3579, 
-                    "meanAge": 48, 
+                    "meanAge": "48.9", 
                     "counts": [
                         1952, 
                         2873, 
@@ -2492,7 +2492,7 @@ GoogleElectionMap.agesReady({
                     "name": "Crawford", 
                     "min": 2135, 
                     "max": 5968, 
-                    "meanAge": 50, 
+                    "meanAge": "50.5", 
                     "counts": [
                         2135, 
                         4436, 
@@ -2508,7 +2508,7 @@ GoogleElectionMap.agesReady({
                     "name": "Cumberland", 
                     "min": 5330, 
                     "max": 15987, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         5330, 
                         9916, 
@@ -2524,7 +2524,7 @@ GoogleElectionMap.agesReady({
                     "name": "Dauphin", 
                     "min": 5014, 
                     "max": 17632, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         5014, 
                         11934, 
@@ -2540,7 +2540,7 @@ GoogleElectionMap.agesReady({
                     "name": "Delaware", 
                     "min": 12662, 
                     "max": 42036, 
-                    "meanAge": 51, 
+                    "meanAge": "51.9", 
                     "counts": [
                         12662, 
                         23652, 
@@ -2556,7 +2556,7 @@ GoogleElectionMap.agesReady({
                     "name": "Elk", 
                     "min": 652, 
                     "max": 1575, 
-                    "meanAge": 50, 
+                    "meanAge": "50.7", 
                     "counts": [
                         652, 
                         834, 
@@ -2572,7 +2572,7 @@ GoogleElectionMap.agesReady({
                     "name": "Erie", 
                     "min": 5173, 
                     "max": 12923, 
-                    "meanAge": 49, 
+                    "meanAge": "49.6", 
                     "counts": [
                         5173, 
                         9181, 
@@ -2588,7 +2588,7 @@ GoogleElectionMap.agesReady({
                     "name": "Fayette", 
                     "min": 1559, 
                     "max": 4414, 
-                    "meanAge": 49, 
+                    "meanAge": "49.7", 
                     "counts": [
                         1559, 
                         3328, 
@@ -2604,7 +2604,7 @@ GoogleElectionMap.agesReady({
                     "name": "Forest", 
                     "min": 95, 
                     "max": 312, 
-                    "meanAge": 54, 
+                    "meanAge": "54.6", 
                     "counts": [
                         95, 
                         146, 
@@ -2620,7 +2620,7 @@ GoogleElectionMap.agesReady({
                     "name": "Franklin", 
                     "min": 3013, 
                     "max": 10031, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         3013, 
                         7033, 
@@ -2636,7 +2636,7 @@ GoogleElectionMap.agesReady({
                     "name": "Fulton", 
                     "min": 403, 
                     "max": 1088, 
-                    "meanAge": 49, 
+                    "meanAge": "49.1", 
                     "counts": [
                         403, 
                         911, 
@@ -2652,7 +2652,7 @@ GoogleElectionMap.agesReady({
                     "name": "Greene", 
                     "min": 477, 
                     "max": 1422, 
-                    "meanAge": 48, 
+                    "meanAge": "48.6", 
                     "counts": [
                         477, 
                         1120, 
@@ -2668,7 +2668,7 @@ GoogleElectionMap.agesReady({
                     "name": "Huntingdon", 
                     "min": 943, 
                     "max": 3308, 
-                    "meanAge": 51, 
+                    "meanAge": "51.4", 
                     "counts": [
                         943, 
                         2286, 
@@ -2684,7 +2684,7 @@ GoogleElectionMap.agesReady({
                     "name": "Indiana", 
                     "min": 1991, 
                     "max": 4556, 
-                    "meanAge": 50, 
+                    "meanAge": "50.3", 
                     "counts": [
                         1991, 
                         3558, 
@@ -2700,7 +2700,7 @@ GoogleElectionMap.agesReady({
                     "name": "Jefferson", 
                     "min": 1212, 
                     "max": 3170, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         1212, 
                         2085, 
@@ -2716,7 +2716,7 @@ GoogleElectionMap.agesReady({
                     "name": "Juniata", 
                     "min": 585, 
                     "max": 1663, 
-                    "meanAge": 50, 
+                    "meanAge": "50.6", 
                     "counts": [
                         585, 
                         1069, 
@@ -2732,7 +2732,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lackawanna", 
                     "min": 3109, 
                     "max": 8260, 
-                    "meanAge": 50, 
+                    "meanAge": "50.3", 
                     "counts": [
                         3109, 
                         6462, 
@@ -2748,7 +2748,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lancaster", 
                     "min": 12061, 
                     "max": 36816, 
-                    "meanAge": 50, 
+                    "meanAge": "50.9", 
                     "counts": [
                         12061, 
                         24529, 
@@ -2764,7 +2764,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lawrence", 
                     "min": 1608, 
                     "max": 4305, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         1608, 
                         3241, 
@@ -2780,7 +2780,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lebanon", 
                     "min": 2785, 
                     "max": 8864, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         2785, 
                         5457, 
@@ -2796,7 +2796,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lehigh", 
                     "min": 4779, 
                     "max": 17204, 
-                    "meanAge": 50, 
+                    "meanAge": "50.7", 
                     "counts": [
                         4779, 
                         10355, 
@@ -2812,7 +2812,7 @@ GoogleElectionMap.agesReady({
                     "name": "Luzerne", 
                     "min": 4075, 
                     "max": 12040, 
-                    "meanAge": 52, 
+                    "meanAge": "52.1", 
                     "counts": [
                         4075, 
                         7240, 
@@ -2828,7 +2828,7 @@ GoogleElectionMap.agesReady({
                     "name": "Lycoming", 
                     "min": 2527, 
                     "max": 7725, 
-                    "meanAge": 51, 
+                    "meanAge": "51.5", 
                     "counts": [
                         2527, 
                         4756, 
@@ -2844,7 +2844,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mckean", 
                     "min": 825, 
                     "max": 3257, 
-                    "meanAge": 52, 
+                    "meanAge": "52.8", 
                     "counts": [
                         825, 
                         1828, 
@@ -2860,7 +2860,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mercer", 
                     "min": 2505, 
                     "max": 6181, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         2505, 
                         4481, 
@@ -2876,7 +2876,7 @@ GoogleElectionMap.agesReady({
                     "name": "Mifflin", 
                     "min": 855, 
                     "max": 2823, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         855, 
                         1838, 
@@ -2892,7 +2892,7 @@ GoogleElectionMap.agesReady({
                     "name": "Monroe", 
                     "min": 2526, 
                     "max": 9066, 
-                    "meanAge": 50, 
+                    "meanAge": "50.1", 
                     "counts": [
                         2526, 
                         4904, 
@@ -2908,7 +2908,7 @@ GoogleElectionMap.agesReady({
                     "name": "Montgomery", 
                     "min": 12426, 
                     "max": 51838, 
-                    "meanAge": 52, 
+                    "meanAge": "52.0", 
                     "counts": [
                         12426, 
                         29235, 
@@ -2924,7 +2924,7 @@ GoogleElectionMap.agesReady({
                     "name": "Montour", 
                     "min": 321, 
                     "max": 1252, 
-                    "meanAge": 52, 
+                    "meanAge": "52.3", 
                     "counts": [
                         321, 
                         727, 
@@ -2940,7 +2940,7 @@ GoogleElectionMap.agesReady({
                     "name": "Northampton", 
                     "min": 4461, 
                     "max": 15584, 
-                    "meanAge": 49, 
+                    "meanAge": "49.9", 
                     "counts": [
                         4461, 
                         9255, 
@@ -2956,7 +2956,7 @@ GoogleElectionMap.agesReady({
                     "name": "Northumberland", 
                     "min": 1446, 
                     "max": 4877, 
-                    "meanAge": 52, 
+                    "meanAge": "52.7", 
                     "counts": [
                         1446, 
                         3127, 
@@ -2972,7 +2972,7 @@ GoogleElectionMap.agesReady({
                     "name": "Perry", 
                     "min": 1314, 
                     "max": 3709, 
-                    "meanAge": 49, 
+                    "meanAge": "49.3", 
                     "counts": [
                         1331, 
                         2256, 
@@ -2988,7 +2988,7 @@ GoogleElectionMap.agesReady({
                     "name": "Philadelphia", 
                     "min": 13239, 
                     "max": 28956, 
-                    "meanAge": 48, 
+                    "meanAge": "48.4", 
                     "counts": [
                         13328, 
                         28956, 
@@ -3004,7 +3004,7 @@ GoogleElectionMap.agesReady({
                     "name": "Pike", 
                     "min": 1003, 
                     "max": 4476, 
-                    "meanAge": 52, 
+                    "meanAge": "52.8", 
                     "counts": [
                         1003, 
                         1903, 
@@ -3020,7 +3020,7 @@ GoogleElectionMap.agesReady({
                     "name": "Potter", 
                     "min": 523, 
                     "max": 1399, 
-                    "meanAge": 51, 
+                    "meanAge": "51.6", 
                     "counts": [
                         523, 
                         821, 
@@ -3036,7 +3036,7 @@ GoogleElectionMap.agesReady({
                     "name": "Schuylkill", 
                     "min": 2521, 
                     "max": 8983, 
-                    "meanAge": 52, 
+                    "meanAge": "52.6", 
                     "counts": [
                         2521, 
                         5664, 
@@ -3052,7 +3052,7 @@ GoogleElectionMap.agesReady({
                     "name": "Snyder", 
                     "min": 947, 
                     "max": 2805, 
-                    "meanAge": 51, 
+                    "meanAge": "51.1", 
                     "counts": [
                         947, 
                         1782, 
@@ -3068,7 +3068,7 @@ GoogleElectionMap.agesReady({
                     "name": "Somerset", 
                     "min": 2008, 
                     "max": 5386, 
-                    "meanAge": 51, 
+                    "meanAge": "51.3", 
                     "counts": [
                         2008, 
                         3498, 
@@ -3084,7 +3084,7 @@ GoogleElectionMap.agesReady({
                     "name": "Sullivan", 
                     "min": 136, 
                     "max": 513, 
-                    "meanAge": 54, 
+                    "meanAge": "54.3", 
                     "counts": [
                         136, 
                         235, 
@@ -3100,7 +3100,7 @@ GoogleElectionMap.agesReady({
                     "name": "Susquehanna", 
                     "min": 830, 
                     "max": 3338, 
-                    "meanAge": 52, 
+                    "meanAge": "52.7", 
                     "counts": [
                         830, 
                         1763, 
@@ -3116,7 +3116,7 @@ GoogleElectionMap.agesReady({
                     "name": "Tioga", 
                     "min": 838, 
                     "max": 3280, 
-                    "meanAge": 53, 
+                    "meanAge": "53.3", 
                     "counts": [
                         838, 
                         1864, 
@@ -3132,7 +3132,7 @@ GoogleElectionMap.agesReady({
                     "name": "Union", 
                     "min": 1024, 
                     "max": 2419, 
-                    "meanAge": 51, 
+                    "meanAge": "51.2", 
                     "counts": [
                         1024, 
                         1751, 
@@ -3148,7 +3148,7 @@ GoogleElectionMap.agesReady({
                     "name": "Venango", 
                     "min": 1318, 
                     "max": 3668, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         1318, 
                         2299, 
@@ -3164,7 +3164,7 @@ GoogleElectionMap.agesReady({
                     "name": "Warren", 
                     "min": 926, 
                     "max": 2847, 
-                    "meanAge": 51, 
+                    "meanAge": "52.0", 
                     "counts": [
                         926, 
                         1623, 
@@ -3180,7 +3180,7 @@ GoogleElectionMap.agesReady({
                     "name": "Washington", 
                     "min": 3415, 
                     "max": 10417, 
-                    "meanAge": 49, 
+                    "meanAge": "49.6", 
                     "counts": [
                         3415, 
                         6744, 
@@ -3196,7 +3196,7 @@ GoogleElectionMap.agesReady({
                     "name": "Wayne", 
                     "min": 1030, 
                     "max": 3513, 
-                    "meanAge": 53, 
+                    "meanAge": "53.2", 
                     "counts": [
                         1030, 
                         1742, 
@@ -3212,7 +3212,7 @@ GoogleElectionMap.agesReady({
                     "name": "Westmoreland", 
                     "min": 6764, 
                     "max": 18817, 
-                    "meanAge": 49, 
+                    "meanAge": "49.7", 
                     "counts": [
                         6764, 
                         11622, 
@@ -3228,7 +3228,7 @@ GoogleElectionMap.agesReady({
                     "name": "Wyoming", 
                     "min": 588, 
                     "max": 2244, 
-                    "meanAge": 51, 
+                    "meanAge": "51.8", 
                     "counts": [
                         588, 
                         1383, 
@@ -3244,7 +3244,7 @@ GoogleElectionMap.agesReady({
                     "name": "York", 
                     "min": 8872, 
                     "max": 31973, 
-                    "meanAge": 49, 
+                    "meanAge": "49.3", 
                     "counts": [
                         8872, 
                         19685, 
@@ -3259,4 +3259,4 @@ GoogleElectionMap.agesReady({
             ]
         }
     }
-})
+};

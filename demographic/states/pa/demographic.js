@@ -1,4 +1,4 @@
-Demographics = {
+GoogleElectionMap.Demographics({
     "status": "ok", 
     "state": "pa", 
     "ages": {
@@ -3259,4 +3259,4 @@ Demographics = {
             ]
         }
     }
-};
+})

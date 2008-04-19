@@ -595,7 +595,7 @@ GoogleElectionMap.Demographics({
                     49.32
                 ], 
                 "total": 50.68, 
-                "name": "Mckean", 
+                "name": "McKean", 
                 "min": 0.0
             }, 
             {
@@ -1634,7 +1634,7 @@ GoogleElectionMap.Demographics({
                     "total": 69820
                 }, 
                 {
-                    "name": "Mckean", 
+                    "name": "McKean", 
                     "min": 1929, 
                     "max": 5493, 
                     "meanAge": "51.3", 
@@ -2719,7 +2719,7 @@ GoogleElectionMap.Demographics({
                     "total": 25757
                 }, 
                 {
-                    "name": "Mckean", 
+                    "name": "McKean", 
                     "min": 703, 
                     "max": 1682, 
                     "meanAge": "51.8", 
@@ -3805,7 +3805,7 @@ GoogleElectionMap.Demographics({
                     "total": 36528
                 }, 
                 {
-                    "name": "Mckean", 
+                    "name": "McKean", 
                     "min": 825, 
                     "max": 3257, 
                     "meanAge": "52.8", 
@@ -4720,7 +4720,7 @@ GoogleElectionMap.Demographics({
             }, 
             {
                 "demOld": 7972, 
-                "name": "Mckean", 
+                "name": "McKean", 
                 "demChange": 1.6547108839639724, 
                 "popNew": 44009, 
                 "demNew": 8694, 

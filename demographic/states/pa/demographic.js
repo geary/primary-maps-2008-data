@@ -2,6 +2,10 @@ GoogleElectionMap.Demographics({
     "status": "ok", 
     "state": "pa", 
     "labels": {
+        "gub2002": [
+            "Casey", 
+            "Rendell"
+        ], 
         "religion": [
             "Catholic", 
             "Evangelical", 
@@ -19,17 +23,15 @@ GoogleElectionMap.Demographics({
             "65 to 74", 
             "75+"
         ], 
-        "gub2002": [
-            "Casey", 
-            "Rendell"
+        "ethnic": [
+            "White", 
+            "Black", 
+            "Asian", 
+            "Other"
         ]
     }, 
     "places": [
         {
-            "gub2002": [
-                2388, 
-                1621
-            ], 
             "religion": {
                 "max": 23.620000000000001, 
                 "percents": [
@@ -43,6 +45,17 @@ GoogleElectionMap.Demographics({
                 "total": 53.640000000000008, 
                 "min": 0.0
             }, 
+            "name": "Adams", 
+            "ethnic": [
+                97390, 
+                1890, 
+                758, 
+                807
+            ], 
+            "gub2002": [
+                2388, 
+                1621
+            ], 
             "ages": {
                 "all": {
                     "max": 12429, 
@@ -90,7 +103,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.5"
                 }
             }, 
-            "name": "Adams", 
             "population": {
                 "all": {
                     "after": 100779, 
@@ -111,10 +123,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                94719, 
-                80120
-            ], 
             "religion": {
                 "max": 49.369999999999997, 
                 "percents": [
@@ -128,6 +136,17 @@ GoogleElectionMap.Demographics({
                 "total": 71.580000000000013, 
                 "min": 1.79
             }, 
+            "name": "Allegheny", 
+            "ethnic": [
+                1016452, 
+                162517, 
+                28035, 
+                13379
+            ], 
+            "gub2002": [
+                94719, 
+                80120
+            ], 
             "ages": {
                 "all": {
                     "max": 177255, 
@@ -175,7 +194,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.1"
                 }
             }, 
-            "name": "Allegheny", 
             "population": {
                 "all": {
                     "after": 1219210, 
@@ -196,10 +214,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                4081, 
-                2102
-            ], 
             "religion": {
                 "max": 32.740000000000002, 
                 "percents": [
@@ -213,6 +227,17 @@ GoogleElectionMap.Demographics({
                 "total": 57.850000000000001, 
                 "min": 0.0
             }, 
+            "name": "Armstrong", 
+            "ethnic": [
+                68809, 
+                699, 
+                123, 
+                372
+            ], 
+            "gub2002": [
+                4081, 
+                2102
+            ], 
             "ages": {
                 "all": {
                     "max": 9298, 
@@ -260,7 +285,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.4"
                 }
             }, 
-            "name": "Armstrong", 
             "population": {
                 "all": {
                     "after": 69059, 
@@ -281,10 +305,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                14406, 
-                9428
-            ], 
             "religion": {
                 "max": 35.509999999999998, 
                 "percents": [
@@ -298,6 +318,17 @@ GoogleElectionMap.Demographics({
                 "total": 61.930000000000007, 
                 "min": 1.0900000000000001
             }, 
+            "name": "Beaver", 
+            "ethnic": [
+                161873, 
+                10968, 
+                641, 
+                1994
+            ], 
+            "gub2002": [
+                14406, 
+                9428
+            ], 
             "ages": {
                 "all": {
                     "max": 24161, 
@@ -345,7 +376,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.4"
                 }
             }, 
-            "name": "Beaver", 
             "population": {
                 "all": {
                     "after": 173074, 
@@ -366,10 +396,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                2145, 
-                863
-            ], 
             "religion": {
                 "max": 22.809999999999999, 
                 "percents": [
@@ -383,6 +409,17 @@ GoogleElectionMap.Demographics({
                 "total": 42.030000000000001, 
                 "min": 0.0
             }, 
+            "name": "Bedford", 
+            "ethnic": [
+                49193, 
+                215, 
+                168, 
+                267
+            ], 
+            "gub2002": [
+                2145, 
+                863
+            ], 
             "ages": {
                 "all": {
                     "max": 6791, 
@@ -430,7 +467,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.1"
                 }
             }, 
-            "name": "Bedford", 
             "population": {
                 "all": {
                     "after": 49650, 
@@ -451,10 +487,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                19024, 
-                10508
-            ], 
             "religion": {
                 "max": 27.280000000000001, 
                 "percents": [
@@ -468,6 +500,17 @@ GoogleElectionMap.Demographics({
                 "total": 53.700000000000003, 
                 "min": 0.31
             }, 
+            "name": "Berks", 
+            "ethnic": [
+                370848, 
+                19738, 
+                5094, 
+                4182
+            ], 
+            "gub2002": [
+                19024, 
+                10508
+            ], 
             "ages": {
                 "all": {
                     "max": 51080, 
@@ -515,7 +558,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.9"
                 }
             }, 
-            "name": "Berks", 
             "population": {
                 "all": {
                     "after": 401955, 
@@ -536,10 +578,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                4202, 
-                2806
-            ], 
             "religion": {
                 "max": 24.829999999999998, 
                 "percents": [
@@ -553,6 +591,17 @@ GoogleElectionMap.Demographics({
                 "total": 55.550000000000004, 
                 "min": 0.32000000000000001
             }, 
+            "name": "Blair", 
+            "ethnic": [
+                122896, 
+                1833, 
+                629, 
+                968
+            ], 
+            "gub2002": [
+                4202, 
+                2806
+            ], 
             "ages": {
                 "all": {
                     "max": 16194, 
@@ -600,7 +649,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.4"
                 }
             }, 
-            "name": "Blair", 
             "population": {
                 "all": {
                     "after": 125527, 
@@ -621,10 +669,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1431, 
-                397
-            ], 
             "religion": {
                 "max": 22.850000000000001, 
                 "percents": [
@@ -638,6 +682,17 @@ GoogleElectionMap.Demographics({
                 "total": 40.359999999999999, 
                 "min": 0.0
             }, 
+            "name": "Bradford", 
+            "ethnic": [
+                61223, 
+                288, 
+                352, 
+                397
+            ], 
+            "gub2002": [
+                1431, 
+                397
+            ], 
             "ages": {
                 "all": {
                     "max": 8052, 
@@ -685,7 +740,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.1"
                 }
             }, 
-            "name": "Bradford", 
             "population": {
                 "all": {
                     "after": 61471, 
@@ -706,10 +760,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                44715, 
-                9984
-            ], 
             "religion": {
                 "max": 43.759999999999998, 
                 "percents": [
@@ -723,6 +773,17 @@ GoogleElectionMap.Demographics({
                 "total": 65.840000000000003, 
                 "min": 0.56999999999999995
             }, 
+            "name": "Bucks", 
+            "ethnic": [
+                573109, 
+                22369, 
+                21068, 
+                5435
+            ], 
+            "gub2002": [
+                44715, 
+                9984
+            ], 
             "ages": {
                 "all": {
                     "max": 97337, 
@@ -770,7 +831,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.1"
                 }
             }, 
-            "name": "Bucks", 
             "population": {
                 "all": {
                     "after": 621144, 
@@ -791,10 +851,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                6821, 
-                4311
-            ], 
             "religion": {
                 "max": 30.300000000000001, 
                 "percents": [
@@ -808,6 +864,17 @@ GoogleElectionMap.Demographics({
                 "total": 58.960000000000001, 
                 "min": 0.14000000000000001
             }, 
+            "name": "Butler", 
+            "ethnic": [
+                178256, 
+                1838, 
+                1486, 
+                1055
+            ], 
+            "gub2002": [
+                6821, 
+                4311
+            ], 
             "ages": {
                 "all": {
                     "max": 25342, 
@@ -855,7 +922,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.4"
                 }
             }, 
-            "name": "Butler", 
             "population": {
                 "all": {
                     "after": 181934, 
@@ -876,10 +942,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                17845, 
-                8705
-            ], 
             "religion": {
                 "max": 54.799999999999997, 
                 "percents": [
@@ -893,6 +955,17 @@ GoogleElectionMap.Demographics({
                 "total": 81.340000000000003, 
                 "min": 0.17999999999999999
             }, 
+            "name": "Cambria", 
+            "ethnic": [
+                140063, 
+                4796, 
+                805, 
+                1101
+            ], 
+            "gub2002": [
+                17845, 
+                8705
+            ], 
             "ages": {
                 "all": {
                     "max": 17867, 
@@ -940,7 +1013,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.8"
                 }
             }, 
-            "name": "Cambria", 
             "population": {
                 "all": {
                     "after": 144995, 
@@ -961,10 +1033,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                399, 
-                176
-            ], 
             "religion": {
                 "max": 26.449999999999999, 
                 "percents": [
@@ -978,6 +1046,17 @@ GoogleElectionMap.Demographics({
                 "total": 56.480000000000004, 
                 "min": 0.0
             }, 
+            "name": "Cameron", 
+            "ethnic": [
+                5401, 
+                36, 
+                9, 
+                29
+            ], 
+            "gub2002": [
+                399, 
+                176
+            ], 
             "ages": {
                 "all": {
                     "max": 751, 
@@ -1025,7 +1104,6 @@ GoogleElectionMap.Demographics({
                     "mean": "54.3"
                 }
             }, 
-            "name": "Cameron", 
             "population": {
                 "all": {
                     "after": 5349, 
@@ -1046,10 +1124,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                3396, 
-                2232
-            ], 
             "religion": {
                 "max": 33.719999999999999, 
                 "percents": [
@@ -1063,6 +1137,17 @@ GoogleElectionMap.Demographics({
                 "total": 63.079999999999998, 
                 "min": 0.0
             }, 
+            "name": "Carbon", 
+            "ethnic": [
+                60973, 
+                787, 
+                275, 
+                410
+            ], 
+            "gub2002": [
+                3396, 
+                2232
+            ], 
             "ages": {
                 "all": {
                     "max": 7861, 
@@ -1110,7 +1195,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.5"
                 }
             }, 
-            "name": "Carbon", 
             "population": {
                 "all": {
                     "after": 63242, 
@@ -1131,10 +1215,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                3971, 
-                3597
-            ], 
             "religion": {
                 "max": 18.699999999999999, 
                 "percents": [
@@ -1148,6 +1228,17 @@ GoogleElectionMap.Demographics({
                 "total": 42.109999999999999, 
                 "min": 0.40000000000000002
             }, 
+            "name": "Centre", 
+            "ethnic": [
+                128181, 
+                4280, 
+                6679, 
+                1423
+            ], 
+            "gub2002": [
+                3971, 
+                3597
+            ], 
             "ages": {
                 "all": {
                     "max": 17793, 
@@ -1195,7 +1286,6 @@ GoogleElectionMap.Demographics({
                     "mean": "47.6"
                 }
             }, 
-            "name": "Centre", 
             "population": {
                 "all": {
                     "after": 144658, 
@@ -1216,10 +1306,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                22564, 
-                4744
-            ], 
             "religion": {
                 "max": 32.43, 
                 "percents": [
@@ -1233,6 +1319,17 @@ GoogleElectionMap.Demographics({
                 "total": 54.849999999999994, 
                 "min": 1.55
             }, 
+            "name": "Chester", 
+            "ethnic": [
+                429906, 
+                30353, 
+                16304, 
+                4585
+            ], 
+            "gub2002": [
+                22564, 
+                4744
+            ], 
             "ages": {
                 "all": {
                     "max": 69257, 
@@ -1280,7 +1377,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.0"
                 }
             }, 
-            "name": "Chester", 
             "population": {
                 "all": {
                     "after": 486345, 
@@ -1301,10 +1397,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                2005, 
-                1085
-            ], 
             "religion": {
                 "max": 23.390000000000001, 
                 "percents": [
@@ -1318,6 +1410,17 @@ GoogleElectionMap.Demographics({
                 "total": 48.359999999999999, 
                 "min": 0.0
             }, 
+            "name": "Clarion", 
+            "ethnic": [
+                39542, 
+                395, 
+                175, 
+                214
+            ], 
+            "gub2002": [
+                2005, 
+                1085
+            ], 
             "ages": {
                 "all": {
                     "max": 4642, 
@@ -1365,7 +1468,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.7"
                 }
             }, 
-            "name": "Clarion", 
             "population": {
                 "all": {
                     "after": 40028, 
@@ -1386,10 +1488,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                4981, 
-                2041
-            ], 
             "religion": {
                 "max": 21.84, 
                 "percents": [
@@ -1403,6 +1501,17 @@ GoogleElectionMap.Demographics({
                 "total": 51.109999999999999, 
                 "min": 0.23999999999999999
             }, 
+            "name": "Clearfield", 
+            "ethnic": [
+                80075, 
+                1570, 
+                294, 
+                391
+            ], 
+            "gub2002": [
+                4981, 
+                2041
+            ], 
             "ages": {
                 "all": {
                     "max": 10345, 
@@ -1450,7 +1559,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.9"
                 }
             }, 
-            "name": "Clearfield", 
             "population": {
                 "all": {
                     "after": 81452, 
@@ -1471,10 +1579,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1410, 
-                1119
-            ], 
             "religion": {
                 "max": 19.809999999999999, 
                 "percents": [
@@ -1488,6 +1592,17 @@ GoogleElectionMap.Demographics({
                 "total": 39.979999999999997, 
                 "min": 0.0
             }, 
+            "name": "Clinton", 
+            "ethnic": [
+                36394, 
+                291, 
+                241, 
+                247
+            ], 
+            "gub2002": [
+                1410, 
+                1119
+            ], 
             "ages": {
                 "all": {
                     "max": 4048, 
@@ -1535,7 +1650,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.8"
                 }
             }, 
-            "name": "Clinton", 
             "population": {
                 "all": {
                     "after": 37213, 
@@ -1556,10 +1670,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                2859, 
-                1764
-            ], 
             "religion": {
                 "max": 28.879999999999999, 
                 "percents": [
@@ -1573,6 +1683,17 @@ GoogleElectionMap.Demographics({
                 "total": 46.909999999999997, 
                 "min": 0.0
             }, 
+            "name": "Columbia", 
+            "ethnic": [
+                63238, 
+                693, 
+                492, 
+                453
+            ], 
+            "gub2002": [
+                2859, 
+                1764
+            ], 
             "ages": {
                 "all": {
                     "max": 7716, 
@@ -1620,7 +1741,6 @@ GoogleElectionMap.Demographics({
                     "mean": "48.9"
                 }
             }, 
-            "name": "Columbia", 
             "population": {
                 "all": {
                     "after": 64726, 
@@ -1641,10 +1761,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                3520, 
-                1613
-            ], 
             "religion": {
                 "max": 17.98, 
                 "percents": [
@@ -1658,6 +1774,17 @@ GoogleElectionMap.Demographics({
                 "total": 40.039999999999999, 
                 "min": 0.0
             }, 
+            "name": "Crawford", 
+            "ethnic": [
+                86478, 
+                1648, 
+                317, 
+                725
+            ], 
+            "gub2002": [
+                3520, 
+                1613
+            ], 
             "ages": {
                 "all": {
                     "max": 11964, 
@@ -1705,7 +1832,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.5"
                 }
             }, 
-            "name": "Crawford", 
             "population": {
                 "all": {
                     "after": 88663, 
@@ -1726,10 +1852,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                6670, 
-                5502
-            ], 
             "religion": {
                 "max": 24.82, 
                 "percents": [
@@ -1743,6 +1865,17 @@ GoogleElectionMap.Demographics({
                 "total": 54.449999999999996, 
                 "min": 0.79000000000000004
             }, 
+            "name": "Cumberland", 
+            "ethnic": [
+                211275, 
+                6863, 
+                5275, 
+                2313
+            ], 
+            "gub2002": [
+                6670, 
+                5502
+            ], 
             "ages": {
                 "all": {
                     "max": 28555, 
@@ -1790,7 +1923,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.2"
                 }
             }, 
-            "name": "Cumberland", 
             "population": {
                 "all": {
                     "after": 228019, 
@@ -1811,10 +1943,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                11313, 
-                7279
-            ], 
             "religion": {
                 "max": 21.440000000000001, 
                 "percents": [
@@ -1828,6 +1956,17 @@ GoogleElectionMap.Demographics({
                 "total": 48.960000000000001, 
                 "min": 1.25
             }, 
+            "name": "Dauphin", 
+            "ethnic": [
+                196851, 
+                45643, 
+                6595, 
+                4435
+            ], 
+            "gub2002": [
+                11313, 
+                7279
+            ], 
             "ages": {
                 "all": {
                     "max": 38038, 
@@ -1875,7 +2014,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.6"
                 }
             }, 
-            "name": "Dauphin", 
             "population": {
                 "all": {
                     "after": 255710, 
@@ -1896,10 +2034,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                38050, 
-                6082
-            ], 
             "religion": {
                 "max": 48.939999999999998, 
                 "percents": [
@@ -1913,6 +2047,17 @@ GoogleElectionMap.Demographics({
                 "total": 67.179999999999993, 
                 "min": 2.1200000000000001
             }, 
+            "name": "Delaware", 
+            "ethnic": [
+                423216, 
+                102060, 
+                24026, 
+                5841
+            ], 
+            "gub2002": [
+                38050, 
+                6082
+            ], 
             "ages": {
                 "all": {
                     "max": 80126, 
@@ -1960,7 +2105,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.9"
                 }
             }, 
-            "name": "Delaware", 
             "population": {
                 "all": {
                     "after": 554399, 
@@ -1981,10 +2125,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                2593, 
-                953
-            ], 
             "religion": {
                 "max": 64.640000000000001, 
                 "percents": [
@@ -1998,6 +2138,17 @@ GoogleElectionMap.Demographics({
                 "total": 81.310000000000002, 
                 "min": 0.0
             }, 
+            "name": "Elk", 
+            "ethnic": [
+                32788, 
+                82, 
+                154, 
+                98
+            ], 
+            "gub2002": [
+                2593, 
+                953
+            ], 
             "ages": {
                 "all": {
                     "max": 4270, 
@@ -2045,7 +2196,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.7"
                 }
             }, 
-            "name": "Elk", 
             "population": {
                 "all": {
                     "after": 32610, 
@@ -2066,10 +2216,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                17309, 
-                8979
-            ], 
             "religion": {
                 "max": 36.789999999999999, 
                 "percents": [
@@ -2083,6 +2229,17 @@ GoogleElectionMap.Demographics({
                 "total": 58.439999999999998, 
                 "min": 0.20999999999999999
             }, 
+            "name": "Erie", 
+            "ethnic": [
+                254917, 
+                18557, 
+                2314, 
+                3439
+            ], 
+            "gub2002": [
+                17309, 
+                8979
+            ], 
             "ages": {
                 "all": {
                     "max": 35715, 
@@ -2130,7 +2287,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.6"
                 }
             }, 
-            "name": "Erie", 
             "population": {
                 "all": {
                     "after": 279092, 
@@ -2151,10 +2307,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                15320, 
-                5404
-            ], 
             "religion": {
                 "max": 23.98, 
                 "percents": [
@@ -2168,6 +2320,17 @@ GoogleElectionMap.Demographics({
                 "total": 47.880000000000003, 
                 "min": 0.10000000000000001
             }, 
+            "name": "Fayette", 
+            "ethnic": [
+                137841, 
+                5997, 
+                430, 
+                1268
+            ], 
+            "gub2002": [
+                15320, 
+                5404
+            ], 
             "ages": {
                 "all": {
                     "max": 18128, 
@@ -2215,7 +2378,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.7"
                 }
             }, 
-            "name": "Fayette", 
             "population": {
                 "all": {
                     "after": 144556, 
@@ -2236,10 +2398,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                285, 
-                150
-            ], 
             "religion": {
                 "max": 18.219999999999999, 
                 "percents": [
@@ -2253,6 +2411,17 @@ GoogleElectionMap.Demographics({
                 "total": 31.93, 
                 "min": 0.0
             }, 
+            "name": "Forest", 
+            "ethnic": [
+                5475, 
+                961, 
+                19, 
+                27
+            ], 
+            "gub2002": [
+                285, 
+                150
+            ], 
             "ages": {
                 "all": {
                     "max": 667, 
@@ -2300,7 +2469,6 @@ GoogleElectionMap.Demographics({
                     "mean": "54.6"
                 }
             }, 
-            "name": "Forest", 
             "population": {
                 "all": {
                     "after": 6955, 
@@ -2321,10 +2489,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                3026, 
-                1234
-            ], 
             "religion": {
                 "max": 18.829999999999998, 
                 "percents": [
@@ -2338,6 +2502,17 @@ GoogleElectionMap.Demographics({
                 "total": 38.439999999999998, 
                 "min": 0.080000000000000002
             }, 
+            "name": "Franklin", 
+            "ethnic": [
+                133262, 
+                3963, 
+                1160, 
+                1302
+            ], 
+            "gub2002": [
+                3026, 
+                1234
+            ], 
             "ages": {
                 "all": {
                     "max": 16835, 
@@ -2385,7 +2560,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.6"
                 }
             }, 
-            "name": "Franklin", 
             "population": {
                 "all": {
                     "after": 141665, 
@@ -2406,10 +2580,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                532, 
-                147
-            ], 
             "religion": {
                 "max": 22.27, 
                 "percents": [
@@ -2423,6 +2593,17 @@ GoogleElectionMap.Demographics({
                 "total": 32.099999999999994, 
                 "min": 0.0
             }, 
+            "name": "Fulton", 
+            "ethnic": [
+                14502, 
+                117, 
+                22, 
+                108
+            ], 
+            "gub2002": [
+                532, 
+                147
+            ], 
             "ages": {
                 "all": {
                     "max": 1784, 
@@ -2470,7 +2651,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.1"
                 }
             }, 
-            "name": "Fulton", 
             "population": {
                 "all": {
                     "after": 14939, 
@@ -2491,10 +2671,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                3949, 
-                1779
-            ], 
             "religion": {
                 "max": 18.829999999999998, 
                 "percents": [
@@ -2508,6 +2684,17 @@ GoogleElectionMap.Demographics({
                 "total": 43.879999999999995, 
                 "min": 0.0
             }, 
+            "name": "Greene", 
+            "ethnic": [
+                38172, 
+                1812, 
+                125, 
+                251
+            ], 
+            "gub2002": [
+                3949, 
+                1779
+            ], 
             "ages": {
                 "all": {
                     "max": 5197, 
@@ -2555,7 +2742,6 @@ GoogleElectionMap.Demographics({
                     "mean": "48.6"
                 }
             }, 
-            "name": "Greene", 
             "population": {
                 "all": {
                     "after": 39503, 
@@ -2576,10 +2762,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1482, 
-                896
-            ], 
             "religion": {
                 "max": 21.359999999999999, 
                 "percents": [
@@ -2593,6 +2775,17 @@ GoogleElectionMap.Demographics({
                 "total": 39.119999999999997, 
                 "min": 0.0
             }, 
+            "name": "Huntingdon", 
+            "ethnic": [
+                42701, 
+                2556, 
+                151, 
+                307
+            ], 
+            "gub2002": [
+                1482, 
+                896
+            ], 
             "ages": {
                 "all": {
                     "max": 5785, 
@@ -2640,7 +2833,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.4"
                 }
             }, 
-            "name": "Huntingdon", 
             "population": {
                 "all": {
                     "after": 45556, 
@@ -2661,10 +2853,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                4896, 
-                2116
-            ], 
             "religion": {
                 "max": 19.579999999999998, 
                 "percents": [
@@ -2678,6 +2866,17 @@ GoogleElectionMap.Demographics({
                 "total": 42.849999999999994, 
                 "min": 0.25
             }, 
+            "name": "Indiana", 
+            "ethnic": [
+                85160, 
+                1559, 
+                891, 
+                525
+            ], 
+            "gub2002": [
+                4896, 
+                2116
+            ], 
             "ages": {
                 "all": {
                     "max": 10171, 
@@ -2725,7 +2924,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.3"
                 }
             }, 
-            "name": "Indiana", 
             "population": {
                 "all": {
                     "after": 87690, 
@@ -2746,10 +2944,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                2245, 
-                725
-            ], 
             "religion": {
                 "max": 23.620000000000001, 
                 "percents": [
@@ -2763,6 +2957,17 @@ GoogleElectionMap.Demographics({
                 "total": 54.07, 
                 "min": 0.0
             }, 
+            "name": "Jefferson", 
+            "ethnic": [
+                45137, 
+                102, 
+                160, 
+                232
+            ], 
+            "gub2002": [
+                2245, 
+                725
+            ], 
             "ages": {
                 "all": {
                     "max": 6087, 
@@ -2810,7 +3015,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.1"
                 }
             }, 
-            "name": "Jefferson", 
             "population": {
                 "all": {
                     "after": 45135, 
@@ -2831,10 +3035,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1314, 
-                501
-            ], 
             "religion": {
                 "max": 32.399999999999999, 
                 "percents": [
@@ -2848,6 +3048,17 @@ GoogleElectionMap.Demographics({
                 "total": 50.170000000000002, 
                 "min": 0.0
             }, 
+            "name": "Juniata", 
+            "ethnic": [
+                23115, 
+                134, 
+                98, 
+                84
+            ], 
+            "gub2002": [
+                1314, 
+                501
+            ], 
             "ages": {
                 "all": {
                     "max": 2878, 
@@ -2895,7 +3106,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.6"
                 }
             }, 
-            "name": "Juniata", 
             "population": {
                 "all": {
                     "after": 23168, 
@@ -2916,10 +3126,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                32569, 
-                6085
-            ], 
             "religion": {
                 "max": 49.729999999999997, 
                 "percents": [
@@ -2933,6 +3139,17 @@ GoogleElectionMap.Demographics({
                 "total": 66.189999999999984, 
                 "min": 1.24
             }, 
+            "name": "Lackawanna", 
+            "ethnic": [
+                201740, 
+                4094, 
+                2074, 
+                1535
+            ], 
+            "gub2002": [
+                32569, 
+                6085
+            ], 
             "ages": {
                 "all": {
                     "max": 28990, 
@@ -2980,7 +3197,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.3"
                 }
             }, 
-            "name": "Lackawanna", 
             "population": {
                 "all": {
                     "after": 209330, 
@@ -3001,10 +3217,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                8976, 
-                6051
-            ], 
             "religion": {
                 "max": 18.98, 
                 "percents": [
@@ -3018,6 +3230,17 @@ GoogleElectionMap.Demographics({
                 "total": 47.969999999999999, 
                 "min": 0.01
             }, 
+            "name": "Lancaster", 
+            "ethnic": [
+                462490, 
+                17486, 
+                8301, 
+                5109
+            ], 
+            "gub2002": [
+                8976, 
+                6051
+            ], 
             "ages": {
                 "all": {
                     "max": 63304, 
@@ -3065,7 +3288,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.9"
                 }
             }, 
-            "name": "Lancaster", 
             "population": {
                 "all": {
                     "after": 498465, 
@@ -3086,10 +3308,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                5842, 
-                3378
-            ], 
             "religion": {
                 "max": 34.579999999999998, 
                 "percents": [
@@ -3103,6 +3321,17 @@ GoogleElectionMap.Demographics({
                 "total": 65.010000000000005, 
                 "min": 0.20999999999999999
             }, 
+            "name": "Lawrence", 
+            "ethnic": [
+                86669, 
+                3781, 
+                351, 
+                888
+            ], 
+            "gub2002": [
+                5842, 
+                3378
+            ], 
             "ages": {
                 "all": {
                     "max": 12128, 
@@ -3150,7 +3379,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.8"
                 }
             }, 
-            "name": "Lawrence", 
             "population": {
                 "all": {
                     "after": 90991, 
@@ -3171,10 +3399,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                3108, 
-                2233
-            ], 
             "religion": {
                 "max": 26.859999999999999, 
                 "percents": [
@@ -3188,6 +3412,17 @@ GoogleElectionMap.Demographics({
                 "total": 48.399999999999999, 
                 "min": 0.0
             }, 
+            "name": "Lebanon", 
+            "ethnic": [
+                121807, 
+                2552, 
+                1261, 
+                962
+            ], 
+            "gub2002": [
+                3108, 
+                2233
+            ], 
             "ages": {
                 "all": {
                     "max": 15558, 
@@ -3235,7 +3470,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.8"
                 }
             }, 
-            "name": "Lebanon", 
             "population": {
                 "all": {
                     "after": 127889, 
@@ -3256,10 +3490,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                17448, 
-                7992
-            ], 
             "religion": {
                 "max": 26.859999999999999, 
                 "percents": [
@@ -3273,6 +3503,17 @@ GoogleElectionMap.Demographics({
                 "total": 57.310000000000002, 
                 "min": 1.1100000000000001
             }, 
+            "name": "Lehigh", 
+            "ethnic": [
+                302612, 
+                18130, 
+                9702, 
+                4047
+            ], 
+            "gub2002": [
+                17448, 
+                7992
+            ], 
             "ages": {
                 "all": {
                     "max": 43601, 
@@ -3320,7 +3561,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.7"
                 }
             }, 
-            "name": "Lehigh", 
             "population": {
                 "all": {
                     "after": 337343, 
@@ -3341,10 +3581,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                27433, 
-                11779
-            ], 
             "religion": {
                 "max": 41.530000000000001, 
                 "percents": [
@@ -3358,6 +3594,17 @@ GoogleElectionMap.Demographics({
                 "total": 60.060000000000002, 
                 "min": 1.1000000000000001
             }, 
+            "name": "Luzerne", 
+            "ethnic": [
+                300143, 
+                7927, 
+                2508, 
+                2007
+            ], 
+            "gub2002": [
+                27433, 
+                11779
+            ], 
             "ages": {
                 "all": {
                     "max": 35049, 
@@ -3405,7 +3652,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.1"
                 }
             }, 
-            "name": "Luzerne", 
             "population": {
                 "all": {
                     "after": 312265, 
@@ -3426,10 +3672,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                4087, 
-                1760
-            ], 
             "religion": {
                 "max": 26.670000000000002, 
                 "percents": [
@@ -3443,6 +3685,17 @@ GoogleElectionMap.Demographics({
                 "total": 48.180000000000007, 
                 "min": 0.10000000000000001
             }, 
+            "name": "Lycoming", 
+            "ethnic": [
+                110374, 
+                5279, 
+                588, 
+                1096
+            ], 
+            "gub2002": [
+                4087, 
+                1760
+            ], 
             "ages": {
                 "all": {
                     "max": 14428, 
@@ -3490,7 +3743,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.5"
                 }
             }, 
-            "name": "Lycoming", 
             "population": {
                 "all": {
                     "after": 116811, 
@@ -3511,10 +3763,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1240, 
-                377
-            ], 
             "religion": {
                 "max": 22.420000000000002, 
                 "percents": [
@@ -3528,6 +3776,17 @@ GoogleElectionMap.Demographics({
                 "total": 50.68, 
                 "min": 0.0
             }, 
+            "name": "McKean", 
+            "ethnic": [
+                42450, 
+                969, 
+                210, 
+                249
+            ], 
+            "gub2002": [
+                1240, 
+                377
+            ], 
             "ages": {
                 "all": {
                     "max": 5493, 
@@ -3575,7 +3834,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.8"
                 }
             }, 
-            "name": "McKean", 
             "population": {
                 "all": {
                     "after": 43633, 
@@ -3596,10 +3854,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                5818, 
-                3139
-            ], 
             "religion": {
                 "max": 24.16, 
                 "percents": [
@@ -3613,6 +3867,17 @@ GoogleElectionMap.Demographics({
                 "total": 56.75, 
                 "min": 0.25
             }, 
+            "name": "Mercer", 
+            "ethnic": [
+                110093, 
+                6455, 
+                662, 
+                1177
+            ], 
+            "gub2002": [
+                5818, 
+                3139
+            ], 
             "ages": {
                 "all": {
                     "max": 15772, 
@@ -3660,7 +3925,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.2"
                 }
             }, 
-            "name": "Mercer", 
             "population": {
                 "all": {
                     "after": 116809, 
@@ -3681,10 +3945,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1521, 
-                829
-            ], 
             "religion": {
                 "max": 26.82, 
                 "percents": [
@@ -3698,6 +3958,17 @@ GoogleElectionMap.Demographics({
                 "total": 46.759999999999998, 
                 "min": 0.0
             }, 
+            "name": "Mifflin", 
+            "ethnic": [
+                45348, 
+                272, 
+                156, 
+                233
+            ], 
+            "gub2002": [
+                1521, 
+                829
+            ], 
             "ages": {
                 "all": {
                     "max": 4868, 
@@ -3745,7 +4016,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.2"
                 }
             }, 
-            "name": "Mifflin", 
             "population": {
                 "all": {
                     "after": 46941, 
@@ -3766,10 +4036,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                3614, 
-                2807
-            ], 
             "religion": {
                 "max": 28.039999999999999, 
                 "percents": [
@@ -3783,6 +4049,17 @@ GoogleElectionMap.Demographics({
                 "total": 44.849999999999994, 
                 "min": 0.33000000000000002
             }, 
+            "name": "Monroe", 
+            "ethnic": [
+                139975, 
+                18956, 
+                3609, 
+                2634
+            ], 
+            "gub2002": [
+                3614, 
+                2807
+            ], 
             "ages": {
                 "all": {
                     "max": 24355, 
@@ -3830,7 +4107,6 @@ GoogleElectionMap.Demographics({
                     "mean": "50.1"
                 }
             }, 
-            "name": "Monroe", 
             "population": {
                 "all": {
                     "after": 164722, 
@@ -3851,10 +4127,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                66712, 
-                8760
-            ], 
             "religion": {
                 "max": 35.109999999999999, 
                 "percents": [
@@ -3868,6 +4140,17 @@ GoogleElectionMap.Demographics({
                 "total": 63.849999999999994, 
                 "min": 0.51000000000000001
             }, 
+            "name": "Montgomery", 
+            "ethnic": [
+                660464, 
+                64995, 
+                39818, 
+                8760
+            ], 
+            "gub2002": [
+                66712, 
+                8760
+            ], 
             "ages": {
                 "all": {
                     "max": 116838, 
@@ -3915,7 +4198,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.0"
                 }
             }, 
-            "name": "Montgomery", 
             "population": {
                 "all": {
                     "after": 776172, 
@@ -3936,10 +4218,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                864, 
-                304
-            ], 
             "religion": {
                 "max": 29.5, 
                 "percents": [
@@ -3953,6 +4231,17 @@ GoogleElectionMap.Demographics({
                 "total": 53.700000000000003, 
                 "min": 0.0
             }, 
+            "name": "Montour", 
+            "ethnic": [
+                17248, 
+                265, 
+                288, 
+                114
+            ], 
+            "gub2002": [
+                864, 
+                304
+            ], 
             "ages": {
                 "all": {
                     "max": 2571, 
@@ -4000,7 +4289,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.3"
                 }
             }, 
-            "name": "Montour", 
             "population": {
                 "all": {
                     "after": 17817, 
@@ -4021,10 +4309,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                14668, 
-                7874
-            ], 
             "religion": {
                 "max": 35.850000000000001, 
                 "percents": [
@@ -4038,6 +4322,17 @@ GoogleElectionMap.Demographics({
                 "total": 67.77000000000001, 
                 "min": 1.5900000000000001
             }, 
+            "name": "Northampton", 
+            "ethnic": [
+                269110, 
+                12249, 
+                6411, 
+                2836
+            ], 
+            "gub2002": [
+                14668, 
+                7874
+            ], 
             "ages": {
                 "all": {
                     "max": 41052, 
@@ -4085,7 +4380,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.9"
                 }
             }, 
-            "name": "Northampton", 
             "population": {
                 "all": {
                     "after": 293522, 
@@ -4106,10 +4400,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                5490, 
-                2230
-            ], 
             "religion": {
                 "max": 28.550000000000001, 
                 "percents": [
@@ -4123,6 +4413,17 @@ GoogleElectionMap.Demographics({
                 "total": 60.100000000000001, 
                 "min": 0.20999999999999999
             }, 
+            "name": "Northumberland", 
+            "ethnic": [
+                88940, 
+                1782, 
+                229, 
+                582
+            ], 
+            "gub2002": [
+                5490, 
+                2230
+            ], 
             "ages": {
                 "all": {
                     "max": 10448, 
@@ -4170,7 +4471,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.7"
                 }
             }, 
-            "name": "Northumberland", 
             "population": {
                 "all": {
                     "after": 91003, 
@@ -4191,10 +4491,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1631, 
-                760
-            ], 
             "religion": {
                 "max": 24.989999999999998, 
                 "percents": [
@@ -4208,6 +4504,17 @@ GoogleElectionMap.Demographics({
                 "total": 36.859999999999999, 
                 "min": 0.0
             }, 
+            "name": "Perry", 
+            "ethnic": [
+                44356, 
+                313, 
+                107, 
+                247
+            ], 
+            "gub2002": [
+                1631, 
+                760
+            ], 
             "ages": {
                 "all": {
                     "max": 5878, 
@@ -4255,7 +4562,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.3"
                 }
             }, 
-            "name": "Perry", 
             "population": {
                 "all": {
                     "after": 45163, 
@@ -4276,10 +4582,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                224635, 
-                61465
-            ], 
             "religion": {
                 "max": 32.399999999999999, 
                 "percents": [
@@ -4293,6 +4595,17 @@ GoogleElectionMap.Demographics({
                 "total": 53.159999999999997, 
                 "min": 3.7200000000000002
             }, 
+            "name": "Philadelphia", 
+            "ethnic": [
+                681470, 
+                662714, 
+                78884, 
+                18410
+            ], 
+            "gub2002": [
+                224635, 
+                61465
+            ], 
             "ages": {
                 "all": {
                     "max": 225547, 
@@ -4340,7 +4653,6 @@ GoogleElectionMap.Demographics({
                     "mean": "48.4"
                 }
             }, 
-            "name": "Philadelphia", 
             "population": {
                 "all": {
                     "after": 1449634, 
@@ -4361,10 +4673,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                709, 
-                373
-            ], 
             "religion": {
                 "max": 16.949999999999999, 
                 "percents": [
@@ -4378,6 +4686,17 @@ GoogleElectionMap.Demographics({
                 "total": 25.619999999999997, 
                 "min": 0.0
             }, 
+            "name": "Pike", 
+            "ethnic": [
+                53797, 
+                3124, 
+                578, 
+                557
+            ], 
+            "gub2002": [
+                709, 
+                373
+            ], 
             "ages": {
                 "all": {
                     "max": 9714, 
@@ -4425,7 +4744,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.8"
                 }
             }, 
-            "name": "Pike", 
             "population": {
                 "all": {
                     "after": 58633, 
@@ -4446,10 +4764,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                664, 
-                164
-            ], 
             "religion": {
                 "max": 16.190000000000001, 
                 "percents": [
@@ -4463,6 +4777,17 @@ GoogleElectionMap.Demographics({
                 "total": 37.120000000000005, 
                 "min": 0.0
             }, 
+            "name": "Potter", 
+            "ethnic": [
+                17167, 
+                136, 
+                97, 
+                121
+            ], 
+            "gub2002": [
+                664, 
+                164
+            ], 
             "ages": {
                 "all": {
                     "max": 2278, 
@@ -4510,7 +4835,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.6"
                 }
             }, 
-            "name": "Potter", 
             "population": {
                 "all": {
                     "after": 16987, 
@@ -4531,10 +4855,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                7720, 
-                4579
-            ], 
             "religion": {
                 "max": 42.210000000000001, 
                 "percents": [
@@ -4548,6 +4868,17 @@ GoogleElectionMap.Demographics({
                 "total": 74.219999999999999, 
                 "min": 0.11
             }, 
+            "name": "Schuylkill", 
+            "ethnic": [
+                141953, 
+                3777, 
+                817, 
+                699
+            ], 
+            "gub2002": [
+                7720, 
+                4579
+            ], 
             "ages": {
                 "all": {
                     "max": 18195, 
@@ -4595,7 +4926,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.6"
                 }
             }, 
-            "name": "Schuylkill", 
             "population": {
                 "all": {
                     "after": 147269, 
@@ -4616,10 +4946,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                939, 
-                388
-            ], 
             "religion": {
                 "max": 35.219999999999999, 
                 "percents": [
@@ -4633,6 +4959,17 @@ GoogleElectionMap.Demographics({
                 "total": 46.780000000000001, 
                 "min": 0.0
             }, 
+            "name": "Snyder", 
+            "ethnic": [
+                37357, 
+                380, 
+                247, 
+                217
+            ], 
+            "gub2002": [
+                939, 
+                388
+            ], 
             "ages": {
                 "all": {
                     "max": 4307, 
@@ -4680,7 +5017,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.1"
                 }
             }, 
-            "name": "Snyder", 
             "population": {
                 "all": {
                     "after": 38113, 
@@ -4701,10 +5037,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                5628, 
-                2455
-            ], 
             "religion": {
                 "max": 27.640000000000001, 
                 "percents": [
@@ -4718,6 +5050,17 @@ GoogleElectionMap.Demographics({
                 "total": 61.669999999999995, 
                 "min": 0.0
             }, 
+            "name": "Somerset", 
+            "ethnic": [
+                76117, 
+                1808, 
+                251, 
+                253
+            ], 
+            "gub2002": [
+                5628, 
+                2455
+            ], 
             "ages": {
                 "all": {
                     "max": 10660, 
@@ -4765,7 +5108,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.3"
                 }
             }, 
-            "name": "Somerset", 
             "population": {
                 "all": {
                     "after": 77861, 
@@ -4786,10 +5128,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                459, 
-                193
-            ], 
             "religion": {
                 "max": 18.260000000000002, 
                 "percents": [
@@ -4803,6 +5141,17 @@ GoogleElectionMap.Demographics({
                 "total": 43.780000000000001, 
                 "min": 0.0
             }, 
+            "name": "Sullivan", 
+            "ethnic": [
+                5990, 
+                180, 
+                12, 
+                43
+            ], 
+            "gub2002": [
+                459, 
+                193
+            ], 
             "ages": {
                 "all": {
                     "max": 955, 
@@ -4850,7 +5199,6 @@ GoogleElectionMap.Demographics({
                     "mean": "54.3"
                 }
             }, 
-            "name": "Sullivan", 
             "population": {
                 "all": {
                     "after": 6200, 
@@ -4871,10 +5219,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1764, 
-                428
-            ], 
             "religion": {
                 "max": 17.59, 
                 "percents": [
@@ -4888,6 +5232,17 @@ GoogleElectionMap.Demographics({
                 "total": 33.939999999999998, 
                 "min": 0.0
             }, 
+            "name": "Susquehanna", 
+            "ethnic": [
+                41279, 
+                160, 
+                122, 
+                240
+            ], 
+            "gub2002": [
+                1764, 
+                428
+            ], 
             "ages": {
                 "all": {
                     "max": 6027, 
@@ -4935,7 +5290,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.7"
                 }
             }, 
-            "name": "Susquehanna", 
             "population": {
                 "all": {
                     "after": 41123, 
@@ -4956,10 +5310,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1054, 
-                261
-            ], 
             "religion": {
                 "max": 20.120000000000001, 
                 "percents": [
@@ -4973,6 +5323,17 @@ GoogleElectionMap.Demographics({
                 "total": 34.090000000000003, 
                 "min": 0.0
             }, 
+            "name": "Tioga", 
+            "ethnic": [
+                40245, 
+                338, 
+                206, 
+                246
+            ], 
+            "gub2002": [
+                1054, 
+                261
+            ], 
             "ages": {
                 "all": {
                     "max": 5308, 
@@ -5020,7 +5381,6 @@ GoogleElectionMap.Demographics({
                     "mean": "53.3"
                 }
             }, 
-            "name": "Tioga", 
             "population": {
                 "all": {
                     "after": 40681, 
@@ -5041,10 +5401,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                840, 
-                600
-            ], 
             "religion": {
                 "max": 21.550000000000001, 
                 "percents": [
@@ -5058,6 +5414,17 @@ GoogleElectionMap.Demographics({
                 "total": 36.039999999999999, 
                 "min": 0.0
             }, 
+            "name": "Union", 
+            "ethnic": [
+                38872, 
+                3361, 
+                612, 
+                450
+            ], 
+            "gub2002": [
+                840, 
+                600
+            ], 
             "ages": {
                 "all": {
                     "max": 4367, 
@@ -5105,7 +5472,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.2"
                 }
             }, 
-            "name": "Union", 
             "population": {
                 "all": {
                     "after": 43724, 
@@ -5126,10 +5492,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                2116, 
-                945
-            ], 
             "religion": {
                 "max": 25.41, 
                 "percents": [
@@ -5143,6 +5505,17 @@ GoogleElectionMap.Demographics({
                 "total": 49.109999999999999, 
                 "min": 0.0
             }, 
+            "name": "Venango", 
+            "ethnic": [
+                54073, 
+                694, 
+                164, 
+                425
+            ], 
+            "gub2002": [
+                2116, 
+                945
+            ], 
             "ages": {
                 "all": {
                     "max": 7232, 
@@ -5190,7 +5563,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.8"
                 }
             }, 
-            "name": "Venango", 
             "population": {
                 "all": {
                     "after": 54763, 
@@ -5211,10 +5583,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1785, 
-                638
-            ], 
             "religion": {
                 "max": 25.57, 
                 "percents": [
@@ -5228,6 +5596,17 @@ GoogleElectionMap.Demographics({
                 "total": 46.25, 
                 "min": 0.0
             }, 
+            "name": "Warren", 
+            "ethnic": [
+                41146, 
+                118, 
+                161, 
+                217
+            ], 
+            "gub2002": [
+                1785, 
+                638
+            ], 
             "ages": {
                 "all": {
                     "max": 5802, 
@@ -5275,7 +5654,6 @@ GoogleElectionMap.Demographics({
                     "mean": "52.0"
                 }
             }, 
-            "name": "Warren", 
             "population": {
                 "all": {
                     "after": 40986, 
@@ -5296,10 +5674,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                16884, 
-                11552
-            ], 
             "religion": {
                 "max": 35.130000000000003, 
                 "percents": [
@@ -5313,6 +5687,17 @@ GoogleElectionMap.Demographics({
                 "total": 59.819999999999993, 
                 "min": 0.44
             }, 
+            "name": "Washington", 
+            "ethnic": [
+                196089, 
+                7064, 
+                1196, 
+                1827
+            ], 
+            "gub2002": [
+                16884, 
+                11552
+            ], 
             "ages": {
                 "all": {
                     "max": 30760, 
@@ -5360,7 +5745,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.6"
                 }
             }, 
-            "name": "Washington", 
             "population": {
                 "all": {
                     "after": 205553, 
@@ -5381,10 +5765,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1639, 
-                489
-            ], 
             "religion": {
                 "max": 32.460000000000001, 
                 "percents": [
@@ -5398,6 +5778,17 @@ GoogleElectionMap.Demographics({
                 "total": 55.619999999999997, 
                 "min": 0.48999999999999999
             }, 
+            "name": "Wayne", 
+            "ethnic": [
+                49108, 
+                1136, 
+                305, 
+                304
+            ], 
+            "gub2002": [
+                1639, 
+                489
+            ], 
             "ages": {
                 "all": {
                     "max": 6265, 
@@ -5445,7 +5836,6 @@ GoogleElectionMap.Demographics({
                     "mean": "53.2"
                 }
             }, 
-            "name": "Wayne", 
             "population": {
                 "all": {
                     "after": 51708, 
@@ -5466,10 +5856,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                27367, 
-                19008
-            ], 
             "religion": {
                 "max": 35.57, 
                 "percents": [
@@ -5483,6 +5869,17 @@ GoogleElectionMap.Demographics({
                 "total": 64.030000000000001, 
                 "min": 0.72999999999999998
             }, 
+            "name": "Westmoreland", 
+            "ethnic": [
+                352150, 
+                8645, 
+                2514, 
+                2682
+            ], 
+            "gub2002": [
+                27367, 
+                19008
+            ], 
             "ages": {
                 "all": {
                     "max": 51056, 
@@ -5530,7 +5927,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.7"
                 }
             }, 
-            "name": "Westmoreland", 
             "population": {
                 "all": {
                     "after": 362326, 
@@ -5551,10 +5947,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                1159, 
-                452
-            ], 
             "religion": {
                 "max": 20.300000000000001, 
                 "percents": [
@@ -5568,6 +5960,17 @@ GoogleElectionMap.Demographics({
                 "total": 41.840000000000003, 
                 "min": 0.0
             }, 
+            "name": "Wyoming", 
+            "ethnic": [
+                27559, 
+                192, 
+                108, 
+                180
+            ], 
+            "gub2002": [
+                1159, 
+                452
+            ], 
             "ages": {
                 "all": {
                     "max": 4145, 
@@ -5615,7 +6018,6 @@ GoogleElectionMap.Demographics({
                     "mean": "51.8"
                 }
             }, 
-            "name": "Wyoming", 
             "population": {
                 "all": {
                     "after": 27835, 
@@ -5636,10 +6038,6 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
-            "gub2002": [
-                11251, 
-                7425
-            ], 
             "religion": {
                 "max": 25.960000000000001, 
                 "percents": [
@@ -5653,6 +6051,17 @@ GoogleElectionMap.Demographics({
                 "total": 44.410000000000004, 
                 "min": 0.46999999999999997
             }, 
+            "name": "York", 
+            "ethnic": [
+                387233, 
+                19336, 
+                4593, 
+                4166
+            ], 
+            "gub2002": [
+                11251, 
+                7425
+            ], 
             "ages": {
                 "all": {
                     "max": 61339, 
@@ -5700,7 +6109,6 @@ GoogleElectionMap.Demographics({
                     "mean": "49.3"
                 }
             }, 
-            "name": "York", 
             "population": {
                 "all": {
                     "after": 421049, 

@@ -18,10 +18,18 @@ GoogleElectionMap.Demographics({
             "55 to 64", 
             "65 to 74", 
             "75+"
+        ], 
+        "gub2002": [
+            "Casey", 
+            "Rendell"
         ]
     }, 
     "places": [
         {
+            "gub2002": [
+                2388, 
+                1621
+            ], 
             "religion": {
                 "max": 23.620000000000001, 
                 "percents": [
@@ -103,6 +111,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                94719, 
+                80120
+            ], 
             "religion": {
                 "max": 49.369999999999997, 
                 "percents": [
@@ -184,6 +196,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                4081, 
+                2102
+            ], 
             "religion": {
                 "max": 32.740000000000002, 
                 "percents": [
@@ -265,6 +281,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                14406, 
+                9428
+            ], 
             "religion": {
                 "max": 35.509999999999998, 
                 "percents": [
@@ -346,6 +366,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                2145, 
+                863
+            ], 
             "religion": {
                 "max": 22.809999999999999, 
                 "percents": [
@@ -427,6 +451,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                19024, 
+                10508
+            ], 
             "religion": {
                 "max": 27.280000000000001, 
                 "percents": [
@@ -508,6 +536,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                4202, 
+                2806
+            ], 
             "religion": {
                 "max": 24.829999999999998, 
                 "percents": [
@@ -589,6 +621,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1431, 
+                397
+            ], 
             "religion": {
                 "max": 22.850000000000001, 
                 "percents": [
@@ -670,6 +706,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                44715, 
+                9984
+            ], 
             "religion": {
                 "max": 43.759999999999998, 
                 "percents": [
@@ -751,6 +791,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                6821, 
+                4311
+            ], 
             "religion": {
                 "max": 30.300000000000001, 
                 "percents": [
@@ -832,6 +876,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                17845, 
+                8705
+            ], 
             "religion": {
                 "max": 54.799999999999997, 
                 "percents": [
@@ -913,6 +961,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                399, 
+                176
+            ], 
             "religion": {
                 "max": 26.449999999999999, 
                 "percents": [
@@ -994,6 +1046,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                3396, 
+                2232
+            ], 
             "religion": {
                 "max": 33.719999999999999, 
                 "percents": [
@@ -1075,6 +1131,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                3971, 
+                3597
+            ], 
             "religion": {
                 "max": 18.699999999999999, 
                 "percents": [
@@ -1156,6 +1216,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                22564, 
+                4744
+            ], 
             "religion": {
                 "max": 32.43, 
                 "percents": [
@@ -1237,6 +1301,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                2005, 
+                1085
+            ], 
             "religion": {
                 "max": 23.390000000000001, 
                 "percents": [
@@ -1318,6 +1386,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                4981, 
+                2041
+            ], 
             "religion": {
                 "max": 21.84, 
                 "percents": [
@@ -1399,6 +1471,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1410, 
+                1119
+            ], 
             "religion": {
                 "max": 19.809999999999999, 
                 "percents": [
@@ -1480,6 +1556,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                2859, 
+                1764
+            ], 
             "religion": {
                 "max": 28.879999999999999, 
                 "percents": [
@@ -1561,6 +1641,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                3520, 
+                1613
+            ], 
             "religion": {
                 "max": 17.98, 
                 "percents": [
@@ -1642,6 +1726,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                6670, 
+                5502
+            ], 
             "religion": {
                 "max": 24.82, 
                 "percents": [
@@ -1723,6 +1811,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                11313, 
+                7279
+            ], 
             "religion": {
                 "max": 21.440000000000001, 
                 "percents": [
@@ -1804,6 +1896,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                38050, 
+                6082
+            ], 
             "religion": {
                 "max": 48.939999999999998, 
                 "percents": [
@@ -1885,6 +1981,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                2593, 
+                953
+            ], 
             "religion": {
                 "max": 64.640000000000001, 
                 "percents": [
@@ -1966,6 +2066,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                17309, 
+                8979
+            ], 
             "religion": {
                 "max": 36.789999999999999, 
                 "percents": [
@@ -2047,6 +2151,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                15320, 
+                5404
+            ], 
             "religion": {
                 "max": 23.98, 
                 "percents": [
@@ -2128,6 +2236,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                285, 
+                150
+            ], 
             "religion": {
                 "max": 18.219999999999999, 
                 "percents": [
@@ -2209,6 +2321,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                3026, 
+                1234
+            ], 
             "religion": {
                 "max": 18.829999999999998, 
                 "percents": [
@@ -2290,6 +2406,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                532, 
+                147
+            ], 
             "religion": {
                 "max": 22.27, 
                 "percents": [
@@ -2371,6 +2491,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                3949, 
+                1779
+            ], 
             "religion": {
                 "max": 18.829999999999998, 
                 "percents": [
@@ -2452,6 +2576,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1482, 
+                896
+            ], 
             "religion": {
                 "max": 21.359999999999999, 
                 "percents": [
@@ -2533,6 +2661,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                4896, 
+                2116
+            ], 
             "religion": {
                 "max": 19.579999999999998, 
                 "percents": [
@@ -2614,6 +2746,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                2245, 
+                725
+            ], 
             "religion": {
                 "max": 23.620000000000001, 
                 "percents": [
@@ -2695,6 +2831,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1314, 
+                501
+            ], 
             "religion": {
                 "max": 32.399999999999999, 
                 "percents": [
@@ -2776,6 +2916,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                32569, 
+                6085
+            ], 
             "religion": {
                 "max": 49.729999999999997, 
                 "percents": [
@@ -2857,6 +3001,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                8976, 
+                6051
+            ], 
             "religion": {
                 "max": 18.98, 
                 "percents": [
@@ -2938,6 +3086,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                5842, 
+                3378
+            ], 
             "religion": {
                 "max": 34.579999999999998, 
                 "percents": [
@@ -3019,6 +3171,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                3108, 
+                2233
+            ], 
             "religion": {
                 "max": 26.859999999999999, 
                 "percents": [
@@ -3100,6 +3256,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                17448, 
+                7992
+            ], 
             "religion": {
                 "max": 26.859999999999999, 
                 "percents": [
@@ -3181,6 +3341,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                27433, 
+                11779
+            ], 
             "religion": {
                 "max": 41.530000000000001, 
                 "percents": [
@@ -3262,6 +3426,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                4087, 
+                1760
+            ], 
             "religion": {
                 "max": 26.670000000000002, 
                 "percents": [
@@ -3343,6 +3511,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1240, 
+                377
+            ], 
             "religion": {
                 "max": 22.420000000000002, 
                 "percents": [
@@ -3424,6 +3596,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                5818, 
+                3139
+            ], 
             "religion": {
                 "max": 24.16, 
                 "percents": [
@@ -3505,6 +3681,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1521, 
+                829
+            ], 
             "religion": {
                 "max": 26.82, 
                 "percents": [
@@ -3586,6 +3766,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                3614, 
+                2807
+            ], 
             "religion": {
                 "max": 28.039999999999999, 
                 "percents": [
@@ -3667,6 +3851,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                66712, 
+                8760
+            ], 
             "religion": {
                 "max": 35.109999999999999, 
                 "percents": [
@@ -3748,6 +3936,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                864, 
+                304
+            ], 
             "religion": {
                 "max": 29.5, 
                 "percents": [
@@ -3829,6 +4021,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                14668, 
+                7874
+            ], 
             "religion": {
                 "max": 35.850000000000001, 
                 "percents": [
@@ -3910,6 +4106,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                5490, 
+                2230
+            ], 
             "religion": {
                 "max": 28.550000000000001, 
                 "percents": [
@@ -3991,6 +4191,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1631, 
+                760
+            ], 
             "religion": {
                 "max": 24.989999999999998, 
                 "percents": [
@@ -4072,6 +4276,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                224635, 
+                61465
+            ], 
             "religion": {
                 "max": 32.399999999999999, 
                 "percents": [
@@ -4153,6 +4361,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                709, 
+                373
+            ], 
             "religion": {
                 "max": 16.949999999999999, 
                 "percents": [
@@ -4234,6 +4446,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                664, 
+                164
+            ], 
             "religion": {
                 "max": 16.190000000000001, 
                 "percents": [
@@ -4315,6 +4531,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                7720, 
+                4579
+            ], 
             "religion": {
                 "max": 42.210000000000001, 
                 "percents": [
@@ -4396,6 +4616,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                939, 
+                388
+            ], 
             "religion": {
                 "max": 35.219999999999999, 
                 "percents": [
@@ -4477,6 +4701,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                5628, 
+                2455
+            ], 
             "religion": {
                 "max": 27.640000000000001, 
                 "percents": [
@@ -4558,6 +4786,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                459, 
+                193
+            ], 
             "religion": {
                 "max": 18.260000000000002, 
                 "percents": [
@@ -4639,6 +4871,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1764, 
+                428
+            ], 
             "religion": {
                 "max": 17.59, 
                 "percents": [
@@ -4720,6 +4956,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1054, 
+                261
+            ], 
             "religion": {
                 "max": 20.120000000000001, 
                 "percents": [
@@ -4801,6 +5041,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                840, 
+                600
+            ], 
             "religion": {
                 "max": 21.550000000000001, 
                 "percents": [
@@ -4882,6 +5126,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                2116, 
+                945
+            ], 
             "religion": {
                 "max": 25.41, 
                 "percents": [
@@ -4963,6 +5211,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1785, 
+                638
+            ], 
             "religion": {
                 "max": 25.57, 
                 "percents": [
@@ -5044,6 +5296,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                16884, 
+                11552
+            ], 
             "religion": {
                 "max": 35.130000000000003, 
                 "percents": [
@@ -5125,6 +5381,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1639, 
+                489
+            ], 
             "religion": {
                 "max": 32.460000000000001, 
                 "percents": [
@@ -5206,6 +5466,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                27367, 
+                19008
+            ], 
             "religion": {
                 "max": 35.57, 
                 "percents": [
@@ -5287,6 +5551,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                1159, 
+                452
+            ], 
             "religion": {
                 "max": 20.300000000000001, 
                 "percents": [
@@ -5368,6 +5636,10 @@ GoogleElectionMap.Demographics({
             }
         }, 
         {
+            "gub2002": [
+                11251, 
+                7425
+            ], 
             "religion": {
                 "max": 25.960000000000001, 
                 "percents": [

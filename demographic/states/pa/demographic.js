@@ -53,8 +53,8 @@ GoogleElectionMap.Demographics({
                 807
             ], 
             "gub2002": [
-                2388, 
-                1621
+                59.600000000000001, 
+                40.399999999999999
             ], 
             "ages": {
                 "all": {
@@ -112,12 +112,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 19873, 
-                    "change": 29.415212294868454, 
+                    "change": 29.399999999999999, 
                     "before": 15356
                 }, 
                 "gop": {
                     "after": 31764, 
-                    "change": 24.247995306082533, 
+                    "change": 24.199999999999999, 
                     "before": 25565
                 }
             }
@@ -144,8 +144,8 @@ GoogleElectionMap.Demographics({
                 13379
             ], 
             "gub2002": [
-                94719, 
-                80120
+                54.200000000000003, 
+                45.799999999999997
             ], 
             "ages": {
                 "all": {
@@ -203,12 +203,12 @@ GoogleElectionMap.Demographics({
                 "type": "UrbanCore", 
                 "dem": {
                     "after": 567432, 
-                    "change": 1.8224362793301703, 
+                    "change": 1.8, 
                     "before": 557276
                 }, 
                 "gop": {
                     "after": 250393, 
-                    "change": -1.2143401020235056, 
+                    "change": -1.2, 
                     "before": 253471
                 }
             }
@@ -235,8 +235,8 @@ GoogleElectionMap.Demographics({
                 372
             ], 
             "gub2002": [
-                4081, 
-                2102
+                66.0, 
+                34.0
             ], 
             "ages": {
                 "all": {
@@ -294,12 +294,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 20227, 
-                    "change": -0.21705885254797494, 
+                    "change": -0.20000000000000001, 
                     "before": 20271
                 }, 
                 "gop": {
                     "after": 20389, 
-                    "change": 11.330129955225511, 
+                    "change": 11.300000000000001, 
                     "before": 18314
                 }
             }
@@ -326,8 +326,8 @@ GoogleElectionMap.Demographics({
                 1994
             ], 
             "gub2002": [
-                14406, 
-                9428
+                60.399999999999999, 
+                39.600000000000001
             ], 
             "ages": {
                 "all": {
@@ -385,12 +385,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 68658, 
-                    "change": -4.6681477367397948, 
+                    "change": -4.7000000000000002, 
                     "before": 72020
                 }, 
                 "gop": {
                     "after": 35382, 
-                    "change": 9.5859014464025769, 
+                    "change": 9.5999999999999996, 
                     "before": 32287
                 }
             }
@@ -417,8 +417,8 @@ GoogleElectionMap.Demographics({
                 267
             ], 
             "gub2002": [
-                2145, 
-                863
+                71.299999999999997, 
+                28.699999999999999
             ], 
             "ages": {
                 "all": {
@@ -476,12 +476,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 11569, 
-                    "change": 11.799381522999614, 
+                    "change": 11.800000000000001, 
                     "before": 10348
                 }, 
                 "gop": {
                     "after": 19529, 
-                    "change": 18.071342200725514, 
+                    "change": 18.100000000000001, 
                     "before": 16540
                 }
             }
@@ -508,8 +508,8 @@ GoogleElectionMap.Demographics({
                 4182
             ], 
             "gub2002": [
-                19024, 
-                10508
+                35.600000000000001, 
+                64.400000000000006
             ], 
             "ages": {
                 "all": {
@@ -567,12 +567,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 114301, 
-                    "change": 23.383240319951639, 
+                    "change": 23.399999999999999, 
                     "before": 92639
                 }, 
                 "gop": {
                     "after": 95650, 
-                    "change": 9.4431158964266508, 
+                    "change": 9.4000000000000004, 
                     "before": 87397
                 }
             }
@@ -599,8 +599,8 @@ GoogleElectionMap.Demographics({
                 968
             ], 
             "gub2002": [
-                4202, 
-                2806
+                60.0, 
+                40.0
             ], 
             "ages": {
                 "all": {
@@ -658,12 +658,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 28401, 
-                    "change": 15.69577969692032, 
+                    "change": 15.699999999999999, 
                     "before": 24548
                 }, 
                 "gop": {
                     "after": 45338, 
-                    "change": 14.167002417405319, 
+                    "change": 14.199999999999999, 
                     "before": 39712
                 }
             }
@@ -690,8 +690,8 @@ GoogleElectionMap.Demographics({
                 397
             ], 
             "gub2002": [
-                1431, 
-                397
+                78.299999999999997, 
+                21.699999999999999
             ], 
             "ages": {
                 "all": {
@@ -749,12 +749,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 12133, 
-                    "change": 18.036774005253427, 
+                    "change": 18.0, 
                     "before": 10279
                 }, 
                 "gop": {
                     "after": 23412, 
-                    "change": 5.3171390013495277, 
+                    "change": 5.2999999999999998, 
                     "before": 22230
                 }
             }
@@ -781,8 +781,8 @@ GoogleElectionMap.Demographics({
                 5435
             ], 
             "gub2002": [
-                44715, 
-                9984
+                18.300000000000001, 
+                81.700000000000003
             ], 
             "ages": {
                 "all": {
@@ -840,12 +840,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 185381, 
-                    "change": 32.823907887854752, 
+                    "change": 32.799999999999997, 
                     "before": 139569
                 }, 
                 "gop": {
                     "after": 181696, 
-                    "change": -3.4994821679900152, 
+                    "change": -3.5, 
                     "before": 188285
                 }
             }
@@ -872,8 +872,8 @@ GoogleElectionMap.Demographics({
                 1055
             ], 
             "gub2002": [
-                6821, 
-                4311
+                61.299999999999997, 
+                38.700000000000003
             ], 
             "ages": {
                 "all": {
@@ -931,12 +931,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 44879, 
-                    "change": 8.6632284932568222, 
+                    "change": 8.6999999999999993, 
                     "before": 41301
                 }, 
                 "gop": {
                     "after": 58382, 
-                    "change": 18.043592543167939, 
+                    "change": 18.0, 
                     "before": 49458
                 }
             }
@@ -963,8 +963,8 @@ GoogleElectionMap.Demographics({
                 1101
             ], 
             "gub2002": [
-                17845, 
-                8705
+                67.200000000000003, 
+                32.799999999999997
             ], 
             "ages": {
                 "all": {
@@ -1022,12 +1022,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 55865, 
-                    "change": -0.96614075518525089, 
+                    "change": -1.0, 
                     "before": 56410
                 }, 
                 "gop": {
                     "after": 27731, 
-                    "change": -1.4043945104174074, 
+                    "change": -1.3999999999999999, 
                     "before": 28126
                 }
             }
@@ -1054,8 +1054,8 @@ GoogleElectionMap.Demographics({
                 29
             ], 
             "gub2002": [
-                399, 
-                176
+                69.400000000000006, 
+                30.600000000000001
             ], 
             "ages": {
                 "all": {
@@ -1113,12 +1113,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 1573, 
-                    "change": 1.5493867010974822, 
+                    "change": 1.5, 
                     "before": 1549
                 }, 
                 "gop": {
                     "after": 1832, 
-                    "change": 5.0458715596330279, 
+                    "change": 5.0, 
                     "before": 1744
                 }
             }
@@ -1145,8 +1145,8 @@ GoogleElectionMap.Demographics({
                 410
             ], 
             "gub2002": [
-                3396, 
-                2232
+                60.299999999999997, 
+                39.700000000000003
             ], 
             "ages": {
                 "all": {
@@ -1204,12 +1204,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 19364, 
-                    "change": 17.151672817472321, 
+                    "change": 17.199999999999999, 
                     "before": 16529
                 }, 
                 "gop": {
                     "after": 14457, 
-                    "change": 7.8236873508353222, 
+                    "change": 7.7999999999999998, 
                     "before": 13408
                 }
             }
@@ -1236,8 +1236,8 @@ GoogleElectionMap.Demographics({
                 1423
             ], 
             "gub2002": [
-                3971, 
-                3597
+                47.5, 
+                52.5
             ], 
             "ages": {
                 "all": {
@@ -1295,12 +1295,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 39966, 
-                    "change": 26.02800201816347, 
+                    "change": 26.0, 
                     "before": 31712
                 }, 
                 "gop": {
                     "after": 36991, 
-                    "change": -4.9563206577595071, 
+                    "change": -5.0, 
                     "before": 38920
                 }
             }
@@ -1327,8 +1327,8 @@ GoogleElectionMap.Demographics({
                 4585
             ], 
             "gub2002": [
-                22564, 
-                4744
+                17.399999999999999, 
+                82.599999999999994
             ], 
             "ages": {
                 "all": {
@@ -1386,12 +1386,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 113267, 
-                    "change": 46.249096167751262, 
+                    "change": 46.200000000000003, 
                     "before": 77448
                 }, 
                 "gop": {
                     "after": 147007, 
-                    "change": -6.8998492736000809, 
+                    "change": -6.9000000000000004, 
                     "before": 157902
                 }
             }
@@ -1418,8 +1418,8 @@ GoogleElectionMap.Demographics({
                 214
             ], 
             "gub2002": [
-                2005, 
-                1085
+                64.900000000000006, 
+                35.100000000000001
             ], 
             "ages": {
                 "all": {
@@ -1477,12 +1477,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 9603, 
-                    "change": 2.892960462873674, 
+                    "change": 2.8999999999999999, 
                     "before": 9333
                 }, 
                 "gop": {
                     "after": 11996, 
-                    "change": 7.4140401146131811, 
+                    "change": 7.4000000000000004, 
                     "before": 11168
                 }
             }
@@ -1509,8 +1509,8 @@ GoogleElectionMap.Demographics({
                 391
             ], 
             "gub2002": [
-                4981, 
-                2041
+                70.900000000000006, 
+                29.100000000000001
             ], 
             "ages": {
                 "all": {
@@ -1568,12 +1568,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 23080, 
-                    "change": 12.596350863498879, 
+                    "change": 12.6, 
                     "before": 20498
                 }, 
                 "gop": {
                     "after": 22907, 
-                    "change": 14.93151372234208, 
+                    "change": 14.9, 
                     "before": 19931
                 }
             }
@@ -1600,8 +1600,8 @@ GoogleElectionMap.Demographics({
                 247
             ], 
             "gub2002": [
-                1410, 
-                1119
+                55.799999999999997, 
+                44.200000000000003
             ], 
             "ages": {
                 "all": {
@@ -1659,12 +1659,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 9990, 
-                    "change": 15.025906735751295, 
+                    "change": 15.0, 
                     "before": 8685
                 }, 
                 "gop": {
                     "after": 9177, 
-                    "change": -0.62804547915538711, 
+                    "change": -0.59999999999999998, 
                     "before": 9235
                 }
             }
@@ -1691,8 +1691,8 @@ GoogleElectionMap.Demographics({
                 453
             ], 
             "gub2002": [
-                2859, 
-                1764
+                61.799999999999997, 
+                38.200000000000003
             ], 
             "ages": {
                 "all": {
@@ -1750,12 +1750,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 19589, 
-                    "change": 19.920416284052646, 
+                    "change": 19.899999999999999, 
                     "before": 16335
                 }, 
                 "gop": {
                     "after": 18818, 
-                    "change": 22.147215370634818, 
+                    "change": 22.100000000000001, 
                     "before": 15406
                 }
             }
@@ -1782,8 +1782,8 @@ GoogleElectionMap.Demographics({
                 725
             ], 
             "gub2002": [
-                3520, 
-                1613
+                68.599999999999994, 
+                31.399999999999999
             ], 
             "ages": {
                 "all": {
@@ -1841,12 +1841,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 25399, 
-                    "change": 27.761569416498993, 
+                    "change": 27.800000000000001, 
                     "before": 19880
                 }, 
                 "gop": {
                     "after": 29605, 
-                    "change": 9.2516052845228423, 
+                    "change": 9.3000000000000007, 
                     "before": 27098
                 }
             }
@@ -1873,8 +1873,8 @@ GoogleElectionMap.Demographics({
                 2313
             ], 
             "gub2002": [
-                6670, 
-                5502
+                54.799999999999997, 
+                45.200000000000003
             ], 
             "ages": {
                 "all": {
@@ -1932,12 +1932,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 48945, 
-                    "change": 30.127881317629544, 
+                    "change": 30.100000000000001, 
                     "before": 37613
                 }, 
                 "gop": {
                     "after": 75858, 
-                    "change": 1.982979981985131, 
+                    "change": 2.0, 
                     "before": 74383
                 }
             }
@@ -1964,8 +1964,8 @@ GoogleElectionMap.Demographics({
                 4435
             ], 
             "gub2002": [
-                11313, 
-                7279
+                60.799999999999997, 
+                39.200000000000003
             ], 
             "ages": {
                 "all": {
@@ -2023,12 +2023,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 79664, 
-                    "change": 40.15728637027393, 
+                    "change": 40.200000000000003, 
                     "before": 56839
                 }, 
                 "gop": {
                     "after": 81269, 
-                    "change": 0.16392230329323604, 
+                    "change": 0.20000000000000001, 
                     "before": 81136
                 }
             }
@@ -2055,8 +2055,8 @@ GoogleElectionMap.Demographics({
                 5841
             ], 
             "gub2002": [
-                38050, 
-                6082
+                13.800000000000001, 
+                86.200000000000003
             ], 
             "ages": {
                 "all": {
@@ -2114,12 +2114,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 156608, 
-                    "change": 50.526720492118415, 
+                    "change": 50.5, 
                     "before": 104040
                 }, 
                 "gop": {
                     "after": 188834, 
-                    "change": -16.829703362769497, 
+                    "change": -16.800000000000001, 
                     "before": 227045
                 }
             }
@@ -2146,8 +2146,8 @@ GoogleElectionMap.Demographics({
                 98
             ], 
             "gub2002": [
-                2593, 
-                953
+                73.099999999999994, 
+                26.899999999999999
             ], 
             "ages": {
                 "all": {
@@ -2205,12 +2205,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 11072, 
-                    "change": 7.7671792875219001, 
+                    "change": 7.7999999999999998, 
                     "before": 10274
                 }, 
                 "gop": {
                     "after": 7299, 
-                    "change": 1.9698239731768652, 
+                    "change": 2.0, 
                     "before": 7158
                 }
             }
@@ -2237,8 +2237,8 @@ GoogleElectionMap.Demographics({
                 3439
             ], 
             "gub2002": [
-                17309, 
-                8979
+                65.799999999999997, 
+                34.200000000000003
             ], 
             "ages": {
                 "all": {
@@ -2296,12 +2296,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 96286, 
-                    "change": 8.660226605877309, 
+                    "change": 8.6999999999999993, 
                     "before": 88612
                 }, 
                 "gop": {
                     "after": 61719, 
-                    "change": -6.7914099311344689, 
+                    "change": -6.7999999999999998, 
                     "before": 66216
                 }
             }
@@ -2328,8 +2328,8 @@ GoogleElectionMap.Demographics({
                 1268
             ], 
             "gub2002": [
-                15320, 
-                5404
+                73.900000000000006, 
+                26.100000000000001
             ], 
             "ages": {
                 "all": {
@@ -2387,12 +2387,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 61932, 
-                    "change": 3.5132876483369548, 
+                    "change": 3.5, 
                     "before": 59830
                 }, 
                 "gop": {
                     "after": 21447, 
-                    "change": 20.610729951636486, 
+                    "change": 20.600000000000001, 
                     "before": 17782
                 }
             }
@@ -2419,8 +2419,8 @@ GoogleElectionMap.Demographics({
                 27
             ], 
             "gub2002": [
-                285, 
-                150
+                65.5, 
+                34.5
             ], 
             "ages": {
                 "all": {
@@ -2478,12 +2478,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 1470, 
-                    "change": 24.787775891341258, 
+                    "change": 24.800000000000001, 
                     "before": 1178
                 }, 
                 "gop": {
                     "after": 1612, 
-                    "change": -1.5873015873015872, 
+                    "change": -1.6000000000000001, 
                     "before": 1638
                 }
             }
@@ -2510,8 +2510,8 @@ GoogleElectionMap.Demographics({
                 1302
             ], 
             "gub2002": [
-                3026, 
-                1234
+                71.0, 
+                29.0
             ], 
             "ages": {
                 "all": {
@@ -2569,12 +2569,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 26481, 
-                    "change": 19.54225352112676, 
+                    "change": 19.5, 
                     "before": 22152
                 }, 
                 "gop": {
                     "after": 48919, 
-                    "change": 21.023725291308974, 
+                    "change": 21.0, 
                     "before": 40421
                 }
             }
@@ -2601,8 +2601,8 @@ GoogleElectionMap.Demographics({
                 108
             ], 
             "gub2002": [
-                532, 
-                147
+                78.400000000000006, 
+                21.600000000000001
             ], 
             "ages": {
                 "all": {
@@ -2660,12 +2660,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 3453, 
-                    "change": 5.3707659444613975, 
+                    "change": 5.4000000000000004, 
                     "before": 3277
                 }, 
                 "gop": {
                     "after": 5422, 
-                    "change": 29.71291866028708, 
+                    "change": 29.699999999999999, 
                     "before": 4180
                 }
             }
@@ -2692,8 +2692,8 @@ GoogleElectionMap.Demographics({
                 251
             ], 
             "gub2002": [
-                3949, 
-                1779
+                68.900000000000006, 
+                31.100000000000001
             ], 
             "ages": {
                 "all": {
@@ -2751,12 +2751,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 17030, 
-                    "change": 2.4854065114039838, 
+                    "change": 2.5, 
                     "before": 16617
                 }, 
                 "gop": {
                     "after": 6658, 
-                    "change": 22.120322817314747, 
+                    "change": 22.100000000000001, 
                     "before": 5452
                 }
             }
@@ -2783,8 +2783,8 @@ GoogleElectionMap.Demographics({
                 307
             ], 
             "gub2002": [
-                1482, 
-                896
+                62.299999999999997, 
+                37.700000000000003
             ], 
             "ages": {
                 "all": {
@@ -2842,12 +2842,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 10225, 
-                    "change": 17.205410362219165, 
+                    "change": 17.199999999999999, 
                     "before": 8724
                 }, 
                 "gop": {
                     "after": 16568, 
-                    "change": 14.049700557582433, 
+                    "change": 14.0, 
                     "before": 14527
                 }
             }
@@ -2874,8 +2874,8 @@ GoogleElectionMap.Demographics({
                 525
             ], 
             "gub2002": [
-                4896, 
-                2116
+                69.799999999999997, 
+                30.199999999999999
             ], 
             "ages": {
                 "all": {
@@ -2933,12 +2933,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 24627, 
-                    "change": 16.59959282230955, 
+                    "change": 16.600000000000001, 
                     "before": 21121
                 }, 
                 "gop": {
                     "after": 23171, 
-                    "change": 15.290078614787541, 
+                    "change": 15.300000000000001, 
                     "before": 20098
                 }
             }
@@ -2965,8 +2965,8 @@ GoogleElectionMap.Demographics({
                 232
             ], 
             "gub2002": [
-                2245, 
-                725
+                75.599999999999994, 
+                24.399999999999999
             ], 
             "ages": {
                 "all": {
@@ -3024,12 +3024,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 11545, 
-                    "change": 9.4624063714800428, 
+                    "change": 9.5, 
                     "before": 10547
                 }, 
                 "gop": {
                     "after": 15410, 
-                    "change": 17.293347541482724, 
+                    "change": 17.300000000000001, 
                     "before": 13138
                 }
             }
@@ -3056,8 +3056,8 @@ GoogleElectionMap.Demographics({
                 84
             ], 
             "gub2002": [
-                1314, 
-                501
+                72.400000000000006, 
+                27.600000000000001
             ], 
             "ages": {
                 "all": {
@@ -3115,12 +3115,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 4934, 
-                    "change": 7.4945533769063184, 
+                    "change": 7.5, 
                     "before": 4590
                 }, 
                 "gop": {
                     "after": 7956, 
-                    "change": 18.463371054198927, 
+                    "change": 18.5, 
                     "before": 6716
                 }
             }
@@ -3147,8 +3147,8 @@ GoogleElectionMap.Demographics({
                 1535
             ], 
             "gub2002": [
-                32569, 
-                6085
+                84.299999999999997, 
+                15.699999999999999
             ], 
             "ages": {
                 "all": {
@@ -3206,12 +3206,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 98994, 
-                    "change": 9.4388431944812936, 
+                    "change": 9.4000000000000004, 
                     "before": 90456
                 }, 
                 "gop": {
                     "after": 42157, 
-                    "change": -5.1842022401151544, 
+                    "change": -5.2000000000000002, 
                     "before": 44462
                 }
             }
@@ -3238,8 +3238,8 @@ GoogleElectionMap.Demographics({
                 5109
             ], 
             "gub2002": [
-                8976, 
-                6051
+                40.299999999999997, 
+                59.700000000000003
             ], 
             "ages": {
                 "all": {
@@ -3297,12 +3297,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 94864, 
-                    "change": 46.796032372375166, 
+                    "change": 46.799999999999997, 
                     "before": 64623
                 }, 
                 "gop": {
                     "after": 173316, 
-                    "change": 9.6985309475736265, 
+                    "change": 9.6999999999999993, 
                     "before": 157993
                 }
             }
@@ -3329,8 +3329,8 @@ GoogleElectionMap.Demographics({
                 888
             ], 
             "gub2002": [
-                5842, 
-                3378
+                63.399999999999999, 
+                36.600000000000001
             ], 
             "ages": {
                 "all": {
@@ -3388,12 +3388,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 34017, 
-                    "change": 8.7395710130102611, 
+                    "change": 8.6999999999999993, 
                     "before": 31283
                 }, 
                 "gop": {
                     "after": 22250, 
-                    "change": 14.237305539867537, 
+                    "change": 14.199999999999999, 
                     "before": 19477
                 }
             }
@@ -3420,8 +3420,8 @@ GoogleElectionMap.Demographics({
                 962
             ], 
             "gub2002": [
-                3108, 
-                2233
+                58.200000000000003, 
+                41.799999999999997
             ], 
             "ages": {
                 "all": {
@@ -3479,12 +3479,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 25291, 
-                    "change": 29.917295936713412, 
+                    "change": 29.899999999999999, 
                     "before": 19467
                 }, 
                 "gop": {
                     "after": 43073, 
-                    "change": 8.6330390920554869, 
+                    "change": 8.5999999999999996, 
                     "before": 39650
                 }
             }
@@ -3511,8 +3511,8 @@ GoogleElectionMap.Demographics({
                 4047
             ], 
             "gub2002": [
-                17448, 
-                7992
+                31.399999999999999, 
+                68.599999999999994
             ], 
             "ages": {
                 "all": {
@@ -3570,12 +3570,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 101752, 
-                    "change": 25.827912843469441, 
+                    "change": 25.800000000000001, 
                     "before": 80866
                 }, 
                 "gop": {
                     "after": 76873, 
-                    "change": -0.80903225806451606, 
+                    "change": -0.80000000000000004, 
                     "before": 77500
                 }
             }
@@ -3602,8 +3602,8 @@ GoogleElectionMap.Demographics({
                 2007
             ], 
             "gub2002": [
-                27433, 
-                11779
+                70.0, 
+                30.0
             ], 
             "ages": {
                 "all": {
@@ -3661,12 +3661,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 106141, 
-                    "change": -3.6177071509648129, 
+                    "change": -3.6000000000000001, 
                     "before": 110125
                 }, 
                 "gop": {
                     "after": 59627, 
-                    "change": -12.253877623097978, 
+                    "change": -12.300000000000001, 
                     "before": 67954
                 }
             }
@@ -3693,8 +3693,8 @@ GoogleElectionMap.Demographics({
                 1096
             ], 
             "gub2002": [
-                4087, 
-                1760
+                69.900000000000006, 
+                30.100000000000001
             ], 
             "ages": {
                 "all": {
@@ -3752,12 +3752,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 25748, 
-                    "change": 13.053787047200879, 
+                    "change": 13.1, 
                     "before": 22775
                 }, 
                 "gop": {
                     "after": 36513, 
-                    "change": 9.0558824407873129, 
+                    "change": 9.0999999999999996, 
                     "before": 33481
                 }
             }
@@ -3784,8 +3784,8 @@ GoogleElectionMap.Demographics({
                 249
             ], 
             "gub2002": [
-                1240, 
-                377
+                76.700000000000003, 
+                23.300000000000001
             ], 
             "ages": {
                 "all": {
@@ -3843,12 +3843,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 8694, 
-                    "change": 9.0566984445559449, 
+                    "change": 9.0999999999999996, 
                     "before": 7972
                 }, 
                 "gop": {
                     "after": 15193, 
-                    "change": -2.1636937343035614, 
+                    "change": -2.2000000000000002, 
                     "before": 15529
                 }
             }
@@ -3875,8 +3875,8 @@ GoogleElectionMap.Demographics({
                 1177
             ], 
             "gub2002": [
-                5818, 
-                3139
+                65.0, 
+                35.0
             ], 
             "ages": {
                 "all": {
@@ -3934,12 +3934,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 39081, 
-                    "change": 9.849059785816678, 
+                    "change": 9.8000000000000007, 
                     "before": 35577
                 }, 
                 "gop": {
                     "after": 31663, 
-                    "change": 7.7229272275711898, 
+                    "change": 7.7000000000000002, 
                     "before": 29393
                 }
             }
@@ -3966,8 +3966,8 @@ GoogleElectionMap.Demographics({
                 233
             ], 
             "gub2002": [
-                1521, 
-                829
+                64.700000000000003, 
+                35.299999999999997
             ], 
             "ages": {
                 "all": {
@@ -4025,12 +4025,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 8890, 
-                    "change": -0.22446689113355783, 
+                    "change": -0.20000000000000001, 
                     "before": 8910
                 }, 
                 "gop": {
                     "after": 13889, 
-                    "change": 8.1782070254692734, 
+                    "change": 8.1999999999999993, 
                     "before": 12839
                 }
             }
@@ -4057,8 +4057,8 @@ GoogleElectionMap.Demographics({
                 2634
             ], 
             "gub2002": [
-                3614, 
-                2807
+                56.299999999999997, 
+                43.700000000000003
             ], 
             "ages": {
                 "all": {
@@ -4116,12 +4116,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 48978, 
-                    "change": 63.570784490532006, 
+                    "change": 63.600000000000001, 
                     "before": 29943
                 }, 
                 "gop": {
                     "after": 38143, 
-                    "change": 19.10382513661202, 
+                    "change": 19.100000000000001, 
                     "before": 32025
                 }
             }
@@ -4148,8 +4148,8 @@ GoogleElectionMap.Demographics({
                 8760
             ], 
             "gub2002": [
-                66712, 
-                8760
+                11.6, 
+                88.400000000000006
             ], 
             "ages": {
                 "all": {
@@ -4207,12 +4207,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 247613, 
-                    "change": 52.193661798692034, 
+                    "change": 52.200000000000003, 
                     "before": 162696
                 }, 
                 "gop": {
                     "after": 237969, 
-                    "change": -11.113725753857532, 
+                    "change": -11.1, 
                     "before": 267723
                 }
             }
@@ -4239,8 +4239,8 @@ GoogleElectionMap.Demographics({
                 114
             ], 
             "gub2002": [
-                864, 
-                304
+                74.0, 
+                26.0
             ], 
             "ages": {
                 "all": {
@@ -4298,12 +4298,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 4865, 
-                    "change": 26.330823162814852, 
+                    "change": 26.300000000000001, 
                     "before": 3851
                 }, 
                 "gop": {
                     "after": 5805, 
-                    "change": 20.161457255226662, 
+                    "change": 20.199999999999999, 
                     "before": 4831
                 }
             }
@@ -4330,8 +4330,8 @@ GoogleElectionMap.Demographics({
                 2836
             ], 
             "gub2002": [
-                14668, 
-                7874
+                34.899999999999999, 
+                65.099999999999994
             ], 
             "ages": {
                 "all": {
@@ -4389,12 +4389,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 96978, 
-                    "change": 25.85882444551153, 
+                    "change": 25.899999999999999, 
                     "before": 77053
                 }, 
                 "gop": {
                     "after": 68759, 
-                    "change": 14.584965087406468, 
+                    "change": 14.6, 
                     "before": 60007
                 }
             }
@@ -4421,8 +4421,8 @@ GoogleElectionMap.Demographics({
                 582
             ], 
             "gub2002": [
-                5490, 
-                2230
+                71.099999999999994, 
+                28.899999999999999
             ], 
             "ages": {
                 "all": {
@@ -4480,12 +4480,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 23673, 
-                    "change": 0.088787417554540837, 
+                    "change": 0.10000000000000001, 
                     "before": 23652
                 }, 
                 "gop": {
                     "after": 24508, 
-                    "change": 6.3576791216421471, 
+                    "change": 6.4000000000000004, 
                     "before": 23043
                 }
             }
@@ -4512,8 +4512,8 @@ GoogleElectionMap.Demographics({
                 247
             ], 
             "gub2002": [
-                1631, 
-                760
+                68.200000000000003, 
+                31.800000000000001
             ], 
             "ages": {
                 "all": {
@@ -4571,12 +4571,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 7721, 
-                    "change": 17.197935640558594, 
+                    "change": 17.199999999999999, 
                     "before": 6588
                 }, 
                 "gop": {
                     "after": 16698, 
-                    "change": 11.016554750349046, 
+                    "change": 11.0, 
                     "before": 15041
                 }
             }
@@ -4603,8 +4603,8 @@ GoogleElectionMap.Demographics({
                 18410
             ], 
             "gub2002": [
-                224635, 
-                61465
+                21.5, 
+                78.5
             ], 
             "ages": {
                 "all": {
@@ -4662,12 +4662,12 @@ GoogleElectionMap.Demographics({
                 "type": "UrbanCore", 
                 "dem": {
                     "after": 799472, 
-                    "change": 8.3144222418822302, 
+                    "change": 8.3000000000000007, 
                     "before": 738103
                 }, 
                 "gop": {
                     "after": 145404, 
-                    "change": -24.506240784199704, 
+                    "change": -24.5, 
                     "before": 192604
                 }
             }
@@ -4694,8 +4694,8 @@ GoogleElectionMap.Demographics({
                 557
             ], 
             "gub2002": [
-                709, 
-                373
+                65.5, 
+                34.5
             ], 
             "ages": {
                 "all": {
@@ -4753,12 +4753,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 15950, 
-                    "change": 69.572613225600676, 
+                    "change": 69.599999999999994, 
                     "before": 9406
                 }, 
                 "gop": {
                     "after": 19650, 
-                    "change": 34.598260154805125, 
+                    "change": 34.600000000000001, 
                     "before": 14599
                 }
             }
@@ -4785,8 +4785,8 @@ GoogleElectionMap.Demographics({
                 121
             ], 
             "gub2002": [
-                664, 
-                164
+                80.200000000000003, 
+                19.800000000000001
             ], 
             "ages": {
                 "all": {
@@ -4844,12 +4844,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 3595, 
-                    "change": -0.69060773480662985, 
+                    "change": -0.69999999999999996, 
                     "before": 3620
                 }, 
                 "gop": {
                     "after": 6790, 
-                    "change": -2.4565436000574632, 
+                    "change": -2.5, 
                     "before": 6961
                 }
             }
@@ -4876,8 +4876,8 @@ GoogleElectionMap.Demographics({
                 699
             ], 
             "gub2002": [
-                7720, 
-                4579
+                62.799999999999997, 
+                37.200000000000003
             ], 
             "ages": {
                 "all": {
@@ -4935,12 +4935,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 39008, 
-                    "change": 13.971834278034242, 
+                    "change": 14.0, 
                     "before": 34226
                 }, 
                 "gop": {
                     "after": 44989, 
-                    "change": -1.4414967029596686, 
+                    "change": -1.3999999999999999, 
                     "before": 45647
                 }
             }
@@ -4967,8 +4967,8 @@ GoogleElectionMap.Demographics({
                 217
             ], 
             "gub2002": [
-                939, 
-                388
+                70.799999999999997, 
+                29.199999999999999
             ], 
             "ages": {
                 "all": {
@@ -5026,12 +5026,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 5521, 
-                    "change": 27.50577367205543, 
+                    "change": 27.5, 
                     "before": 4330
                 }, 
                 "gop": {
                     "after": 13517, 
-                    "change": 9.0872407392462264, 
+                    "change": 9.0999999999999996, 
                     "before": 12391
                 }
             }
@@ -5058,8 +5058,8 @@ GoogleElectionMap.Demographics({
                 253
             ], 
             "gub2002": [
-                5628, 
-                2455
+                69.599999999999994, 
+                30.399999999999999
             ], 
             "ages": {
                 "all": {
@@ -5117,12 +5117,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 22961, 
-                    "change": 5.0029725156628704, 
+                    "change": 5.0, 
                     "before": 21867
                 }, 
                 "gop": {
                     "after": 25980, 
-                    "change": 10.070753717747744, 
+                    "change": 10.1, 
                     "before": 23603
                 }
             }
@@ -5149,8 +5149,8 @@ GoogleElectionMap.Demographics({
                 43
             ], 
             "gub2002": [
-                459, 
-                193
+                70.400000000000006, 
+                29.600000000000001
             ], 
             "ages": {
                 "all": {
@@ -5208,12 +5208,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 1770, 
-                    "change": 4.9199762892708954, 
+                    "change": 4.9000000000000004, 
                     "before": 1687
                 }, 
                 "gop": {
                     "after": 2420, 
-                    "change": -2.6548672566371683, 
+                    "change": -2.7000000000000002, 
                     "before": 2486
                 }
             }
@@ -5240,8 +5240,8 @@ GoogleElectionMap.Demographics({
                 240
             ], 
             "gub2002": [
-                1764, 
-                428
+                80.5, 
+                19.5
             ], 
             "ages": {
                 "all": {
@@ -5299,12 +5299,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 9832, 
-                    "change": 21.773594253158286, 
+                    "change": 21.800000000000001, 
                     "before": 8074
                 }, 
                 "gop": {
                     "after": 15419, 
-                    "change": 4.7344110854503461, 
+                    "change": 4.7000000000000002, 
                     "before": 14722
                 }
             }
@@ -5331,8 +5331,8 @@ GoogleElectionMap.Demographics({
                 246
             ], 
             "gub2002": [
-                1054, 
-                261
+                80.200000000000003, 
+                19.800000000000001
             ], 
             "ages": {
                 "all": {
@@ -5390,12 +5390,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 7930, 
-                    "change": 13.12410841654779, 
+                    "change": 13.1, 
                     "before": 7010
                 }, 
                 "gop": {
                     "after": 16013, 
-                    "change": 0.34465471863642061, 
+                    "change": 0.29999999999999999, 
                     "before": 15958
                 }
             }
@@ -5422,8 +5422,8 @@ GoogleElectionMap.Demographics({
                 450
             ], 
             "gub2002": [
-                840, 
-                600
+                58.299999999999997, 
+                41.700000000000003
             ], 
             "ages": {
                 "all": {
@@ -5481,12 +5481,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 7682, 
-                    "change": 58.817448831920615, 
+                    "change": 58.799999999999997, 
                     "before": 4837
                 }, 
                 "gop": {
                     "after": 12806, 
-                    "change": 17.378551787351054, 
+                    "change": 17.399999999999999, 
                     "before": 10910
                 }
             }
@@ -5513,8 +5513,8 @@ GoogleElectionMap.Demographics({
                 425
             ], 
             "gub2002": [
-                2116, 
-                945
+                69.099999999999994, 
+                30.899999999999999
             ], 
             "ages": {
                 "all": {
@@ -5572,12 +5572,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 13060, 
-                    "change": 2.8751476959432849, 
+                    "change": 2.8999999999999999, 
                     "before": 12695
                 }, 
                 "gop": {
                     "after": 17561, 
-                    "change": -1.4644821007743238, 
+                    "change": -1.5, 
                     "before": 17822
                 }
             }
@@ -5604,8 +5604,8 @@ GoogleElectionMap.Demographics({
                 217
             ], 
             "gub2002": [
-                1785, 
-                638
+                73.700000000000003, 
+                26.300000000000001
             ], 
             "ages": {
                 "all": {
@@ -5663,12 +5663,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 11181, 
-                    "change": 7.0771882781076423, 
+                    "change": 7.0999999999999996, 
                     "before": 10442
                 }, 
                 "gop": {
                     "after": 13559, 
-                    "change": -4.6349697566465045, 
+                    "change": -4.5999999999999996, 
                     "before": 14218
                 }
             }
@@ -5695,8 +5695,8 @@ GoogleElectionMap.Demographics({
                 1827
             ], 
             "gub2002": [
-                16884, 
-                11552
+                59.399999999999999, 
+                40.600000000000001
             ], 
             "ages": {
                 "all": {
@@ -5754,12 +5754,12 @@ GoogleElectionMap.Demographics({
                 "type": "SlowMetro", 
                 "dem": {
                     "after": 86628, 
-                    "change": 1.2671841391564576, 
+                    "change": 1.3, 
                     "before": 85544
                 }, 
                 "gop": {
                     "after": 47512, 
-                    "change": 20.010103561505428, 
+                    "change": 20.0, 
                     "before": 39590
                 }
             }
@@ -5786,8 +5786,8 @@ GoogleElectionMap.Demographics({
                 304
             ], 
             "gub2002": [
-                1639, 
-                489
+                77.0, 
+                23.0
             ], 
             "ages": {
                 "all": {
@@ -5845,12 +5845,12 @@ GoogleElectionMap.Demographics({
                 "type": "Rural", 
                 "dem": {
                     "after": 10048, 
-                    "change": 35.509103169251517, 
+                    "change": 35.5, 
                     "before": 7415
                 }, 
                 "gop": {
                     "after": 16925, 
-                    "change": 4.5333827434994749, 
+                    "change": 4.5, 
                     "before": 16191
                 }
             }
@@ -5877,8 +5877,8 @@ GoogleElectionMap.Demographics({
                 2682
             ], 
             "gub2002": [
-                27367, 
-                19008
+                59.0, 
+                41.0
             ], 
             "ages": {
                 "all": {
@@ -5936,12 +5936,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 134144, 
-                    "change": -3.7386799087216724, 
+                    "change": -3.7000000000000002, 
                     "before": 139354
                 }, 
                 "gop": {
                     "after": 85429, 
-                    "change": 15.190863368526083, 
+                    "change": 15.199999999999999, 
                     "before": 74163
                 }
             }
@@ -5968,8 +5968,8 @@ GoogleElectionMap.Demographics({
                 180
             ], 
             "gub2002": [
-                1159, 
-                452
+                71.900000000000006, 
+                28.100000000000001
             ], 
             "ages": {
                 "all": {
@@ -6027,12 +6027,12 @@ GoogleElectionMap.Demographics({
                 "type": "DecMetro", 
                 "dem": {
                     "after": 7053, 
-                    "change": 28.423160961398398, 
+                    "change": 28.399999999999999, 
                     "before": 5492
                 }, 
                 "gop": {
                     "after": 10861, 
-                    "change": 0.83557701234797144, 
+                    "change": 0.80000000000000004, 
                     "before": 10771
                 }
             }
@@ -6059,8 +6059,8 @@ GoogleElectionMap.Demographics({
                 4166
             ], 
             "gub2002": [
-                11251, 
-                7425
+                60.200000000000003, 
+                39.799999999999997
             ], 
             "ages": {
                 "all": {
@@ -6118,12 +6118,12 @@ GoogleElectionMap.Demographics({
                 "type": "FastEx", 
                 "dem": {
                     "after": 104817, 
-                    "change": 37.046140972503693, 
+                    "change": 37.0, 
                     "before": 76483
                 }, 
                 "gop": {
                     "after": 140365, 
-                    "change": 25.62762348855734, 
+                    "change": 25.600000000000001, 
                     "before": 111731
                 }
             }
@@ -6131,8 +6131,8 @@ GoogleElectionMap.Demographics({
     ], 
     "limits": {
         "population": {
-            "minPercent": -24.506240784199704, 
-            "maxPercent": 69.572613225600676
+            "minPercent": -24.5, 
+            "maxPercent": 69.599999999999994
         }
     }
 })

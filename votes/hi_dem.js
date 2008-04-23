@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":78,"reporting":78},
 "votes":[
 {"votes":28347,"name":"obama","delegates":14},
-{"votes":8835,"name":"clinton","delegates":5},
+{"votes":8835,"name":"clinton","delegates":6},
 {"votes":138,"name":"kucinich"},
 {"votes":41,"name":"edwards"}],
 "delegates":20,"date":"02-19","type":"caucus"},

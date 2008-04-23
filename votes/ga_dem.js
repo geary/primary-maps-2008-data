@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":700366,"name":"obama","delegates":61},
-{"votes":328129,"name":"clinton","delegates":26},
+{"votes":700366,"name":"obama","delegates":60},
+{"votes":328129,"name":"clinton","delegates":27},
 {"votes":17990,"name":"edwards"},
 {"votes":2531,"name":"biden"},
 {"votes":2088,"name":"kucinich"},

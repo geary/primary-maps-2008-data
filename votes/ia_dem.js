@@ -2,9 +2,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Iowa","precincts":
 {"total":1781,"reporting":1781},
 "votes":[
-{"votes":940,"name":"obama","delegates":16},
+{"votes":940,"name":"obama","delegates":25},
 {"votes":744,"name":"edwards"},
-{"votes":737,"name":"clinton","delegates":15},
+{"votes":737,"name":"clinton","delegates":14},
 {"votes":53,"name":"richardson"},
 {"votes":23,"name":"biden"},
 {"votes":3,"name":"uncommitted-d"},

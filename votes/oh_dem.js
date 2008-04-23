@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":1203924,"name":"clinton","delegates":74},
-{"votes":976368,"name":"obama","delegates":65},
+{"votes":976368,"name":"obama","delegates":67},
 {"votes":37882,"name":"edwards"}],
 "name":"Ohio","precincts":
 {"total":11238,"reporting":11194},

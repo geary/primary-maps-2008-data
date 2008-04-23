@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":14380668,"name":"clinton","delegates":1296},
-{"votes":14335575,"name":"obama","delegates":1452},
+{"votes":14413325,"name":"clinton","delegates":1325},
+{"votes":14344898,"name":"obama","delegates":1472},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":21748,"name":"gravel"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":30242600,"locals":
+"state":"US","party":"dem","total":30284580,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -348,10 +348,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":13,"date":"02-05","type":"caucus"},
 "Pennsylvania":
 {"votes":[
-{"votes":915529,"name":"clinton","delegates":49},
-{"votes":764681,"name":"obama","delegates":43}],
+{"votes":948186,"name":"clinton","delegates":78},
+{"votes":774004,"name":"obama","delegates":63}],
 "name":"Pennsylvania","precincts":
-{"total":9268,"reporting":7203},
+{"total":9268,"reporting":7282},
 "delegates":158,"date":"04-22"},
 "Florida":
 {"votes":[

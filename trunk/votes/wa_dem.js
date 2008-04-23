@@ -2,8 +2,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Washington","precincts":
 {"total":7150,"reporting":6856},
 "votes":[
-{"votes":327553,"name":"obama","delegates":53},
-{"votes":294718,"name":"clinton","delegates":25},
+{"votes":327553,"name":"obama","delegates":52},
+{"votes":294718,"name":"clinton","delegates":26},
 {"votes":10983,"name":"edwards"},
 {"votes":3988,"name":"biden"},
 {"votes":3688,"name":"kucinich"},

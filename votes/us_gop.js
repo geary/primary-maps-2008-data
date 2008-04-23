@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":7696287,"name":"mccain","delegates":1111},
+{"votes":7703441,"name":"mccain","delegates":1111},
 {"votes":4340073,"name":"romney","delegates":271},
-{"votes":3983833,"name":"huckabee","delegates":265},
-{"votes":891704,"name":"paul","delegates":14},
+{"votes":3985411,"name":"huckabee","delegates":265},
+{"votes":893391,"name":"paul","delegates":14},
 {"votes":567806,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
 {"votes":46574,"name":"uncommitted-r"},
@@ -19,7 +19,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":17900500,"locals":
+"state":"US","party":"gop","total":17910919,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -378,11 +378,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":23,"date":"02-05","type":"caucus"},
 "Pennsylvania":
 {"votes":[
-{"votes":388867,"name":"mccain"},
-{"votes":85561,"name":"paul"},
-{"votes":63409,"name":"huckabee"}],
+{"votes":396021,"name":"mccain"},
+{"votes":87248,"name":"paul"},
+{"votes":64987,"name":"huckabee"}],
 "name":"Pennsylvania","precincts":
-{"total":9268,"reporting":7282},
+{"total":9268,"reporting":7397},
 "delegates":74,"date":"04-22"},
 "Florida":
 {"votes":[

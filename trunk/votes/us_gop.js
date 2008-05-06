@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":7892867,"name":"mccain","delegates":1111},
-{"votes":4340073,"name":"romney","delegates":271},
-{"votes":4011635,"name":"huckabee","delegates":265},
-{"votes":934331,"name":"paul","delegates":14},
+{"votes":7903292,"name":"mccain","delegates":1111},
+{"votes":4340693,"name":"romney","delegates":271},
+{"votes":4013034,"name":"huckabee","delegates":265},
+{"votes":935304,"name":"paul","delegates":14},
 {"votes":567806,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
 {"votes":46574,"name":"uncommitted-r"},
@@ -19,7 +19,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":18167509,"locals":
+"state":"US","party":"gop","total":18180926,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -94,6 +94,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Arkansas","precincts":
 {"total":2480,"reporting":2402},
 "delegates":31,"date":"02-05"},
+"Indiana":
+{"votes":[
+{"votes":10425,"name":"mccain"},
+{"votes":1399,"name":"huckabee"},
+{"votes":973,"name":"paul"},
+{"votes":620,"name":"romney"}],
+"name":"Indiana","precincts":
+{"total":5230,"reporting":133},
+"delegates":57,"date":"05-06"},
 "Maryland":
 {"votes":[
 {"votes":163677,"name":"mccain","delegates":37},
@@ -507,6 +516,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1662,"name":"uncommitted-r"},
 {"votes":938,"name":"hunter"}],
 "delegates":19,"date":"02-09","type":"caucus"},
+"North Carolina":
+{"votes":[],
+"name":"North Carolina","precincts":
+{"total":2817,"reporting":0},
+"delegates":69,"date":"05-06"},
 "District of Columbia":
 {"votes":[
 {"votes":3929,"name":"mccain","delegates":16},

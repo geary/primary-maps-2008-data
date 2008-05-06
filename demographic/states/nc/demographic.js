@@ -1,5 +1,6 @@
 GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 {"religion":["Catholic","Evangelical","Mainline","Jewish","Other","None"],
+"urbanrural":["Urban","Rural"],
 "occupation":["White Collar","Blue Collar","Grey Collar"]},
 "places":[
 {"name":"Alamance","ages":
@@ -7,8 +8,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.129999999999999,"percents":[2.3300000000000001,17.960000000000001,21.129999999999999,0.0,0.0010091740000000001,58.578990826000002],
 "total":41.421009173999998,"min":0.0},
-"urbanrural":
-{"urban":69.299999999999997,"rural":30.699999999999999},
+"urbanrural":[69.299999999999997,30.699999999999999],
 "population":
 {"all":
 {"after":145360,"change":11.1,"before":130800}},
@@ -18,8 +18,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":49.600000000000001,"percents":[1.24,49.600000000000001,14.720000000000001,0.0,0.0,34.439999999999998],
 "total":65.560000000000002,"min":0.0},
-"urbanrural":
-{"urban":17.199999999999999,"rural":82.799999999999997},
+"urbanrural":[17.199999999999999,82.799999999999997],
 "population":
 {"all":
 {"after":36396,"change":8.3000000000000007,"before":33603}},
@@ -29,8 +28,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":18.07,"percents":[1.5900000000000001,18.07,7.4199999999999999,0.0,0.0,72.920000000000002],
 "total":27.079999999999998,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":10915,"change":2.2000000000000002,"before":10680}},
@@ -40,8 +38,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":35.82,"percents":[0.46000000000000002,35.82,12.4,0.0,0.0,51.32],
 "total":48.68,"min":0.0},
-"urbanrural":
-{"urban":26.399999999999999,"rural":73.599999999999994},
+"urbanrural":[26.399999999999999,73.599999999999994],
 "population":
 {"all":
 {"after":25202,"change":-0.29999999999999999,"before":25275}},
@@ -51,8 +48,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":38.090000000000003,"percents":[1.25,38.090000000000003,10.880000000000001,0.0,0.0,49.779999999999994],
 "total":50.220000000000006,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":25531,"change":4.7000000000000002,"before":24384}},
@@ -62,8 +58,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":35.200000000000003,"percents":[2.27,35.200000000000003,9.0,0.0,0.0,53.529999999999994],
 "total":46.470000000000006,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":17776,"change":3.5,"before":17167}},
@@ -73,8 +68,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":30.760000000000002,"percents":[1.53,30.760000000000002,16.620000000000001,0.0,0.0,51.090000000000003],
 "total":48.909999999999997,"min":0.0},
-"urbanrural":
-{"urban":31.300000000000001,"rural":68.700000000000003},
+"urbanrural":[31.300000000000001,68.700000000000003],
 "population":
 {"all":
 {"after":45771,"change":1.8,"before":44958}},
@@ -84,8 +78,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":36.939999999999998,"percents":[0.0,36.939999999999998,6.1600000000000001,0.0,0.0,56.900000000000006],
 "total":43.099999999999994,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":18601,"change":-5.9000000000000004,"before":19757}},
@@ -95,8 +88,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":34.600000000000001,"percents":[0.28999999999999998,34.600000000000001,10.289999999999999,0.0,0.0,54.82],
 "total":45.18,"min":0.0},
-"urbanrural":
-{"urban":11.1,"rural":88.900000000000006},
+"urbanrural":[11.1,88.900000000000006],
 "population":
 {"all":
 {"after":32301,"change":0.10000000000000001,"before":32278}},
@@ -106,8 +98,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.07,"percents":[3.1699999999999999,20.07,9.0800000000000001,0.0,0.0,67.680000000000007],
 "total":32.32,"min":0.0},
-"urbanrural":
-{"urban":33.799999999999997,"rural":66.200000000000003},
+"urbanrural":[33.799999999999997,66.200000000000003],
 "population":
 {"all":
 {"after":99214,"change":35.600000000000001,"before":73141}},
@@ -117,8 +108,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":35.579999999999998,"percents":[4.1100000000000003,35.579999999999998,12.94,0.63,0.34000000000000002,46.399999999999999],
 "total":53.600000000000001,"min":0.34000000000000002},
-"urbanrural":
-{"urban":71.0,"rural":29.0},
+"urbanrural":[71.0,29.0],
 "population":
 {"all":
 {"after":226771,"change":9.9000000000000004,"before":206310}},
@@ -128,8 +118,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":46.990000000000002,"percents":[1.04,46.990000000000002,11.619999999999999,0.0,0.0,40.350000000000001],
 "total":59.649999999999999,"min":0.0},
-"urbanrural":
-{"urban":54.399999999999999,"rural":45.600000000000001},
+"urbanrural":[54.399999999999999,45.600000000000001],
 "population":
 {"all":
 {"after":88975,"change":-0.20000000000000001,"before":89145}},
@@ -139,8 +128,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":29.210000000000001,"percents":[1.53,29.210000000000001,18.98,0.0,0.0,50.280000000000001],
 "total":49.719999999999999,"min":0.0},
-"urbanrural":
-{"urban":72.400000000000006,"rural":27.600000000000001},
+"urbanrural":[72.400000000000006,27.600000000000001],
 "population":
 {"all":
 {"after":163262,"change":24.600000000000001,"before":131063}},
@@ -150,8 +138,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":49.990000000000002,"percents":[0.97999999999999998,49.990000000000002,10.24,0.0,0.0,38.789999999999999],
 "total":61.210000000000001,"min":0.0},
-"urbanrural":
-{"urban":61.700000000000003,"rural":38.299999999999997},
+"urbanrural":[61.700000000000003,38.299999999999997],
 "population":
 {"all":
 {"after":79454,"change":2.7000000000000002,"before":77386}},
@@ -161,8 +148,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":32.289999999999999,"percents":[0.0,32.289999999999999,10.84,0.0,0.0,56.870000000000005],
 "total":43.129999999999995,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":9490,"change":37.799999999999997,"before":6885}},
@@ -172,8 +158,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.370000000000001,"percents":[3.0299999999999998,21.370000000000001,16.010000000000002,0.0,0.0,59.589999999999996],
 "total":40.410000000000004,"min":0.0},
-"urbanrural":
-{"urban":62.0,"rural":38.0},
+"urbanrural":[62.0,38.0],
 "population":
 {"all":
 {"after":63238,"change":6.5,"before":59383}},
@@ -183,8 +168,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":15.91,"percents":[0.0,15.91,12.050000000000001,0.0,0.0,72.039999999999992],
 "total":27.960000000000001,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":23261,"change":-1.0,"before":23501}},
@@ -194,8 +178,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":32.380000000000003,"percents":[3.1000000000000001,32.380000000000003,24.140000000000001,0.080000000000000002,0.0,40.299999999999997],
 "total":59.700000000000003,"min":0.0},
-"urbanrural":
-{"urban":64.900000000000006,"rural":35.100000000000001},
+"urbanrural":[64.900000000000006,35.100000000000001],
 "population":
 {"all":
 {"after":155646,"change":9.9000000000000004,"before":141686}},
@@ -205,8 +188,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":23.649999999999999,"percents":[1.3500000000000001,23.649999999999999,12.949999999999999,0.0,0.0,62.049999999999997],
 "total":37.950000000000003,"min":0.0},
-"urbanrural":
-{"urban":19.300000000000001,"rural":80.700000000000003},
+"urbanrural":[19.300000000000001,80.700000000000003],
 "population":
 {"all":
 {"after":61455,"change":24.600000000000001,"before":49326}},
@@ -216,8 +198,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":43.549999999999997,"percents":[2.7599999999999998,43.549999999999997,7.5300000000000002,0.0,0.0,46.160000000000004],
 "total":53.839999999999996,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":26499,"change":9.0999999999999996,"before":24298}},
@@ -227,8 +208,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":36.280000000000001,"percents":[3.1899999999999999,36.280000000000001,7.9400000000000004,0.0,0.0,52.590000000000003],
 "total":47.409999999999997,"min":0.0},
-"urbanrural":
-{"urban":37.299999999999997,"rural":62.700000000000003},
+"urbanrural":[37.299999999999997,62.700000000000003],
 "population":
 {"all":
 {"after":14635,"change":3.3999999999999999,"before":14150}},
@@ -238,8 +218,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":42.140000000000001,"percents":[4.4299999999999997,42.140000000000001,12.16,0.0,0.0,41.269999999999996],
 "total":58.730000000000004,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":10238,"change":16.699999999999999,"before":8775}},
@@ -249,8 +228,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":48.969999999999999,"percents":[1.53,48.969999999999999,12.050000000000001,0.0,0.0,37.450000000000003],
 "total":62.549999999999997,"min":0.0},
-"urbanrural":
-{"urban":44.5,"rural":55.5},
+"urbanrural":[44.5,55.5],
 "population":
 {"all":
 {"after":98453,"change":2.2999999999999998,"before":96258}},
@@ -260,8 +238,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":44.049999999999997,"percents":[0.70999999999999996,44.049999999999997,8.0500000000000007,0.0,0.0,47.189999999999998],
 "total":52.810000000000002,"min":0.0},
-"urbanrural":
-{"urban":11.699999999999999,"rural":88.299999999999997},
+"urbanrural":[11.699999999999999,88.299999999999997],
 "population":
 {"all":
 {"after":54046,"change":-1.3,"before":54749}},
@@ -271,8 +248,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":19.579999999999998,"percents":[5.8399999999999999,19.579999999999998,16.539999999999999,0.080000000000000002,0.0020779560000000002,57.957922044000007],
 "total":42.042077955999993,"min":0.0020779560000000002},
-"urbanrural":
-{"urban":67.799999999999997,"rural":32.200000000000003},
+"urbanrural":[67.799999999999997,32.200000000000003],
 "population":
 {"all":
 {"after":96746,"change":5.7000000000000002,"before":91523}},
@@ -282,8 +258,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.399999999999999,"percents":[3.0299999999999998,20.399999999999999,10.24,0.10000000000000001,0.0022147920000000001,66.227785208],
 "total":33.772214792,"min":0.0022147920000000001},
-"urbanrural":
-{"urban":87.299999999999997,"rural":12.699999999999999},
+"urbanrural":[87.299999999999997,12.699999999999999],
 "population":
 {"all":
 {"after":306518,"change":1.2,"before":302960}},
@@ -293,8 +268,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.699999999999999,"percents":[0.0,21.699999999999999,8.4900000000000002,0.0,0.0,69.810000000000002],
 "total":30.189999999999998,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":23960,"change":31.699999999999999,"before":18190}},
@@ -304,8 +278,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":19.469999999999999,"percents":[7.0,11.32,19.469999999999999,0.0,0.0,62.210000000000001],
 "total":37.789999999999999,"min":0.0},
-"urbanrural":
-{"urban":69.599999999999994,"rural":30.399999999999999},
+"urbanrural":[69.599999999999994,30.399999999999999],
 "population":
 {"all":
 {"after":33776,"change":12.699999999999999,"before":29967}},
@@ -315,8 +288,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":22.100000000000001,"percents":[1.23,19.789999999999999,22.100000000000001,0.0,0.0,56.879999999999995],
 "total":43.120000000000005,"min":0.0},
-"urbanrural":
-{"urban":43.100000000000001,"rural":56.899999999999999},
+"urbanrural":[43.100000000000001,56.899999999999999],
 "population":
 {"all":
 {"after":156530,"change":6.2999999999999998,"before":147250}},
@@ -326,8 +298,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":23.760000000000002,"percents":[3.2000000000000002,23.760000000000002,21.93,0.0,0.0,51.109999999999999],
 "total":48.890000000000001,"min":0.0},
-"urbanrural":
-{"urban":22.800000000000001,"rural":77.200000000000003},
+"urbanrural":[22.800000000000001,77.200000000000003],
 "population":
 {"all":
 {"after":40516,"change":16.300000000000001,"before":34835}},
@@ -337,8 +308,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":25.289999999999999,"percents":[1.1399999999999999,25.289999999999999,9.1999999999999993,0.0,0.0,64.370000000000005],
 "total":35.629999999999995,"min":0.0},
-"urbanrural":
-{"urban":13.5,"rural":86.5},
+"urbanrural":[13.5,86.5],
 "population":
 {"all":
 {"after":52979,"change":8.0,"before":49063}},
@@ -348,8 +318,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":17.600000000000001,"percents":[4.4000000000000004,17.600000000000001,13.27,1.79,0.0099948950000000002,62.930005105000006],
 "total":37.069994894999994,"min":0.0099948950000000002},
-"urbanrural":
-{"urban":92.5,"rural":7.5},
+"urbanrural":[92.5,7.5],
 "population":
 {"all":
 {"after":256500,"change":14.9,"before":223314}},
@@ -359,8 +328,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.32,"percents":[3.6299999999999999,20.32,8.3599999999999994,0.14000000000000001,0.0051792970000000002,67.544820702999999],
 "total":32.455179297000001,"min":0.0051792970000000002},
-"urbanrural":
-{"urban":54.899999999999999,"rural":45.100000000000001},
+"urbanrural":[54.899999999999999,45.100000000000001],
 "population":
 {"all":
 {"after":52647,"change":-5.2999999999999998,"before":55606}},
@@ -370,8 +338,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":23.170000000000002,"percents":[4.2599999999999998,23.170000000000002,21.16,0.16,0.69999999999999996,50.549999999999997],
 "total":49.450000000000003,"min":0.16},
-"urbanrural":
-{"urban":90.900000000000006,"rural":9.0999999999999996},
+"urbanrural":[90.900000000000006,9.0999999999999996],
 "population":
 {"all":
 {"after":338774,"change":10.699999999999999,"before":306063}},
@@ -381,8 +348,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":27.440000000000001,"percents":[0.34999999999999998,27.440000000000001,8.5700000000000003,0.0,0.0,63.640000000000001],
 "total":36.359999999999999,"min":0.0},
-"urbanrural":
-{"urban":8.6999999999999993,"rural":91.299999999999997},
+"urbanrural":[8.6999999999999993,91.299999999999997],
 "population":
 {"all":
 {"after":57222,"change":21.100000000000001,"before":47260}},
@@ -392,8 +358,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":40.030000000000001,"percents":[2.79,40.030000000000001,13.66,0.11,0.029999999999999999,43.379999999999995],
 "total":56.620000000000005,"min":0.029999999999999999},
-"urbanrural":
-{"urban":77.5,"rural":22.5},
+"urbanrural":[77.5,22.5],
 "population":
 {"all":
 {"after":202535,"change":6.4000000000000004,"before":190336}},
@@ -403,8 +368,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":28.239999999999998,"percents":[0.0,28.239999999999998,14.43,0.0,0.0,57.329999999999998],
 "total":42.670000000000002,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":11737,"change":11.6,"before":10516}},
@@ -414,8 +378,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":27.0,"percents":[1.1100000000000001,27.0,3.8399999999999999,0.0,0.0,68.049999999999997],
 "total":31.949999999999999,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":7858,"change":-1.7,"before":7993}},
@@ -425,8 +388,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":29.07,"percents":[0.17999999999999999,29.07,8.0899999999999999,0.0,0.0,62.659999999999997],
 "total":37.340000000000003,"min":0.0},
-"urbanrural":
-{"urban":34.399999999999999,"rural":65.599999999999994},
+"urbanrural":[34.399999999999999,65.599999999999994],
 "population":
 {"all":
 {"after":55045,"change":13.5,"before":48498}},
@@ -436,8 +398,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":19.079999999999998,"percents":[0.0,19.079999999999998,10.609999999999999,0.0,0.0,70.310000000000002],
 "total":29.689999999999998,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":20405,"change":7.5,"before":18974}},
@@ -447,8 +408,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.109999999999999,"percents":[5.1399999999999997,20.109999999999999,19.300000000000001,0.58999999999999997,0.010134236,54.849865764],
 "total":45.150134236,"min":0.010134236},
-"urbanrural":
-{"urban":83.799999999999997,"rural":16.199999999999999},
+"urbanrural":[83.799999999999997,16.199999999999999],
 "population":
 {"all":
 {"after":465931,"change":10.699999999999999,"before":421048}},
@@ -458,8 +418,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.309999999999999,"percents":[0.93999999999999995,21.309999999999999,12.23,0.12,0.0,65.400000000000006],
 "total":34.600000000000001,"min":0.0},
-"urbanrural":
-{"urban":42.600000000000001,"rural":57.399999999999999},
+"urbanrural":[42.600000000000001,57.399999999999999],
 "population":
 {"all":
 {"after":55060,"change":-4.0,"before":57370}},
@@ -469,8 +428,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.949999999999999,"percents":[0.93000000000000005,21.949999999999999,9.3900000000000006,0.0,0.0,67.730000000000004],
 "total":32.269999999999996,"min":0.0},
-"urbanrural":
-{"urban":33.799999999999997,"rural":66.200000000000003},
+"urbanrural":[33.799999999999997,66.200000000000003],
 "population":
 {"all":
 {"after":108721,"change":19.399999999999999,"before":91085}},
@@ -480,8 +438,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":54.640000000000001,"percents":[1.8400000000000001,54.640000000000001,16.07,0.0,0.0,27.449999999999989],
 "total":72.550000000000011,"min":0.0},
-"urbanrural":
-{"urban":52.100000000000001,"rural":47.899999999999999},
+"urbanrural":[52.100000000000001,47.899999999999999],
 "population":
 {"all":
 {"after":56430,"change":4.4000000000000004,"before":54033}},
@@ -491,8 +448,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":35.909999999999997,"percents":[5.6699999999999999,35.909999999999997,13.06,0.28000000000000003,0.0,45.079999999999998],
 "total":54.920000000000002,"min":0.0},
-"urbanrural":
-{"urban":52.799999999999997,"rural":47.200000000000003},
+"urbanrural":[52.799999999999997,47.200000000000003],
 "population":
 {"all":
 {"after":100810,"change":13.0,"before":89193}},
@@ -502,8 +458,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":37.07,"percents":[0.67000000000000004,37.07,5.5499999999999998,0.0,0.0,56.710000000000001],
 "total":43.289999999999999,"min":0.0},
-"urbanrural":
-{"urban":34.0,"rural":66.0},
+"urbanrural":[34.0,66.0],
 "population":
 {"all":
 {"after":23206,"change":1.0,"before":22977}},
@@ -513,8 +468,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":14.109999999999999,"percents":[1.04,14.109999999999999,7.3099999999999996,0.0,0.0,77.540000000000006],
 "total":22.459999999999997,"min":0.0},
-"urbanrural":
-{"urban":43.5,"rural":56.5},
+"urbanrural":[43.5,56.5],
 "population":
 {"all":
 {"after":42422,"change":26.100000000000001,"before":33650}},
@@ -524,8 +478,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.530000000000001,"percents":[0.83999999999999997,9.8499999999999996,20.530000000000001,0.0,0.0,68.780000000000001],
 "total":31.219999999999999,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":5172,"change":-11.199999999999999,"before":5826}},
@@ -535,8 +488,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":27.59,"percents":[3.9900000000000002,27.59,18.02,0.070000000000000007,0.040000000000000001,50.290000000000006],
 "total":49.709999999999994,"min":0.040000000000000001},
-"urbanrural":
-{"urban":50.399999999999999,"rural":49.600000000000001},
+"urbanrural":[50.399999999999999,49.600000000000001],
 "population":
 {"all":
 {"after":151445,"change":23.5,"before":122660}},
@@ -546,8 +498,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":31.489999999999998,"percents":[2.1800000000000002,31.489999999999998,9.4499999999999993,0.0,0.0,56.879999999999995],
 "total":43.120000000000005,"min":0.0},
-"urbanrural":
-{"urban":21.600000000000001,"rural":78.400000000000006},
+"urbanrural":[21.600000000000001,78.400000000000006],
 "population":
 {"all":
 {"after":36751,"change":11.0,"before":33121}},
@@ -557,8 +508,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":23.98,"percents":[1.71,23.98,8.8000000000000007,0.0,0.0,65.509999999999991],
 "total":34.490000000000002,"min":0.0},
-"urbanrural":
-{"urban":31.600000000000001,"rural":68.400000000000006},
+"urbanrural":[31.600000000000001,68.400000000000006],
 "population":
 {"all":
 {"after":157437,"change":29.199999999999999,"before":121900}},
@@ -568,8 +518,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":24.690000000000001,"percents":[0.0,24.690000000000001,14.140000000000001,0.0,0.0,61.170000000000002],
 "total":38.829999999999998,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":10127,"change":-2.6000000000000001,"before":10398}},
@@ -579,8 +528,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":22.030000000000001,"percents":[4.0599999999999996,22.030000000000001,18.420000000000002,0.0,0.0,55.489999999999995],
 "total":44.510000000000005,"min":0.0},
-"urbanrural":
-{"urban":51.899999999999999,"rural":48.100000000000001},
+"urbanrural":[51.899999999999999,48.100000000000001],
 "population":
 {"all":
 {"after":57973,"change":17.899999999999999,"before":49170}},
@@ -590,8 +538,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.300000000000001,"percents":[1.3300000000000001,21.300000000000001,15.1,0.12,0.0,62.149999999999999],
 "total":37.850000000000001,"min":0.0},
-"urbanrural":
-{"urban":55.299999999999997,"rural":44.700000000000003},
+"urbanrural":[55.299999999999997,44.700000000000003],
 "population":
 {"all":
 {"after":56761,"change":-4.7999999999999998,"before":59619}},
@@ -601,8 +548,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":30.57,"percents":[2.1000000000000001,30.57,21.719999999999999,0.0,0.0,45.609999999999999],
 "total":54.390000000000001,"min":0.0},
-"urbanrural":
-{"urban":37.899999999999999,"rural":62.100000000000001},
+"urbanrural":[37.899999999999999,62.100000000000001],
 "population":
 {"all":
 {"after":73106,"change":14.6,"before":63780}},
@@ -612,8 +558,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":39.100000000000001,"percents":[0.73999999999999999,39.100000000000001,7.4299999999999997,0.0,0.0,52.729999999999997],
 "total":47.270000000000003,"min":0.0},
-"urbanrural":
-{"urban":23.300000000000001,"rural":76.700000000000003},
+"urbanrural":[23.300000000000001,76.700000000000003],
 "population":
 {"all":
 {"after":43537,"change":3.2999999999999998,"before":42151}},
@@ -623,8 +568,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":49.170000000000002,"percents":[5.0099999999999998,49.170000000000002,13.039999999999999,0.0,0.0,32.780000000000001],
 "total":67.219999999999999,"min":0.0},
-"urbanrural":
-{"urban":18.899999999999999,"rural":81.099999999999994},
+"urbanrural":[18.899999999999999,81.099999999999994],
 "population":
 {"all":
 {"after":32608,"change":9.4000000000000004,"before":29806}},
@@ -634,8 +578,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":47.640000000000001,"percents":[1.3999999999999999,47.640000000000001,4.5700000000000003,0.0,0.0,46.390000000000001],
 "total":53.609999999999999,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":20309,"change":3.3999999999999999,"before":19635}},
@@ -645,8 +588,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":37.390000000000001,"percents":[0.81000000000000005,37.390000000000001,13.300000000000001,0.0,0.0,48.5],
 "total":51.5,"min":0.0},
-"urbanrural":
-{"urban":22.399999999999999,"rural":77.599999999999994},
+"urbanrural":[22.399999999999999,77.599999999999994],
 "population":
 {"all":
 {"after":23598,"change":-7.5999999999999996,"before":25546}},
@@ -656,8 +598,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":18.48,"percents":[8.5299999999999994,18.48,17.359999999999999,1.22,1.6200000000000001,52.790000000000006],
 "total":47.209999999999994,"min":1.22},
-"urbanrural":
-{"urban":96.200000000000003,"rural":3.7999999999999998},
+"urbanrural":[96.200000000000003,3.7999999999999998],
 "population":
 {"all":
 {"after":867067,"change":24.699999999999999,"before":695370}},
@@ -667,8 +608,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":63.219999999999999,"percents":[1.26,63.219999999999999,6.4400000000000004,0.0,0.0,29.079999999999998],
 "total":70.920000000000002,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":15786,"change":0.59999999999999998,"before":15687}},
@@ -678,8 +618,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":27.989999999999998,"percents":[1.3700000000000001,27.989999999999998,15.76,0.0,0.0,54.880000000000003],
 "total":45.119999999999997,"min":0.0},
-"urbanrural":
-{"urban":12.5,"rural":87.5},
+"urbanrural":[12.5,87.5],
 "population":
 {"all":
 {"after":27451,"change":2.2999999999999998,"before":26827}},
@@ -689,8 +628,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":19.170000000000002,"percents":[5.2300000000000004,15.91,19.170000000000002,0.0,0.0,59.689999999999998],
 "total":40.310000000000002,"min":0.0},
-"urbanrural":
-{"urban":41.299999999999997,"rural":58.700000000000003},
+"urbanrural":[41.299999999999997,58.700000000000003],
 "population":
 {"all":
 {"after":84435,"change":12.9,"before":74768}},
@@ -700,8 +638,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":31.620000000000001,"percents":[1.9199999999999999,31.620000000000001,11.289999999999999,0.0,0.0,55.170000000000002],
 "total":44.829999999999998,"min":0.0},
-"urbanrural":
-{"urban":51.5,"rural":48.5},
+"urbanrural":[51.5,48.5],
 "population":
 {"all":
 {"after":92949,"change":6.4000000000000004,"before":87385}},
@@ -711,8 +648,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.690000000000001,"percents":[8.0399999999999991,21.690000000000001,15.18,0.75,0.0076540640000000004,54.332345936000003],
 "total":45.667654063999997,"min":0.0076540640000000004},
-"urbanrural":
-{"urban":95.400000000000006,"rural":4.5999999999999996},
+"urbanrural":[95.400000000000006,4.5999999999999996],
 "population":
 {"all":
 {"after":190432,"change":18.800000000000001,"before":160327}},
@@ -722,8 +658,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.27,"percents":[0.0,20.27,11.08,0.0,0.0,68.650000000000006],
 "total":31.350000000000001,"min":0.0},
-"urbanrural":
-{"urban":9.8000000000000007,"rural":90.200000000000003},
+"urbanrural":[9.8000000000000007,90.200000000000003],
 "population":
 {"all":
 {"after":20830,"change":-5.7000000000000002,"before":22086}},
@@ -733,8 +668,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":14.56,"percents":[4.29,14.56,6.0999999999999996,0.0,0.0,75.049999999999997],
 "total":24.950000000000003,"min":0.0},
-"urbanrural":
-{"urban":71.200000000000003,"rural":28.800000000000001},
+"urbanrural":[71.200000000000003,28.800000000000001],
 "population":
 {"all":
 {"after":162745,"change":8.1999999999999993,"before":150355}},
@@ -744,8 +678,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":14.17,"percents":[5.8399999999999999,9.8900000000000006,14.17,0.0,0.00084583,70.099154170000006],
 "total":29.900845829999998,"min":0.0},
-"urbanrural":
-{"urban":68.0,"rural":32.0},
+"urbanrural":[68.0,32.0],
 "population":
 {"all":
 {"after":124313,"change":7.5999999999999996,"before":115531}},
@@ -755,8 +688,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":19.66,"percents":[0.0,15.85,19.66,0.0,0.0,64.490000000000009],
 "total":35.509999999999998,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":12577,"change":-2.7999999999999998,"before":12934}},
@@ -766,8 +698,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":16.039999999999999,"percents":[3.5800000000000001,16.039999999999999,11.06,0.0,0.0,69.319999999999993],
 "total":30.68,"min":0.0},
-"urbanrural":
-{"urban":54.899999999999999,"rural":45.100000000000001},
+"urbanrural":[54.899999999999999,45.100000000000001],
 "population":
 {"all":
 {"after":40543,"change":16.199999999999999,"before":34897}},
@@ -777,8 +708,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.609999999999999,"percents":[2.2400000000000002,20.609999999999999,9.6300000000000008,0.0,0.0,67.519999999999996],
 "total":32.480000000000004,"min":0.0},
-"urbanrural":
-{"urban":7.9000000000000004,"rural":92.099999999999994},
+"urbanrural":[7.9000000000000004,92.099999999999994],
 "population":
 {"all":
 {"after":49865,"change":21.399999999999999,"before":41082}},
@@ -788,8 +718,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.359999999999999,"percents":[0.0,19.649999999999999,21.359999999999999,0.0,0.0,58.990000000000002],
 "total":41.009999999999998,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":12498,"change":9.9000000000000004,"before":11368}},
@@ -799,8 +728,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":30.620000000000001,"percents":[1.03,30.620000000000001,12.48,0.0,0.0,55.869999999999997],
 "total":44.130000000000003,"min":0.0},
-"urbanrural":
-{"urban":26.600000000000001,"rural":73.400000000000006},
+"urbanrural":[26.600000000000001,73.400000000000006],
 "population":
 {"all":
 {"after":37356,"change":4.9000000000000004,"before":35623}},
@@ -810,8 +738,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":15.23,"percents":[2.9399999999999999,15.23,12.25,0.17999999999999999,0.0040209870000000002,69.395979013000002],
 "total":30.604020987000002,"min":0.0040209870000000002},
-"urbanrural":
-{"urban":65.400000000000006,"rural":34.600000000000001},
+"urbanrural":[65.400000000000006,34.600000000000001],
 "population":
 {"all":
 {"after":152068,"change":13.699999999999999,"before":133719}},
@@ -821,8 +748,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":42.100000000000001,"percents":[6.6299999999999999,42.100000000000001,14.359999999999999,0.0,0.0,36.909999999999997],
 "total":63.090000000000003,"min":0.0},
-"urbanrural":
-{"urban":9.3000000000000007,"rural":90.700000000000003},
+"urbanrural":[9.3000000000000007,90.700000000000003],
 "population":
 {"all":
 {"after":19036,"change":3.8999999999999999,"before":18324}},
@@ -832,8 +758,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":20.02,"percents":[1.1899999999999999,20.02,15.15,0.0,0.0,63.640000000000001],
 "total":36.359999999999999,"min":0.0},
-"urbanrural":
-{"urban":39.700000000000003,"rural":60.299999999999997},
+"urbanrural":[39.700000000000003,60.299999999999997],
 "population":
 {"all":
 {"after":140145,"change":7.4000000000000004,"before":130471}},
@@ -843,8 +768,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":29.0,"percents":[0.83999999999999997,29.0,16.559999999999999,0.0,0.0,53.600000000000001],
 "total":46.399999999999999,"min":0.0},
-"urbanrural":
-{"urban":54.200000000000003,"rural":45.799999999999997},
+"urbanrural":[54.200000000000003,45.799999999999997],
 "population":
 {"all":
 {"after":45985,"change":-1.2,"before":46557}},
@@ -854,8 +778,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":29.989999999999998,"percents":[1.6899999999999999,29.989999999999998,9.7400000000000002,0.0,0.0,58.579999999999998],
 "total":41.420000000000002,"min":0.0},
-"urbanrural":
-{"urban":34.5,"rural":65.5},
+"urbanrural":[34.5,65.5],
 "population":
 {"all":
 {"after":128149,"change":4.0,"before":123241}},
@@ -865,8 +788,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":23.5,"percents":[1.24,23.5,13.800000000000001,0.0,0.0,61.460000000000001],
 "total":38.539999999999999,"min":0.0},
-"urbanrural":
-{"urban":40.700000000000003,"rural":59.299999999999997},
+"urbanrural":[40.700000000000003,59.299999999999997],
 "population":
 {"all":
 {"after":92421,"change":0.5,"before":91928}},
@@ -876,8 +798,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":25.010000000000002,"percents":[2.1899999999999999,21.170000000000002,25.010000000000002,0.0,0.0,51.629999999999995],
 "total":48.370000000000005,"min":0.0},
-"urbanrural":
-{"urban":58.799999999999997,"rural":41.200000000000003},
+"urbanrural":[58.799999999999997,41.200000000000003],
 "population":
 {"all":
 {"after":137383,"change":5.4000000000000004,"before":130340}},
@@ -887,8 +808,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":57.890000000000001,"percents":[0.90000000000000002,57.890000000000001,10.83,0.0,0.0,30.379999999999995],
 "total":69.620000000000005,"min":0.0},
-"urbanrural":
-{"urban":37.0,"rural":63.0},
+"urbanrural":[37.0,63.0],
 "population":
 {"all":
 {"after":63012,"change":0.20000000000000001,"before":62901}},
@@ -898,8 +818,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":29.91,"percents":[7.3200000000000003,29.91,8.7200000000000006,0.0,0.0,54.049999999999997],
 "total":45.950000000000003,"min":0.0},
-"urbanrural":
-{"urban":14.800000000000001,"rural":85.200000000000003},
+"urbanrural":[14.800000000000001,85.200000000000003],
 "population":
 {"all":
 {"after":63641,"change":5.7999999999999998,"before":60161}},
@@ -909,8 +828,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":18.559999999999999,"percents":[1.3600000000000001,18.559999999999999,16.949999999999999,0.0,0.0,63.130000000000003],
 "total":36.869999999999997,"min":0.0},
-"urbanrural":
-{"urban":47.200000000000003,"rural":52.799999999999997},
+"urbanrural":[47.200000000000003,52.799999999999997],
 "population":
 {"all":
 {"after":36364,"change":1.0,"before":35998}},
@@ -920,8 +838,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":42.210000000000001,"percents":[1.3,42.210000000000001,18.399999999999999,0.0,0.0,38.090000000000003],
 "total":61.909999999999997,"min":0.0},
-"urbanrural":
-{"urban":32.299999999999997,"rural":67.700000000000003},
+"urbanrural":[32.299999999999997,67.700000000000003],
 "population":
 {"all":
 {"after":59195,"change":1.8999999999999999,"before":58100}},
@@ -931,8 +848,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":25.75,"percents":[1.1899999999999999,25.75,9.3000000000000007,0.0,0.0,63.759999999999998],
 "total":36.240000000000002,"min":0.0},
-"urbanrural":
-{"urban":20.100000000000001,"rural":79.900000000000006},
+"urbanrural":[20.100000000000001,79.900000000000006],
 "population":
 {"all":
 {"after":46072,"change":3.0,"before":44711}},
@@ -942,8 +858,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":37.68,"percents":[1.3300000000000001,37.68,11.01,0.0,0.0,49.980000000000004],
 "total":50.019999999999996,"min":0.0},
-"urbanrural":
-{"urban":30.199999999999999,"rural":69.799999999999997},
+"urbanrural":[30.199999999999999,69.799999999999997],
 "population":
 {"all":
 {"after":72380,"change":1.6000000000000001,"before":71209}},
@@ -953,8 +868,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":32.5,"percents":[1.74,32.5,3.3599999999999999,0.0,0.0,62.399999999999999],
 "total":37.600000000000001,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":13643,"change":5.2000000000000002,"before":12973}},
@@ -964,8 +878,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":45.0,"percents":[5.5599999999999996,45.0,9.1500000000000004,0.0,0.0,40.289999999999999],
 "total":59.710000000000001,"min":0.0},
-"urbanrural":
-{"urban":37.100000000000001,"rural":62.899999999999999},
+"urbanrural":[37.100000000000001,62.899999999999999],
 "population":
 {"all":
 {"after":29984,"change":2.2000000000000002,"before":29334}},
@@ -975,8 +888,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":31.77,"percents":[0.22,31.77,11.380000000000001,0.0,0.0,56.630000000000003],
 "total":43.369999999999997,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":4121,"change":-0.69999999999999996,"before":4149}},
@@ -986,8 +898,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":29.699999999999999,"percents":[4.6500000000000004,29.699999999999999,13.279999999999999,0.0,0.0,52.369999999999997],
 "total":47.630000000000003,"min":0.0},
-"urbanrural":
-{"urban":50.200000000000003,"rural":49.799999999999997},
+"urbanrural":[50.200000000000003,49.799999999999997],
 "population":
 {"all":
 {"after":184675,"change":49.200000000000003,"before":123772}},
@@ -997,8 +908,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":26.489999999999998,"percents":[1.8500000000000001,26.489999999999998,17.059999999999999,0.0,0.0,54.600000000000001],
 "total":45.399999999999999,"min":0.0},
-"urbanrural":
-{"urban":49.200000000000003,"rural":50.799999999999997},
+"urbanrural":[49.200000000000003,50.799999999999997],
 "population":
 {"all":
 {"after":42992,"change":0.10000000000000001,"before":42954}},
@@ -1008,8 +918,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":17.5,"percents":[9.4900000000000002,17.5,14.300000000000001,0.95999999999999996,0.0079780709999999998,57.742021928999996],
 "total":42.257978071000004,"min":0.0079780709999999998},
-"urbanrural":
-{"urban":88.099999999999994,"rural":11.9},
+"urbanrural":[88.099999999999994,11.9],
 "population":
 {"all":
 {"after":832970,"change":32.700000000000003,"before":627846}},
@@ -1019,8 +928,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":24.449999999999999,"percents":[0.28999999999999998,24.449999999999999,14.69,0.0,0.0,60.57],
 "total":39.43,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":19410,"change":-2.7999999999999998,"before":19972}},
@@ -1030,8 +938,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":38.020000000000003,"percents":[0.79000000000000004,38.020000000000003,11.890000000000001,0.0,0.0,49.299999999999997],
 "total":50.700000000000003,"min":0.0},
-"urbanrural":
-{"urban":34.5,"rural":65.5},
+"urbanrural":[34.5,65.5],
 "population":
 {"all":
 {"after":12915,"change":-5.9000000000000004,"before":13723}},
@@ -1041,8 +948,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":31.23,"percents":[2.5499999999999998,31.23,12.69,0.0,0.059999999999999998,53.469999999999999],
 "total":46.530000000000001,"min":0.0},
-"urbanrural":
-{"urban":40.0,"rural":60.0},
+"urbanrural":[40.0,60.0],
 "population":
 {"all":
 {"after":44541,"change":4.2999999999999998,"before":42693}},
@@ -1052,8 +958,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":18.940000000000001,"percents":[2.1299999999999999,18.940000000000001,14.24,0.070000000000000007,0.0025412740000000001,64.617458725999995],
 "total":35.382541274000005,"min":0.0025412740000000001},
-"urbanrural":
-{"urban":55.200000000000003,"rural":44.799999999999997},
+"urbanrural":[55.200000000000003,44.799999999999997],
 "population":
 {"all":
 {"after":113590,"change":0.20000000000000001,"before":113329}},
@@ -1063,8 +968,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":50.009999999999998,"percents":[0.92000000000000004,50.009999999999998,7.0199999999999996,0.0,0.0,42.049999999999997],
 "total":57.950000000000003,"min":0.0},
-"urbanrural":
-{"urban":26.300000000000001,"rural":73.700000000000003},
+"urbanrural":[26.300000000000001,73.700000000000003],
 "population":
 {"all":
 {"after":66844,"change":1.8,"before":65636}},
@@ -1074,8 +978,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":21.77,"percents":[1.6200000000000001,21.77,14.460000000000001,0.0,0.0,62.149999999999999],
 "total":37.850000000000001,"min":0.0},
-"urbanrural":
-{"urban":63.100000000000001,"rural":36.899999999999999},
+"urbanrural":[63.100000000000001,36.899999999999999],
 "population":
 {"all":
 {"after":76754,"change":4.0,"before":73811}},
@@ -1085,8 +988,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":32.140000000000001,"percents":[0.79000000000000004,32.140000000000001,14.140000000000001,0.0,0.0,52.93],
 "total":47.07,"min":0.0},
-"urbanrural":
-{"urban":13.9,"rural":86.099999999999994},
+"urbanrural":[13.9,86.099999999999994],
 "population":
 {"all":
 {"after":37797,"change":4.0,"before":36351}},
@@ -1096,8 +998,7 @@ GoogleElectionMap.Demographics({"status":"ok","state":"nc","labels":
 "religion":
 {"max":37.859999999999999,"percents":[1.25,37.859999999999999,8.9900000000000002,0.0,0.0,51.899999999999999],
 "total":48.100000000000001,"min":0.0},
-"urbanrural":
-{"urban":0.0,"rural":100.0},
+"urbanrural":[0.0,100.0],
 "population":
 {"all":
 {"after":18456,"change":3.7999999999999998,"before":17774}},

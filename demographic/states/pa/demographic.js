@@ -11,8 +11,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Adams","ethnic":[97390,1890,758,807],
 "gub2002":[59.600000000000001,40.399999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":12429,"counts":[4733,8223,11158,12429,10259,6618,5793],
@@ -37,8 +35,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Allegheny","ethnic":[1016452,162517,28035,13379],
 "gub2002":[54.200000000000003,45.799999999999997],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":177255,"counts":[87570,154073,153193,177255,136546,85579,119456],
@@ -63,8 +59,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Armstrong","ethnic":[68809,699,123,372],
 "gub2002":[66.0,34.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":9298,"counts":[3066,6347,7509,9298,7612,5002,5789],
@@ -89,8 +83,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Beaver","ethnic":[161873,10968,641,1994],
 "gub2002":[60.399999999999999,39.600000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":24161,"counts":[9296,16266,18568,24161,18747,12812,14426],
@@ -115,8 +107,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Bedford","ethnic":[49193,215,168,267],
 "gub2002":[71.299999999999997,28.699999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":6791,"counts":[2421,4772,5980,6791,5530,4240,3951],
@@ -141,8 +131,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Berks","ethnic":[370848,19738,5094,4182],
 "gub2002":[35.600000000000001,64.400000000000006],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":51080,"counts":[21784,38811,47420,51080,38615,23188,23077],
@@ -167,8 +155,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Blair","ethnic":[122896,1833,629,968],
 "gub2002":[60.0,40.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":16194,"counts":[6192,12817,14545,16194,13601,8634,10068],
@@ -193,8 +179,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Bradford","ethnic":[61223,288,352,397],
 "gub2002":[78.299999999999997,21.699999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":8052,"counts":[2805,5528,6884,8052,7042,4846,4461],
@@ -219,8 +203,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Bucks","ethnic":[573109,22369,21068,5435],
 "gub2002":[18.300000000000001,81.700000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":97337,"counts":[36199,62698,82140,97337,71260,40418,37910],
@@ -245,8 +227,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Butler","ethnic":[178256,1838,1486,1055],
 "gub2002":[61.299999999999997,38.700000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":25342,"counts":[9494,17218,22770,25342,18905,11109,11318],
@@ -271,8 +251,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Cambria","ethnic":[140063,4796,805,1101],
 "gub2002":[67.200000000000003,32.799999999999997],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":17867,"counts":[6883,12301,14196,17867,15637,10232,13016],
@@ -297,8 +275,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Cameron","ethnic":[5401,36,9,29],
 "gub2002":[69.400000000000006,30.600000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":751,"counts":[294,415,536,751,658,474,585],
@@ -323,8 +299,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Carbon","ethnic":[60973,787,275,410],
 "gub2002":[60.299999999999997,39.700000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":7861,"counts":[2629,5324,7025,7861,6549,4443,4394],
@@ -349,8 +323,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Centre","ethnic":[128181,4280,6679,1423],
 "gub2002":[47.5,52.5],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":17793,"counts":[16605,17793,13705,14408,11304,7224,6369],
@@ -375,8 +347,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Chester","ethnic":[429906,30353,16304,4585],
 "gub2002":[17.399999999999999,82.599999999999994],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":69257,"counts":[28534,45230,61657,69257,50086,26890,24485],
@@ -401,8 +371,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Clarion","ethnic":[39542,395,175,214],
 "gub2002":[64.900000000000006,35.100000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":4642,"counts":[2277,3395,3790,4642,3972,2969,2578],
@@ -427,8 +395,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Clearfield","ethnic":[80075,1570,294,391],
 "gub2002":[70.900000000000006,29.100000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":10345,"counts":[3663,7192,9172,10345,8478,5947,5913],
@@ -453,8 +419,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Clinton","ethnic":[36394,291,241,247],
 "gub2002":[55.799999999999997,44.200000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":4048,"counts":[1863,3361,3555,4048,3443,2462,2480],
@@ -479,8 +443,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Columbia","ethnic":[63238,693,492,453],
 "gub2002":[61.799999999999997,38.200000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":7716,"counts":[5797,7644,7648,7716,6706,4271,4810],
@@ -505,8 +467,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Crawford","ethnic":[86478,1648,317,725],
 "gub2002":[68.599999999999994,31.399999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":11964,"counts":[4932,9627,10594,11964,10436,6630,6569],
@@ -531,8 +491,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Cumberland","ethnic":[211275,6863,5275,2313],
 "gub2002":[54.799999999999997,45.200000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":28555,"counts":[13073,22181,25329,28555,24338,14648,15126],
@@ -557,8 +515,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Dauphin","ethnic":[196851,45643,6595,4435],
 "gub2002":[60.799999999999997,39.200000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":38038,"counts":[15266,33395,35865,38038,29064,15690,16293],
@@ -583,8 +539,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Delaware","ethnic":[423216,102060,24026,5841],
 "gub2002":[13.800000000000001,86.200000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":80126,"counts":[39256,63065,69433,80126,57561,33153,40647],
@@ -609,8 +563,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Elk","ethnic":[32788,82,154,98],
 "gub2002":[73.099999999999994,26.899999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":4270,"counts":[1890,2463,3379,4270,3277,2403,2606],
@@ -635,8 +587,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Erie","ethnic":[254917,18557,2314,3439],
 "gub2002":[65.799999999999997,34.200000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":35715,"counts":[17634,28801,30895,35715,28327,16594,17987],
@@ -661,8 +611,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Fayette","ethnic":[137841,5997,430,1268],
 "gub2002":[73.900000000000006,26.100000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":18128,"counts":[5714,12932,16180,18128,15199,9801,11616],
@@ -687,8 +635,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Forest","ethnic":[5475,961,19,27],
 "gub2002":[65.5,34.5],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":667,"counts":[237,303,486,597,667,577,419],
@@ -713,8 +659,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Franklin","ethnic":[133262,3963,1160,1302],
 "gub2002":[71.0,29.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":16835,"counts":[5756,13155,16146,16835,14491,9804,9433],
@@ -739,8 +683,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Fulton","ethnic":[14502,117,22,108],
 "gub2002":[78.400000000000006,21.600000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":1784,"counts":[714,1497,1784,1782,1662,1194,986],
@@ -765,8 +707,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Greene","ethnic":[38172,1812,125,251],
 "gub2002":[68.900000000000006,31.100000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":5197,"counts":[1737,3861,4642,5197,4588,2588,2757],
@@ -791,8 +731,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Huntingdon","ethnic":[42701,2556,151,307],
 "gub2002":[62.299999999999997,37.700000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":5785,"counts":[1900,4382,5750,5785,5120,3272,3338],
@@ -817,8 +755,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Indiana","ethnic":[85160,1559,891,525],
 "gub2002":[69.799999999999997,30.199999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":10171,"counts":[5542,9265,8726,10171,8701,5637,5693],
@@ -843,8 +779,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Jefferson","ethnic":[45137,102,160,232],
 "gub2002":[75.599999999999994,24.399999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":6087,"counts":[2429,4206,5122,6087,4720,3379,3697],
@@ -869,8 +803,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Juniata","ethnic":[23115,134,98,84],
 "gub2002":[72.400000000000006,27.600000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":2878,"counts":[1054,1912,2627,2878,2378,1675,1537],
@@ -895,8 +827,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Lackawanna","ethnic":[201740,4094,2074,1535],
 "gub2002":[84.299999999999997,15.699999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":28990,"counts":[13693,23306,26387,28990,24267,15688,19212],
@@ -921,8 +851,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Lancaster","ethnic":[462490,17486,8301,5109],
 "gub2002":[40.299999999999997,59.700000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":63304,"counts":[27951,52467,57674,63304,48159,29427,32216],
@@ -947,8 +875,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Lawrence","ethnic":[86669,3781,351,888],
 "gub2002":[63.399999999999999,36.600000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":12128,"counts":[4492,8935,10098,12128,9973,6757,8939],
@@ -973,8 +899,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Lebanon","ethnic":[121807,2552,1261,962],
 "gub2002":[58.200000000000003,41.799999999999997],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":15558,"counts":[6032,11759,14404,15558,13040,8622,8543],
@@ -999,8 +923,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Lehigh","ethnic":[302612,18130,9702,4047],
 "gub2002":[31.399999999999999,68.599999999999994],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":43601,"counts":[18748,35632,39860,43601,32861,19607,20273],
@@ -1025,8 +947,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Luzerne","ethnic":[300143,7927,2508,2007],
 "gub2002":[70.0,30.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":35049,"counts":[15009,24193,30733,35049,30709,20334,23243],
@@ -1051,8 +971,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Lycoming","ethnic":[110374,5279,588,1096],
 "gub2002":[69.900000000000006,30.100000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":14428,"counts":[5510,10292,11691,14428,11936,7752,8211],
@@ -1077,8 +995,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"McKean","ethnic":[42450,969,210,249],
 "gub2002":[76.700000000000003,23.300000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":5493,"counts":[1929,3613,4632,5493,4526,3087,3404],
@@ -1103,8 +1019,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Mercer","ethnic":[110093,6455,662,1177],
 "gub2002":[65.0,35.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":15772,"counts":[6635,11753,13297,15772,12926,8695,10007],
@@ -1129,8 +1043,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Mifflin","ethnic":[45348,272,156,233],
 "gub2002":[64.700000000000003,35.299999999999997],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":4868,"counts":[1637,3484,4682,4868,4341,3091,2928],
@@ -1155,8 +1067,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Monroe","ethnic":[139975,18956,3609,2634],
 "gub2002":[56.299999999999997,43.700000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":24355,"counts":[9059,15700,22009,24355,16952,10108,8039],
@@ -1181,8 +1091,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Montgomery","ethnic":[660464,64995,39818,8760],
 "gub2002":[11.6,88.400000000000006],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":116838,"counts":[46108,90588,112481,116838,85600,50167,58053],
@@ -1207,8 +1115,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Montour","ethnic":[17248,265,288,114],
 "gub2002":[74.0,26.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":2571,"counts":[819,1691,2156,2571,1956,1337,1677],
@@ -1233,8 +1139,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Northampton","ethnic":[269110,12249,6411,2836],
 "gub2002":[34.899999999999999,65.099999999999994],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":41052,"counts":[16903,30836,38122,41052,31090,18301,20467],
@@ -1259,8 +1163,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Northumberland","ethnic":[88940,1782,229,582],
 "gub2002":[71.099999999999994,28.899999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":10448,"counts":[3485,7253,8696,10448,9217,6323,7526],
@@ -1285,8 +1187,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Perry","ethnic":[44356,313,107,247],
 "gub2002":[68.200000000000003,31.800000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":5878,"counts":[2444,4065,5235,5878,4917,2754,2067],
@@ -1311,8 +1211,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Philadelphia","ethnic":[681470,662714,78884,18410],
 "gub2002":[21.5,78.5],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":225547,"counts":[125725,225547,191339,185105,134347,81535,87156],
@@ -1337,8 +1235,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Pike","ethnic":[53797,3124,578,557],
 "gub2002":[65.5,34.5],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":9714,"counts":[2817,5044,8635,9714,7393,5381,4682],
@@ -1363,8 +1259,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Potter","ethnic":[17167,136,97,121],
 "gub2002":[80.200000000000003,19.800000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":2278,"counts":[905,1469,1792,2278,2072,1471,1275],
@@ -1389,8 +1283,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Schuylkill","ethnic":[141953,3777,817,699],
 "gub2002":[62.799999999999997,37.200000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":18195,"counts":[6357,12979,16484,18195,15705,10398,12370],
@@ -1415,8 +1307,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Snyder","ethnic":[37357,380,247,217],
 "gub2002":[70.799999999999997,29.199999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":4307,"counts":[1818,3081,3856,4307,3502,2445,2192],
@@ -1441,8 +1331,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Somerset","ethnic":[76117,1808,251,253],
 "gub2002":[69.599999999999994,30.399999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":10660,"counts":[4155,7418,8895,10660,8884,5963,6931],
@@ -1467,8 +1355,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Sullivan","ethnic":[5990,180,12,43],
 "gub2002":[70.400000000000006,29.600000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":955,"counts":[273,476,659,955,844,683,650],
@@ -1493,8 +1379,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Susquehanna","ethnic":[41279,160,122,240],
 "gub2002":[80.5,19.5],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":6027,"counts":[2009,3690,4647,6027,5122,3618,3111],
@@ -1519,8 +1403,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Tioga","ethnic":[40245,338,206,246],
 "gub2002":[80.200000000000003,19.800000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":5308,"counts":[1851,3575,4405,5308,4771,3614,3006],
@@ -1545,8 +1427,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Union","ethnic":[38872,3361,612,450],
 "gub2002":[58.299999999999997,41.700000000000003],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":4367,"counts":[2901,3709,3941,4367,3642,2449,2537],
@@ -1571,8 +1451,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Venango","ethnic":[54073,694,164,425],
 "gub2002":[69.099999999999994,30.899999999999999],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":7232,"counts":[2839,4809,5299,7232,6119,3926,3871],
@@ -1597,8 +1475,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Warren","ethnic":[41146,118,161,217],
 "gub2002":[73.700000000000003,26.300000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":5802,"counts":[2118,3702,4733,5802,5012,3367,3207],
@@ -1623,8 +1499,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Washington","ethnic":[196089,7064,1196,1827],
 "gub2002":[59.399999999999999,40.600000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":30760,"counts":[9878,20253,26817,30760,25000,15600,19051],
@@ -1649,8 +1523,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Wayne","ethnic":[49108,1136,305,304],
 "gub2002":[77.0,23.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":6265,"counts":[2390,3677,5006,6265,5885,4276,3467],
@@ -1675,8 +1547,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Westmoreland","ethnic":[352150,8645,2514,2682],
 "gub2002":[59.0,41.0],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":51056,"counts":[18082,32209,41798,51056,42113,27093,30108],
@@ -1701,8 +1571,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"Wyoming","ethnic":[27559,192,108,180],
 "gub2002":[71.900000000000006,28.100000000000001],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":4145,"counts":[1521,2845,3701,4145,3630,2155,1912],
@@ -1727,8 +1595,6 @@ GoogleElectionMap.Demographics({"status":"ok","state":"pa","labels":
 {},
 "name":"York","ethnic":[387233,19336,4593,4166],
 "gub2002":[60.200000000000003,39.799999999999997],
-"occupation":
-{},
 "ages":
 {"all":
 {"max":61339,"counts":[20902,45735,60278,61339,46053,26542,24788],

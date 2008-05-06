@@ -1,17 +1,18 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":14839971,"name":"clinton","delegates":1423},
-{"votes":14700988,"name":"obama","delegates":1576},
+{"votes":14879930,"name":"clinton","delegates":1423},
+{"votes":14730155,"name":"obama","delegates":1576},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
 {"votes":102554,"name":"kucinich"},
 {"votes":81165,"name":"biden"},
 {"votes":33308,"name":"dodd"},
-{"votes":21748,"name":"gravel"}],
+{"votes":21767,"name":"gravel"},
+{"votes":61,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":31067316,"locals":
+"state":"US","party":"dem","total":31136522,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -101,10 +102,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":26,"date":"02-05","type":"caucus"},
 "Indiana":
 {"votes":[
-{"votes":116587,"name":"clinton","delegates":49},
-{"votes":87797,"name":"obama","delegates":44}],
+{"votes":155223,"name":"clinton","delegates":49},
+{"votes":116094,"name":"obama","delegates":44}],
 "name":"Indiana","precincts":
-{"total":5230,"reporting":951},
+{"total":5230,"reporting":1261},
 "delegates":72,"date":"05-06"},
 "Maryland":
 {"votes":[
@@ -476,9 +477,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":363,"name":"uncommitted-d"}],
 "delegates":78,"date":"02-09","type":"caucus"},
 "North Carolina":
-{"votes":[],
+{"votes":[
+{"votes":1323,"name":"clinton","delegates":42},
+{"votes":870,"name":"obama","delegates":50},
+{"votes":61,"name":"nopreference-d"},
+{"votes":19,"name":"gravel"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":0},
+{"total":2817,"reporting":1},
 "delegates":115,"date":"05-06"},
 "District of Columbia":
 {"votes":[

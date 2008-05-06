@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":14723384,"name":"clinton","delegates":1330},
+{"votes":14723384,"name":"clinton","delegates":1332},
 {"votes":14613191,"name":"obama","delegates":1482},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
@@ -348,7 +348,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":13,"date":"02-05","type":"caucus"},
 "Pennsylvania":
 {"votes":[
-{"votes":1258245,"name":"clinton","delegates":83},
+{"votes":1258245,"name":"clinton","delegates":85},
 {"votes":1042297,"name":"obama","delegates":73}],
 "name":"Pennsylvania","precincts":
 {"total":9268,"reporting":9218},

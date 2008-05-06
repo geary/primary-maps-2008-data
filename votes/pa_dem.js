@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":1258245,"name":"clinton","delegates":83},
+{"votes":1258245,"name":"clinton","delegates":85},
 {"votes":1042297,"name":"obama","delegates":73}],
 "name":"Pennsylvania","precincts":
 {"total":9268,"reporting":9218},

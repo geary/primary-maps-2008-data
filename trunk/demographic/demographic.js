@@ -576,8 +576,8 @@ GoogleElectionMap.Demographics([{"status":"ok","state":"in","labels":
 {"name":"Ohio","ages":
 {},
 "religion":
-{"max":20.739999999999998,"percents":[10.0,15.51,20.739999999999998,0.0,0.0,53.75],
-"total":46.25,"min":0.0},
+{"max":20.739999999999998,"percents":[0.0,15.51,20.739999999999998,0.0,0.0,63.75],
+"total":36.25,"min":0.0},
 "urbanrural":[0.0,100.0],
 "population":
 {"all":

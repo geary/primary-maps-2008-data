@@ -941,10 +941,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Person"},
 "Yancey":
 {"votes":[
+{"votes":972,"name":"mccain"},
 {"votes":309,"name":"huckabee"},
-{"votes":30,"name":"keyes"},
-{"votes":9,"name":"mccain"}],
-"total":348,"precincts":
+{"votes":125,"name":"paul"},
+{"votes":65,"name":"nopreference-r"},
+{"votes":30,"name":"keyes"}],
+"total":1501,"precincts":
 {"total":11,"reporting":11},
 "name":"Yancey"},
 "Surry":

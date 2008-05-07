@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":381139,"name":"mccain"},
-{"votes":62918,"name":"huckabee"},
+{"votes":381138,"name":"mccain"},
+{"votes":62917,"name":"huckabee"},
 {"votes":40275,"name":"paul"},
-{"votes":20313,"name":"nopreference-r"},
+{"votes":20305,"name":"nopreference-r"},
 {"votes":13589,"name":"keyes"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},
 "delegates":69,"date":"05-06"},
-"state":"NC","party":"gop","total":518234,"locals":
+"state":"NC","party":"gop","total":518224,"locals":
 {"Bladen":
 {"votes":[
 {"votes":450,"name":"mccain"},
@@ -101,12 +101,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Henderson"},
 "Cherokee":
 {"votes":[
-{"votes":1076,"name":"mccain"},
-{"votes":255,"name":"huckabee"},
+{"votes":1075,"name":"mccain"},
+{"votes":254,"name":"huckabee"},
 {"votes":81,"name":"paul"},
-{"votes":49,"name":"nopreference-r"},
+{"votes":41,"name":"nopreference-r"},
 {"votes":33,"name":"keyes"}],
-"total":1494,"precincts":
+"total":1484,"precincts":
 {"total":16,"reporting":16},
 "name":"Cherokee"},
 "Anson":

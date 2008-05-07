@@ -1,10 +1,10 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"05-06","votes":[
-{"votes":563641,"name":"clinton"},
-{"votes":523657,"name":"obama"}],
-"precincts":
+{"votes":[
+{"votes":563641,"name":"clinton","delegates":36},
+{"votes":523657,"name":"obama","delegates":30}],
+"name":"Indiana","precincts":
 {"total":5230,"reporting":4531},
-"name":"Indiana"},
+"delegates":72,"date":"05-06"},
 "state":"IN","party":"dem","total":1087298,"locals":
 {"Daviess":
 {"votes":[

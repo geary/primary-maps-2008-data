@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":890700,"name":"obama","delegates":63},
-{"votes":657943,"name":"clinton","delegates":47},
-{"votes":22720,"name":"nopreference-d"},
+{"votes":890695,"name":"obama","delegates":63},
+{"votes":657920,"name":"clinton","delegates":47},
+{"votes":22722,"name":"nopreference-d"},
 {"votes":12486,"name":"gravel"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},
 "delegates":115,"date":"05-06"},
-"state":"NC","party":"dem","total":1583849,"locals":
+"state":"NC","party":"dem","total":1583823,"locals":
 {"Bladen":
 {"votes":[
 {"votes":4270,"name":"clinton"},
@@ -91,11 +91,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Henderson"},
 "Cherokee":
 {"votes":[
-{"votes":2373,"name":"clinton"},
-{"votes":797,"name":"obama"},
-{"votes":44,"name":"nopreference-d"},
+{"votes":2350,"name":"clinton"},
+{"votes":792,"name":"obama"},
+{"votes":46,"name":"nopreference-d"},
 {"votes":36,"name":"gravel"}],
-"total":3250,"precincts":
+"total":3224,"precincts":
 {"total":16,"reporting":16},
 "name":"Cherokee"},
 "Anson":

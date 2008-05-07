@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":890705,"name":"obama","delegates":63},
+{"votes":890700,"name":"obama","delegates":63},
 {"votes":657943,"name":"clinton","delegates":47},
-{"votes":22713,"name":"nopreference-d"},
+{"votes":22720,"name":"nopreference-d"},
 {"votes":12486,"name":"gravel"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},
 "delegates":115,"date":"05-06"},
-"state":"NC","party":"dem","total":1583847,"locals":
+"state":"NC","party":"dem","total":1583849,"locals":
 {"Bladen":
 {"votes":[
 {"votes":4270,"name":"clinton"},
@@ -388,11 +388,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Beaufort"},
 "Vance":
 {"votes":[
-{"votes":6910,"name":"obama"},
+{"votes":6905,"name":"obama"},
 {"votes":4014,"name":"clinton"},
-{"votes":236,"name":"nopreference-d"},
+{"votes":243,"name":"nopreference-d"},
 {"votes":91,"name":"gravel"}],
-"total":11251,"precincts":
+"total":11253,"precincts":
 {"total":16,"reporting":16},
 "name":"Vance"},
 "Rutherford":

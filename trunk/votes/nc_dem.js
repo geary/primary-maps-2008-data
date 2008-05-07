@@ -3,11 +3,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":889513,"name":"obama","delegates":63},
 {"votes":657616,"name":"clinton","delegates":47},
 {"votes":22688,"name":"nopreference-d"},
-{"votes":12472,"name":"gravel"}],
+{"votes":12463,"name":"gravel"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},
 "delegates":115,"date":"05-06"},
-"state":"NC","party":"dem","total":1582289,"locals":
+"state":"NC","party":"dem","total":1582280,"locals":
 {"Bladen":
 {"votes":[
 {"votes":4270,"name":"clinton"},
@@ -283,8 +283,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5717,"name":"obama"},
 {"votes":5442,"name":"clinton"},
 {"votes":338,"name":"nopreference-d"},
-{"votes":210,"name":"gravel"}],
-"total":11707,"precincts":
+{"votes":201,"name":"gravel"}],
+"total":11698,"precincts":
 {"total":27,"reporting":27},
 "name":"Onslow"},
 "Granville":

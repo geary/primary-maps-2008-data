@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":53353,"name":"keyes"},
 {"votes":46574,"name":"uncommitted-r"},
 {"votes":37805,"name":"hunter"},
-{"votes":20307,"name":"nopreference-r"},
+{"votes":20313,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":998,"name":"cort"},
 {"votes":623,"name":"tran"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19095448,"locals":
+"state":"US","party":"gop","total":19095454,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -522,7 +522,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":381139,"name":"mccain"},
 {"votes":62918,"name":"huckabee"},
 {"votes":40275,"name":"paul"},
-{"votes":20307,"name":"nopreference-r"},
+{"votes":20313,"name":"nopreference-r"},
 {"votes":13589,"name":"keyes"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},

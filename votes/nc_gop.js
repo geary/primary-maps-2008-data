@@ -3,12 +3,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":381139,"name":"mccain"},
 {"votes":62918,"name":"huckabee"},
 {"votes":40275,"name":"paul"},
-{"votes":20307,"name":"nopreference-r"},
+{"votes":20313,"name":"nopreference-r"},
 {"votes":13589,"name":"keyes"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},
 "delegates":69,"date":"05-06"},
-"state":"NC","party":"gop","total":518228,"locals":
+"state":"NC","party":"gop","total":518234,"locals":
 {"Bladen":
 {"votes":[
 {"votes":450,"name":"mccain"},
@@ -433,10 +433,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":742,"name":"mccain"},
 {"votes":91,"name":"huckabee"},
-{"votes":55,"name":"nopreference-r"},
+{"votes":61,"name":"nopreference-r"},
 {"votes":43,"name":"paul"},
 {"votes":23,"name":"keyes"}],
-"total":954,"precincts":
+"total":960,"precincts":
 {"total":16,"reporting":16},
 "name":"Vance"},
 "Rutherford":

@@ -1,18 +1,18 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":15886716,"name":"obama","delegates":1482},
-{"votes":15843018,"name":"clinton","delegates":1332},
+{"votes":15908194,"name":"obama","delegates":1482},
+{"votes":15859868,"name":"clinton","delegates":1332},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
 {"votes":102554,"name":"kucinich"},
 {"votes":81165,"name":"biden"},
 {"votes":33308,"name":"dodd"},
-{"votes":32270,"name":"gravel"},
-{"votes":19331,"name":"nopreference-d"}],
+{"votes":32594,"name":"gravel"},
+{"votes":19876,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":33285944,"locals":
+"state":"US","party":"dem","total":33325141,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -478,12 +478,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":78,"date":"02-09","type":"caucus"},
 "North Carolina":
 {"date":"05-06","votes":[
-{"votes":760433,"name":"obama"},
-{"votes":565407,"name":"clinton"},
-{"votes":19331,"name":"nopreference-d"},
-{"votes":10522,"name":"gravel"}],
+{"votes":781911,"name":"obama"},
+{"votes":582257,"name":"clinton"},
+{"votes":19876,"name":"nopreference-d"},
+{"votes":10846,"name":"gravel"}],
 "precincts":
-{"total":2817,"reporting":2322},
+{"total":2817,"reporting":2413},
 "name":"North Carolina"},
 "District of Columbia":
 {"votes":[

@@ -5,7 +5,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":28686,"name":"paul"},
 {"votes":18208,"name":"romney"}],
 "name":"Indiana","precincts":
-{"total":5230,"reporting":4469},
+{"total":5230,"reporting":4470},
 "delegates":57,"date":"05-06"},
 "state":"IN","party":"gop","total":380828,"locals":
 {"Daviess":
@@ -317,7 +317,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1682,"name":"paul"},
 {"votes":1578,"name":"romney"}],
 "total":28500,"precincts":
-{"total":196,"reporting":194},
+{"total":196,"reporting":195},
 "name":"Hamilton"},
 "Kosciusko":
 {"votes":[

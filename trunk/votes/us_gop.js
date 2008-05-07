@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8523073,"name":"mccain","delegates":1111},
+{"votes":8524755,"name":"mccain","delegates":1111},
 {"votes":4358281,"name":"romney","delegates":271},
-{"votes":4105540,"name":"huckabee","delegates":265},
-{"votes":996229,"name":"paul","delegates":14},
+{"votes":4105903,"name":"huckabee","delegates":265},
+{"votes":996493,"name":"paul","delegates":14},
 {"votes":567806,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":51862,"name":"keyes"},
+{"votes":51959,"name":"keyes"},
 {"votes":46574,"name":"uncommitted-r"},
 {"votes":37805,"name":"hunter"},
-{"votes":17820,"name":"nopreference-r"},
+{"votes":17926,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":998,"name":"cort"},
 {"votes":623,"name":"tran"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19001644,"locals":
+"state":"US","party":"gop","total":19004156,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -102,7 +102,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":28686,"name":"paul"},
 {"votes":18208,"name":"romney"}],
 "name":"Indiana","precincts":
-{"total":5230,"reporting":4469},
+{"total":5230,"reporting":4470},
 "delegates":57,"date":"05-06"},
 "Maryland":
 {"votes":[
@@ -519,13 +519,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":19,"date":"02-09","type":"caucus"},
 "North Carolina":
 {"votes":[
-{"votes":334866,"name":"mccain"},
-{"votes":55311,"name":"huckabee"},
-{"votes":33212,"name":"paul"},
-{"votes":17820,"name":"nopreference-r"},
-{"votes":12098,"name":"keyes"}],
+{"votes":336548,"name":"mccain"},
+{"votes":55674,"name":"huckabee"},
+{"votes":33476,"name":"paul"},
+{"votes":17926,"name":"nopreference-r"},
+{"votes":12195,"name":"keyes"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":2406},
+{"total":2817,"reporting":2443},
 "delegates":69,"date":"05-06"},
 "District of Columbia":
 {"votes":[

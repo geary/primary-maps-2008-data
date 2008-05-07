@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":859573,"name":"obama","delegates":63},
-{"votes":640297,"name":"clinton","delegates":47},
-{"votes":22207,"name":"nopreference-d"},
-{"votes":12020,"name":"gravel"}],
+{"votes":863253,"name":"obama","delegates":63},
+{"votes":644301,"name":"clinton","delegates":47},
+{"votes":22409,"name":"nopreference-d"},
+{"votes":12119,"name":"gravel"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":2720},
+{"total":2817,"reporting":2738},
 "delegates":115,"date":"05-06"},
-"state":"NC","party":"dem","total":1534097,"locals":
+"state":"NC","party":"dem","total":1542082,"locals":
 {"Bladen":
 {"votes":[
 {"votes":4270,"name":"clinton"},
@@ -189,9 +189,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":6,"reporting":6},
 "name":"Washington"},
 "Duplin":
-{"votes":[],
-"total":0,"precincts":
-{"total":20,"reporting":0},
+{"votes":[
+{"votes":4004,"name":"clinton"},
+{"votes":3680,"name":"obama"},
+{"votes":202,"name":"nopreference-d"},
+{"votes":99,"name":"gravel"}],
+"total":7985,"precincts":
+{"total":20,"reporting":18},
 "name":"Duplin"},
 "Cabarrus":
 {"votes":[

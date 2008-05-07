@@ -843,6 +843,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":8428,"precincts":
 {"total":14,"reporting":14},
 "name":"Person"},
+"Yancey":
+{"votes":[
+{"votes":2597,"name":"clinton"},
+{"votes":1025,"name":"obama"},
+{"votes":94,"name":"nopreference-d"},
+{"votes":48,"name":"gravel"}],
+"total":3764,"precincts":
+{"total":11,"reporting":11},
+"name":"Yancey"},
 "Surry":
 {"votes":[
 {"votes":7075,"name":"clinton"},

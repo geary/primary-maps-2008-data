@@ -1,18 +1,18 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":14920579,"name":"clinton","delegates":1423},
-{"votes":14774001,"name":"obama","delegates":1576},
+{"votes":14959438,"name":"clinton","delegates":1423},
+{"votes":14817736,"name":"obama","delegates":1576},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
 {"votes":102554,"name":"kucinich"},
 {"votes":81165,"name":"biden"},
 {"votes":33308,"name":"dodd"},
-{"votes":22005,"name":"gravel"},
-{"votes":556,"name":"nopreference-d"}],
+{"votes":22153,"name":"gravel"},
+{"votes":866,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":31221750,"locals":
+"state":"US","party":"dem","total":31304802,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -102,10 +102,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":26,"date":"02-05","type":"caucus"},
 "Indiana":
 {"votes":[
-{"votes":185985,"name":"clinton","delegates":49},
-{"votes":138383,"name":"obama","delegates":44}],
+{"votes":216377,"name":"clinton","delegates":49},
+{"votes":163261,"name":"obama","delegates":44}],
 "name":"Indiana","precincts":
-{"total":5230,"reporting":1601},
+{"total":5230,"reporting":1838},
 "delegates":72,"date":"05-06"},
 "Maryland":
 {"votes":[
@@ -478,12 +478,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":78,"date":"02-09","type":"caucus"},
 "North Carolina":
 {"votes":[
-{"votes":22427,"name":"obama","delegates":50},
-{"votes":11210,"name":"clinton","delegates":42},
-{"votes":556,"name":"nopreference-d"},
-{"votes":257,"name":"gravel"}],
+{"votes":41284,"name":"obama","delegates":50},
+{"votes":19677,"name":"clinton","delegates":42},
+{"votes":866,"name":"nopreference-d"},
+{"votes":405,"name":"gravel"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":4},
+{"total":2817,"reporting":12},
 "delegates":115,"date":"05-06"},
 "District of Columbia":
 {"votes":[

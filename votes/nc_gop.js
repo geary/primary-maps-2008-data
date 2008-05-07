@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":378072,"name":"mccain"},
-{"votes":62326,"name":"huckabee"},
-{"votes":40092,"name":"paul"},
-{"votes":20098,"name":"nopreference-r"},
-{"votes":13447,"name":"keyes"}],
+{"votes":378195,"name":"mccain"},
+{"votes":62340,"name":"huckabee"},
+{"votes":40105,"name":"paul"},
+{"votes":20116,"name":"nopreference-r"},
+{"votes":13450,"name":"keyes"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":2795},
+{"total":2817,"reporting":2796},
 "delegates":69,"date":"05-06"},
-"state":"NC","party":"gop","total":514035,"locals":
+"state":"NC","party":"gop","total":514206,"locals":
 {"Bladen":
 {"votes":[
 {"votes":450,"name":"mccain"},
@@ -234,9 +234,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":275,"name":"mccain"},
 {"votes":37,"name":"huckabee"},
 {"votes":25,"name":"paul"},
-{"votes":9,"name":"keyes"},
-{"votes":6,"name":"nopreference-r"}],
-"total":352,"precincts":
+{"votes":15,"name":"nopreference-r"},
+{"votes":9,"name":"keyes"}],
+"total":361,"precincts":
 {"total":3,"reporting":3},
 "name":"Camden"},
 "New Hanover":
@@ -841,13 +841,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Cumberland"},
 "Rockingham":
 {"votes":[
-{"votes":3372,"name":"mccain"},
-{"votes":728,"name":"huckabee"},
-{"votes":221,"name":"nopreference-r"},
-{"votes":203,"name":"paul"},
-{"votes":57,"name":"keyes"}],
-"total":4581,"precincts":
-{"total":20,"reporting":19},
+{"votes":3495,"name":"mccain"},
+{"votes":742,"name":"huckabee"},
+{"votes":230,"name":"nopreference-r"},
+{"votes":216,"name":"paul"},
+{"votes":60,"name":"keyes"}],
+"total":4743,"precincts":
+{"total":20,"reporting":20},
 "name":"Rockingham"},
 "Rowan":
 {"votes":[

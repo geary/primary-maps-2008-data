@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8470770,"name":"mccain","delegates":1111},
-{"votes":4357719,"name":"romney","delegates":271},
-{"votes":4097382,"name":"huckabee","delegates":265},
-{"votes":991144,"name":"paul","delegates":14},
+{"votes":8486379,"name":"mccain","delegates":1111},
+{"votes":4357775,"name":"romney","delegates":271},
+{"votes":4099546,"name":"huckabee","delegates":265},
+{"votes":992259,"name":"paul","delegates":14},
 {"votes":567806,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":49901,"name":"keyes"},
+{"votes":50452,"name":"keyes"},
 {"votes":46574,"name":"uncommitted-r"},
 {"votes":37805,"name":"hunter"},
-{"votes":15156,"name":"nopreference-r"},
+{"votes":15922,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":998,"name":"cort"},
 {"votes":623,"name":"tran"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":18930911,"locals":
+"state":"US","party":"gop","total":18951172,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -97,12 +97,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":31,"date":"02-05"},
 "Indiana":
 {"votes":[
-{"votes":286418,"name":"mccain"},
-{"votes":37519,"name":"huckabee"},
-{"votes":27853,"name":"paul"},
-{"votes":17646,"name":"romney"}],
+{"votes":287390,"name":"mccain"},
+{"votes":37614,"name":"huckabee"},
+{"votes":27947,"name":"paul"},
+{"votes":17702,"name":"romney"}],
 "name":"Indiana","precincts":
-{"total":5230,"reporting":4351},
+{"total":5230,"reporting":4381},
 "delegates":57,"date":"05-06"},
 "Maryland":
 {"votes":[
@@ -519,13 +519,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":19,"date":"02-09","type":"caucus"},
 "North Carolina":
 {"votes":[
-{"votes":291485,"name":"mccain"},
-{"votes":48228,"name":"huckabee"},
-{"votes":28960,"name":"paul"},
-{"votes":15156,"name":"nopreference-r"},
-{"votes":10137,"name":"keyes"}],
+{"votes":306122,"name":"mccain"},
+{"votes":50297,"name":"huckabee"},
+{"votes":29981,"name":"paul"},
+{"votes":15922,"name":"nopreference-r"},
+{"votes":10688,"name":"keyes"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":2026},
+{"total":2817,"reporting":2146},
 "delegates":69,"date":"05-06"},
 "District of Columbia":
 {"votes":[

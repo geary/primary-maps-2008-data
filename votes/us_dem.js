@@ -1,18 +1,18 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":15310305,"name":"clinton","delegates":1423},
-{"votes":15279911,"name":"obama","delegates":1576},
+{"votes":15356509,"name":"clinton","delegates":1423},
+{"votes":15339872,"name":"obama","delegates":1576},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
 {"votes":102554,"name":"kucinich"},
 {"votes":81165,"name":"biden"},
 {"votes":33308,"name":"dodd"},
-{"votes":24938,"name":"gravel"},
-{"votes":5843,"name":"nopreference-d"}],
+{"votes":25052,"name":"gravel"},
+{"votes":6080,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":32125606,"locals":
+"state":"US","party":"dem","total":32232122,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -102,10 +102,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":26,"date":"02-05","type":"caucus"},
 "Indiana":
 {"votes":[
-{"votes":385798,"name":"clinton","delegates":49},
-{"votes":325781,"name":"obama","delegates":44}],
+{"votes":427842,"name":"clinton","delegates":49},
+{"votes":376691,"name":"obama","delegates":44}],
 "name":"Indiana","precincts":
-{"total":5230,"reporting":3075},
+{"total":5230,"reporting":3403},
 "delegates":72,"date":"05-06"},
 "Maryland":
 {"votes":[
@@ -478,12 +478,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":78,"date":"02-09","type":"caucus"},
 "North Carolina":
 {"votes":[
-{"votes":340939,"name":"obama","delegates":50},
-{"votes":201123,"name":"clinton","delegates":42},
-{"votes":5843,"name":"nopreference-d"},
-{"votes":3190,"name":"gravel"}],
+{"votes":349990,"name":"obama","delegates":50},
+{"votes":205283,"name":"clinton","delegates":42},
+{"votes":6080,"name":"nopreference-d"},
+{"votes":3304,"name":"gravel"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":546},
+{"total":2817,"reporting":572},
 "delegates":115,"date":"05-06"},
 "District of Columbia":
 {"votes":[

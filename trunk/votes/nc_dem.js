@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":889513,"name":"obama","delegates":63},
-{"votes":657616,"name":"clinton","delegates":47},
-{"votes":22688,"name":"nopreference-d"},
-{"votes":12463,"name":"gravel"}],
+{"votes":890705,"name":"obama","delegates":63},
+{"votes":657943,"name":"clinton","delegates":47},
+{"votes":22713,"name":"nopreference-d"},
+{"votes":12486,"name":"gravel"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},
 "delegates":115,"date":"05-06"},
-"state":"NC","party":"dem","total":1582280,"locals":
+"state":"NC","party":"dem","total":1583847,"locals":
 {"Bladen":
 {"votes":[
 {"votes":4270,"name":"clinton"},
@@ -235,11 +235,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Polk"},
 "Warren":
 {"votes":[
-{"votes":2456,"name":"obama"},
-{"votes":1300,"name":"clinton"},
-{"votes":61,"name":"nopreference-d"},
-{"votes":43,"name":"gravel"}],
-"total":3860,"precincts":
+{"votes":3648,"name":"obama"},
+{"votes":1627,"name":"clinton"},
+{"votes":86,"name":"nopreference-d"},
+{"votes":66,"name":"gravel"}],
+"total":5427,"precincts":
 {"total":14,"reporting":14},
 "name":"Warren"},
 "Watauga":

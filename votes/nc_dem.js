@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"date":"05-06","votes":[
-{"votes":838948,"name":"obama"},
-{"votes":622444,"name":"clinton"},
+{"votes":[
+{"votes":838948,"name":"obama","delegates":31},
+{"votes":622444,"name":"clinton","delegates":20},
 {"votes":21608,"name":"nopreference-d"},
 {"votes":11748,"name":"gravel"}],
-"precincts":
+"name":"North Carolina","precincts":
 {"total":2817,"reporting":2640},
-"name":"North Carolina"},
+"delegates":115,"date":"05-06"},
 "state":"NC","party":"dem","total":1494748,"locals":
 {"Bladen":
 {"votes":[

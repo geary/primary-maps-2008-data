@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8564237,"name":"mccain","delegates":1111},
+{"votes":8565356,"name":"mccain","delegates":1111},
 {"votes":4358599,"name":"romney","delegates":271},
-{"votes":4112025,"name":"huckabee","delegates":265},
-{"votes":1000048,"name":"paul","delegates":14},
+{"votes":4112180,"name":"huckabee","delegates":265},
+{"votes":1000116,"name":"paul","delegates":14},
 {"votes":567806,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":53035,"name":"keyes"},
+{"votes":53060,"name":"keyes"},
 {"votes":46574,"name":"uncommitted-r"},
 {"votes":37805,"name":"hunter"},
-{"votes":19605,"name":"nopreference-r"},
+{"votes":19657,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":998,"name":"cort"},
 {"votes":623,"name":"tran"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19056388,"locals":
+"state":"US","party":"gop","total":19057807,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -519,13 +519,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":19,"date":"02-09","type":"caucus"},
 "North Carolina":
 {"votes":[
-{"votes":370836,"name":"mccain"},
-{"votes":61198,"name":"huckabee"},
-{"votes":36412,"name":"paul"},
-{"votes":19605,"name":"nopreference-r"},
-{"votes":13271,"name":"keyes"}],
+{"votes":371955,"name":"mccain"},
+{"votes":61353,"name":"huckabee"},
+{"votes":36480,"name":"paul"},
+{"votes":19657,"name":"nopreference-r"},
+{"votes":13296,"name":"keyes"}],
 "name":"North Carolina","precincts":
-{"total":2817,"reporting":2722},
+{"total":2817,"reporting":2740},
 "delegates":69,"date":"05-06"},
 "District of Columbia":
 {"votes":[

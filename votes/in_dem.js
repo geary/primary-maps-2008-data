@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":555261,"name":"clinton"},
 {"votes":514909,"name":"obama"}],
 "precincts":
-{"total":5230,"reporting":4464},
+{"total":5230,"reporting":4465},
 "name":"Indiana"},
 "state":"IN","party":"dem","total":1070170,"locals":
 {"Daviess":
@@ -247,7 +247,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":25350,"name":"obama"},
 {"votes":16491,"name":"clinton"}],
 "total":41841,"precincts":
-{"total":196,"reporting":194},
+{"total":196,"reporting":195},
 "name":"Hamilton"},
 "Kosciusko":
 {"votes":[

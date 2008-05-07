@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":863253,"name":"obama","delegates":63},
-{"votes":644301,"name":"clinton","delegates":47},
-{"votes":22409,"name":"nopreference-d"},
+{"votes":863270,"name":"obama","delegates":63},
+{"votes":644338,"name":"clinton","delegates":47},
+{"votes":22408,"name":"nopreference-d"},
 {"votes":12119,"name":"gravel"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2738},
 "delegates":115,"date":"05-06"},
-"state":"NC","party":"dem","total":1542082,"locals":
+"state":"NC","party":"dem","total":1542135,"locals":
 {"Bladen":
 {"votes":[
 {"votes":4270,"name":"clinton"},
@@ -262,11 +262,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jackson"},
 "Transylvania":
 {"votes":[
-{"votes":3101,"name":"clinton"},
-{"votes":2639,"name":"obama"},
+{"votes":3138,"name":"clinton"},
+{"votes":2656,"name":"obama"},
 {"votes":95,"name":"nopreference-d"},
 {"votes":52,"name":"gravel"}],
-"total":5887,"precincts":
+"total":5941,"precincts":
 {"total":18,"reporting":18},
 "name":"Transylvania"},
 "Caldwell":
@@ -614,9 +614,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":3356,"name":"clinton"},
 {"votes":1090,"name":"obama"},
-{"votes":96,"name":"nopreference-d"},
+{"votes":95,"name":"nopreference-d"},
 {"votes":55,"name":"gravel"}],
-"total":4597,"precincts":
+"total":4596,"precincts":
 {"total":18,"reporting":18},
 "name":"Alexander"},
 "Lincoln":

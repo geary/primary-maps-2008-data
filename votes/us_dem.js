@@ -1,18 +1,18 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":15716754,"name":"obama","delegates":1576},
-{"votes":15706166,"name":"clinton","delegates":1423},
+{"votes":15757327,"name":"obama","delegates":1482},
+{"votes":15733749,"name":"clinton","delegates":1332},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
 {"votes":102554,"name":"kucinich"},
 {"votes":81165,"name":"biden"},
 {"votes":33308,"name":"dodd"},
-{"votes":30409,"name":"gravel"},
-{"votes":15821,"name":"nopreference-d"}],
+{"votes":30686,"name":"gravel"},
+{"votes":16300,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":32973759,"locals":
+"state":"US","party":"dem","total":33042671,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -101,12 +101,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":70,"name":"dodd"}],
 "delegates":26,"date":"02-05","type":"caucus"},
 "Indiana":
-{"votes":[
-{"votes":513881,"name":"clinton","delegates":49},
-{"votes":478077,"name":"obama","delegates":44}],
-"name":"Indiana","precincts":
-{"total":5230,"reporting":4153},
-"delegates":72,"date":"05-06"},
+{"date":"05-06","votes":[
+{"votes":522286,"name":"clinton"},
+{"votes":483899,"name":"obama"}],
+"precincts":
+{"total":5230,"reporting":4272},
+"name":"Indiana"},
 "Maryland":
 {"votes":[
 {"votes":464474,"name":"obama","delegates":42},
@@ -477,14 +477,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":363,"name":"uncommitted-d"}],
 "delegates":78,"date":"02-09","type":"caucus"},
 "North Carolina":
-{"votes":[
-{"votes":625486,"name":"obama","delegates":50},
-{"votes":468901,"name":"clinton","delegates":42},
-{"votes":15821,"name":"nopreference-d"},
-{"votes":8661,"name":"gravel"}],
-"name":"North Carolina","precincts":
-{"total":2817,"reporting":1811},
-"delegates":115,"date":"05-06"},
+{"date":"05-06","votes":[
+{"votes":660237,"name":"obama"},
+{"votes":488079,"name":"clinton"},
+{"votes":16300,"name":"nopreference-d"},
+{"votes":8938,"name":"gravel"}],
+"precincts":
+{"total":2817,"reporting":1940},
+"name":"North Carolina"},
 "District of Columbia":
 {"votes":[
 {"votes":85534,"name":"obama","delegates":12},

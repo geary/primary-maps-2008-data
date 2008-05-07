@@ -2,13 +2,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":378195,"name":"mccain"},
 {"votes":62340,"name":"huckabee"},
-{"votes":40105,"name":"paul"},
+{"votes":40033,"name":"paul"},
 {"votes":20116,"name":"nopreference-r"},
 {"votes":13450,"name":"keyes"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2796},
 "delegates":69,"date":"05-06"},
-"state":"NC","party":"gop","total":514206,"locals":
+"state":"NC","party":"gop","total":514134,"locals":
 {"Bladen":
 {"votes":[
 {"votes":450,"name":"mccain"},
@@ -343,10 +343,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":3360,"name":"mccain"},
 {"votes":771,"name":"huckabee"},
-{"votes":291,"name":"paul"},
+{"votes":219,"name":"paul"},
 {"votes":185,"name":"nopreference-r"},
 {"votes":103,"name":"keyes"}],
-"total":4710,"precincts":
+"total":4638,"precincts":
 {"total":31,"reporting":31},
 "name":"Burke"},
 "Lee":

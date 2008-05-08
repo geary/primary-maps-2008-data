@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":890695,"name":"obama","delegates":63},
-{"votes":657920,"name":"clinton","delegates":47},
+{"votes":890695,"name":"obama","delegates":64},
+{"votes":657920,"name":"clinton","delegates":49},
 {"votes":22722,"name":"nopreference-d"},
 {"votes":12486,"name":"gravel"}],
 "name":"North Carolina","precincts":

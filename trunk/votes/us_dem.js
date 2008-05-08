@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16127180,"name":"obama","delegates":1578},
-{"votes":16023038,"name":"clinton","delegates":1416},
+{"votes":16127180,"name":"obama","delegates":1579},
+{"votes":16023038,"name":"clinton","delegates":1418},
 {"votes":925967,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -478,8 +478,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":78,"date":"02-09","type":"caucus"},
 "North Carolina":
 {"votes":[
-{"votes":890695,"name":"obama","delegates":63},
-{"votes":657920,"name":"clinton","delegates":47},
+{"votes":890695,"name":"obama","delegates":64},
+{"votes":657920,"name":"clinton","delegates":49},
 {"votes":22722,"name":"nopreference-d"},
 {"votes":12486,"name":"gravel"}],
 "name":"North Carolina","precincts":

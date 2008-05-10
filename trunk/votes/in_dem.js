@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":641734,"name":"clinton","delegates":37},
-{"votes":623294,"name":"obama","delegates":33}],
+{"votes":641734,"name":"clinton","delegates":38},
+{"votes":623294,"name":"obama","delegates":34}],
 "name":"Indiana","precincts":
 {"total":5230,"reporting":5224},
 "delegates":72,"date":"05-06"},

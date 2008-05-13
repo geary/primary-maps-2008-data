@@ -430,6 +430,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Rhode Island","precincts":
 {"total":179,"reporting":176},
 "delegates":17,"date":"03-04"},
+"Nebraska":
+{"votes":[],
+"name":"Nebraska","precincts":
+{"total":1699,"reporting":0},
+"delegates":33,"date":"05-13"},
 "Missouri":
 {"votes":[
 {"votes":194304,"name":"mccain","delegates":58},

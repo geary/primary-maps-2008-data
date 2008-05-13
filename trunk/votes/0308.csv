@@ -1,0 +1,26 @@
+
+state,county,precincts,reporting,clinton,obama,other,uncommitted-d
+WY,*,23,23,3312,5378,7,63
+WY,Albany,1,1,328,969,0,11
+WY,Big Horn,1,1,42,49,0,0
+WY,Campbell,1,1,68,112,2,1
+WY,Carbon,1,1,114,103,0,0
+WY,Converse,1,1,71,48,3,0
+WY,Crook,1,1,31,31,0,0
+WY,Fremont,1,1,235,335,0,22
+WY,Goshen,1,1,108,96,0,0
+WY,Hot Springs,1,1,22,31,1,11
+WY,Johnson,1,1,38,61,0,0
+WY,Laramie,1,1,588,940,0,0
+WY,Lincoln,1,1,53,81,0,0
+WY,Natrona,1,1,461,468,1,13
+WY,Niobrara,1,1,10,10,0,0
+WY,Park,1,1,124,209,0,1
+WY,Platte,1,1,89,84,0,0
+WY,Sheridan,1,1,205,321,0,1
+WY,Sublette,1,1,27,48,0,3
+WY,Sweetwater,1,1,342,254,0,0
+WY,Teton,1,1,231,919,0,0
+WY,Uinta,1,1,45,123,0,0
+WY,Washakie,1,1,40,58,0,0
+WY,Weston,1,1,40,28,0,0

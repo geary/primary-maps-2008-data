@@ -283,6 +283,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Massachusetts","precincts":
 {"total":2167,"reporting":2167},
 "delegates":93,"date":"02-05"},
+"West Virginia":
+{"votes":[],
+"name":"West Virginia","precincts":
+{"total":1894,"reporting":0},
+"delegates":28,"date":"05-13"},
 "South Carolina":
 {"votes":[
 {"votes":295091,"name":"obama","delegates":25},

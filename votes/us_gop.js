@@ -1,17 +1,17 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8793292,"name":"mccain","delegates":1111},
-{"votes":4363920,"name":"romney","delegates":271},
-{"votes":4126374,"name":"huckabee","delegates":265},
-{"votes":1029314,"name":"paul","delegates":14},
-{"votes":570463,"name":"giuliani"},
+{"votes":8793517,"name":"mccain","delegates":1111},
+{"votes":4363925,"name":"romney","delegates":271},
+{"votes":4126408,"name":"huckabee","delegates":265},
+{"votes":1029328,"name":"paul","delegates":14},
+{"votes":570470,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":54684,"name":"keyes"},
+{"votes":54686,"name":"keyes"},
 {"votes":46574,"name":"uncommitted-r"},
 {"votes":37805,"name":"hunter"},
 {"votes":20305,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
-{"votes":1207,"name":"curry"},
+{"votes":1208,"name":"curry"},
 {"votes":998,"name":"cort"},
 {"votes":623,"name":"tran"},
 {"votes":354,"name":"brownback"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19340071,"locals":
+"state":"US","party":"gop","total":19340359,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -304,13 +304,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":40,"date":"02-05"},
 "West Virginia":
 {"votes":[
-{"votes":83396,"name":"mccain"},
-{"votes":11326,"name":"huckabee","delegates":18},
-{"votes":5564,"name":"paul"},
-{"votes":4861,"name":"romney"},
-{"votes":2657,"name":"giuliani"},
-{"votes":1331,"name":"keyes"},
-{"votes":686,"name":"curry"}],
+{"votes":83621,"name":"mccain"},
+{"votes":11360,"name":"huckabee","delegates":18},
+{"votes":5578,"name":"paul"},
+{"votes":4866,"name":"romney"},
+{"votes":2664,"name":"giuliani"},
+{"votes":1333,"name":"keyes"},
+{"votes":687,"name":"curry"}],
 "name":"West Virginia","precincts":
 {"total":1,"reporting":1},
 "delegates":18,"date":"05-13"},

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":222792,"name":"clinton","delegates":16},
-{"votes":86262,"name":"obama","delegates":7},
-{"votes":23831,"name":"edwards"}],
+{"votes":223509,"name":"clinton","delegates":16},
+{"votes":86474,"name":"obama","delegates":7},
+{"votes":24009,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":1749},
+{"total":1894,"reporting":1757},
 "delegates":28,"date":"05-13"},
-"state":"WV","party":"dem","total":332885,"locals":
+"state":"WV","party":"dem","total":333992,"locals":
 {"Summers":
 {"votes":[
 {"votes":2483,"name":"clinton"},
@@ -145,11 +145,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Greenbrier"},
 "Gilmer":
 {"votes":[
-{"votes":369,"name":"clinton"},
-{"votes":109,"name":"obama"},
-{"votes":64,"name":"edwards"}],
-"total":542,"precincts":
-{"total":12,"reporting":4},
+{"votes":1086,"name":"clinton"},
+{"votes":321,"name":"obama"},
+{"votes":242,"name":"edwards"}],
+"total":1649,"precincts":
+{"total":12,"reporting":12},
 "name":"Gilmer"},
 "Fayette":
 {"votes":[

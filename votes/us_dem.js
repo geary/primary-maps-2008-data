@@ -1,18 +1,18 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16253527,"name":"clinton","delegates":1436},
-{"votes":16224893,"name":"obama","delegates":1588},
-{"votes":947404,"name":"edwards"},
+{"votes":16255677,"name":"clinton","delegates":1436},
+{"votes":16225428,"name":"obama","delegates":1588},
+{"votes":947590,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
 {"votes":102554,"name":"kucinich"},
 {"votes":81165,"name":"biden"},
-{"votes":37941,"name":"gravel"},
+{"votes":37946,"name":"gravel"},
 {"votes":33308,"name":"dodd"},
 {"votes":22722,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":34065129,"locals":
+"state":"US","party":"dem","total":34068005,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -285,11 +285,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":93,"date":"02-05"},
 "West Virginia":
 {"votes":[
-{"votes":200754,"name":"clinton","delegates":16},
-{"votes":78876,"name":"obama","delegates":7},
-{"votes":21437,"name":"edwards"}],
+{"votes":202824,"name":"clinton","delegates":16},
+{"votes":79356,"name":"obama","delegates":7},
+{"votes":21623,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":1553},
+{"total":1894,"reporting":1573},
 "delegates":28,"date":"05-13"},
 "South Carolina":
 {"votes":[
@@ -403,9 +403,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Nebraska","precincts":
 {"total":1665,"reporting":1665},
 "votes":[
-{"votes":44963,"name":"obama","delegates":16},
-{"votes":42180,"name":"clinton","delegates":8},
-{"votes":3707,"name":"gravel"},
+{"votes":45018,"name":"obama","delegates":16},
+{"votes":42260,"name":"clinton","delegates":8},
+{"votes":3712,"name":"gravel"},
 {"votes":99,"name":"uncommitted-d"}],
 "delegates":24,"date":"02-09","type":"caucus"},
 "Missouri":

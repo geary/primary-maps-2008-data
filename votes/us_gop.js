@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8780873,"name":"mccain","delegates":1111},
-{"votes":4363491,"name":"romney","delegates":271},
-{"votes":4125185,"name":"huckabee","delegates":265},
-{"votes":1028104,"name":"paul","delegates":14},
-{"votes":570180,"name":"giuliani"},
+{"votes":8781337,"name":"mccain","delegates":1111},
+{"votes":4363494,"name":"romney","delegates":271},
+{"votes":4125208,"name":"huckabee","delegates":265},
+{"votes":1028151,"name":"paul","delegates":14},
+{"votes":570182,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":54534,"name":"keyes"},
+{"votes":54536,"name":"keyes"},
 {"votes":46574,"name":"uncommitted-r"},
 {"votes":37805,"name":"hunter"},
 {"votes":20305,"name":"nopreference-r"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19324324,"locals":
+"state":"US","party":"gop","total":19324865,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -304,12 +304,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":40,"date":"02-05"},
 "West Virginia":
 {"votes":[
-{"votes":75310,"name":"mccain"},
-{"votes":10137,"name":"huckabee","delegates":18},
-{"votes":5032,"name":"paul"},
-{"votes":4432,"name":"romney"},
-{"votes":2374,"name":"giuliani"},
-{"votes":1181,"name":"keyes"},
+{"votes":75462,"name":"mccain"},
+{"votes":10160,"name":"huckabee","delegates":18},
+{"votes":5037,"name":"paul"},
+{"votes":4435,"name":"romney"},
+{"votes":2376,"name":"giuliani"},
+{"votes":1183,"name":"keyes"},
 {"votes":619,"name":"curry"}],
 "name":"West Virginia","precincts":
 {"total":1,"reporting":1},
@@ -436,10 +436,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":17,"date":"03-04"},
 "Nebraska":
 {"votes":[
-{"votes":113196,"name":"mccain"},
-{"votes":16909,"name":"paul"}],
+{"votes":113508,"name":"mccain"},
+{"votes":16951,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":1626},
+{"total":1699,"reporting":1632},
 "delegates":33,"date":"05-13"},
 "Missouri":
 {"votes":[

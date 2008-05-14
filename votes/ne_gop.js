@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":10461,"name":"mccain"},
-{"votes":1197,"name":"paul"}],
+{"votes":10619,"name":"mccain"},
+{"votes":1219,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":13},
+{"total":1699,"reporting":23},
 "delegates":33,"date":"05-13"},
-"state":"NE","party":"gop","total":11658,"locals":
+"state":"NE","party":"gop","total":11838,"locals":
 {"Colfax":
 {"votes":[
 {"votes":32,"name":"mccain"},
@@ -34,9 +34,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":1,"reporting":0},
 "name":"Banner"},
 "Otoe":
-{"votes":[],
-"total":0,"precincts":
-{"total":17,"reporting":0},
+{"votes":[
+{"votes":94,"name":"mccain"},
+{"votes":17,"name":"paul"}],
+"total":111,"precincts":
+{"total":17,"reporting":1},
 "name":"Otoe"},
 "Wayne":
 {"votes":[],
@@ -122,7 +124,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":407,"name":"mccain"},
 {"votes":42,"name":"paul"}],
 "total":449,"precincts":
-{"total":9,"reporting":0},
+{"total":9,"reporting":9},
 "name":"Box Butte"},
 "Webster":
 {"votes":[],
@@ -233,8 +235,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":12,"reporting":0},
 "name":"Hamilton"},
 "Cuming":
-{"votes":[],
-"total":0,"precincts":
+{"votes":[
+{"votes":64,"name":"mccain"},
+{"votes":5,"name":"paul"}],
+"total":69,"precincts":
 {"total":8,"reporting":0},
 "name":"Cuming"},
 "Keith":

@@ -1,9 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"votes":[],
+{"votes":[
+{"votes":1314,"name":"clinton"},
+{"votes":753,"name":"obama"},
+{"votes":187,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":0},
+{"total":1894,"reporting":12},
 "delegates":28,"date":"05-13"},
-"state":"WV","party":"dem","total":0,"locals":
+"state":"WV","party":"dem","total":2254,"locals":
 {"Summers":
 {"votes":[],
 "total":0,"precincts":
@@ -170,9 +173,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":11,"reporting":0},
 "name":"Pleasants"},
 "Raleigh":
-{"votes":[],
-"total":0,"precincts":
-{"total":63,"reporting":0},
+{"votes":[
+{"votes":1314,"name":"clinton"},
+{"votes":753,"name":"obama"},
+{"votes":187,"name":"edwards"}],
+"total":2254,"precincts":
+{"total":63,"reporting":12},
 "name":"Raleigh"},
 "Morgan":
 {"votes":[],

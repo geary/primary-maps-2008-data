@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":168941,"name":"clinton"},
-{"votes":69291,"name":"obama"},
+{"votes":168941,"name":"clinton","delegates":16},
+{"votes":69291,"name":"obama","delegates":7},
 {"votes":18505,"name":"edwards"}],
 "name":"West Virginia","precincts":
 {"total":1894,"reporting":1357},

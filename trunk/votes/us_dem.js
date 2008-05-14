@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16293012,"name":"clinton","delegates":1436},
+{"votes":16293012,"name":"clinton","delegates":1439},
 {"votes":16238658,"name":"obama","delegates":1588},
 {"votes":952043,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
@@ -285,7 +285,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":93,"date":"02-05"},
 "West Virginia":
 {"votes":[
-{"votes":239062,"name":"clinton","delegates":16},
+{"votes":239062,"name":"clinton","delegates":19},
 {"votes":91652,"name":"obama","delegates":7},
 {"votes":26076,"name":"edwards"}],
 "name":"West Virginia","precincts":

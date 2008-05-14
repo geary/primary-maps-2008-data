@@ -4,7 +4,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":44301,"name":"obama"},
 {"votes":11253,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":746},
+{"total":1894,"reporting":804},
 "delegates":28,"date":"05-13"},
 "state":"WV","party":"dem","total":158492,"locals":
 {"Summers":
@@ -178,7 +178,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":127,"name":"obama"},
 {"votes":62,"name":"edwards"}],
 "total":607,"precincts":
-{"total":15,"reporting":9},
+{"total":15,"reporting":14},
 "name":"Ritchie"},
 "Pocahontas":
 {"votes":[
@@ -228,7 +228,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":7126,"name":"obama"},
 {"votes":745,"name":"edwards"}],
 "total":19534,"precincts":
-{"total":160,"reporting":45},
+{"total":160,"reporting":65},
 "name":"Kanawha"},
 "Pleasants":
 {"votes":[
@@ -307,7 +307,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":523,"name":"obama"},
 {"votes":259,"name":"edwards"}],
 "total":5369,"precincts":
-{"total":39,"reporting":5},
+{"total":39,"reporting":18},
 "name":"Mingo"},
 "Cabell":
 {"votes":[
@@ -315,7 +315,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2301,"name":"obama"},
 {"votes":424,"name":"edwards"}],
 "total":7627,"precincts":
-{"total":71,"reporting":30},
+{"total":71,"reporting":40},
 "name":"Cabell"},
 "Tyler":
 {"votes":[
@@ -331,7 +331,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":302,"name":"obama"},
 {"votes":234,"name":"edwards"}],
 "total":1577,"precincts":
-{"total":18,"reporting":2},
+{"total":18,"reporting":6},
 "name":"Hardy"},
 "Logan":
 {"votes":[
@@ -400,5 +400,5 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":420,"name":"obama"},
 {"votes":162,"name":"edwards"}],
 "total":1590,"precincts":
-{"total":17,"reporting":5},
+{"total":17,"reporting":11},
 "name":"Monroe"}}})

@@ -289,7 +289,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":44301,"name":"obama"},
 {"votes":11253,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":746},
+{"total":1894,"reporting":804},
 "delegates":28,"date":"05-13"},
 "South Carolina":
 {"votes":[

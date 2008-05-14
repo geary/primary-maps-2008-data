@@ -439,7 +439,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":117529,"name":"mccain"},
 {"votes":17587,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":1697},
+{"total":1699,"reporting":1698},
 "delegates":33,"date":"05-13"},
 "Missouri":
 {"votes":[

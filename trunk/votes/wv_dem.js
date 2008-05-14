@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":160619,"name":"clinton"},
-{"votes":65850,"name":"obama"},
-{"votes":17647,"name":"edwards"}],
+{"votes":161370,"name":"clinton"},
+{"votes":66204,"name":"obama"},
+{"votes":17750,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":1299},
+{"total":1894,"reporting":1312},
 "delegates":28,"date":"05-13"},
-"state":"WV","party":"dem","total":244116,"locals":
+"state":"WV","party":"dem","total":245324,"locals":
 {"Summers":
 {"votes":[
 {"votes":351,"name":"clinton"},
@@ -307,11 +307,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Wetzel"},
 "Upshur":
 {"votes":[
-{"votes":413,"name":"clinton"},
-{"votes":171,"name":"obama"},
-{"votes":35,"name":"edwards"}],
-"total":619,"precincts":
-{"total":29,"reporting":6},
+{"votes":1164,"name":"clinton"},
+{"votes":525,"name":"obama"},
+{"votes":138,"name":"edwards"}],
+"total":1827,"precincts":
+{"total":29,"reporting":19},
 "name":"Upshur"},
 "Taylor":
 {"votes":[

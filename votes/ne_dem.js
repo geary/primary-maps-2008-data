@@ -643,7 +643,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":135,"name":"clinton"},
 {"votes":14,"name":"gravel"}],
 "total":335,"precincts":
-{"total":10,"reporting":9},
+{"total":10,"reporting":10},
 "name":"Thurston"},
 "Logan":
 {"votes":[

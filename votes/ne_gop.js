@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":117529,"name":"mccain"},
 {"votes":17587,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":1698},
+{"total":1699,"reporting":1699},
 "delegates":33,"date":"05-13"},
 "state":"NE","party":"gop","total":135116,"locals":
 {"Colfax":
@@ -552,7 +552,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":280,"name":"mccain"},
 {"votes":44,"name":"paul"}],
 "total":324,"precincts":
-{"total":10,"reporting":9},
+{"total":10,"reporting":10},
 "name":"Thurston"},
 "Logan":
 {"votes":[

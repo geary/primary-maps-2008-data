@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":200754,"name":"clinton","delegates":16},
-{"votes":78876,"name":"obama","delegates":7},
-{"votes":21437,"name":"edwards"}],
+{"votes":202824,"name":"clinton","delegates":16},
+{"votes":79356,"name":"obama","delegates":7},
+{"votes":21623,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":1553},
+{"total":1894,"reporting":1573},
 "delegates":28,"date":"05-13"},
-"state":"WV","party":"dem","total":301067,"locals":
+"state":"WV","party":"dem","total":303803,"locals":
 {"Summers":
 {"votes":[
 {"votes":2483,"name":"clinton"},
@@ -414,11 +414,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Boone"},
 "Mercer":
 {"votes":[
-{"votes":3162,"name":"clinton"},
-{"votes":936,"name":"obama"},
-{"votes":295,"name":"edwards"}],
-"total":4393,"precincts":
-{"total":61,"reporting":20},
+{"votes":5232,"name":"clinton"},
+{"votes":1416,"name":"obama"},
+{"votes":481,"name":"edwards"}],
+"total":7129,"precincts":
+{"total":61,"reporting":40},
 "name":"Mercer"},
 "Randolph":
 {"votes":[

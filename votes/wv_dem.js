@@ -4,7 +4,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":8806,"name":"obama"},
 {"votes":1480,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":80},
+{"total":1,"reporting":1},
 "delegates":28,"date":"05-13"},
 "state":"WV","party":"dem","total":24848,"locals":
 {"Summers":
@@ -44,7 +44,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":53,"name":"obama"},
 {"votes":26,"name":"edwards"}],
 "total":379,"precincts":
-{"total":36,"reporting":4},
+{"total":36,"reporting":0},
 "name":"Wyoming"},
 "Calhoun":
 {"votes":[],
@@ -149,7 +149,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":239,"name":"obama"},
 {"votes":73,"name":"edwards"}],
 "total":825,"precincts":
-{"total":27,"reporting":5},
+{"total":27,"reporting":0},
 "name":"Brooke"},
 "Ritchie":
 {"votes":[],

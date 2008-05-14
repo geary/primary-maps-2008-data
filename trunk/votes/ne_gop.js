@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23914,"name":"mccain"},
 {"votes":2224,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":100},
+{"total":1699,"reporting":159},
 "delegates":33,"date":"05-13"},
 "state":"NE","party":"gop","total":26138,"locals":
 {"Colfax":
@@ -28,14 +28,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":332,"name":"mccain"},
 {"votes":56,"name":"paul"}],
 "total":388,"precincts":
-{"total":6,"reporting":0},
+{"total":6,"reporting":3},
 "name":"Frontier"},
 "Banner":
 {"votes":[
 {"votes":85,"name":"mccain"},
 {"votes":15,"name":"paul"}],
 "total":100,"precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Banner"},
 "Otoe":
 {"votes":[
@@ -145,7 +145,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":592,"name":"mccain"},
 {"votes":120,"name":"paul"}],
 "total":712,"precincts":
-{"total":17,"reporting":6},
+{"total":17,"reporting":12},
 "name":"Seward"},
 "Kimball":
 {"votes":[
@@ -179,7 +179,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":144,"name":"mccain"},
 {"votes":33,"name":"paul"}],
 "total":177,"precincts":
-{"total":14,"reporting":1},
+{"total":14,"reporting":2},
 "name":"Dakota"},
 "Polk":
 {"votes":[],
@@ -341,7 +341,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":351,"name":"mccain"},
 {"votes":47,"name":"paul"}],
 "total":398,"precincts":
-{"total":31,"reporting":0},
+{"total":31,"reporting":29},
 "name":"Cass"},
 "Nemaha":
 {"votes":[
@@ -453,7 +453,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1242,"name":"mccain"},
 {"votes":198,"name":"paul"}],
 "total":1440,"precincts":
-{"total":21,"reporting":1},
+{"total":21,"reporting":20},
 "name":"Cherry"},
 "Douglas":
 {"votes":[

@@ -32,14 +32,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":28,"name":"clinton"},
 {"votes":10,"name":"gravel"}],
 "total":77,"precincts":
-{"total":6,"reporting":0},
+{"total":6,"reporting":3},
 "name":"Frontier"},
 "Banner":
 {"votes":[
 {"votes":8,"name":"obama"},
 {"votes":4,"name":"clinton"}],
 "total":12,"precincts":
-{"total":1,"reporting":0},
+{"total":1,"reporting":1},
 "name":"Banner"},
 "Otoe":
 {"votes":[
@@ -159,7 +159,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":226,"name":"obama"},
 {"votes":16,"name":"gravel"}],
 "total":471,"precincts":
-{"total":17,"reporting":6},
+{"total":17,"reporting":12},
 "name":"Seward"},
 "Kimball":
 {"votes":[
@@ -195,7 +195,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":144,"name":"obama"},
 {"votes":11,"name":"gravel"}],
 "total":417,"precincts":
-{"total":14,"reporting":1},
+{"total":14,"reporting":2},
 "name":"Dakota"},
 "Polk":
 {"votes":[],
@@ -328,7 +328,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":43,"name":"clinton"},
 {"votes":3,"name":"gravel"}],
 "total":93,"precincts":
-{"total":24,"reporting":0},
+{"total":24,"reporting":1},
 "name":"Madison"},
 "Custer":
 {"votes":[
@@ -370,7 +370,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":110,"name":"obama"},
 {"votes":16,"name":"gravel"}],
 "total":269,"precincts":
-{"total":31,"reporting":0},
+{"total":31,"reporting":29},
 "name":"Cass"},
 "Nemaha":
 {"votes":[
@@ -505,7 +505,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":108,"name":"obama"},
 {"votes":28,"name":"gravel"}],
 "total":276,"precincts":
-{"total":21,"reporting":0},
+{"total":21,"reporting":20},
 "name":"Cherry"},
 "Douglas":
 {"votes":[

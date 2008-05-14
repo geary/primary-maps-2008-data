@@ -243,7 +243,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":15,"name":"keyes"},
 {"votes":8,"name":"curry"}],
 "total":1069,"precincts":
-{"total":15,"reporting":9},
+{"total":15,"reporting":14},
 "name":"Ritchie"},
 "Pocahontas":
 {"votes":[
@@ -255,7 +255,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":10,"name":"curry"},
 {"votes":5,"name":"keyes"}],
 "total":635,"precincts":
-{"total":15,"reporting":10},
+{"total":15,"reporting":15},
 "name":"Pocahontas"},
 "Wayne":
 {"votes":[],
@@ -313,7 +313,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":59,"name":"keyes"},
 {"votes":44,"name":"curry"}],
 "total":5429,"precincts":
-{"total":160,"reporting":45},
+{"total":160,"reporting":65},
 "name":"Kanawha"},
 "Pleasants":
 {"votes":[
@@ -419,7 +419,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3,"name":"keyes"},
 {"votes":1,"name":"curry"}],
 "total":206,"precincts":
-{"total":39,"reporting":5},
+{"total":39,"reporting":18},
 "name":"Mingo"},
 "Cabell":
 {"votes":[
@@ -455,7 +455,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":3,"name":"curry"},
 {"votes":1,"name":"keyes"}],
 "total":281,"precincts":
-{"total":18,"reporting":2},
+{"total":18,"reporting":6},
 "name":"Hardy"},
 "Logan":
 {"votes":[
@@ -554,5 +554,5 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5,"name":"keyes"},
 {"votes":4,"name":"curry"}],
 "total":713,"precincts":
-{"total":17,"reporting":5},
+{"total":17,"reporting":11},
 "name":"Monroe"}}})

@@ -348,7 +348,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":156,"name":"obama"},
 {"votes":27,"name":"gravel"}],
 "total":360,"precincts":
-{"total":12,"reporting":11},
+{"total":12,"reporting":12},
 "name":"Keith"},
 "Sioux":
 {"votes":[
@@ -356,7 +356,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":11,"name":"clinton"},
 {"votes":3,"name":"gravel"}],
 "total":26,"precincts":
-{"total":2,"reporting":1},
+{"total":2,"reporting":2},
 "name":"Sioux"},
 "Johnson":
 {"votes":[

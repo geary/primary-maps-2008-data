@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8791398,"name":"mccain","delegates":1111},
+{"votes":8791776,"name":"mccain","delegates":1111},
 {"votes":4363913,"name":"romney","delegates":271},
 {"votes":4126333,"name":"huckabee","delegates":265},
-{"votes":1028986,"name":"paul","delegates":14},
+{"votes":1029027,"name":"paul","delegates":14},
 {"votes":570462,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
 {"votes":54683,"name":"keyes"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19337799,"locals":
+"state":"US","party":"gop","total":19338218,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain"},
@@ -436,10 +436,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":17,"date":"03-04"},
 "Nebraska":
 {"votes":[
-{"votes":115809,"name":"mccain"},
-{"votes":17268,"name":"paul"}],
+{"votes":116187,"name":"mccain"},
+{"votes":17309,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":1671},
+{"total":1699,"reporting":1680},
 "delegates":33,"date":"05-13"},
 "Missouri":
 {"votes":[

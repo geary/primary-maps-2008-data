@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":225062,"name":"clinton","delegates":16},
-{"votes":86861,"name":"obama","delegates":7},
-{"votes":24243,"name":"edwards"}],
+{"votes":226812,"name":"clinton","delegates":16},
+{"votes":87466,"name":"obama","delegates":7},
+{"votes":24394,"name":"edwards"}],
 "name":"West Virginia","precincts":
-{"total":1894,"reporting":1767},
+{"total":1894,"reporting":1783},
 "delegates":28,"date":"05-13"},
-"state":"WV","party":"dem","total":336166,"locals":
+"state":"WV","party":"dem","total":338672,"locals":
 {"Summers":
 {"votes":[
 {"votes":2483,"name":"clinton"},
@@ -121,11 +121,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Nicholas"},
 "Putnam":
 {"votes":[
-{"votes":4462,"name":"clinton"},
-{"votes":1847,"name":"obama"},
-{"votes":395,"name":"edwards"}],
-"total":6704,"precincts":
-{"total":48,"reporting":32},
+{"votes":6212,"name":"clinton"},
+{"votes":2452,"name":"obama"},
+{"votes":546,"name":"edwards"}],
+"total":9210,"precincts":
+{"total":48,"reporting":48},
 "name":"Putnam"},
 "McDowell":
 {"votes":[

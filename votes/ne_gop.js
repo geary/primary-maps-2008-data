@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":110844,"name":"mccain"},
-{"votes":16618,"name":"paul"}],
+{"votes":113196,"name":"mccain"},
+{"votes":16909,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":1598},
+{"total":1699,"reporting":1626},
 "delegates":33,"date":"05-13"},
-"state":"NE","party":"gop","total":127462,"locals":
+"state":"NE","party":"gop","total":130105,"locals":
 {"Colfax":
 {"votes":[
 {"votes":631,"name":"mccain"},
@@ -298,7 +298,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1337,"name":"mccain"},
 {"votes":158,"name":"paul"}],
 "total":1495,"precincts":
-{"total":8,"reporting":7},
+{"total":8,"reporting":8},
 "name":"Cuming"},
 "Keith":
 {"votes":[
@@ -482,10 +482,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Richardson"},
 "Antelope":
 {"votes":[
-{"votes":527,"name":"mccain"},
-{"votes":79,"name":"paul"}],
-"total":606,"precincts":
-{"total":14,"reporting":11},
+{"votes":853,"name":"mccain"},
+{"votes":119,"name":"paul"}],
+"total":972,"precincts":
+{"total":14,"reporting":14},
 "name":"Antelope"},
 "Fillmore":
 {"votes":[
@@ -524,10 +524,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Douglas"},
 "Valley":
 {"votes":[
-{"votes":455,"name":"mccain"},
-{"votes":48,"name":"paul"}],
-"total":503,"precincts":
-{"total":8,"reporting":2},
+{"votes":733,"name":"mccain"},
+{"votes":74,"name":"paul"}],
+"total":807,"precincts":
+{"total":8,"reporting":6},
 "name":"Valley"},
 "Garden":
 {"votes":[
@@ -580,10 +580,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Knox"},
 "Platte":
 {"votes":[
-{"votes":1789,"name":"mccain"},
-{"votes":270,"name":"paul"}],
-"total":2059,"precincts":
-{"total":31,"reporting":20},
+{"votes":2555,"name":"mccain"},
+{"votes":397,"name":"paul"}],
+"total":2952,"precincts":
+{"total":31,"reporting":31},
 "name":"Platte"},
 "Hall":
 {"votes":[
@@ -594,10 +594,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Hall"},
 "Scotts Bluff":
 {"votes":[
-{"votes":1585,"name":"mccain"},
-{"votes":146,"name":"paul"}],
-"total":1731,"precincts":
-{"total":31,"reporting":22},
+{"votes":2567,"name":"mccain"},
+{"votes":244,"name":"paul"}],
+"total":2811,"precincts":
+{"total":31,"reporting":31},
 "name":"Scotts Bluff"},
 "Sheridan":
 {"votes":[

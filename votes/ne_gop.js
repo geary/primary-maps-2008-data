@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":113508,"name":"mccain"},
-{"votes":16951,"name":"paul"}],
+{"votes":113802,"name":"mccain"},
+{"votes":17006,"name":"paul"}],
 "name":"Nebraska","precincts":
-{"total":1699,"reporting":1632},
+{"total":1699,"reporting":1640},
 "delegates":33,"date":"05-13"},
-"state":"NE","party":"gop","total":130459,"locals":
+"state":"NE","party":"gop","total":130808,"locals":
 {"Colfax":
 {"votes":[
 {"votes":631,"name":"mccain"},
@@ -356,10 +356,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Red Willow":
 {"votes":[
-{"votes":473,"name":"mccain"},
-{"votes":86,"name":"paul"}],
-"total":559,"precincts":
-{"total":16,"reporting":8},
+{"votes":767,"name":"mccain"},
+{"votes":141,"name":"paul"}],
+"total":908,"precincts":
+{"total":16,"reporting":16},
 "name":"Red Willow"},
 "Blaine":
 {"votes":[

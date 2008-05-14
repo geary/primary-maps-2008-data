@@ -2,12 +2,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Nebraska","precincts":
 {"total":1665,"reporting":1665},
 "votes":[
-{"votes":45018,"name":"obama","delegates":16},
-{"votes":42260,"name":"clinton","delegates":8},
-{"votes":3712,"name":"gravel"},
+{"votes":45090,"name":"obama","delegates":16},
+{"votes":42349,"name":"clinton","delegates":8},
+{"votes":3728,"name":"gravel"},
 {"votes":99,"name":"uncommitted-d"}],
 "delegates":24,"date":"02-09","type":"caucus"},
-"state":"NE","party":"dem","total":91089,"locals":
+"state":"NE","party":"dem","total":91266,"locals":
 {"Colfax":
 {"votes":[
 {"votes":241,"name":"clinton"},
@@ -405,11 +405,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Red Willow":
 {"votes":[
-{"votes":141,"name":"clinton"},
-{"votes":110,"name":"obama"},
-{"votes":23,"name":"gravel"}],
-"total":274,"precincts":
-{"total":16,"reporting":8},
+{"votes":230,"name":"clinton"},
+{"votes":182,"name":"obama"},
+{"votes":39,"name":"gravel"}],
+"total":451,"precincts":
+{"total":16,"reporting":16},
 "name":"Red Willow"},
 "Blaine":
 {"votes":[

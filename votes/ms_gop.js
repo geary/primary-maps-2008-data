@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":113074,"name":"mccain"},
+{"votes":113074,"name":"mccain","delegates":36},
 {"votes":17943,"name":"huckabee"},
 {"votes":5510,"name":"paul"},
 {"votes":2177,"name":"romney"},
@@ -11,7 +11,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":221,"name":"tancredo"}],
 "name":"Mississippi","precincts":
 {"total":1912,"reporting":1912},
-"delegates":39,"date":"03-11"},
+"delegates":36,"date":"03-11"},
 "state":"MS","party":"gop","total":143286,"locals":
 {"Yalobusha":
 {"votes":[

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":318374,"name":"mccain"},
+{"votes":318374,"name":"mccain","delegates":27},
 {"votes":41063,"name":"huckabee"},
 {"votes":31557,"name":"paul"},
 {"votes":19507,"name":"romney"}],
 "name":"Indiana","precincts":
 {"total":5230,"reporting":5224},
-"delegates":57,"date":"05-06"},
+"delegates":27,"date":"05-06"},
 "state":"IN","party":"gop","total":410501,"locals":
 {"Daviess":
 {"votes":[

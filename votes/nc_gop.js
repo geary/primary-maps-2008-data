@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":381138,"name":"mccain"},
-{"votes":62917,"name":"huckabee"},
-{"votes":40275,"name":"paul"},
+{"votes":381138,"name":"mccain","delegates":51},
+{"votes":62917,"name":"huckabee","delegates":8},
+{"votes":40275,"name":"paul","delegates":5},
 {"votes":20305,"name":"nopreference-r"},
 {"votes":13589,"name":"keyes"}],
 "name":"North Carolina","precincts":
 {"total":2817,"reporting":2807},
-"delegates":69,"date":"05-06"},
+"delegates":66,"date":"05-06"},
 "state":"NC","party":"gop","total":518224,"locals":
 {"Bladen":
 {"votes":[

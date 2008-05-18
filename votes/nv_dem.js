@@ -2,8 +2,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Nevada","precincts":
 {"total":1797,"reporting":1762},
 "votes":[
-{"votes":5355,"name":"clinton","delegates":12},
-{"votes":4773,"name":"obama","delegates":13},
+{"votes":5355,"name":"clinton","delegates":11},
+{"votes":4773,"name":"obama","delegates":14},
 {"votes":396,"name":"edwards"},
 {"votes":31,"name":"uncommitted-d"},
 {"votes":5,"name":"kucinich"}],

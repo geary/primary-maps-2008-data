@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16293012,"name":"clinton","delegates":1438},
-{"votes":16238658,"name":"obama","delegates":1591},
+{"votes":16293012,"name":"clinton","delegates":1437},
+{"votes":16238658,"name":"obama","delegates":1592},
 {"votes":952043,"name":"edwards"},
 {"votes":257005,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -519,8 +519,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Nevada","precincts":
 {"total":1797,"reporting":1762},
 "votes":[
-{"votes":5355,"name":"clinton","delegates":12},
-{"votes":4773,"name":"obama","delegates":13},
+{"votes":5355,"name":"clinton","delegates":11},
+{"votes":4773,"name":"obama","delegates":14},
 {"votes":396,"name":"edwards"},
 {"votes":31,"name":"uncommitted-d"},
 {"votes":5,"name":"kucinich"}],

@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":346247,"name":"clinton","delegates":28},
-{"votes":194679,"name":"obama","delegates":24},
-{"votes":27858,"name":"edwards"},
+{"votes":372894,"name":"clinton","delegates":28},
+{"votes":210069,"name":"obama","delegates":24},
+{"votes":28593,"name":"edwards"},
 {"votes":3852,"name":"gravel"},
-{"votes":2193,"name":"uncommitted-d"}],
+{"votes":3027,"name":"uncommitted-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":574829,"locals":
+"state":"US","party":"dem","total":618435,"locals":
 {"Nebraska":
 {"name":"Nebraska","precincts":
 {"total":1699,"reporting":1699},
@@ -23,12 +23,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":52,"date":"05-20"},
 "Kentucky":
 {"votes":[
-{"votes":63828,"name":"clinton"},
-{"votes":57075,"name":"obama"},
-{"votes":2193,"name":"uncommitted-d"},
-{"votes":1782,"name":"edwards"}],
+{"votes":90475,"name":"clinton"},
+{"votes":72465,"name":"obama"},
+{"votes":3027,"name":"uncommitted-d"},
+{"votes":2517,"name":"edwards"}],
 "name":"Kentucky","precincts":
-{"total":3532,"reporting":556},
+{"total":3532,"reporting":771},
 "delegates":51,"date":"05-20"},
 "West Virginia":
 {"votes":[

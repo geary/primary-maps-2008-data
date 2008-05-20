@@ -8,7 +8,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1426,"name":"keyes"},
 {"votes":727,"name":"curry"}],
 "name":"West Virginia","precincts":
-{"total":1,"reporting":1},
+{"total":1894,"reporting":1894},
 "delegates":18,"date":"05-13"},
 "state":"WV","party":"gop","total":117944,"locals":
 {"Summers":

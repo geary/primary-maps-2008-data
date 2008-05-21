@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":268014,"name":"obama","delegates":22},
-{"votes":193937,"name":"clinton","delegates":12}],
+{"votes":271639,"name":"obama","delegates":22},
+{"votes":196001,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":640},
+{"total":1000,"reporting":651},
 "delegates":52,"date":"05-20"},
-"state":"OR","party":"dem","total":461951,"locals":
+"state":"OR","party":"dem","total":467640,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -39,10 +39,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Deschutes"},
 "Lane":
 {"votes":[
-{"votes":26654,"name":"obama"},
-{"votes":16189,"name":"clinton"}],
-"total":42843,"precincts":
-{"total":97,"reporting":40},
+{"votes":28752,"name":"obama"},
+{"votes":17614,"name":"clinton"}],
+"total":46366,"precincts":
+{"total":97,"reporting":49},
 "name":"Lane"},
 "Douglas":
 {"votes":[
@@ -74,9 +74,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hood River":
 {"votes":[
-{"votes":2187,"name":"obama"},
-{"votes":1435,"name":"clinton"}],
-"total":3622,"precincts":
+{"votes":2236,"name":"obama"},
+{"votes":1465,"name":"clinton"}],
+"total":3701,"precincts":
 {"total":5,"reporting":4},
 "name":"Hood River"},
 "Coos":
@@ -149,10 +149,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clatsop"},
 "Benton":
 {"votes":[
-{"votes":9654,"name":"obama"},
-{"votes":4231,"name":"clinton"}],
-"total":13885,"precincts":
-{"total":23,"reporting":14},
+{"votes":11132,"name":"obama"},
+{"votes":4840,"name":"clinton"}],
+"total":15972,"precincts":
+{"total":23,"reporting":16},
 "name":"Benton"},
 "Lake":
 {"votes":[

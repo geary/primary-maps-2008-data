@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":206734,"name":"mccain"},
-{"votes":35002,"name":"paul"}],
+{"votes":210713,"name":"mccain"},
+{"votes":35742,"name":"paul"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":535},
+{"total":1000,"reporting":634},
 "delegates":30,"date":"05-20"},
-"state":"OR","party":"gop","total":241736,"locals":
+"state":"OR","party":"gop","total":246455,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -39,10 +39,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Deschutes"},
 "Lane":
 {"votes":[
-{"votes":15297,"name":"mccain"},
-{"votes":2475,"name":"paul"}],
-"total":17772,"precincts":
-{"total":97,"reporting":40},
+{"votes":16855,"name":"mccain"},
+{"votes":2700,"name":"paul"}],
+"total":19555,"precincts":
+{"total":97,"reporting":49},
 "name":"Lane"},
 "Douglas":
 {"votes":[
@@ -74,9 +74,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hood River":
 {"votes":[
-{"votes":1656,"name":"mccain"},
-{"votes":231,"name":"paul"}],
-"total":1887,"precincts":
+{"votes":1707,"name":"mccain"},
+{"votes":237,"name":"paul"}],
+"total":1944,"precincts":
 {"total":5,"reporting":4},
 "name":"Hood River"},
 "Coos":
@@ -91,7 +91,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":20206,"name":"mccain"},
 {"votes":3613,"name":"paul"}],
 "total":23819,"precincts":
-{"total":196,"reporting":63},
+{"total":196,"reporting":133},
 "name":"Multnomah"},
 "Columbia":
 {"votes":[
@@ -149,10 +149,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clatsop"},
 "Benton":
 {"votes":[
-{"votes":4604,"name":"mccain"},
-{"votes":810,"name":"paul"}],
-"total":5414,"precincts":
-{"total":23,"reporting":14},
+{"votes":5244,"name":"mccain"},
+{"votes":974,"name":"paul"}],
+"total":6218,"precincts":
+{"total":23,"reporting":16},
 "name":"Benton"},
 "Lake":
 {"votes":[
@@ -217,10 +217,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Josephine"},
 "Washington":
 {"votes":[
-{"votes":25769,"name":"mccain"},
-{"votes":4055,"name":"paul"}],
-"total":29824,"precincts":
-{"total":127,"reporting":77},
+{"votes":27499,"name":"mccain"},
+{"votes":4400,"name":"paul"}],
+"total":31899,"precincts":
+{"total":127,"reporting":95},
 "name":"Washington"},
 "Tillamook":
 {"votes":[

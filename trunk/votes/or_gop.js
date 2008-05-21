@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":232591,"name":"mccain"},
-{"votes":39902,"name":"paul"}],
+{"votes":233402,"name":"mccain"},
+{"votes":40026,"name":"paul"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":759},
+{"total":1000,"reporting":761},
 "delegates":30,"date":"05-20"},
-"state":"OR","party":"gop","total":272493,"locals":
+"state":"OR","party":"gop","total":273428,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -32,10 +32,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Union"},
 "Deschutes":
 {"votes":[
-{"votes":11944,"name":"mccain"},
-{"votes":1475,"name":"paul"}],
-"total":13419,"precincts":
-{"total":43,"reporting":29},
+{"votes":12697,"name":"mccain"},
+{"votes":1591,"name":"paul"}],
+"total":14288,"precincts":
+{"total":43,"reporting":31},
 "name":"Deschutes"},
 "Lane":
 {"votes":[
@@ -67,9 +67,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Wasco"},
 "Jefferson":
 {"votes":[
-{"votes":1760,"name":"mccain"},
-{"votes":253,"name":"paul"}],
-"total":2013,"precincts":
+{"votes":1818,"name":"mccain"},
+{"votes":261,"name":"paul"}],
+"total":2079,"precincts":
 {"total":5,"reporting":5},
 "name":"Jefferson"},
 "Hood River":

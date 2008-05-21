@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":107263,"name":"obama"},
-{"votes":67983,"name":"clinton"}],
+{"votes":115719,"name":"obama"},
+{"votes":74884,"name":"clinton"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":151},
+{"total":1000,"reporting":174},
 "delegates":52,"date":"05-20"},
-"state":"OR","party":"dem","total":175246,"locals":
+"state":"OR","party":"dem","total":190603,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -49,9 +49,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":17,"reporting":0},
 "name":"Klamath"},
 "Wasco":
-{"votes":[],
-"total":0,"precincts":
-{"total":7,"reporting":0},
+{"votes":[
+{"votes":1676,"name":"clinton"},
+{"votes":1676,"name":"obama"}],
+"total":3352,"precincts":
+{"total":7,"reporting":5},
 "name":"Wasco"},
 "Jefferson":
 {"votes":[],
@@ -59,9 +61,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":5,"reporting":0},
 "name":"Jefferson"},
 "Hood River":
-{"votes":[],
-"total":0,"precincts":
-{"total":5,"reporting":0},
+{"votes":[
+{"votes":2047,"name":"obama"},
+{"votes":1353,"name":"clinton"}],
+"total":3400,"precincts":
+{"total":5,"reporting":4},
 "name":"Hood River"},
 "Coos":
 {"votes":[],
@@ -190,7 +194,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":70,"reporting":37},
 "name":"Marion"},
 "Polk":
-{"votes":[],
-"total":0,"precincts":
-{"total":20,"reporting":0},
+{"votes":[
+{"votes":4733,"name":"obama"},
+{"votes":3872,"name":"clinton"}],
+"total":8605,"precincts":
+{"total":20,"reporting":14},
 "name":"Polk"}}})

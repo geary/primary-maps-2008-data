@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8941843,"name":"mccain","delegates":1225},
+{"votes":8941869,"name":"mccain","delegates":1225},
 {"votes":4373358,"name":"romney","delegates":271},
-{"votes":4143376,"name":"huckabee","delegates":273},
-{"votes":1043041,"name":"paul","delegates":19},
+{"votes":4143382,"name":"huckabee","delegates":273},
+{"votes":1043043,"name":"paul","delegates":19},
 {"votes":573754,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":57150,"name":"uncommitted-r"},
+{"votes":57152,"name":"uncommitted-r"},
 {"votes":56909,"name":"keyes"},
 {"votes":37805,"name":"hunter"},
 {"votes":20305,"name":"nopreference-r"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19544922,"locals":
+"state":"US","party":"gop","total":19544958,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -429,15 +429,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":26,"date":"02-05","type":"caucus"},
 "Kentucky":
 {"votes":[
-{"votes":142264,"name":"mccain"},
-{"votes":16153,"name":"huckabee"},
-{"votes":13377,"name":"paul"},
-{"votes":10576,"name":"uncommitted-r"},
+{"votes":142290,"name":"mccain"},
+{"votes":16159,"name":"huckabee"},
+{"votes":13379,"name":"paul"},
+{"votes":10578,"name":"uncommitted-r"},
 {"votes":9111,"name":"romney"},
 {"votes":3117,"name":"giuliani"},
 {"votes":2130,"name":"keyes"}],
 "name":"Kentucky","precincts":
-{"total":3532,"reporting":3482},
+{"total":3532,"reporting":3497},
 "delegates":45,"date":"05-20"},
 "Rhode Island":
 {"votes":[

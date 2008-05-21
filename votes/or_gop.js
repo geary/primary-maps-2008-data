@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":248667,"name":"mccain"},
-{"votes":43082,"name":"paul"}],
+{"votes":248847,"name":"mccain"},
+{"votes":43126,"name":"paul"}],
 "name":"Oregon","precincts":
 {"total":1000,"reporting":826},
 "delegates":30,"date":"05-20"},
-"state":"OR","party":"gop","total":291749,"locals":
+"state":"OR","party":"gop","total":291973,"locals":
 {"Wheeler":
 {"votes":[
 {"votes":213,"name":"mccain"},
@@ -118,9 +118,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sherman"},
 "Linn":
 {"votes":[
-{"votes":8845,"name":"mccain"},
-{"votes":1301,"name":"paul"}],
-"total":10146,"precincts":
+{"votes":9025,"name":"mccain"},
+{"votes":1345,"name":"paul"}],
+"total":10370,"precincts":
 {"total":29,"reporting":24},
 "name":"Linn"},
 "Lincoln":

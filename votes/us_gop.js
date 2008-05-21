@@ -256,7 +256,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":216367,"name":"mccain"},
 {"votes":36890,"name":"paul"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":660},
+{"total":1000,"reporting":661},
 "delegates":30,"date":"05-20"},
 "Connecticut":
 {"votes":[

@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":275469,"name":"obama","delegates":22},
 {"votes":199293,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":677},
+{"total":1000,"reporting":678},
 "delegates":52,"date":"05-20"},
 "state":"OR","party":"dem","total":474762,"locals":
 {"Wheeler":
@@ -63,7 +63,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1976,"name":"obama"},
 {"votes":1915,"name":"clinton"}],
 "total":3891,"precincts":
-{"total":7,"reporting":6},
+{"total":7,"reporting":7},
 "name":"Wasco"},
 "Jefferson":
 {"votes":[

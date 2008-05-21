@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":199916,"name":"mccain"},
-{"votes":33554,"name":"paul"}],
+{"votes":201255,"name":"mccain"},
+{"votes":33742,"name":"paul"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":459},
+{"total":1000,"reporting":507},
 "delegates":30,"date":"05-20"},
-"state":"OR","party":"gop","total":233470,"locals":
+"state":"OR","party":"gop","total":234997,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -74,9 +74,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hood River":
 {"votes":[
-{"votes":1563,"name":"mccain"},
-{"votes":202,"name":"paul"}],
-"total":1765,"precincts":
+{"votes":1656,"name":"mccain"},
+{"votes":231,"name":"paul"}],
+"total":1887,"precincts":
 {"total":5,"reporting":4},
 "name":"Hood River"},
 "Coos":
@@ -91,7 +91,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":19133,"name":"mccain"},
 {"votes":3396,"name":"paul"}],
 "total":22529,"precincts":
-{"total":196,"reporting":15},
+{"total":196,"reporting":59},
 "name":"Multnomah"},
 "Columbia":
 {"votes":[
@@ -191,10 +191,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Curry"},
 "Clackamas":
 {"votes":[
-{"votes":13994,"name":"mccain"},
-{"votes":2185,"name":"paul"}],
-"total":16179,"precincts":
-{"total":103,"reporting":41},
+{"votes":15240,"name":"mccain"},
+{"votes":2344,"name":"paul"}],
+"total":17584,"precincts":
+{"total":103,"reporting":45},
 "name":"Clackamas"},
 "Gilliam":
 {"votes":[],

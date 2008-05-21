@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":252048,"name":"mccain"},
-{"votes":43811,"name":"paul"}],
+{"votes":252522,"name":"mccain"},
+{"votes":43935,"name":"paul"}],
 "name":"Oregon","precincts":
 {"total":1000,"reporting":835},
 "delegates":30,"date":"05-20"},
-"state":"OR","party":"gop","total":295859,"locals":
+"state":"OR","party":"gop","total":296457,"locals":
 {"Wheeler":
 {"votes":[
 {"votes":213,"name":"mccain"},
@@ -48,9 +48,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lane"},
 "Douglas":
 {"votes":[
-{"votes":12202,"name":"mccain"},
-{"votes":2485,"name":"paul"}],
-"total":14687,"precincts":
+{"votes":12676,"name":"mccain"},
+{"votes":2609,"name":"paul"}],
+"total":15285,"precincts":
 {"total":31,"reporting":26},
 "name":"Douglas"},
 "Klamath":

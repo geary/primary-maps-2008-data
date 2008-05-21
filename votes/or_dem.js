@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":319164,"name":"obama","delegates":22},
-{"votes":228494,"name":"clinton","delegates":12}],
+{"votes":319395,"name":"obama","delegates":22},
+{"votes":228768,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
 {"total":1000,"reporting":835},
 "delegates":52,"date":"05-20"},
-"state":"OR","party":"dem","total":547658,"locals":
+"state":"OR","party":"dem","total":548163,"locals":
 {"Wheeler":
 {"votes":[
 {"votes":114,"name":"clinton"},
@@ -48,9 +48,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lane"},
 "Douglas":
 {"votes":[
-{"votes":7078,"name":"clinton"},
-{"votes":6739,"name":"obama"}],
-"total":13817,"precincts":
+{"votes":7352,"name":"clinton"},
+{"votes":6970,"name":"obama"}],
+"total":14322,"precincts":
 {"total":31,"reporting":26},
 "name":"Douglas"},
 "Klamath":

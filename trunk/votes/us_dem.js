@@ -237,7 +237,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":275469,"name":"obama","delegates":22},
 {"votes":199293,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":677},
+{"total":1000,"reporting":678},
 "delegates":52,"date":"05-20"},
 "Connecticut":
 {"votes":[

@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":314547,"name":"obama","delegates":22},
-{"votes":225909,"name":"clinton","delegates":12}],
+{"votes":314661,"name":"obama","delegates":22},
+{"votes":226015,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
 {"total":1000,"reporting":826},
 "delegates":52,"date":"05-20"},
-"state":"OR","party":"dem","total":540456,"locals":
+"state":"OR","party":"dem","total":540676,"locals":
 {"Wheeler":
 {"votes":[
 {"votes":114,"name":"clinton"},
@@ -118,9 +118,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sherman"},
 "Linn":
 {"votes":[
-{"votes":6738,"name":"clinton"},
-{"votes":6387,"name":"obama"}],
-"total":13125,"precincts":
+{"votes":6844,"name":"clinton"},
+{"votes":6501,"name":"obama"}],
+"total":13345,"precincts":
 {"total":29,"reporting":24},
 "name":"Linn"},
 "Lincoln":

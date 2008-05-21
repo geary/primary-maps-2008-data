@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":444931,"name":"clinton"},
-{"votes":204125,"name":"obama"},
+{"votes":444931,"name":"clinton","delegates":15},
+{"votes":204125,"name":"obama","delegates":33},
 {"votes":17272,"name":"uncommitted-d"},
 {"votes":13693,"name":"edwards"}],
 "name":"Kentucky","precincts":

@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16804009,"name":"clinton","delegates":1470},
+{"votes":16804009,"name":"clinton","delegates":1472},
 {"votes":16537470,"name":"obama","delegates":1615},
 {"votes":966225,"name":"edwards"},
 {"votes":275034,"name":"uncommitted-d"},
@@ -399,7 +399,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":13,"date":"02-05","type":"caucus"},
 "Kentucky":
 {"votes":[
-{"votes":459145,"name":"clinton","delegates":33},
+{"votes":459145,"name":"clinton","delegates":35},
 {"votes":209771,"name":"obama","delegates":15},
 {"votes":18029,"name":"uncommitted-d"},
 {"votes":14182,"name":"edwards"}],

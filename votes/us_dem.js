@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16985150,"name":"clinton","delegates":1490},
-{"votes":16775010,"name":"obama","delegates":1642},
+{"votes":16988094,"name":"clinton","delegates":1490},
+{"votes":16778962,"name":"obama","delegates":1642},
 {"votes":966225,"name":"edwards"},
 {"votes":275034,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":22722,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":35383864,"locals":
+"state":"US","party":"dem","total":35390760,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -234,10 +234,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":83,"date":"02-12"},
 "Oregon":
 {"votes":[
-{"votes":326581,"name":"obama","delegates":28},
-{"votes":232993,"name":"clinton","delegates":17}],
+{"votes":330533,"name":"obama","delegates":28},
+{"votes":235937,"name":"clinton","delegates":17}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":864},
+{"total":1000,"reporting":875},
 "delegates":52,"date":"05-20"},
 "Connecticut":
 {"votes":[

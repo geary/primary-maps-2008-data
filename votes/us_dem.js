@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16985150,"name":"clinton","delegates":1485},
-{"votes":16775010,"name":"obama","delegates":1636},
+{"votes":16985150,"name":"clinton","delegates":1490},
+{"votes":16775010,"name":"obama","delegates":1642},
 {"votes":966225,"name":"edwards"},
 {"votes":275034,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -234,8 +234,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":83,"date":"02-12"},
 "Oregon":
 {"votes":[
-{"votes":326581,"name":"obama","delegates":22},
-{"votes":232993,"name":"clinton","delegates":12}],
+{"votes":326581,"name":"obama","delegates":28},
+{"votes":232993,"name":"clinton","delegates":17}],
 "name":"Oregon","precincts":
 {"total":1000,"reporting":864},
 "delegates":52,"date":"05-20"},

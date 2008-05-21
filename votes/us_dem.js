@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16733308,"name":"clinton","delegates":1437},
-{"votes":16441636,"name":"obama","delegates":1600},
-{"votes":965475,"name":"edwards"},
-{"votes":274053,"name":"uncommitted-d"},
+{"votes":16734182,"name":"clinton","delegates":1437},
+{"votes":16441921,"name":"obama","delegates":1600},
+{"votes":965511,"name":"edwards"},
+{"votes":274125,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
 {"votes":102554,"name":"kucinich"},
 {"votes":81165,"name":"biden"},
@@ -12,7 +12,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":22722,"name":"nopreference-d"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":34796917,"locals":
+"state":"US","party":"dem","total":34798184,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -397,10 +397,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":13,"date":"02-05","type":"caucus"},
 "Kentucky":
 {"votes":[
-{"votes":440296,"name":"clinton"},
-{"votes":202978,"name":"obama"},
-{"votes":17048,"name":"uncommitted-d"},
-{"votes":13432,"name":"edwards"}],
+{"votes":441170,"name":"clinton"},
+{"votes":203263,"name":"obama"},
+{"votes":17120,"name":"uncommitted-d"},
+{"votes":13468,"name":"edwards"}],
 "name":"Kentucky","precincts":
 {"total":3532,"reporting":3432},
 "delegates":51,"date":"05-20"},

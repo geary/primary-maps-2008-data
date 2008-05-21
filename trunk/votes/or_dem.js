@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":258115,"name":"obama","delegates":22},
-{"votes":187200,"name":"clinton","delegates":12}],
+{"votes":258255,"name":"obama","delegates":22},
+{"votes":187282,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":529},
+{"total":1000,"reporting":549},
 "delegates":52,"date":"05-20"},
-"state":"OR","party":"dem","total":445315,"locals":
+"state":"OR","party":"dem","total":445537,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -74,9 +74,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hood River":
 {"votes":[
-{"votes":2047,"name":"obama"},
-{"votes":1353,"name":"clinton"}],
-"total":3400,"precincts":
+{"votes":2187,"name":"obama"},
+{"votes":1435,"name":"clinton"}],
+"total":3622,"precincts":
 {"total":5,"reporting":4},
 "name":"Hood River"},
 "Coos":
@@ -91,7 +91,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":74810,"name":"obama"},
 {"votes":41761,"name":"clinton"}],
 "total":116571,"precincts":
-{"total":196,"reporting":81},
+{"total":196,"reporting":101},
 "name":"Multnomah"},
 "Columbia":
 {"votes":[

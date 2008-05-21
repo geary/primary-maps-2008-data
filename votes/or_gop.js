@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":210713,"name":"mccain"},
-{"votes":35742,"name":"paul"}],
+{"votes":210833,"name":"mccain"},
+{"votes":35785,"name":"paul"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":634},
+{"total":1000,"reporting":636},
 "delegates":30,"date":"05-20"},
-"state":"OR","party":"gop","total":246455,"locals":
+"state":"OR","party":"gop","total":246618,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -77,14 +77,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":1707,"name":"mccain"},
 {"votes":237,"name":"paul"}],
 "total":1944,"precincts":
-{"total":5,"reporting":4},
+{"total":5,"reporting":5},
 "name":"Hood River"},
 "Coos":
 {"votes":[
-{"votes":4500,"name":"mccain"},
-{"votes":1057,"name":"paul"}],
-"total":5557,"precincts":
-{"total":18,"reporting":13},
+{"votes":4620,"name":"mccain"},
+{"votes":1100,"name":"paul"}],
+"total":5720,"precincts":
+{"total":18,"reporting":14},
 "name":"Coos"},
 "Multnomah":
 {"votes":[

@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16737943,"name":"clinton","delegates":1437},
-{"votes":16442783,"name":"obama","delegates":1600},
+{"votes":16737943,"name":"clinton","delegates":1452},
+{"votes":16442783,"name":"obama","delegates":1633},
 {"votes":965736,"name":"edwards"},
 {"votes":274277,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -397,8 +397,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":13,"date":"02-05","type":"caucus"},
 "Kentucky":
 {"votes":[
-{"votes":444931,"name":"clinton"},
-{"votes":204125,"name":"obama"},
+{"votes":444931,"name":"clinton","delegates":15},
+{"votes":204125,"name":"obama","delegates":33},
 {"votes":17272,"name":"uncommitted-d"},
 {"votes":13693,"name":"edwards"}],
 "name":"Kentucky","precincts":

@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":297107,"name":"obama","delegates":22},
-{"votes":213320,"name":"clinton","delegates":12}],
+{"votes":297774,"name":"obama","delegates":22},
+{"votes":213711,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":759},
+{"total":1000,"reporting":761},
 "delegates":52,"date":"05-20"},
-"state":"OR","party":"dem","total":510427,"locals":
+"state":"OR","party":"dem","total":511485,"locals":
 {"Wheeler":
 {"votes":[],
 "total":0,"precincts":
@@ -32,10 +32,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Union"},
 "Deschutes":
 {"votes":[
-{"votes":10107,"name":"obama"},
-{"votes":6685,"name":"clinton"}],
-"total":16792,"precincts":
-{"total":43,"reporting":29},
+{"votes":10731,"name":"obama"},
+{"votes":7046,"name":"clinton"}],
+"total":17777,"precincts":
+{"total":43,"reporting":31},
 "name":"Deschutes"},
 "Lane":
 {"votes":[
@@ -67,9 +67,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Wasco"},
 "Jefferson":
 {"votes":[
-{"votes":1114,"name":"obama"},
-{"votes":1045,"name":"clinton"}],
-"total":2159,"precincts":
+{"votes":1157,"name":"obama"},
+{"votes":1075,"name":"clinton"}],
+"total":2232,"precincts":
 {"total":5,"reporting":5},
 "name":"Jefferson"},
 "Hood River":

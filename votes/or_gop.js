@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":248199,"name":"mccain"},
 {"votes":43001,"name":"paul"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":814},
+{"total":1000,"reporting":825},
 "delegates":30,"date":"05-20"},
 "state":"OR","party":"gop","total":291200,"locals":
 {"Wheeler":
@@ -247,7 +247,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":24342,"name":"mccain"},
 {"votes":3781,"name":"paul"}],
 "total":28123,"precincts":
-{"total":70,"reporting":59},
+{"total":70,"reporting":70},
 "name":"Marion"},
 "Polk":
 {"votes":[

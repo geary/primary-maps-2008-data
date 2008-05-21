@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9200647,"name":"mccain","delegates":1225},
+{"votes":9201489,"name":"mccain","delegates":1225},
 {"votes":4373398,"name":"romney","delegates":271},
 {"votes":4143462,"name":"huckabee","delegates":273},
-{"votes":1088313,"name":"paul","delegates":19},
+{"votes":1088489,"name":"paul","delegates":19},
 {"votes":573763,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
 {"votes":57204,"name":"uncommitted-r"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19849195,"locals":
+"state":"US","party":"gop","total":19850213,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -253,10 +253,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":60,"date":"02-12"},
 "Oregon":
 {"votes":[
-{"votes":258213,"name":"mccain"},
-{"votes":45210,"name":"paul"}],
+{"votes":259055,"name":"mccain"},
+{"votes":45386,"name":"paul"}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":864},
+{"total":1000,"reporting":865},
 "delegates":30,"date":"05-20"},
 "Connecticut":
 {"votes":[

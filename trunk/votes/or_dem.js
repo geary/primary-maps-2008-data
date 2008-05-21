@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":258115,"name":"obama","delegates":22},
 {"votes":187200,"name":"clinton","delegates":12}],
 "name":"Oregon","precincts":
-{"total":1000,"reporting":525},
+{"total":1000,"reporting":529},
 "delegates":52,"date":"05-20"},
 "state":"OR","party":"dem","total":445315,"locals":
 {"Wheeler":
@@ -194,7 +194,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":17450,"name":"obama"},
 {"votes":15741,"name":"clinton"}],
 "total":33191,"precincts":
-{"total":103,"reporting":41},
+{"total":103,"reporting":45},
 "name":"Clackamas"},
 "Gilliam":
 {"votes":[],

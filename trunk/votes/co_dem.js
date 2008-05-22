@@ -2,8 +2,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Colorado","precincts":
 {"total":3213,"reporting":3181},
 "votes":[
-{"votes":79344,"name":"obama","delegates":35},
-{"votes":38587,"name":"clinton","delegates":20},
+{"votes":79344,"name":"obama","delegates":36},
+{"votes":38587,"name":"clinton","delegates":19},
 {"votes":1253,"name":"uncommitted-d"},
 {"votes":16,"name":"gravel"}],
 "delegates":55,"date":"02-05","type":"caucus"},

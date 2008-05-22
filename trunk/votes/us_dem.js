@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":16988627,"name":"clinton","delegates":1493},
-{"votes":16779567,"name":"obama","delegates":1643},
+{"votes":16988627,"name":"clinton","delegates":1492},
+{"votes":16779567,"name":"obama","delegates":1644},
 {"votes":966225,"name":"edwards"},
 {"votes":275034,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -471,8 +471,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Colorado","precincts":
 {"total":3213,"reporting":3181},
 "votes":[
-{"votes":79344,"name":"obama","delegates":35},
-{"votes":38587,"name":"clinton","delegates":20},
+{"votes":79344,"name":"obama","delegates":36},
+{"votes":38587,"name":"clinton","delegates":19},
 {"votes":1253,"name":"uncommitted-d"},
 {"votes":16,"name":"gravel"}],
 "delegates":55,"date":"02-05","type":"caucus"},

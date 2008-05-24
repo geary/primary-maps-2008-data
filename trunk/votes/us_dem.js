@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":16988627,"name":"clinton","delegates":1494},
-{"votes":16779567,"name":"obama","delegates":1646},
+{"votes":16779567,"name":"obama","delegates":1648},
 {"votes":966225,"name":"edwards"},
 {"votes":275034,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},
@@ -314,7 +314,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "New Hampshire":
 {"votes":[
 {"votes":112238,"name":"clinton","delegates":9},
-{"votes":104757,"name":"obama","delegates":10},
+{"votes":104757,"name":"obama","delegates":12},
 {"votes":48666,"name":"edwards"},
 {"votes":13245,"name":"richardson"},
 {"votes":3912,"name":"kucinich"},

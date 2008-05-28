@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":8941,"name":"mccain"},
-{"votes":2462,"name":"paul"},
-{"votes":694,"name":"uncommitted-r"}],
+{"votes":11084,"name":"mccain"},
+{"votes":3143,"name":"paul"},
+{"votes":832,"name":"uncommitted-r"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":96},
+{"total":940,"reporting":124},
 "delegates":32,"date":"05-27"},
-"state":"ID","party":"gop","total":12097,"locals":
+"state":"ID","party":"gop","total":15059,"locals":
 {"Camas":
 {"votes":[
 {"votes":216,"name":"mccain"},
@@ -60,9 +60,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":5,"reporting":0},
 "name":"Teton"},
 "Idaho":
-{"votes":[],
-"total":0,"precincts":
-{"total":27,"reporting":0},
+{"votes":[
+{"votes":115,"name":"mccain"},
+{"votes":50,"name":"paul"}],
+"total":165,"precincts":
+{"total":27,"reporting":1},
 "name":"Idaho"},
 "Bingham":
 {"votes":[
@@ -124,9 +126,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":1},
 "name":"Butte"},
 "Twin Falls":
-{"votes":[],
-"total":0,"precincts":
-{"total":45,"reporting":0},
+{"votes":[
+{"votes":1749,"name":"mccain"},
+{"votes":550,"name":"paul"},
+{"votes":111,"name":"uncommitted-r"}],
+"total":2410,"precincts":
+{"total":45,"reporting":24},
 "name":"Twin Falls"},
 "Gem":
 {"votes":[
@@ -236,11 +241,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Washington"},
 "Elmore":
 {"votes":[
-{"votes":149,"name":"mccain"},
-{"votes":38,"name":"paul"},
-{"votes":17,"name":"uncommitted-r"}],
-"total":204,"precincts":
-{"total":18,"reporting":0},
+{"votes":428,"name":"mccain"},
+{"votes":119,"name":"paul"},
+{"votes":44,"name":"uncommitted-r"}],
+"total":591,"precincts":
+{"total":18,"reporting":3},
 "name":"Elmore"},
 "Payette":
 {"votes":[],

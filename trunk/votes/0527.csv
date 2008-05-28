@@ -1,6 +1,7 @@
 
 state,county,precincts,reporting,clinton,obama,judd,uncommitted-d,mccain,paul,uncommitted-r
-ID,*,940,0,0,0,0,0,0,0,0
+ID,*,940,0,,,,,0,0,0
+ID,*,940,1,19,44,2,0,,,
 ID,Ada,141,0,0,0,0,0,0,0,0
 ID,Adams,6,0,0,0,0,0,0,0,0
 ID,Bannock,58,0,0,0,0,0,0,0,0
@@ -8,7 +9,8 @@ ID,Bear Lake,14,0,0,0,0,0,0,0,0
 ID,Benewah,11,0,0,0,0,0,0,0,0
 ID,Bingham,27,0,0,0,0,0,0,0,0
 ID,Blaine,15,0,0,0,0,0,0,0,0
-ID,Boise,7,0,0,0,0,0,0,0,0
+ID,Boise,7,0,,,,,0,0,0
+ID,Boise,7,1,19,44,2,0,,,
 ID,Bonner,33,0,0,0,0,0,0,0,0
 ID,Bonneville,52,0,0,0,0,0,0,0,0
 ID,Boundary,7,0,0,0,0,0,0,0,0

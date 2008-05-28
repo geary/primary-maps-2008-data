@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":70106,"name":"mccain"},
-{"votes":23172,"name":"paul"},
-{"votes":6152,"name":"uncommitted-r"}],
+{"votes":71561,"name":"mccain"},
+{"votes":23610,"name":"paul"},
+{"votes":6233,"name":"uncommitted-r"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":732},
+{"total":940,"reporting":742},
 "delegates":32,"date":"05-27"},
-"state":"ID","party":"gop","total":99430,"locals":
+"state":"ID","party":"gop","total":101404,"locals":
 {"Camas":
 {"votes":[
 {"votes":216,"name":"mccain"},
@@ -141,10 +141,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Bonneville"},
 "Butte":
 {"votes":[
-{"votes":208,"name":"mccain"},
-{"votes":50,"name":"paul"}],
-"total":258,"precincts":
-{"total":4,"reporting":2},
+{"votes":614,"name":"mccain"},
+{"votes":150,"name":"paul"}],
+"total":764,"precincts":
+{"total":4,"reporting":4},
 "name":"Butte"},
 "Twin Falls":
 {"votes":[
@@ -156,11 +156,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Twin Falls"},
 "Gem":
 {"votes":[
-{"votes":185,"name":"mccain"},
-{"votes":79,"name":"paul"},
-{"votes":31,"name":"uncommitted-r"}],
-"total":295,"precincts":
-{"total":13,"reporting":2},
+{"votes":520,"name":"mccain"},
+{"votes":186,"name":"paul"},
+{"votes":65,"name":"uncommitted-r"}],
+"total":771,"precincts":
+{"total":13,"reporting":5},
 "name":"Gem"},
 "Lincoln":
 {"votes":[
@@ -336,11 +336,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Minidoka"},
 "Jerome":
 {"votes":[
-{"votes":798,"name":"mccain"},
-{"votes":202,"name":"paul"},
-{"votes":66,"name":"uncommitted-r"}],
-"total":1066,"precincts":
-{"total":11,"reporting":6},
+{"votes":1512,"name":"mccain"},
+{"votes":433,"name":"paul"},
+{"votes":113,"name":"uncommitted-r"}],
+"total":2058,"precincts":
+{"total":11,"reporting":11},
 "name":"Jerome"},
 "Shoshone":
 {"votes":[

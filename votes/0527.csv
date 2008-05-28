@@ -1,6 +1,6 @@
 
 state,county,precincts,reporting,clinton,obama,judd,uncommitted-d,mccain,paul,uncommitted-r
-ID,*,940,31,340,389,20,19,3565,922,176
+ID,*,940,34,433,471,29,53,3619,949,178
 ID,Ada,141,0,0,0,0,0,0,0,0
 ID,Adams,6,0,0,0,0,0,0,0,0
 ID,Bannock,58,0,0,0,0,0,0,0,0
@@ -40,7 +40,7 @@ ID,Oneida,6,6,41,29,1,0,992,256,0
 ID,Owyhee,13,0,0,0,0,0,0,0,0
 ID,Payette,10,0,0,0,0,0,0,0,0
 ID,Power,7,0,0,0,0,0,0,0,0
-ID,Shoshone,19,0,0,0,0,0,0,0,0
+ID,Shoshone,19,3,93,82,9,34,54,27,2
 ID,Teton,5,0,0,0,0,0,0,0,0
 ID,Twin Falls,45,0,0,0,0,0,0,0,0
 ID,Valley,9,1,22,35,0,0,187,55,0

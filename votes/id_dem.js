@@ -1,17 +1,20 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":522,"name":"obama","delegates":15},
-{"votes":488,"name":"clinton","delegates":3},
-{"votes":57,"name":"uncommitted-d"},
-{"votes":30,"name":"judd"}],
+{"votes":646,"name":"obama","delegates":15},
+{"votes":582,"name":"clinton","delegates":3},
+{"votes":58,"name":"uncommitted-d"},
+{"votes":37,"name":"judd"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":44},
+{"total":940,"reporting":58},
 "delegates":18,"date":"05-27"},
-"state":"ID","party":"dem","total":1097,"locals":
+"state":"ID","party":"dem","total":1323,"locals":
 {"Camas":
-{"votes":[],
-"total":0,"precincts":
-{"total":2,"reporting":0},
+{"votes":[
+{"votes":22,"name":"obama"},
+{"votes":17,"name":"clinton"},
+{"votes":3,"name":"judd"}],
+"total":42,"precincts":
+{"total":2,"reporting":2},
 "name":"Camas"},
 "Nez Perce":
 {"votes":[],
@@ -125,9 +128,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":45,"reporting":0},
 "name":"Twin Falls"},
 "Gem":
-{"votes":[],
-"total":0,"precincts":
-{"total":13,"reporting":0},
+{"votes":[
+{"votes":29,"name":"clinton"},
+{"votes":26,"name":"obama"}],
+"total":55,"precincts":
+{"total":13,"reporting":1},
 "name":"Gem"},
 "Lincoln":
 {"votes":[],
@@ -135,9 +140,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":6,"reporting":0},
 "name":"Lincoln"},
 "Adams":
-{"votes":[],
-"total":0,"precincts":
-{"total":6,"reporting":0},
+{"votes":[
+{"votes":36,"name":"obama"},
+{"votes":19,"name":"clinton"},
+{"votes":1,"name":"judd"}],
+"total":56,"precincts":
+{"total":6,"reporting":3},
 "name":"Adams"},
 "Lemhi":
 {"votes":[
@@ -212,9 +220,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":0},
 "name":"Lewis"},
 "Bear Lake":
-{"votes":[],
-"total":0,"precincts":
-{"total":14,"reporting":0},
+{"votes":[
+{"votes":40,"name":"obama"},
+{"votes":29,"name":"clinton"},
+{"votes":3,"name":"judd"},
+{"votes":1,"name":"uncommitted-d"}],
+"total":73,"precincts":
+{"total":14,"reporting":8},
 "name":"Bear Lake"},
 "Washington":
 {"votes":[],

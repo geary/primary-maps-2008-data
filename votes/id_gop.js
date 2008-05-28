@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":4506,"name":"mccain"},
-{"votes":1197,"name":"paul"},
-{"votes":222,"name":"uncommitted-r"}],
+{"votes":5298,"name":"mccain"},
+{"votes":1402,"name":"paul"},
+{"votes":240,"name":"uncommitted-r"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":44},
+{"total":940,"reporting":56},
 "delegates":32,"date":"05-27"},
-"state":"ID","party":"gop","total":5925,"locals":
+"state":"ID","party":"gop","total":6940,"locals":
 {"Camas":
 {"votes":[],
 "total":0,"precincts":
@@ -121,9 +121,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":45,"reporting":0},
 "name":"Twin Falls"},
 "Gem":
-{"votes":[],
-"total":0,"precincts":
-{"total":13,"reporting":0},
+{"votes":[
+{"votes":93,"name":"mccain"},
+{"votes":29,"name":"paul"},
+{"votes":9,"name":"uncommitted-r"}],
+"total":131,"precincts":
+{"total":13,"reporting":1},
 "name":"Gem"},
 "Lincoln":
 {"votes":[],
@@ -131,9 +134,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":6,"reporting":0},
 "name":"Lincoln"},
 "Adams":
-{"votes":[],
-"total":0,"precincts":
-{"total":6,"reporting":0},
+{"votes":[
+{"votes":269,"name":"mccain"},
+{"votes":105,"name":"paul"}],
+"total":374,"precincts":
+{"total":6,"reporting":3},
 "name":"Adams"},
 "Lemhi":
 {"votes":[
@@ -206,9 +211,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":0},
 "name":"Lewis"},
 "Bear Lake":
-{"votes":[],
-"total":0,"precincts":
-{"total":14,"reporting":0},
+{"votes":[
+{"votes":430,"name":"mccain"},
+{"votes":71,"name":"paul"},
+{"votes":9,"name":"uncommitted-r"}],
+"total":510,"precincts":
+{"total":14,"reporting":8},
 "name":"Bear Lake"},
 "Washington":
 {"votes":[],

@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":23950,"name":"obama","delegates":15},
-{"votes":16102,"name":"clinton","delegates":3},
-{"votes":2041,"name":"uncommitted-d"},
+{"votes":23973,"name":"obama","delegates":15},
+{"votes":16117,"name":"clinton","delegates":3},
+{"votes":2042,"name":"uncommitted-d"},
 {"votes":734,"name":"judd"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":938},
+{"total":940,"reporting":940},
 "delegates":18,"date":"05-27"},
-"state":"ID","party":"dem","total":42827,"locals":
+"state":"ID","party":"dem","total":42866,"locals":
 {"Camas":
 {"votes":[
 {"votes":22,"name":"obama"},
@@ -175,12 +175,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Twin Falls"},
 "Gem":
 {"votes":[
-{"votes":201,"name":"obama"},
-{"votes":161,"name":"clinton"},
-{"votes":8,"name":"uncommitted-d"},
+{"votes":224,"name":"obama"},
+{"votes":176,"name":"clinton"},
+{"votes":9,"name":"uncommitted-d"},
 {"votes":4,"name":"judd"}],
-"total":374,"precincts":
-{"total":13,"reporting":11},
+"total":413,"precincts":
+{"total":13,"reporting":13},
 "name":"Gem"},
 "Lincoln":
 {"votes":[

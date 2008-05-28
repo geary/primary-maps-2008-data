@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":86987,"name":"mccain"},
-{"votes":29546,"name":"paul"},
-{"votes":7948,"name":"uncommitted-r"}],
+{"votes":87341,"name":"mccain"},
+{"votes":29741,"name":"paul"},
+{"votes":7974,"name":"uncommitted-r"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":938},
+{"total":940,"reporting":940},
 "delegates":32,"date":"05-27"},
-"state":"ID","party":"gop","total":124481,"locals":
+"state":"ID","party":"gop","total":125056,"locals":
 {"Camas":
 {"votes":[
 {"votes":216,"name":"mccain"},
@@ -156,11 +156,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Twin Falls"},
 "Gem":
 {"votes":[
-{"votes":1503,"name":"mccain"},
-{"votes":507,"name":"paul"},
-{"votes":169,"name":"uncommitted-r"}],
-"total":2179,"precincts":
-{"total":13,"reporting":11},
+{"votes":1857,"name":"mccain"},
+{"votes":702,"name":"paul"},
+{"votes":195,"name":"uncommitted-r"}],
+"total":2754,"precincts":
+{"total":13,"reporting":13},
 "name":"Gem"},
 "Lincoln":
 {"votes":[

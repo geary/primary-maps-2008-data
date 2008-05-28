@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9512020,"name":"clinton","delegates":666},
-{"votes":9357483,"name":"obama","delegates":816},
+{"votes":9512022,"name":"clinton","delegates":666},
+{"votes":9357485,"name":"obama","delegates":816},
 {"votes":551618,"name":"edwards"},
 {"votes":256360,"name":"uncommitted-d"},
 {"votes":50582,"name":"richardson"},
@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":20,"name":"judd"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":19884739,"locals":
+"state":"US","party":"dem","total":19884743,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -146,12 +146,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":22,"date":"01-08"},
 "Idaho":
 {"votes":[
-{"votes":387,"name":"obama","delegates":15},
-{"votes":338,"name":"clinton","delegates":3},
+{"votes":389,"name":"obama","delegates":15},
+{"votes":340,"name":"clinton","delegates":3},
 {"votes":20,"name":"judd"},
 {"votes":19,"name":"uncommitted-d"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":30},
+{"total":940,"reporting":31},
 "delegates":18,"date":"05-27"},
 "West Virginia":
 {"votes":[

@@ -1,9 +1,9 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9209446,"name":"mccain","delegates":1225},
+{"votes":9209767,"name":"mccain","delegates":1225},
 {"votes":4373398,"name":"romney","delegates":271},
 {"votes":4143462,"name":"huckabee","delegates":273},
-{"votes":1090238,"name":"paul","delegates":19},
+{"votes":1090304,"name":"paul","delegates":19},
 {"votes":573763,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
 {"votes":57427,"name":"uncommitted-r"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":19860142,"locals":
+"state":"US","party":"gop","total":19860529,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -136,11 +136,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":20,"date":"01-22","type":"caucus"},
 "Idaho":
 {"votes":[
-{"votes":3244,"name":"mccain"},
-{"votes":856,"name":"paul"},
+{"votes":3565,"name":"mccain"},
+{"votes":922,"name":"paul"},
 {"votes":176,"name":"uncommitted-r"}],
 "name":"Idaho","precincts":
-{"total":940,"reporting":29},
+{"total":940,"reporting":31},
 "delegates":32,"date":"05-27"},
 "Wyoming":
 {"name":"Wyoming","precincts":

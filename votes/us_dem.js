@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":9527799,"name":"clinton","delegates":752},
-{"votes":9381069,"name":"obama","delegates":880},
+{"votes":9381069,"name":"obama","delegates":878},
 {"votes":551618,"name":"edwards"},
 {"votes":258383,"name":"uncommitted-d"},
 {"votes":50582,"name":"richardson"},
@@ -193,7 +193,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Florida":
 {"votes":[
 {"votes":856944,"name":"clinton","delegates":52},
-{"votes":568930,"name":"obama","delegates":34},
+{"votes":568930,"name":"obama","delegates":33},
 {"votes":248575,"name":"edwards"},
 {"votes":15426,"name":"biden"},
 {"votes":14782,"name":"richardson"},

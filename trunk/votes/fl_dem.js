@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":856944,"name":"clinton","delegates":53},
+{"votes":856944,"name":"clinton","delegates":52},
 {"votes":568930,"name":"obama","delegates":34},
 {"votes":248575,"name":"edwards"},
 {"votes":15426,"name":"biden"},
@@ -10,7 +10,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5261,"name":"gravel"}],
 "name":"Florida","precincts":
 {"total":6913,"reporting":6900},
-"delegates":0,"date":"01-29"},
+"delegates":93,"date":"01-29"},
 "state":"FL","party":"dem","total":1724855,"locals":
 {"Alachua":
 {"votes":[

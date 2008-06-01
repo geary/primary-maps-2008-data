@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9527799,"name":"clinton","delegates":666},
-{"votes":9381069,"name":"obama","delegates":816},
+{"votes":9527799,"name":"clinton","delegates":754},
+{"votes":9381069,"name":"obama","delegates":880},
 {"votes":551618,"name":"edwards"},
 {"votes":258383,"name":"uncommitted-d"},
 {"votes":50582,"name":"richardson"},
@@ -105,7 +105,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":45,"date":"01-03","type":"caucus"},
 "Michigan":
 {"votes":[
-{"votes":328151,"name":"clinton"},
+{"votes":328151,"name":"clinton","delegates":35},
 {"votes":236723,"name":"uncommitted-d"},
 {"votes":21708,"name":"kucinich"},
 {"votes":3853,"name":"dodd"},
@@ -192,8 +192,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":158,"date":"04-22"},
 "Florida":
 {"votes":[
-{"votes":856944,"name":"clinton"},
-{"votes":568930,"name":"obama"},
+{"votes":856944,"name":"clinton","delegates":53},
+{"votes":568930,"name":"obama","delegates":34},
 {"votes":248575,"name":"edwards"},
 {"votes":15426,"name":"biden"},
 {"votes":14782,"name":"richardson"},

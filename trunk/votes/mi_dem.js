@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":328151,"name":"clinton"},
+{"votes":328151,"name":"clinton","delegates":35},
 {"votes":236723,"name":"uncommitted-d"},
 {"votes":21708,"name":"kucinich"},
 {"votes":3853,"name":"dodd"},

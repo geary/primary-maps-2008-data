@@ -48,6 +48,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":5644,"precincts":
 {"total":1,"reporting":1},
 "name":"Toa Alta"},
+"Maunabo":
+{"votes":[
+{"votes":676,"name":"clinton"},
+{"votes":381,"name":"obama"}],
+"total":1057,"precincts":
+{"total":1,"reporting":1},
+"name":"Maunabo"},
 "Manat\u00ed":
 {"votes":[
 {"votes":3329,"name":"clinton"},
@@ -503,13 +510,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":663,"precincts":
 {"total":1,"reporting":1},
 "name":"Maricao"},
-"Maunabo":
-{"votes":[
-{"votes":676,"name":"clinton"},
-{"votes":381,"name":"obama"}],
-"total":1057,"precincts":
-{"total":1,"reporting":1},
-"name":"Maunabo"},
 "Naguabo":
 {"votes":[
 {"votes":1523,"name":"clinton"},

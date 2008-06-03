@@ -116,11 +116,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Exeter"},
-"New Gloucester":
+"Grand Isle":
 {"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"New Gloucester"},
+"name":"Grand Isle"},
 "Knox":
 {"votes":[],
 "total":0,"precincts":
@@ -186,11 +186,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Passadumkeag"},
-"Grand Isle":
+"Brooksville":
 {"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"Grand Isle"},
+"name":"Brooksville"},
 "Greenville Twps":
 {"votes":[],
 "total":0,"precincts":
@@ -699,11 +699,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Lamoine"},
-"Charlotte":
+"New Gloucester":
 {"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"Charlotte"},
+"name":"New Gloucester"},
 "Edinburg":
 {"votes":[],
 "total":0,"precincts":
@@ -1277,11 +1277,6 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"St. Francis"},
-"Brooksville":
-{"votes":[],
-"total":0,"precincts":
-{"total":1,"reporting":0},
-"name":"Brooksville"},
 "Surry":
 {"votes":[],
 "total":0,"precincts":
@@ -1622,11 +1617,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Eastport"},
-"Monmouth":
+"Charlotte":
 {"votes":[],
 "total":0,"precincts":
-{"total":2,"reporting":0},
-"name":"Monmouth"},
+{"total":1,"reporting":0},
+"name":"Charlotte"},
 "Friendship":
 {"votes":[],
 "total":0,"precincts":
@@ -2252,6 +2247,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Newfield"},
+"Monmouth":
+{"votes":[],
+"total":0,"precincts":
+{"total":2,"reporting":0},
+"name":"Monmouth"},
 "Bucksport":
 {"votes":[],
 "total":0,"precincts":
@@ -2500,11 +2500,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"precincts":
 {"total":1,"reporting":0},
 "name":"Wells"},
-"T17 R5 Twp (Grt\/CrossLk)":
+"T17 R5 Twp (Grt/CrossLk)":
 {"votes":[],
 "total":0,"precincts":
 {"total":1,"reporting":0},
-"name":"T17 R5 Twp (Grt\/CrossLk)"},
+"name":"T17 R5 Twp (Grt/CrossLk)"},
 "Franklin":
 {"votes":[],
 "total":0,"precincts":

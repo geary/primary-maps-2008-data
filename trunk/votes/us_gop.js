@@ -95,6 +95,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Arkansas","precincts":
 {"total":2480,"reporting":2402},
 "delegates":31,"date":"02-05"},
+"New Mexico":
+{"votes":[],
+"name":"New Mexico","precincts":
+{"total":1633,"reporting":0},
+"delegates":32,"date":"06-03"},
 "Indiana":
 {"votes":[
 {"votes":318374,"name":"mccain","delegates":27},
@@ -505,6 +510,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"New York","precincts":
 {"total":14670,"reporting":14585},
 "delegates":101,"date":"02-05"},
+"South Dakota":
+{"votes":[],
+"name":"South Dakota","precincts":
+{"total":762,"reporting":0},
+"delegates":27,"date":"06-03"},
 "Colorado":
 {"name":"Colorado","precincts":
 {"total":3213,"reporting":3067},

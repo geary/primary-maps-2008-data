@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9527799,"name":"clinton","delegates":752},
-{"votes":9381069,"name":"obama","delegates":878},
+{"votes":9790919,"name":"clinton","delegates":790},
+{"votes":9502527,"name":"obama","delegates":895},
 {"votes":551618,"name":"edwards"},
 {"votes":258383,"name":"uncommitted-d"},
 {"votes":50582,"name":"richardson"},
@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":734,"name":"judd"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":19926841,"locals":
+"state":"US","party":"dem","total":20311419,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -67,17 +67,15 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Louisiana","precincts":
 {"total":3966,"reporting":3966},
 "delegates":56,"date":"02-09"},
-"Texas":
+"Idaho":
 {"votes":[
-{"votes":1452776,"name":"clinton","delegates":94},
-{"votes":1354553,"name":"obama","delegates":99},
-{"votes":29804,"name":"edwards"},
-{"votes":10667,"name":"richardson"},
-{"votes":5296,"name":"biden"},
-{"votes":3717,"name":"dodd"}],
-"name":"Texas","precincts":
-{"total":8247,"reporting":8231},
-"delegates":193,"date":"03-04"},
+{"votes":23973,"name":"obama","delegates":15},
+{"votes":16117,"name":"clinton","delegates":3},
+{"votes":2042,"name":"uncommitted-d"},
+{"votes":734,"name":"judd"}],
+"name":"Idaho","precincts":
+{"total":940,"reporting":940},
+"delegates":18,"date":"05-27"},
 "Wisconsin":
 {"votes":[
 {"votes":646007,"name":"obama","delegates":42},
@@ -144,23 +142,24 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"New Hampshire","precincts":
 {"total":301,"reporting":300},
 "delegates":22,"date":"01-08"},
-"Idaho":
+"Texas":
 {"votes":[
-{"votes":23973,"name":"obama","delegates":15},
-{"votes":16117,"name":"clinton","delegates":3},
-{"votes":2042,"name":"uncommitted-d"},
-{"votes":734,"name":"judd"}],
-"name":"Idaho","precincts":
-{"total":940,"reporting":940},
-"delegates":18,"date":"05-27"},
-"West Virginia":
+{"votes":1452776,"name":"clinton","delegates":94},
+{"votes":1354553,"name":"obama","delegates":99},
+{"votes":29804,"name":"edwards"},
+{"votes":10667,"name":"richardson"},
+{"votes":5296,"name":"biden"},
+{"votes":3717,"name":"dodd"}],
+"name":"Texas","precincts":
+{"total":8247,"reporting":8231},
+"delegates":193,"date":"03-04"},
+"Puerto Rico":
 {"votes":[
-{"votes":239062,"name":"clinton","delegates":20},
-{"votes":91652,"name":"obama","delegates":8},
-{"votes":26076,"name":"edwards"}],
-"name":"West Virginia","precincts":
-{"total":1894,"reporting":1894},
-"delegates":28,"date":"05-13"},
+{"votes":263120,"name":"clinton","delegates":38},
+{"votes":121458,"name":"obama","delegates":17}],
+"name":"Puerto Rico","precincts":
+{"total":110,"reporting":110},
+"delegates":55,"date":"06-01"},
 "South Carolina":
 {"votes":[
 {"votes":295091,"name":"obama","delegates":32},
@@ -190,6 +189,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pennsylvania","precincts":
 {"total":9268,"reporting":9218},
 "delegates":158,"date":"04-22"},
+"West Virginia":
+{"votes":[
+{"votes":239062,"name":"clinton","delegates":20},
+{"votes":91652,"name":"obama","delegates":8},
+{"votes":26076,"name":"edwards"}],
+"name":"West Virginia","precincts":
+{"total":1894,"reporting":1894},
+"delegates":28,"date":"05-13"},
 "Florida":
 {"votes":[
 {"votes":856944,"name":"clinton","delegates":52},

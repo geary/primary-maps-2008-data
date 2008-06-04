@@ -2,13 +2,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":42807,"name":"mccain"},
 {"votes":10117,"name":"paul"},
-{"votes":4326,"name":"huckabee"},
+{"votes":4334,"name":"huckabee"},
 {"votes":1980,"name":"romney"},
 {"votes":1791,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
 {"total":762,"reporting":752},
 "delegates":27,"date":"06-03"},
-"state":"SD","party":"gop","total":61021,"locals":
+"state":"SD","party":"gop","total":61029,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":324,"name":"mccain"},
@@ -183,10 +183,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":1527,"name":"mccain"},
 {"votes":311,"name":"paul"},
-{"votes":147,"name":"huckabee"},
+{"votes":155,"name":"huckabee"},
 {"votes":75,"name":"romney"},
 {"votes":56,"name":"uncommitted-r"}],
-"total":2116,"precincts":
+"total":2124,"precincts":
 {"total":22,"reporting":22},
 "name":"Brown"},
 "Minnehaha":

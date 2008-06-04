@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":45502,"name":"clinton","delegates":8},
-{"votes":35913,"name":"obama","delegates":6}],
+{"votes":45885,"name":"clinton","delegates":8},
+{"votes":36470,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":599},
+{"total":762,"reporting":608},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":81415,"locals":
+"state":"SD","party":"dem","total":82355,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -155,10 +155,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Lawrence":
 {"votes":[
-{"votes":1045,"name":"obama"},
-{"votes":938,"name":"clinton"}],
-"total":1983,"precincts":
-{"total":12,"reporting":6},
+{"votes":1199,"name":"obama"},
+{"votes":1097,"name":"clinton"}],
+"total":2296,"precincts":
+{"total":12,"reporting":9},
 "name":"Lawrence"},
 "Yankton":
 {"votes":[
@@ -274,10 +274,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lake"},
 "Roberts":
 {"votes":[
-{"votes":827,"name":"obama"},
-{"votes":736,"name":"clinton"}],
-"total":1563,"precincts":
-{"total":14,"reporting":11},
+{"votes":1080,"name":"obama"},
+{"votes":859,"name":"clinton"}],
+"total":1939,"precincts":
+{"total":14,"reporting":13},
 "name":"Roberts"},
 "Meade":
 {"votes":[
@@ -363,10 +363,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":116,"name":"obama"},
-{"votes":115,"name":"clinton"}],
-"total":231,"precincts":
-{"total":16,"reporting":3},
+{"votes":173,"name":"clinton"},
+{"votes":172,"name":"obama"}],
+"total":345,"precincts":
+{"total":16,"reporting":5},
 "name":"Fall River"},
 "Marshall":
 {"votes":[
@@ -457,8 +457,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Shannon"},
 "Bennett":
 {"votes":[
-{"votes":150,"name":"clinton"},
-{"votes":132,"name":"obama"}],
-"total":282,"precincts":
-{"total":8,"reporting":6},
+{"votes":226,"name":"obama"},
+{"votes":193,"name":"clinton"}],
+"total":419,"precincts":
+{"total":8,"reporting":8},
 "name":"Bennett"}}})

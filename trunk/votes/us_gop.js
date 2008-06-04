@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9473502,"name":"mccain","delegates":1225},
-{"votes":4375378,"name":"romney","delegates":271},
+{"votes":9474192,"name":"mccain","delegates":1225},
+{"votes":4375380,"name":"romney","delegates":271},
 {"votes":4147796,"name":"huckabee","delegates":273},
-{"votes":1156065,"name":"paul","delegates":19},
+{"votes":1156262,"name":"paul","delegates":19},
 {"votes":573763,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":67016,"name":"uncommitted-r"},
+{"votes":67017,"name":"uncommitted-r"},
 {"votes":56917,"name":"keyes"},
 {"votes":37805,"name":"hunter"},
-{"votes":21711,"name":"nopreference-r"},
+{"votes":21739,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":1248,"name":"curry"},
 {"votes":998,"name":"cort"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":20207334,"locals":
+"state":"US","party":"gop","total":20208252,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -275,9 +275,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":49456,"name":"mccain"},
-{"votes":12882,"name":"paul"},
-{"votes":1406,"name":"nopreference-r"},
+{"votes":50140,"name":"mccain"},
+{"votes":13078,"name":"paul"},
+{"votes":1434,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
@@ -515,13 +515,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":101,"date":"02-05"},
 "South Dakota":
 {"votes":[
-{"votes":42807,"name":"mccain"},
-{"votes":10117,"name":"paul"},
+{"votes":42813,"name":"mccain"},
+{"votes":10118,"name":"paul"},
 {"votes":4334,"name":"huckabee"},
-{"votes":1980,"name":"romney"},
-{"votes":1791,"name":"uncommitted-r"}],
+{"votes":1982,"name":"romney"},
+{"votes":1792,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":752},
+{"total":762,"reporting":753},
 "delegates":27,"date":"06-03"},
 "Colorado":
 {"name":"Colorado","precincts":

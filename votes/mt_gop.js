@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":10962,"name":"mccain"},
-{"votes":2087,"name":"paul"},
+{"votes":14365,"name":"mccain"},
+{"votes":2578,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
-{"votes":256,"name":"nopreference-r"},
+{"votes":342,"name":"nopreference-r"},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":14177,"locals":
+"state":"MT","party":"gop","total":18157,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -92,12 +92,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Phillips"},
 "Jefferson":
 {"votes":[
-{"votes":218,"name":"mccain"},
-{"votes":64,"name":"paul"},
+{"votes":285,"name":"mccain"},
+{"votes":79,"name":"paul"},
 {"votes":10,"name":"romney"},
 {"votes":5,"name":"huckabee"},
-{"votes":3,"name":"nopreference-r"}],
-"total":300,"precincts":
+{"votes":4,"name":"nopreference-r"}],
+"total":383,"precincts":
 {"total":1,"reporting":1},
 "name":"Jefferson"},
 "Hill":
@@ -155,11 +155,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lincoln"},
 "Powell":
 {"votes":[
+{"votes":112,"name":"mccain"},
+{"votes":20,"name":"paul"},
 {"votes":14,"name":"romney"},
-{"votes":8,"name":"mccain"},
-{"votes":3,"name":"paul"},
+{"votes":5,"name":"nopreference-r"},
 {"votes":2,"name":"huckabee"}],
-"total":27,"precincts":
+"total":153,"precincts":
 {"total":1,"reporting":1},
 "name":"Powell"},
 "Golden Valley":
@@ -371,11 +372,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Missoula"},
 "Cascade":
 {"votes":[
+{"votes":3051,"name":"mccain"},
+{"votes":411,"name":"paul"},
+{"votes":68,"name":"nopreference-r"},
 {"votes":15,"name":"romney"},
-{"votes":8,"name":"paul"},
-{"votes":7,"name":"mccain"},
 {"votes":5,"name":"huckabee"}],
-"total":35,"precincts":
+"total":3550,"precincts":
 {"total":1,"reporting":1},
 "name":"Cascade"},
 "Roosevelt":
@@ -398,9 +400,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"McCone"},
 "Madison":
 {"votes":[
-{"votes":20,"name":"paul"},
+{"votes":25,"name":"mccain"},
+{"votes":9,"name":"paul"},
+{"votes":3,"name":"nopreference-r"},
 {"votes":3,"name":"romney"}],
-"total":23,"precincts":
+"total":40,"precincts":
 {"total":1,"reporting":1},
 "name":"Madison"},
 "Beaverhead":
@@ -431,10 +435,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sweet Grass"},
 "Pondera":
 {"votes":[
+{"votes":148,"name":"mccain"},
+{"votes":36,"name":"paul"},
 {"votes":15,"name":"romney"},
-{"votes":9,"name":"mccain"},
+{"votes":9,"name":"nopreference-r"},
 {"votes":4,"name":"huckabee"}],
-"total":28,"precincts":
+"total":212,"precincts":
 {"total":1,"reporting":1},
 "name":"Pondera"},
 "Lewis & Clark":

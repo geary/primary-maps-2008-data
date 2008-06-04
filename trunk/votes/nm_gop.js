@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":82762,"name":"mccain"},
-{"votes":13181,"name":"paul"}],
+{"votes":82804,"name":"mccain"},
+{"votes":13195,"name":"paul"}],
 "name":"New Mexico","precincts":
 {"total":1633,"reporting":1432},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":95943,"locals":
+"state":"NM","party":"gop","total":95999,"locals":
 {"San Juan":
 {"votes":[
 {"votes":5547,"name":"mccain"},
@@ -157,9 +157,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Chaves"},
 "Catron":
 {"votes":[
-{"votes":387,"name":"mccain"},
-{"votes":87,"name":"paul"}],
-"total":474,"precincts":
+{"votes":429,"name":"mccain"},
+{"votes":101,"name":"paul"}],
+"total":530,"precincts":
 {"total":8,"reporting":7},
 "name":"Catron"},
 "Sandoval":

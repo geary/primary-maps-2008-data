@@ -4,7 +4,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":8830,"name":"clinton","delegates":5},
 {"votes":630,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":77},
+{"total":871,"reporting":78},
 "delegates":16,"date":"06-03"},
 "state":"MT","party":"dem","total":22798,"locals":
 {"Judith Basin":
@@ -172,7 +172,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":930,"name":"clinton"},
 {"votes":52,"name":"nopreference-d"}],
 "total":2672,"precincts":
-{"total":42,"reporting":0},
+{"total":42,"reporting":1},
 "name":"Flathead"},
 "Sheridan":
 {"votes":[],

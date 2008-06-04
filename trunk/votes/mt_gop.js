@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":64484,"name":"mccain"},
-{"votes":17892,"name":"paul"},
-{"votes":1814,"name":"nopreference-r"},
+{"votes":64903,"name":"mccain"},
+{"votes":17971,"name":"paul"},
+{"votes":1828,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":85062,"locals":
+"state":"MT","party":"gop","total":85574,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -41,12 +41,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[
-{"votes":1445,"name":"mccain"},
-{"votes":268,"name":"paul"},
-{"votes":54,"name":"nopreference-r"},
+{"votes":1757,"name":"mccain"},
+{"votes":320,"name":"paul"},
+{"votes":63,"name":"nopreference-r"},
 {"votes":7,"name":"romney"},
 {"votes":5,"name":"huckabee"}],
-"total":1779,"precincts":
+"total":2152,"precincts":
 {"total":1,"reporting":1},
 "name":"Silver Bow"},
 "Treasure":
@@ -110,12 +110,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hill":
 {"votes":[
-{"votes":332,"name":"mccain"},
-{"votes":96,"name":"paul"},
+{"votes":439,"name":"mccain"},
+{"votes":123,"name":"paul"},
 {"votes":11,"name":"huckabee"},
-{"votes":6,"name":"nopreference-r"},
+{"votes":11,"name":"nopreference-r"},
 {"votes":4,"name":"romney"}],
-"total":449,"precincts":
+"total":588,"precincts":
 {"total":1,"reporting":1},
 "name":"Hill"},
 "Daniels":

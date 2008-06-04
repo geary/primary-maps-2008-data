@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":91968,"name":"obama","delegates":8},
-{"votes":67352,"name":"clinton","delegates":5},
-{"votes":3870,"name":"nopreference-d"}],
+{"votes":93122,"name":"obama","delegates":8},
+{"votes":68531,"name":"clinton","delegates":5},
+{"votes":3936,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":765},
+{"total":871,"reporting":774},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":163190,"locals":
+"state":"MT","party":"dem","total":165589,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -32,11 +32,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[
-{"votes":5396,"name":"clinton"},
-{"votes":4415,"name":"obama"},
-{"votes":261,"name":"nopreference-d"}],
-"total":10072,"precincts":
-{"total":45,"reporting":40},
+{"votes":6264,"name":"clinton"},
+{"votes":5174,"name":"obama"},
+{"votes":311,"name":"nopreference-d"}],
+"total":11749,"precincts":
+{"total":45,"reporting":45},
 "name":"Silver Bow"},
 "Treasure":
 {"votes":[
@@ -88,11 +88,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hill":
 {"votes":[
-{"votes":843,"name":"obama"},
-{"votes":760,"name":"clinton"},
-{"votes":61,"name":"nopreference-d"}],
-"total":1664,"precincts":
-{"total":22,"reporting":10},
+{"votes":1238,"name":"obama"},
+{"votes":1071,"name":"clinton"},
+{"votes":77,"name":"nopreference-d"}],
+"total":2386,"precincts":
+{"total":22,"reporting":14},
 "name":"Hill"},
 "Daniels":
 {"votes":[

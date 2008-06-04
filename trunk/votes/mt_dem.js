@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":80251,"name":"obama","delegates":8},
-{"votes":57225,"name":"clinton","delegates":5},
-{"votes":3365,"name":"nopreference-d"}],
+{"votes":80286,"name":"obama","delegates":8},
+{"votes":57259,"name":"clinton","delegates":5},
+{"votes":3377,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":648},
+{"total":871,"reporting":650},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":140841,"locals":
+"state":"MT","party":"dem","total":140922,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":143,"name":"clinton"},
@@ -398,11 +398,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Rosebud"},
 "Wheatland":
 {"votes":[
-{"votes":128,"name":"clinton"},
-{"votes":122,"name":"obama"},
-{"votes":1,"name":"nopreference-d"}],
-"total":251,"precincts":
-{"total":5,"reporting":3},
+{"votes":162,"name":"clinton"},
+{"votes":157,"name":"obama"},
+{"votes":13,"name":"nopreference-d"}],
+"total":332,"precincts":
+{"total":5,"reporting":5},
 "name":"Wheatland"},
 "Blaine":
 {"votes":[

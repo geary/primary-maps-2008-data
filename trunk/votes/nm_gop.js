@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":89224,"name":"mccain"},
-{"votes":14577,"name":"paul"}],
+{"votes":89421,"name":"mccain"},
+{"votes":14602,"name":"paul"}],
 "name":"New Mexico","precincts":
 {"total":1633,"reporting":1534},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":103801,"locals":
+"state":"NM","party":"gop","total":104023,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -50,9 +50,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Union"},
 "Rio Arriba":
 {"votes":[
-{"votes":347,"name":"mccain"},
-{"votes":61,"name":"paul"}],
-"total":408,"precincts":
+{"votes":544,"name":"mccain"},
+{"votes":86,"name":"paul"}],
+"total":630,"precincts":
 {"total":47,"reporting":47},
 "name":"Rio Arriba"},
 "DeBaca":

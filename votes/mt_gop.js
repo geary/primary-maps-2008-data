@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":55308,"name":"mccain"},
-{"votes":14468,"name":"paul"},
-{"votes":1610,"name":"nopreference-r"},
+{"votes":55464,"name":"mccain"},
+{"votes":14512,"name":"paul"},
+{"votes":1624,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":72258,"locals":
+"state":"MT","party":"gop","total":72472,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":169,"name":"mccain"},
@@ -157,12 +157,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Valley"},
 "Lincoln":
 {"votes":[
-{"votes":727,"name":"mccain"},
-{"votes":267,"name":"paul"},
-{"votes":66,"name":"nopreference-r"},
+{"votes":883,"name":"mccain"},
+{"votes":311,"name":"paul"},
+{"votes":80,"name":"nopreference-r"},
 {"votes":17,"name":"romney"},
 {"votes":1,"name":"huckabee"}],
-"total":1078,"precincts":
+"total":1292,"precincts":
 {"total":1,"reporting":1},
 "name":"Lincoln"},
 "Powell":

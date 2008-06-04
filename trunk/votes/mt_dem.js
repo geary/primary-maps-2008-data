@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":10164,"name":"obama","delegates":8},
-{"votes":7801,"name":"clinton","delegates":5},
-{"votes":553,"name":"nopreference-d"}],
+{"votes":13338,"name":"obama","delegates":8},
+{"votes":8830,"name":"clinton","delegates":5},
+{"votes":630,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":22},
+{"total":871,"reporting":77},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":18518,"locals":
+"state":"MT","party":"dem","total":22798,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -167,8 +167,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":0},
 "name":"Stillwater"},
 "Flathead":
-{"votes":[],
-"total":0,"precincts":
+{"votes":[
+{"votes":1690,"name":"obama"},
+{"votes":930,"name":"clinton"},
+{"votes":52,"name":"nopreference-d"}],
+"total":2672,"precincts":
 {"total":42,"reporting":0},
 "name":"Flathead"},
 "Sheridan":
@@ -212,9 +215,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":22,"reporting":0},
 "name":"Ravalli"},
 "Missoula":
-{"votes":[],
-"total":0,"precincts":
-{"total":101,"reporting":0},
+{"votes":[
+{"votes":1484,"name":"obama"},
+{"votes":99,"name":"clinton"},
+{"votes":25,"name":"nopreference-d"}],
+"total":1608,"precincts":
+{"total":101,"reporting":55},
 "name":"Missoula"},
 "Cascade":
 {"votes":[],

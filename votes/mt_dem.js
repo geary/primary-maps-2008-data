@@ -1,16 +1,19 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":72871,"name":"obama","delegates":8},
-{"votes":51154,"name":"clinton","delegates":5},
-{"votes":2997,"name":"nopreference-d"}],
+{"votes":73590,"name":"obama","delegates":8},
+{"votes":51965,"name":"clinton","delegates":5},
+{"votes":3103,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":554},
+{"total":871,"reporting":566},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":127022,"locals":
+"state":"MT","party":"dem","total":128658,"locals":
 {"Judith Basin":
-{"votes":[],
-"total":0,"precincts":
-{"total":4,"reporting":0},
+{"votes":[
+{"votes":143,"name":"clinton"},
+{"votes":108,"name":"obama"},
+{"votes":6,"name":"nopreference-d"}],
+"total":257,"precincts":
+{"total":4,"reporting":3},
 "name":"Judith Basin"},
 "Richland":
 {"votes":[],
@@ -19,10 +22,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Richland"},
 "Glacier":
 {"votes":[
-{"votes":21,"name":"clinton"},
-{"votes":6,"name":"obama"}],
-"total":27,"precincts":
-{"total":16,"reporting":2},
+{"votes":246,"name":"clinton"},
+{"votes":206,"name":"obama"},
+{"votes":39,"name":"nopreference-d"}],
+"total":491,"precincts":
+{"total":16,"reporting":4},
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[
@@ -108,11 +112,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Wibaux"},
 "Valley":
 {"votes":[
-{"votes":439,"name":"clinton"},
-{"votes":395,"name":"obama"},
-{"votes":41,"name":"nopreference-d"}],
-"total":875,"precincts":
-{"total":11,"reporting":5},
+{"votes":833,"name":"clinton"},
+{"votes":750,"name":"obama"},
+{"votes":90,"name":"nopreference-d"}],
+"total":1673,"precincts":
+{"total":11,"reporting":11},
 "name":"Valley"},
 "Lincoln":
 {"votes":[
@@ -262,10 +266,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mineral"},
 "Sanders":
 {"votes":[
-{"votes":26,"name":"obama"},
-{"votes":16,"name":"clinton"}],
-"total":42,"precincts":
-{"total":10,"reporting":1},
+{"votes":82,"name":"obama"},
+{"votes":65,"name":"clinton"},
+{"votes":12,"name":"nopreference-d"}],
+"total":159,"precincts":
+{"total":10,"reporting":2},
 "name":"Sanders"},
 "Fallon":
 {"votes":[

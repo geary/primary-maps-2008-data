@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":51410,"name":"clinton","delegates":8},
-{"votes":41569,"name":"obama","delegates":6}],
+{"votes":51445,"name":"clinton","delegates":8},
+{"votes":41600,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":686},
+{"total":762,"reporting":688},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":92979,"locals":
+"state":"SD","party":"dem","total":93045,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -281,10 +281,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roberts"},
 "Meade":
 {"votes":[
-{"votes":670,"name":"clinton"},
-{"votes":548,"name":"obama"}],
-"total":1218,"precincts":
-{"total":37,"reporting":19},
+{"votes":692,"name":"clinton"},
+{"votes":565,"name":"obama"}],
+"total":1257,"precincts":
+{"total":37,"reporting":20},
 "name":"Meade"},
 "Mellette":
 {"votes":[
@@ -365,10 +365,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":322,"name":"clinton"},
-{"votes":309,"name":"obama"}],
-"total":631,"precincts":
-{"total":16,"reporting":9},
+{"votes":335,"name":"clinton"},
+{"votes":323,"name":"obama"}],
+"total":658,"precincts":
+{"total":16,"reporting":10},
 "name":"Fall River"},
 "Marshall":
 {"votes":[

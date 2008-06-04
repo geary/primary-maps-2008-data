@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":68020,"name":"mccain"},
-{"votes":10571,"name":"paul"}],
+{"votes":68385,"name":"mccain"},
+{"votes":10641,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1158},
+{"total":1633,"reporting":1164},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":78591,"locals":
+"state":"NM","party":"gop","total":79026,"locals":
 {"San Juan":
 {"votes":[
 {"votes":5157,"name":"mccain"},
@@ -108,10 +108,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mora"},
 "Torrance":
 {"votes":[
-{"votes":747,"name":"mccain"},
-{"votes":172,"name":"paul"}],
-"total":919,"precincts":
-{"total":18,"reporting":12},
+{"votes":1112,"name":"mccain"},
+{"votes":242,"name":"paul"}],
+"total":1354,"precincts":
+{"total":18,"reporting":18},
 "name":"Torrance"},
 "Taos":
 {"votes":[

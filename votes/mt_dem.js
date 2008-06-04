@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":25811,"name":"obama","delegates":8},
-{"votes":19299,"name":"clinton","delegates":5},
-{"votes":1345,"name":"nopreference-d"}],
+{"votes":26353,"name":"obama","delegates":8},
+{"votes":19723,"name":"clinton","delegates":5},
+{"votes":1414,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":97},
+{"total":871,"reporting":103},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":46455,"locals":
+"state":"MT","party":"dem","total":47490,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -182,9 +182,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":1,"reporting":0},
 "name":"Meagher"},
 "Carbon":
-{"votes":[],
-"total":0,"precincts":
-{"total":16,"reporting":0},
+{"votes":[
+{"votes":124,"name":"obama"},
+{"votes":111,"name":"clinton"},
+{"votes":48,"name":"nopreference-d"}],
+"total":283,"precincts":
+{"total":16,"reporting":2},
 "name":"Carbon"},
 "Stillwater":
 {"votes":[],
@@ -309,11 +312,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":4519,"name":"obama"},
-{"votes":2685,"name":"clinton"},
-{"votes":163,"name":"nopreference-d"}],
-"total":7367,"precincts":
-{"total":56,"reporting":20},
+{"votes":4937,"name":"obama"},
+{"votes":2998,"name":"clinton"},
+{"votes":184,"name":"nopreference-d"}],
+"total":8119,"precincts":
+{"total":56,"reporting":24},
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[

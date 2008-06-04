@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":40525,"name":"mccain"},
-{"votes":9153,"name":"paul"},
-{"votes":4061,"name":"huckabee"},
-{"votes":1810,"name":"romney"},
-{"votes":1727,"name":"uncommitted-r"}],
+{"votes":40596,"name":"mccain"},
+{"votes":9201,"name":"paul"},
+{"votes":4064,"name":"huckabee"},
+{"votes":1812,"name":"romney"},
+{"votes":1728,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":685},
+{"total":762,"reporting":688},
 "delegates":27,"date":"06-03"},
-"state":"SD","party":"gop","total":57276,"locals":
+"state":"SD","party":"gop","total":57401,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":324,"name":"mccain"},
@@ -151,13 +151,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Brookings"},
 "Jackson":
 {"votes":[
-{"votes":60,"name":"mccain"},
-{"votes":21,"name":"paul"},
+{"votes":69,"name":"mccain"},
+{"votes":35,"name":"paul"},
 {"votes":5,"name":"huckabee"},
 {"votes":2,"name":"romney"},
 {"votes":2,"name":"uncommitted-r"}],
-"total":90,"precincts":
-{"total":8,"reporting":3},
+"total":113,"precincts":
+{"total":8,"reporting":4},
 "name":"Jackson"},
 "McPherson":
 {"votes":[
@@ -400,13 +400,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roberts"},
 "Meade":
 {"votes":[
-{"votes":999,"name":"mccain"},
-{"votes":358,"name":"paul"},
-{"votes":67,"name":"huckabee"},
+{"votes":1014,"name":"mccain"},
+{"votes":374,"name":"paul"},
+{"votes":68,"name":"huckabee"},
 {"votes":36,"name":"uncommitted-r"},
-{"votes":28,"name":"romney"}],
-"total":1488,"precincts":
-{"total":37,"reporting":19},
+{"votes":30,"name":"romney"}],
+"total":1522,"precincts":
+{"total":37,"reporting":20},
 "name":"Meade"},
 "Mellette":
 {"votes":[
@@ -519,13 +519,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":675,"name":"mccain"},
-{"votes":187,"name":"paul"},
-{"votes":60,"name":"huckabee"},
-{"votes":48,"name":"uncommitted-r"},
+{"votes":722,"name":"mccain"},
+{"votes":205,"name":"paul"},
+{"votes":62,"name":"huckabee"},
+{"votes":49,"name":"uncommitted-r"},
 {"votes":12,"name":"romney"}],
-"total":982,"precincts":
-{"total":16,"reporting":9},
+"total":1050,"precincts":
+{"total":16,"reporting":10},
 "name":"Fall River"},
 "Marshall":
 {"votes":[

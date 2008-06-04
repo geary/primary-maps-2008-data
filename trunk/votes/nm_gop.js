@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":1324,"name":"mccain"},
-{"votes":179,"name":"paul"}],
+{"votes":1943,"name":"mccain"},
+{"votes":286,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":59},
+{"total":1633,"reporting":69},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":1503,"locals":
+"state":"NM","party":"gop","total":2229,"locals":
 {"San Juan":
 {"votes":[],
 "total":0,"precincts":
@@ -29,14 +29,18 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":442,"reporting":0},
 "name":"Bernalillo"},
 "Grant":
-{"votes":[],
-"total":0,"precincts":
-{"total":47,"reporting":0},
+{"votes":[
+{"votes":233,"name":"mccain"},
+{"votes":40,"name":"paul"}],
+"total":273,"precincts":
+{"total":47,"reporting":1},
 "name":"Grant"},
 "Union":
-{"votes":[],
-"total":0,"precincts":
-{"total":8,"reporting":0},
+{"votes":[
+{"votes":62,"name":"mccain"},
+{"votes":20,"name":"paul"}],
+"total":82,"precincts":
+{"total":8,"reporting":1},
 "name":"Union"},
 "Rio Arriba":
 {"votes":[],
@@ -132,9 +136,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":92,"reporting":0},
 "name":"Sandoval"},
 "San Miguel":
-{"votes":[],
-"total":0,"precincts":
-{"total":41,"reporting":0},
+{"votes":[
+{"votes":14,"name":"mccain"},
+{"votes":1,"name":"paul"}],
+"total":15,"precincts":
+{"total":41,"reporting":1},
 "name":"San Miguel"},
 "Socorro":
 {"votes":[],
@@ -142,9 +148,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":29,"reporting":0},
 "name":"Socorro"},
 "Dona Ana":
-{"votes":[],
-"total":0,"precincts":
-{"total":136,"reporting":0},
+{"votes":[
+{"votes":43,"name":"mccain"},
+{"votes":10,"name":"paul"}],
+"total":53,"precincts":
+{"total":136,"reporting":1},
 "name":"Dona Ana"},
 "Lincoln":
 {"votes":[],
@@ -182,7 +190,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":60,"reporting":0},
 "name":"McKinley"},
 "Hidalgo":
-{"votes":[],
-"total":0,"precincts":
-{"total":8,"reporting":0},
+{"votes":[
+{"votes":267,"name":"mccain"},
+{"votes":36,"name":"paul"}],
+"total":303,"precincts":
+{"total":8,"reporting":6},
 "name":"Hidalgo"}}})

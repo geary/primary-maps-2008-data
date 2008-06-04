@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":52140,"name":"obama","delegates":8},
-{"votes":36113,"name":"clinton","delegates":5},
-{"votes":2226,"name":"nopreference-d"}],
+{"votes":55149,"name":"obama","delegates":8},
+{"votes":38624,"name":"clinton","delegates":5},
+{"votes":2343,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":342},
+{"total":871,"reporting":380},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":90479,"locals":
+"state":"MT","party":"dem","total":96116,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -139,11 +139,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Powder River"},
 "Custer":
 {"votes":[
-{"votes":616,"name":"clinton"},
-{"votes":475,"name":"obama"},
-{"votes":23,"name":"nopreference-d"}],
-"total":1114,"precincts":
-{"total":14,"reporting":4},
+{"votes":837,"name":"clinton"},
+{"votes":667,"name":"obama"},
+{"votes":36,"name":"nopreference-d"}],
+"total":1540,"precincts":
+{"total":14,"reporting":7},
 "name":"Custer"},
 "Park":
 {"votes":[
@@ -211,11 +211,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Stillwater"},
 "Flathead":
 {"votes":[
-{"votes":2774,"name":"obama"},
-{"votes":1622,"name":"clinton"},
-{"votes":95,"name":"nopreference-d"}],
-"total":4491,"precincts":
-{"total":42,"reporting":10},
+{"votes":5092,"name":"obama"},
+{"votes":3142,"name":"clinton"},
+{"votes":163,"name":"nopreference-d"}],
+"total":8397,"precincts":
+{"total":42,"reporting":28},
 "name":"Flathead"},
 "Sheridan":
 {"votes":[
@@ -350,11 +350,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[
-{"votes":980,"name":"clinton"},
-{"votes":643,"name":"obama"},
-{"votes":48,"name":"nopreference-d"}],
-"total":1671,"precincts":
-{"total":18,"reporting":1},
+{"votes":1750,"name":"clinton"},
+{"votes":1142,"name":"obama"},
+{"votes":84,"name":"nopreference-d"}],
+"total":2976,"precincts":
+{"total":18,"reporting":18},
 "name":"Deer Lodge"},
 "Rosebud":
 {"votes":[

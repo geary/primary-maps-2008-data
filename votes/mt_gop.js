@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":31400,"name":"mccain"},
-{"votes":7306,"name":"paul"},
-{"votes":827,"name":"nopreference-r"},
+{"votes":31763,"name":"mccain"},
+{"votes":7362,"name":"paul"},
+{"votes":831,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":40405,"locals":
+"state":"MT","party":"gop","total":40828,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -190,12 +190,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Powder River"},
 "Custer":
 {"votes":[
-{"votes":575,"name":"mccain"},
-{"votes":69,"name":"paul"},
+{"votes":758,"name":"mccain"},
+{"votes":95,"name":"paul"},
 {"votes":15,"name":"huckabee"},
-{"votes":13,"name":"nopreference-r"},
+{"votes":14,"name":"nopreference-r"},
 {"votes":11,"name":"romney"}],
-"total":683,"precincts":
+"total":893,"precincts":
 {"total":1,"reporting":1},
 "name":"Custer"},
 "Park":
@@ -470,11 +470,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[
-{"votes":194,"name":"mccain"},
-{"votes":27,"name":"paul"},
-{"votes":6,"name":"nopreference-r"},
+{"votes":374,"name":"mccain"},
+{"votes":57,"name":"paul"},
+{"votes":9,"name":"nopreference-r"},
 {"votes":3,"name":"huckabee"}],
-"total":230,"precincts":
+"total":443,"precincts":
 {"total":1,"reporting":1},
 "name":"Deer Lodge"},
 "Rosebud":

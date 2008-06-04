@@ -1,17 +1,17 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":22221,"name":"mccain"},
-{"votes":2859,"name":"paul"}],
+{"votes":29797,"name":"mccain"},
+{"votes":3968,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":281},
+{"total":1633,"reporting":370},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":25080,"locals":
+"state":"NM","party":"gop","total":33765,"locals":
 {"San Juan":
 {"votes":[
-{"votes":1137,"name":"mccain"},
-{"votes":143,"name":"paul"}],
-"total":1280,"precincts":
-{"total":78,"reporting":2},
+{"votes":2034,"name":"mccain"},
+{"votes":308,"name":"paul"}],
+"total":2342,"precincts":
+{"total":78,"reporting":15},
 "name":"San Juan"},
 "Colfax":
 {"votes":[],
@@ -27,10 +27,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":7666,"name":"mccain"},
-{"votes":883,"name":"paul"}],
-"total":8549,"precincts":
-{"total":442,"reporting":0},
+{"votes":14128,"name":"mccain"},
+{"votes":1791,"name":"paul"}],
+"total":15919,"precincts":
+{"total":442,"reporting":1},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -128,9 +128,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":25,"reporting":25},
 "name":"Quay"},
 "Harding":
-{"votes":[],
-"total":0,"precincts":
-{"total":5,"reporting":0},
+{"votes":[
+{"votes":143,"name":"mccain"},
+{"votes":19,"name":"paul"}],
+"total":162,"precincts":
+{"total":5,"reporting":5},
 "name":"Harding"},
 "Chaves":
 {"votes":[
@@ -146,10 +148,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Catron"},
 "Sandoval":
 {"votes":[
-{"votes":785,"name":"mccain"},
-{"votes":151,"name":"paul"}],
-"total":936,"precincts":
-{"total":92,"reporting":1},
+{"votes":859,"name":"mccain"},
+{"votes":168,"name":"paul"}],
+"total":1027,"precincts":
+{"total":92,"reporting":71},
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[

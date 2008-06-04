@@ -1,9 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
-{"votes":[],
+{"votes":[
+{"votes":61,"name":"mccain"},
+{"votes":17,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":0},
+{"total":1633,"reporting":3},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":0,"locals":
+"state":"NM","party":"gop","total":78,"locals":
 {"San Juan":
 {"votes":[],
 "total":0,"precincts":
@@ -99,9 +101,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":30,"reporting":0},
 "name":"Cibola"},
 "Quay":
-{"votes":[],
-"total":0,"precincts":
-{"total":25,"reporting":0},
+{"votes":[
+{"votes":61,"name":"mccain"},
+{"votes":17,"name":"paul"}],
+"total":78,"precincts":
+{"total":25,"reporting":3},
 "name":"Quay"},
 "Harding":
 {"votes":[],

@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":11258,"name":"mccain"},
-{"votes":1332,"name":"paul"}],
+{"votes":12967,"name":"mccain"},
+{"votes":1559,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":74},
+{"total":1633,"reporting":122},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":12590,"locals":
+"state":"NM","party":"gop","total":14526,"locals":
 {"San Juan":
 {"votes":[],
 "total":0,"precincts":
@@ -87,14 +87,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Valencia"},
 "Mora":
 {"votes":[
-{"votes":13,"name":"mccain"}],
-"total":13,"precincts":
-{"total":13,"reporting":1},
+{"votes":22,"name":"mccain"},
+{"votes":2,"name":"paul"}],
+"total":24,"precincts":
+{"total":13,"reporting":2},
 "name":"Mora"},
 "Torrance":
-{"votes":[],
-"total":0,"precincts":
-{"total":18,"reporting":0},
+{"votes":[
+{"votes":126,"name":"mccain"},
+{"votes":21,"name":"paul"}],
+"total":147,"precincts":
+{"total":18,"reporting":1},
 "name":"Torrance"},
 "Taos":
 {"votes":[],
@@ -102,9 +105,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":39,"reporting":0},
 "name":"Taos"},
 "Lea":
-{"votes":[],
-"total":0,"precincts":
-{"total":46,"reporting":0},
+{"votes":[
+{"votes":789,"name":"mccain"},
+{"votes":53,"name":"paul"}],
+"total":842,"precincts":
+{"total":46,"reporting":45},
 "name":"Lea"},
 "Cibola":
 {"votes":[],
@@ -136,9 +141,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":0},
 "name":"Catron"},
 "Sandoval":
-{"votes":[],
-"total":0,"precincts":
-{"total":92,"reporting":0},
+{"votes":[
+{"votes":785,"name":"mccain"},
+{"votes":151,"name":"paul"}],
+"total":936,"precincts":
+{"total":92,"reporting":1},
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[

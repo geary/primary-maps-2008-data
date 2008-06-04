@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":67423,"name":"mccain"},
-{"votes":18682,"name":"paul"},
-{"votes":1894,"name":"nopreference-r"},
+{"votes":67532,"name":"mccain"},
+{"votes":18716,"name":"paul"},
+{"votes":1896,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":88871,"locals":
+"state":"MT","party":"gop","total":89016,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -110,12 +110,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hill":
 {"votes":[
-{"votes":439,"name":"mccain"},
-{"votes":123,"name":"paul"},
+{"votes":548,"name":"mccain"},
+{"votes":157,"name":"paul"},
+{"votes":13,"name":"nopreference-r"},
 {"votes":11,"name":"huckabee"},
-{"votes":11,"name":"nopreference-r"},
 {"votes":4,"name":"romney"}],
-"total":588,"precincts":
+"total":733,"precincts":
 {"total":1,"reporting":1},
 "name":"Hill"},
 "Daniels":

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":96810,"name":"obama","delegates":8},
-{"votes":70896,"name":"clinton","delegates":5},
-{"votes":4018,"name":"nopreference-d"}],
+{"votes":97076,"name":"obama","delegates":8},
+{"votes":71107,"name":"clinton","delegates":5},
+{"votes":4033,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":817},
+{"total":871,"reporting":825},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":171724,"locals":
+"state":"MT","party":"dem","total":172216,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -88,11 +88,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hill":
 {"votes":[
-{"votes":1238,"name":"obama"},
-{"votes":1071,"name":"clinton"},
-{"votes":77,"name":"nopreference-d"}],
-"total":2386,"precincts":
-{"total":22,"reporting":14},
+{"votes":1504,"name":"obama"},
+{"votes":1282,"name":"clinton"},
+{"votes":92,"name":"nopreference-d"}],
+"total":2878,"precincts":
+{"total":22,"reporting":22},
 "name":"Hill"},
 "Daniels":
 {"votes":[

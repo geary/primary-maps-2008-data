@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":53407,"name":"clinton","delegates":8},
-{"votes":42831,"name":"obama","delegates":6}],
+{"votes":42891,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
 {"total":762,"reporting":752},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":96238,"locals":
+"state":"SD","party":"dem","total":96298,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -128,8 +128,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Brown":
 {"votes":[
 {"votes":3256,"name":"clinton"},
-{"votes":2362,"name":"obama"}],
-"total":5618,"precincts":
+{"votes":2422,"name":"obama"}],
+"total":5678,"precincts":
 {"total":22,"reporting":22},
 "name":"Brown"},
 "Minnehaha":

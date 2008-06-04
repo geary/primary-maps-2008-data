@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":72136,"name":"mccain"},
-{"votes":20392,"name":"paul"},
-{"votes":2188,"name":"nopreference-r"},
+{"votes":72206,"name":"mccain"},
+{"votes":20408,"name":"paul"},
+{"votes":2192,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":95588,"locals":
+"state":"MT","party":"gop","total":95678,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -392,12 +392,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Ravalli"},
 "Missoula":
 {"votes":[
-{"votes":4127,"name":"mccain"},
-{"votes":1215,"name":"paul"},
-{"votes":76,"name":"nopreference-r"},
+{"votes":4197,"name":"mccain"},
+{"votes":1231,"name":"paul"},
+{"votes":80,"name":"nopreference-r"},
 {"votes":42,"name":"romney"},
 {"votes":3,"name":"huckabee"}],
-"total":5463,"precincts":
+"total":5553,"precincts":
 {"total":1,"reporting":1},
 "name":"Missoula"},
 "Cascade":

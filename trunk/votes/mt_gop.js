@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":66050,"name":"mccain"},
-{"votes":18331,"name":"paul"},
-{"votes":1846,"name":"nopreference-r"},
+{"votes":66965,"name":"mccain"},
+{"votes":18606,"name":"paul"},
+{"votes":1885,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":87099,"locals":
+"state":"MT","party":"gop","total":88328,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -158,12 +158,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Valley"},
 "Lincoln":
 {"votes":[
-{"votes":883,"name":"mccain"},
-{"votes":311,"name":"paul"},
-{"votes":80,"name":"nopreference-r"},
+{"votes":1203,"name":"mccain"},
+{"votes":445,"name":"paul"},
+{"votes":102,"name":"nopreference-r"},
 {"votes":17,"name":"romney"},
 {"votes":1,"name":"huckabee"}],
-"total":1292,"precincts":
+"total":1768,"precincts":
 {"total":1,"reporting":1},
 "name":"Lincoln"},
 "Powell":
@@ -478,12 +478,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":3340,"name":"mccain"},
-{"votes":661,"name":"paul"},
-{"votes":93,"name":"nopreference-r"},
+{"votes":3900,"name":"mccain"},
+{"votes":790,"name":"paul"},
+{"votes":110,"name":"nopreference-r"},
 {"votes":36,"name":"romney"},
 {"votes":10,"name":"huckabee"}],
-"total":4140,"precincts":
+"total":4846,"precincts":
 {"total":1,"reporting":1},
 "name":"Lewis & Clark"},
 "Deer Lodge":
@@ -537,12 +537,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Dawson"},
 "Toole":
 {"votes":[
-{"votes":13,"name":"mccain"},
+{"votes":48,"name":"mccain"},
+{"votes":13,"name":"paul"},
 {"votes":10,"name":"romney"},
 {"votes":1,"name":"huckabee"},
-{"votes":1,"name":"nopreference-r"},
-{"votes":1,"name":"paul"}],
-"total":26,"precincts":
+{"votes":1,"name":"nopreference-r"}],
+"total":73,"precincts":
 {"total":1,"reporting":1},
 "name":"Toole"},
 "Gallatin":

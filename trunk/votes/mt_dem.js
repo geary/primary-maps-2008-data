@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":94624,"name":"obama","delegates":8},
-{"votes":69266,"name":"clinton","delegates":5},
-{"votes":3952,"name":"nopreference-d"}],
+{"votes":95830,"name":"obama","delegates":8},
+{"votes":70116,"name":"clinton","delegates":5},
+{"votes":3983,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":798},
+{"total":871,"reporting":813},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":167842,"locals":
+"state":"MT","party":"dem","total":169929,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -128,11 +128,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Valley"},
 "Lincoln":
 {"votes":[
-{"votes":381,"name":"obama"},
-{"votes":363,"name":"clinton"},
-{"votes":17,"name":"nopreference-d"}],
-"total":761,"precincts":
-{"total":14,"reporting":4},
+{"votes":506,"name":"obama"},
+{"votes":492,"name":"clinton"},
+{"votes":26,"name":"nopreference-d"}],
+"total":1024,"precincts":
+{"total":14,"reporting":6},
 "name":"Lincoln"},
 "Powell":
 {"votes":[
@@ -386,11 +386,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":7745,"name":"obama"},
-{"votes":4943,"name":"clinton"},
-{"votes":312,"name":"nopreference-d"}],
-"total":13000,"precincts":
-{"total":56,"reporting":45},
+{"votes":8801,"name":"obama"},
+{"votes":5630,"name":"clinton"},
+{"votes":333,"name":"nopreference-d"}],
+"total":14764,"precincts":
+{"total":56,"reporting":56},
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[
@@ -434,11 +434,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Dawson"},
 "Toole":
 {"votes":[
-{"votes":19,"name":"clinton"},
-{"votes":10,"name":"obama"},
-{"votes":1,"name":"nopreference-d"}],
-"total":30,"precincts":
-{"total":10,"reporting":1},
+{"votes":53,"name":"clinton"},
+{"votes":35,"name":"obama"},
+{"votes":2,"name":"nopreference-d"}],
+"total":90,"precincts":
+{"total":10,"reporting":3},
 "name":"Toole"},
 "Gallatin":
 {"votes":[

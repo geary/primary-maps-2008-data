@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":91755,"name":"mccain"},
-{"votes":15047,"name":"paul"}],
+{"votes":92102,"name":"mccain"},
+{"votes":15091,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1567},
+{"total":1633,"reporting":1584},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":106802,"locals":
+"state":"NM","party":"gop","total":107193,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -50,9 +50,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Union"},
 "Rio Arriba":
 {"votes":[
-{"votes":544,"name":"mccain"},
-{"votes":86,"name":"paul"}],
-"total":630,"precincts":
+{"votes":617,"name":"mccain"},
+{"votes":97,"name":"paul"}],
+"total":714,"precincts":
 {"total":47,"reporting":47},
 "name":"Rio Arriba"},
 "DeBaca":
@@ -185,10 +185,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[
-{"votes":3989,"name":"mccain"},
-{"votes":545,"name":"paul"}],
-"total":4534,"precincts":
-{"total":136,"reporting":98},
+{"votes":4263,"name":"mccain"},
+{"votes":578,"name":"paul"}],
+"total":4841,"precincts":
+{"total":136,"reporting":115},
 "name":"Dona Ana"},
 "Lincoln":
 {"votes":[

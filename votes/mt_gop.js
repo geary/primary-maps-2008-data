@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":9852,"name":"mccain"},
-{"votes":1833,"name":"paul"},
+{"votes":10016,"name":"mccain"},
+{"votes":1837,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
-{"votes":245,"name":"nopreference-r"},
+{"votes":246,"name":"nopreference-r"},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":12802,"locals":
+"state":"MT","party":"gop","total":12971,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -339,11 +339,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Fergus"},
 "Big Horn":
 {"votes":[
-{"votes":13,"name":"mccain"},
+{"votes":164,"name":"mccain"},
 {"votes":7,"name":"huckabee"},
 {"votes":6,"name":"romney"},
-{"votes":2,"name":"paul"}],
-"total":28,"precincts":
+{"votes":4,"name":"paul"},
+{"votes":1,"name":"nopreference-r"}],
+"total":182,"precincts":
 {"total":1,"reporting":1},
 "name":"Big Horn"},
 "Ravalli":

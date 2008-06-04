@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":43819,"name":"clinton","delegates":8},
-{"votes":34608,"name":"obama","delegates":6}],
+{"votes":44344,"name":"clinton","delegates":8},
+{"votes":35107,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":561},
+{"total":762,"reporting":572},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":78427,"locals":
+"state":"SD","party":"dem","total":79451,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -99,10 +99,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"McCook"},
 "Brookings":
 {"votes":[
-{"votes":1221,"name":"obama"},
-{"votes":1095,"name":"clinton"}],
-"total":2316,"precincts":
-{"total":15,"reporting":9},
+{"votes":1650,"name":"obama"},
+{"votes":1527,"name":"clinton"}],
+"total":3177,"precincts":
+{"total":15,"reporting":15},
 "name":"Brookings"},
 "Jackson":
 {"votes":[
@@ -183,10 +183,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Hand"},
 "Walworth":
 {"votes":[
-{"votes":235,"name":"clinton"},
-{"votes":178,"name":"obama"}],
-"total":413,"precincts":
-{"total":15,"reporting":12},
+{"votes":272,"name":"clinton"},
+{"votes":197,"name":"obama"}],
+"total":469,"precincts":
+{"total":15,"reporting":14},
 "name":"Walworth"},
 "Codington":
 {"votes":[
@@ -398,10 +398,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Charles Mix"},
 "Perkins":
 {"votes":[
-{"votes":49,"name":"obama"},
-{"votes":44,"name":"clinton"}],
-"total":93,"precincts":
-{"total":10,"reporting":4},
+{"votes":93,"name":"clinton"},
+{"votes":93,"name":"obama"}],
+"total":186,"precincts":
+{"total":10,"reporting":6},
 "name":"Perkins"},
 "Hyde":
 {"votes":[
@@ -431,10 +431,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Campbell"},
 "Stanley":
 {"votes":[
-{"votes":186,"name":"clinton"},
-{"votes":157,"name":"obama"}],
-"total":343,"precincts":
-{"total":8,"reporting":7},
+{"votes":193,"name":"clinton"},
+{"votes":164,"name":"obama"}],
+"total":357,"precincts":
+{"total":8,"reporting":8},
 "name":"Stanley"},
 "Turner":
 {"votes":[

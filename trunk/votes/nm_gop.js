@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":1943,"name":"mccain"},
-{"votes":286,"name":"paul"}],
+{"votes":11258,"name":"mccain"},
+{"votes":1332,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":69},
+{"total":1633,"reporting":74},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":2229,"locals":
+"state":"NM","party":"gop","total":12590,"locals":
 {"San Juan":
 {"votes":[],
 "total":0,"precincts":
@@ -24,8 +24,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":43,"reporting":2},
 "name":"Otero"},
 "Bernalillo":
-{"votes":[],
-"total":0,"precincts":
+{"votes":[
+{"votes":7666,"name":"mccain"},
+{"votes":883,"name":"paul"}],
+"total":8549,"precincts":
 {"total":442,"reporting":0},
 "name":"Bernalillo"},
 "Grant":
@@ -58,9 +60,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":0},
 "name":"Guadalupe"},
 "Eddy":
-{"votes":[],
-"total":0,"precincts":
-{"total":44,"reporting":0},
+{"votes":[
+{"votes":1212,"name":"mccain"},
+{"votes":121,"name":"paul"}],
+"total":1333,"precincts":
+{"total":44,"reporting":1},
 "name":"Eddy"},
 "CD1":
 {"votes":[],
@@ -82,9 +86,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":51,"reporting":0},
 "name":"Valencia"},
 "Mora":
-{"votes":[],
-"total":0,"precincts":
-{"total":13,"reporting":0},
+{"votes":[
+{"votes":13,"name":"mccain"}],
+"total":13,"precincts":
+{"total":13,"reporting":1},
 "name":"Mora"},
 "Torrance":
 {"votes":[],
@@ -160,9 +165,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":23,"reporting":0},
 "name":"Lincoln"},
 "Roosevelt":
-{"votes":[],
-"total":0,"precincts":
-{"total":24,"reporting":0},
+{"votes":[
+{"votes":424,"name":"mccain"},
+{"votes":42,"name":"paul"}],
+"total":466,"precincts":
+{"total":24,"reporting":1},
 "name":"Roosevelt"},
 "Los Alamos":
 {"votes":[],
@@ -194,5 +201,5 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":267,"name":"mccain"},
 {"votes":36,"name":"paul"}],
 "total":303,"precincts":
-{"total":8,"reporting":6},
+{"total":8,"reporting":8},
 "name":"Hidalgo"}}})

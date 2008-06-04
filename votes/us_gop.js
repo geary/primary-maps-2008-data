@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9493833,"name":"mccain","delegates":1225},
+{"votes":9495095,"name":"mccain","delegates":1225},
 {"votes":4375380,"name":"romney","delegates":271},
 {"votes":4147799,"name":"huckabee","delegates":273},
-{"votes":1162228,"name":"paul","delegates":19},
+{"votes":1162547,"name":"paul","delegates":19},
 {"votes":573763,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
 {"votes":67018,"name":"uncommitted-r"},
 {"votes":56917,"name":"keyes"},
 {"votes":37805,"name":"hunter"},
-{"votes":22151,"name":"nopreference-r"},
+{"votes":22190,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":1248,"name":"curry"},
 {"votes":998,"name":"cort"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":20234275,"locals":
+"state":"US","party":"gop","total":20235895,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -97,10 +97,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":31,"date":"02-05"},
 "New Mexico":
 {"votes":[
-{"votes":91755,"name":"mccain"},
-{"votes":15047,"name":"paul"}],
+{"votes":92102,"name":"mccain"},
+{"votes":15091,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1567},
+{"total":1633,"reporting":1584},
 "delegates":32,"date":"06-03"},
 "Indiana":
 {"votes":[
@@ -275,9 +275,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":66050,"name":"mccain"},
-{"votes":18331,"name":"paul"},
-{"votes":1846,"name":"nopreference-r"},
+{"votes":66965,"name":"mccain"},
+{"votes":18606,"name":"paul"},
+{"votes":1885,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],

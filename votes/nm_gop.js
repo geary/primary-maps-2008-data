@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":56820,"name":"mccain"},
-{"votes":8519,"name":"paul"}],
+{"votes":59324,"name":"mccain"},
+{"votes":8965,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":976},
+{"total":1633,"reporting":1030},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":65339,"locals":
+"state":"NM","party":"gop","total":68289,"locals":
 {"San Juan":
 {"votes":[
 {"votes":4041,"name":"mccain"},
@@ -14,9 +14,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":78,"reporting":45},
 "name":"San Juan"},
 "Colfax":
-{"votes":[],
-"total":0,"precincts":
-{"total":21,"reporting":0},
+{"votes":[
+{"votes":586,"name":"mccain"},
+{"votes":97,"name":"paul"}],
+"total":683,"precincts":
+{"total":21,"reporting":20},
 "name":"Colfax"},
 "Otero":
 {"votes":[
@@ -27,10 +29,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":19255,"name":"mccain"},
-{"votes":2942,"name":"paul"}],
-"total":22197,"precincts":
-{"total":442,"reporting":159},
+{"votes":21041,"name":"mccain"},
+{"votes":3262,"name":"paul"}],
+"total":24303,"precincts":
+{"total":442,"reporting":191},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -100,9 +102,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Mora":
 {"votes":[
 {"votes":179,"name":"mccain"},
-{"votes":13,"name":"paul"}],
-"total":192,"precincts":
-{"total":13,"reporting":10},
+{"votes":14,"name":"paul"}],
+"total":193,"precincts":
+{"total":13,"reporting":12},
 "name":"Mora"},
 "Torrance":
 {"votes":[
@@ -232,9 +234,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Luna"},
 "McKinley":
 {"votes":[
-{"votes":884,"name":"mccain"},
-{"votes":137,"name":"paul"}],
-"total":1021,"precincts":
+{"votes":1016,"name":"mccain"},
+{"votes":165,"name":"paul"}],
+"total":1181,"precincts":
 {"total":60,"reporting":34},
 "name":"McKinley"},
 "Hidalgo":

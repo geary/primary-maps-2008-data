@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":15324,"name":"mccain"},
-{"votes":1824,"name":"paul"}],
+{"votes":19486,"name":"mccain"},
+{"votes":2426,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":177},
+{"total":1633,"reporting":228},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":17148,"locals":
+"state":"NM","party":"gop","total":21912,"locals":
 {"San Juan":
 {"votes":[
 {"votes":1137,"name":"mccain"},
@@ -20,10 +20,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Colfax"},
 "Otero":
 {"votes":[
-{"votes":24,"name":"mccain"},
-{"votes":4,"name":"paul"}],
-"total":28,"precincts":
-{"total":43,"reporting":2},
+{"votes":2840,"name":"mccain"},
+{"votes":417,"name":"paul"}],
+"total":3257,"precincts":
+{"total":43,"reporting":25},
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
@@ -134,9 +134,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Harding"},
 "Chaves":
 {"votes":[
-{"votes":1239,"name":"mccain"},
-{"votes":158,"name":"paul"}],
-"total":1397,"precincts":
+{"votes":2086,"name":"mccain"},
+{"votes":268,"name":"paul"}],
+"total":2354,"precincts":
 {"total":53,"reporting":50},
 "name":"Chaves"},
 "Catron":
@@ -153,10 +153,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[
-{"votes":14,"name":"mccain"},
-{"votes":1,"name":"paul"}],
-"total":15,"precincts":
-{"total":41,"reporting":1},
+{"votes":209,"name":"mccain"},
+{"votes":20,"name":"paul"}],
+"total":229,"precincts":
+{"total":41,"reporting":8},
 "name":"San Miguel"},
 "Socorro":
 {"votes":[
@@ -179,10 +179,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lincoln"},
 "Roosevelt":
 {"votes":[
-{"votes":424,"name":"mccain"},
-{"votes":42,"name":"paul"}],
-"total":466,"precincts":
-{"total":24,"reporting":1},
+{"votes":728,"name":"mccain"},
+{"votes":102,"name":"paul"}],
+"total":830,"precincts":
+{"total":24,"reporting":22},
 "name":"Roosevelt"},
 "Los Alamos":
 {"votes":[],

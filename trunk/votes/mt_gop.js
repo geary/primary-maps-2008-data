@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":66965,"name":"mccain"},
-{"votes":18606,"name":"paul"},
-{"votes":1885,"name":"nopreference-r"},
+{"votes":67413,"name":"mccain"},
+{"votes":18676,"name":"paul"},
+{"votes":1894,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":88328,"locals":
+"state":"MT","party":"gop","total":88855,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -268,12 +268,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Prairie"},
 "Yellowstone":
 {"votes":[
-{"votes":9507,"name":"mccain"},
-{"votes":1873,"name":"paul"},
-{"votes":255,"name":"nopreference-r"},
+{"votes":9955,"name":"mccain"},
+{"votes":1943,"name":"paul"},
+{"votes":264,"name":"nopreference-r"},
 {"votes":47,"name":"romney"},
 {"votes":23,"name":"huckabee"}],
-"total":11705,"precincts":
+"total":12232,"precincts":
 {"total":1,"reporting":1},
 "name":"Yellowstone"},
 "Meagher":

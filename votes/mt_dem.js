@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":74631,"name":"obama","delegates":8},
-{"votes":52732,"name":"clinton","delegates":5},
-{"votes":3153,"name":"nopreference-d"}],
+{"votes":78222,"name":"obama","delegates":8},
+{"votes":56126,"name":"clinton","delegates":5},
+{"votes":3291,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":579},
+{"total":871,"reporting":625},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":130516,"locals":
+"state":"MT","party":"dem","total":137639,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":143,"name":"clinton"},
@@ -30,11 +30,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[
-{"votes":1201,"name":"clinton"},
-{"votes":1048,"name":"obama"},
-{"votes":102,"name":"nopreference-d"}],
-"total":2351,"precincts":
-{"total":45,"reporting":1},
+{"votes":3579,"name":"clinton"},
+{"votes":2908,"name":"obama"},
+{"votes":195,"name":"nopreference-d"}],
+"total":6682,"precincts":
+{"total":45,"reporting":33},
 "name":"Silver Bow"},
 "Treasure":
 {"votes":[
@@ -184,11 +184,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Chouteau"},
 "Teton":
 {"votes":[
-{"votes":253,"name":"obama"},
-{"votes":176,"name":"clinton"},
-{"votes":8,"name":"nopreference-d"}],
-"total":437,"precincts":
-{"total":5,"reporting":1},
+{"votes":585,"name":"obama"},
+{"votes":486,"name":"clinton"},
+{"votes":37,"name":"nopreference-d"}],
+"total":1108,"precincts":
+{"total":5,"reporting":5},
 "name":"Teton"},
 "Musselshell":
 {"votes":[
@@ -430,9 +430,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Toole"},
 "Gallatin":
 {"votes":[
-{"votes":6261,"name":"obama"},
-{"votes":2055,"name":"clinton"},
-{"votes":95,"name":"nopreference-d"}],
-"total":8411,"precincts":
-{"total":46,"reporting":11},
+{"votes":7660,"name":"obama"},
+{"votes":2761,"name":"clinton"},
+{"votes":111,"name":"nopreference-d"}],
+"total":10532,"precincts":
+{"total":46,"reporting":21},
 "name":"Gallatin"}}})

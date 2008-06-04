@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":80286,"name":"obama","delegates":8},
-{"votes":57259,"name":"clinton","delegates":5},
+{"votes":80432,"name":"obama","delegates":8},
+{"votes":57402,"name":"clinton","delegates":5},
 {"votes":3377,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":650},
+{"total":871,"reporting":657},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":140922,"locals":
+"state":"MT","party":"dem","total":141211,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":143,"name":"clinton"},
@@ -16,9 +16,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":3},
 "name":"Judith Basin"},
 "Richland":
-{"votes":[],
-"total":0,"precincts":
-{"total":15,"reporting":0},
+{"votes":[
+{"votes":146,"name":"obama"},
+{"votes":143,"name":"clinton"}],
+"total":289,"precincts":
+{"total":15,"reporting":7},
 "name":"Richland"},
 "Glacier":
 {"votes":[

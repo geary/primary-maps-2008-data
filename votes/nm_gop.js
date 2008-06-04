@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":14278,"name":"mccain"},
-{"votes":1732,"name":"paul"}],
+{"votes":14878,"name":"mccain"},
+{"votes":1752,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":127},
+{"total":1633,"reporting":157},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":16010,"locals":
+"state":"NM","party":"gop","total":16630,"locals":
 {"San Juan":
 {"votes":[
 {"votes":1137,"name":"mccain"},
@@ -65,10 +65,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Guadalupe"},
 "Eddy":
 {"votes":[
-{"votes":1212,"name":"mccain"},
-{"votes":121,"name":"paul"}],
-"total":1333,"precincts":
-{"total":44,"reporting":1},
+{"votes":1812,"name":"mccain"},
+{"votes":141,"name":"paul"}],
+"total":1953,"precincts":
+{"total":44,"reporting":22},
 "name":"Eddy"},
 "CD1":
 {"votes":[],
@@ -205,7 +205,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "McKinley":
 {"votes":[],
 "total":0,"precincts":
-{"total":60,"reporting":0},
+{"total":60,"reporting":9},
 "name":"McKinley"},
 "Hidalgo":
 {"votes":[

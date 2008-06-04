@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":47427,"name":"mccain"},
-{"votes":12383,"name":"paul"},
-{"votes":1371,"name":"nopreference-r"},
+{"votes":47838,"name":"mccain"},
+{"votes":12488,"name":"paul"},
+{"votes":1389,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":62053,"locals":
+"state":"MT","party":"gop","total":62587,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -106,12 +106,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hill":
 {"votes":[
-{"votes":29,"name":"mccain"},
+{"votes":65,"name":"mccain"},
+{"votes":29,"name":"paul"},
 {"votes":11,"name":"huckabee"},
-{"votes":11,"name":"paul"},
 {"votes":4,"name":"romney"},
-{"votes":2,"name":"nopreference-r"}],
-"total":57,"precincts":
+{"votes":3,"name":"nopreference-r"}],
+"total":112,"precincts":
 {"total":1,"reporting":1},
 "name":"Hill"},
 "Daniels":
@@ -471,12 +471,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":2454,"name":"mccain"},
-{"votes":433,"name":"paul"},
-{"votes":59,"name":"nopreference-r"},
+{"votes":2829,"name":"mccain"},
+{"votes":520,"name":"paul"},
+{"votes":76,"name":"nopreference-r"},
 {"votes":36,"name":"romney"},
 {"votes":10,"name":"huckabee"}],
-"total":2992,"precincts":
+"total":3471,"precincts":
 {"total":1,"reporting":1},
 "name":"Lewis & Clark"},
 "Deer Lodge":

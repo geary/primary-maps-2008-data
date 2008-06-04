@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":70774,"name":"obama","delegates":8},
-{"votes":49803,"name":"clinton","delegates":5},
-{"votes":2973,"name":"nopreference-d"}],
+{"votes":71512,"name":"obama","delegates":8},
+{"votes":50292,"name":"clinton","delegates":5},
+{"votes":3014,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":545},
+{"total":871,"reporting":539},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":123550,"locals":
+"state":"MT","party":"dem","total":124818,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -76,11 +76,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Jefferson"},
 "Hill":
 {"votes":[
-{"votes":112,"name":"obama"},
-{"votes":79,"name":"clinton"},
-{"votes":6,"name":"nopreference-d"}],
-"total":197,"precincts":
-{"total":22,"reporting":1},
+{"votes":208,"name":"obama"},
+{"votes":155,"name":"clinton"},
+{"votes":15,"name":"nopreference-d"}],
+"total":378,"precincts":
+{"total":22,"reporting":3},
 "name":"Hill"},
 "Daniels":
 {"votes":[
@@ -120,7 +120,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":141,"name":"obama"},
 {"votes":3,"name":"nopreference-d"}],
 "total":290,"precincts":
-{"total":14,"reporting":14},
+{"total":14,"reporting":1},
 "name":"Lincoln"},
 "Powell":
 {"votes":[
@@ -369,11 +369,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":6362,"name":"obama"},
-{"votes":3982,"name":"clinton"},
-{"votes":244,"name":"nopreference-d"}],
-"total":10588,"precincts":
-{"total":56,"reporting":30},
+{"votes":7004,"name":"obama"},
+{"votes":4395,"name":"clinton"},
+{"votes":276,"name":"nopreference-d"}],
+"total":11675,"precincts":
+{"total":56,"reporting":35},
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[

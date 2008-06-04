@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":101810,"name":"obama","delegates":9},
-{"votes":74550,"name":"clinton","delegates":7},
-{"votes":4231,"name":"nopreference-d"}],
+{"votes":102198,"name":"obama","delegates":9},
+{"votes":74685,"name":"clinton","delegates":7},
+{"votes":4236,"name":"nopreference-d"}],
 "name":"Montana","precincts":
 {"total":871,"reporting":870},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":180591,"locals":
+"state":"MT","party":"dem","total":181119,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -316,10 +316,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Ravalli"},
 "Missoula":
 {"votes":[
-{"votes":16035,"name":"obama"},
-{"votes":7949,"name":"clinton"},
-{"votes":340,"name":"nopreference-d"}],
-"total":24324,"precincts":
+{"votes":16423,"name":"obama"},
+{"votes":8084,"name":"clinton"},
+{"votes":345,"name":"nopreference-d"}],
+"total":24852,"precincts":
 {"total":101,"reporting":101},
 "name":"Missoula"},
 "Cascade":

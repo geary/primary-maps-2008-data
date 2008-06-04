@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":15190,"name":"mccain"},
-{"votes":2898,"name":"paul"},
+{"votes":15987,"name":"mccain"},
+{"votes":3117,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
-{"votes":376,"name":"nopreference-r"},
+{"votes":400,"name":"nopreference-r"},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":19336,"locals":
+"state":"MT","party":"gop","total":20376,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -248,12 +248,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Prairie"},
 "Yellowstone":
 {"votes":[
-{"votes":5178,"name":"mccain"},
-{"votes":766,"name":"paul"},
-{"votes":143,"name":"nopreference-r"},
+{"votes":5812,"name":"mccain"},
+{"votes":917,"name":"paul"},
+{"votes":161,"name":"nopreference-r"},
 {"votes":47,"name":"romney"},
 {"votes":23,"name":"huckabee"}],
-"total":6157,"precincts":
+"total":6960,"precincts":
 {"total":1,"reporting":1},
 "name":"Yellowstone"},
 "Meagher":
@@ -345,12 +345,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Fergus"},
 "Big Horn":
 {"votes":[
-{"votes":164,"name":"mccain"},
+{"votes":253,"name":"mccain"},
+{"votes":39,"name":"paul"},
 {"votes":7,"name":"huckabee"},
-{"votes":6,"name":"romney"},
-{"votes":4,"name":"paul"},
-{"votes":1,"name":"nopreference-r"}],
-"total":182,"precincts":
+{"votes":7,"name":"nopreference-r"},
+{"votes":6,"name":"romney"}],
+"total":312,"precincts":
 {"total":1,"reporting":1},
 "name":"Big Horn"},
 "Ravalli":
@@ -393,11 +393,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roosevelt"},
 "McCone":
 {"votes":[
+{"votes":74,"name":"mccain"},
+{"votes":33,"name":"paul"},
 {"votes":6,"name":"huckabee"},
-{"votes":6,"name":"paul"},
-{"votes":4,"name":"romney"},
-{"votes":4,"name":"mccain"}],
-"total":20,"precincts":
+{"votes":4,"name":"romney"}],
+"total":117,"precincts":
 {"total":1,"reporting":1},
 "name":"McCone"},
 "Madison":

@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":37675,"name":"mccain"},
-{"votes":8477,"name":"paul"},
-{"votes":3847,"name":"huckabee"},
-{"votes":1675,"name":"romney"},
-{"votes":1586,"name":"uncommitted-r"}],
+{"votes":37845,"name":"mccain"},
+{"votes":8518,"name":"paul"},
+{"votes":3869,"name":"huckabee"},
+{"votes":1679,"name":"romney"},
+{"votes":1597,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":655},
+{"total":762,"reporting":662},
 "delegates":27,"date":"06-03"},
-"state":"SD","party":"gop","total":53260,"locals":
+"state":"SD","party":"gop","total":53508,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":324,"name":"mccain"},
@@ -514,13 +514,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":440,"name":"mccain"},
-{"votes":130,"name":"paul"},
-{"votes":40,"name":"huckabee"},
-{"votes":30,"name":"uncommitted-r"},
-{"votes":9,"name":"romney"}],
-"total":649,"precincts":
-{"total":16,"reporting":6},
+{"votes":575,"name":"mccain"},
+{"votes":163,"name":"paul"},
+{"votes":50,"name":"huckabee"},
+{"votes":38,"name":"uncommitted-r"},
+{"votes":12,"name":"romney"}],
+"total":838,"precincts":
+{"total":16,"reporting":7},
 "name":"Fall River"},
 "Marshall":
 {"votes":[
@@ -593,9 +593,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":6,"reporting":6},
 "name":"Kingsbury"},
 "Todd":
-{"votes":[],
-"total":0,"precincts":
-{"total":9,"reporting":0},
+{"votes":[
+{"votes":35,"name":"mccain"},
+{"votes":12,"name":"huckabee"},
+{"votes":8,"name":"paul"},
+{"votes":3,"name":"uncommitted-r"},
+{"votes":1,"name":"romney"}],
+"total":59,"precincts":
+{"total":9,"reporting":6},
 "name":"Todd"},
 "Campbell":
 {"votes":[

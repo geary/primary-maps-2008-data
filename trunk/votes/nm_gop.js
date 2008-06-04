@@ -1,15 +1,17 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13141,"name":"mccain"},
-{"votes":1589,"name":"paul"}],
+{"votes":14278,"name":"mccain"},
+{"votes":1732,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":125},
+{"total":1633,"reporting":127},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":14730,"locals":
+"state":"NM","party":"gop","total":16010,"locals":
 {"San Juan":
-{"votes":[],
-"total":0,"precincts":
-{"total":78,"reporting":0},
+{"votes":[
+{"votes":1137,"name":"mccain"},
+{"votes":143,"name":"paul"}],
+"total":1280,"precincts":
+{"total":78,"reporting":2},
 "name":"San Juan"},
 "Colfax":
 {"votes":[],

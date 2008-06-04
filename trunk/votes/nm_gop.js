@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":87553,"name":"mccain"},
-{"votes":14250,"name":"paul"}],
+{"votes":87817,"name":"mccain"},
+{"votes":14321,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1507},
+{"total":1633,"reporting":1508},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":101803,"locals":
+"state":"NM","party":"gop","total":102138,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -50,9 +50,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Union"},
 "Rio Arriba":
 {"votes":[
-{"votes":135,"name":"mccain"},
-{"votes":16,"name":"paul"}],
-"total":151,"precincts":
+{"votes":352,"name":"mccain"},
+{"votes":65,"name":"paul"}],
+"total":417,"precincts":
 {"total":47,"reporting":47},
 "name":"Rio Arriba"},
 "DeBaca":
@@ -115,10 +115,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Torrance"},
 "Taos":
 {"votes":[
-{"votes":485,"name":"mccain"},
-{"votes":73,"name":"paul"}],
-"total":558,"precincts":
-{"total":39,"reporting":35},
+{"votes":578,"name":"mccain"},
+{"votes":86,"name":"paul"}],
+"total":664,"precincts":
+{"total":39,"reporting":36},
 "name":"Taos"},
 "Lea":
 {"votes":[
@@ -157,9 +157,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Chaves"},
 "Catron":
 {"votes":[
-{"votes":429,"name":"mccain"},
-{"votes":101,"name":"paul"}],
-"total":530,"precincts":
+{"votes":328,"name":"mccain"},
+{"votes":113,"name":"paul"}],
+"total":441,"precincts":
 {"total":8,"reporting":7},
 "name":"Catron"},
 "Sandoval":
@@ -206,9 +206,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roosevelt"},
 "Los Alamos":
 {"votes":[
-{"votes":1734,"name":"mccain"},
-{"votes":354,"name":"paul"}],
-"total":2088,"precincts":
+{"votes":1789,"name":"mccain"},
+{"votes":351,"name":"paul"}],
+"total":2140,"precincts":
 {"total":19,"reporting":19},
 "name":"Los Alamos"},
 "Curry":

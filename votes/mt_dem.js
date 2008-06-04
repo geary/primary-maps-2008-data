@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":83711,"name":"obama","delegates":8},
-{"votes":60211,"name":"clinton","delegates":5},
-{"votes":3475,"name":"nopreference-d"}],
+{"votes":90750,"name":"obama","delegates":8},
+{"votes":66337,"name":"clinton","delegates":5},
+{"votes":3779,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":699},
+{"total":871,"reporting":745},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":147397,"locals":
+"state":"MT","party":"dem","total":160866,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -32,11 +32,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[
-{"votes":3579,"name":"clinton"},
-{"votes":2908,"name":"obama"},
-{"votes":195,"name":"nopreference-d"}],
-"total":6682,"precincts":
-{"total":45,"reporting":33},
+{"votes":5396,"name":"clinton"},
+{"votes":4415,"name":"obama"},
+{"votes":261,"name":"nopreference-d"}],
+"total":10072,"precincts":
+{"total":45,"reporting":40},
 "name":"Silver Bow"},
 "Treasure":
 {"votes":[
@@ -245,11 +245,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Stillwater"},
 "Flathead":
 {"votes":[
-{"votes":5586,"name":"obama"},
-{"votes":3532,"name":"clinton"},
-{"votes":176,"name":"nopreference-d"}],
-"total":9294,"precincts":
-{"total":42,"reporting":34},
+{"votes":6588,"name":"obama"},
+{"votes":4096,"name":"clinton"},
+{"votes":202,"name":"nopreference-d"}],
+"total":10886,"precincts":
+{"total":42,"reporting":42},
 "name":"Flathead"},
 "Sheridan":
 {"votes":[
@@ -305,10 +305,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Big Horn"},
 "Ravalli":
 {"votes":[
-{"votes":902,"name":"obama"},
-{"votes":526,"name":"clinton"}],
-"total":1428,"precincts":
-{"total":22,"reporting":1},
+{"votes":3834,"name":"obama"},
+{"votes":2786,"name":"clinton"},
+{"votes":114,"name":"nopreference-d"}],
+"total":6734,"precincts":
+{"total":22,"reporting":22},
 "name":"Ravalli"},
 "Missoula":
 {"votes":[
@@ -320,11 +321,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Missoula"},
 "Cascade":
 {"votes":[
-{"votes":6190,"name":"obama"},
-{"votes":5735,"name":"clinton"},
-{"votes":505,"name":"nopreference-d"}],
-"total":12430,"precincts":
-{"total":38,"reporting":28},
+{"votes":7788,"name":"obama"},
+{"votes":7220,"name":"clinton"},
+{"votes":603,"name":"nopreference-d"}],
+"total":15611,"precincts":
+{"total":38,"reporting":38},
 "name":"Cascade"},
 "Roosevelt":
 {"votes":[

@@ -2,22 +2,22 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":55464,"name":"mccain"},
-{"votes":14512,"name":"paul"},
-{"votes":1624,"name":"nopreference-r"},
+{"votes":63366,"name":"mccain"},
+{"votes":17514,"name":"paul"},
+{"votes":1768,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":72472,"locals":
+"state":"MT","party":"gop","total":83520,"locals":
 {"Judith Basin":
 {"votes":[
-{"votes":169,"name":"mccain"},
-{"votes":47,"name":"paul"},
-{"votes":12,"name":"nopreference-r"},
+{"votes":297,"name":"mccain"},
+{"votes":66,"name":"paul"},
+{"votes":17,"name":"nopreference-r"},
 {"votes":3,"name":"huckabee"},
 {"votes":3,"name":"romney"}],
-"total":234,"precincts":
+"total":386,"precincts":
 {"total":1,"reporting":1},
 "name":"Judith Basin"},
 "Richland":
@@ -41,12 +41,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[
-{"votes":938,"name":"mccain"},
-{"votes":182,"name":"paul"},
-{"votes":39,"name":"nopreference-r"},
+{"votes":1445,"name":"mccain"},
+{"votes":268,"name":"paul"},
+{"votes":54,"name":"nopreference-r"},
 {"votes":7,"name":"romney"},
 {"votes":5,"name":"huckabee"}],
-"total":1171,"precincts":
+"total":1779,"precincts":
 {"total":1,"reporting":1},
 "name":"Silver Bow"},
 "Treasure":
@@ -71,11 +71,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Petroleum"},
 "Lake":
 {"votes":[
-{"votes":18,"name":"paul"},
+{"votes":1591,"name":"mccain"},
+{"votes":923,"name":"paul"},
+{"votes":36,"name":"nopreference-r"},
 {"votes":14,"name":"romney"},
-{"votes":8,"name":"mccain"},
 {"votes":3,"name":"huckabee"}],
-"total":43,"precincts":
+"total":2567,"precincts":
 {"total":1,"reporting":1},
 "name":"Lake"},
 "Liberty":
@@ -305,12 +306,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Stillwater"},
 "Flathead":
 {"votes":[
-{"votes":6637,"name":"mccain"},
-{"votes":3040,"name":"paul"},
-{"votes":232,"name":"nopreference-r"},
+{"votes":7792,"name":"mccain"},
+{"votes":3674,"name":"paul"},
+{"votes":130,"name":"nopreference-r"},
 {"votes":36,"name":"romney"},
 {"votes":5,"name":"huckabee"}],
-"total":9950,"precincts":
+"total":11637,"precincts":
 {"total":1,"reporting":1},
 "name":"Flathead"},
 "Sheridan":
@@ -380,11 +381,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Big Horn"},
 "Ravalli":
 {"votes":[
-{"votes":976,"name":"mccain"},
-{"votes":187,"name":"paul"},
+{"votes":4492,"name":"mccain"},
+{"votes":1327,"name":"paul"},
+{"votes":172,"name":"nopreference-r"},
 {"votes":32,"name":"romney"},
 {"votes":4,"name":"huckabee"}],
-"total":1199,"precincts":
+"total":6027,"precincts":
 {"total":1,"reporting":1},
 "name":"Ravalli"},
 "Missoula":
@@ -399,12 +401,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Missoula"},
 "Cascade":
 {"votes":[
-{"votes":3848,"name":"mccain"},
-{"votes":647,"name":"paul"},
-{"votes":77,"name":"nopreference-r"},
+{"votes":4853,"name":"mccain"},
+{"votes":847,"name":"paul"},
+{"votes":95,"name":"nopreference-r"},
 {"votes":15,"name":"romney"},
 {"votes":5,"name":"huckabee"}],
-"total":4592,"precincts":
+"total":5815,"precincts":
 {"total":1,"reporting":1},
 "name":"Cascade"},
 "Roosevelt":

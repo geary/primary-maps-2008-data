@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":68833,"name":"mccain"},
-{"votes":19161,"name":"paul"},
-{"votes":1914,"name":"nopreference-r"},
+{"votes":69390,"name":"mccain"},
+{"votes":19339,"name":"paul"},
+{"votes":1930,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":90780,"locals":
+"state":"MT","party":"gop","total":91531,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -71,12 +71,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Petroleum"},
 "Lake":
 {"votes":[
-{"votes":1591,"name":"mccain"},
-{"votes":923,"name":"paul"},
-{"votes":36,"name":"nopreference-r"},
+{"votes":2148,"name":"mccain"},
+{"votes":1101,"name":"paul"},
+{"votes":52,"name":"nopreference-r"},
 {"votes":14,"name":"romney"},
 {"votes":3,"name":"huckabee"}],
-"total":2567,"precincts":
+"total":3318,"precincts":
 {"total":1,"reporting":1},
 "name":"Lake"},
 "Liberty":

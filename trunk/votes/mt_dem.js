@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":98066,"name":"obama","delegates":8},
-{"votes":72035,"name":"clinton","delegates":5},
-{"votes":4065,"name":"nopreference-d"}],
+{"votes":98848,"name":"obama","delegates":8},
+{"votes":72519,"name":"clinton","delegates":5},
+{"votes":4125,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":840},
+{"total":871,"reporting":842},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":174166,"locals":
+"state":"MT","party":"dem","total":175492,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -56,11 +56,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Petroleum"},
 "Lake":
 {"votes":[
-{"votes":2132,"name":"obama"},
-{"votes":1767,"name":"clinton"},
-{"votes":17,"name":"nopreference-d"}],
-"total":3916,"precincts":
-{"total":22,"reporting":20},
+{"votes":2914,"name":"obama"},
+{"votes":2251,"name":"clinton"},
+{"votes":77,"name":"nopreference-d"}],
+"total":5242,"precincts":
+{"total":22,"reporting":22},
 "name":"Lake"},
 "Liberty":
 {"votes":[

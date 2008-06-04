@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":40391,"name":"mccain"},
-{"votes":5684,"name":"paul"}],
+{"votes":43964,"name":"mccain"},
+{"votes":6281,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":606},
+{"total":1633,"reporting":684},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":46075,"locals":
+"state":"NM","party":"gop","total":50245,"locals":
 {"San Juan":
 {"votes":[
 {"votes":2034,"name":"mccain"},
@@ -83,10 +83,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"name":"CD3"},
 "Sierra":
 {"votes":[
-{"votes":514,"name":"mccain"},
-{"votes":50,"name":"paul"}],
-"total":564,"precincts":
-{"total":11,"reporting":3},
+{"votes":985,"name":"mccain"},
+{"votes":98,"name":"paul"}],
+"total":1083,"precincts":
+{"total":11,"reporting":6},
 "name":"Sierra"},
 "Valencia":
 {"votes":[
@@ -158,10 +158,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Catron"},
 "Sandoval":
 {"votes":[
-{"votes":859,"name":"mccain"},
-{"votes":168,"name":"paul"}],
-"total":1027,"precincts":
-{"total":92,"reporting":71},
+{"votes":1749,"name":"mccain"},
+{"votes":347,"name":"paul"}],
+"total":2096,"precincts":
+{"total":92,"reporting":72},
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[
@@ -179,10 +179,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[
-{"votes":735,"name":"mccain"},
-{"votes":108,"name":"paul"}],
-"total":843,"precincts":
-{"total":136,"reporting":21},
+{"votes":1564,"name":"mccain"},
+{"votes":208,"name":"paul"}],
+"total":1772,"precincts":
+{"total":136,"reporting":42},
 "name":"Dona Ana"},
 "Lincoln":
 {"votes":[
@@ -213,9 +213,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":48,"reporting":1},
 "name":"Curry"},
 "Santa Fe":
-{"votes":[],
-"total":0,"precincts":
-{"total":92,"reporting":0},
+{"votes":[
+{"votes":1383,"name":"mccain"},
+{"votes":270,"name":"paul"}],
+"total":1653,"precincts":
+{"total":92,"reporting":53},
 "name":"Santa Fe"},
 "Luna":
 {"votes":[

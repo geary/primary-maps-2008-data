@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":9780,"name":"mccain"},
-{"votes":1818,"name":"paul"},
+{"votes":9852,"name":"mccain"},
+{"votes":1833,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
+{"votes":245,"name":"nopreference-r"},
 {"votes":245,"name":"huckabee"},
-{"votes":244,"name":"nopreference-r"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":12714,"locals":
+"state":"MT","party":"gop","total":12802,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -207,11 +207,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Garfield"},
 "Chouteau":
 {"votes":[
+{"votes":72,"name":"mccain"},
+{"votes":15,"name":"paul"},
 {"votes":7,"name":"romney"},
-{"votes":7,"name":"mccain"},
-{"votes":6,"name":"paul"},
-{"votes":4,"name":"huckabee"}],
-"total":24,"precincts":
+{"votes":4,"name":"huckabee"},
+{"votes":1,"name":"nopreference-r"}],
+"total":99,"precincts":
 {"total":1,"reporting":1},
 "name":"Chouteau"},
 "Teton":

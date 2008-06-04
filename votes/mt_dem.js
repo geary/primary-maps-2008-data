@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13338,"name":"obama","delegates":8},
-{"votes":8830,"name":"clinton","delegates":5},
+{"votes":13381,"name":"obama","delegates":8},
+{"votes":8876,"name":"clinton","delegates":5},
 {"votes":630,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":24},
+{"total":871,"reporting":26},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":22798,"locals":
+"state":"MT","party":"dem","total":22887,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -124,9 +124,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":7,"reporting":0},
 "name":"Garfield"},
 "Chouteau":
-{"votes":[],
-"total":0,"precincts":
-{"total":12,"reporting":0},
+{"votes":[
+{"votes":46,"name":"clinton"},
+{"votes":43,"name":"obama"}],
+"total":89,"precincts":
+{"total":12,"reporting":2},
 "name":"Chouteau"},
 "Teton":
 {"votes":[],

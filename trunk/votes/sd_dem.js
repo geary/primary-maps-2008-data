@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":46695,"name":"clinton","delegates":8},
-{"votes":37219,"name":"obama","delegates":6}],
+{"votes":48271,"name":"clinton","delegates":8},
+{"votes":38469,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":635},
+{"total":762,"reporting":648},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":83914,"locals":
+"state":"SD","party":"dem","total":86740,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -43,10 +43,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Grant"},
 "Union":
 {"votes":[
-{"votes":959,"name":"clinton"},
-{"votes":689,"name":"obama"}],
-"total":1648,"precincts":
-{"total":13,"reporting":10},
+{"votes":1052,"name":"clinton"},
+{"votes":788,"name":"obama"}],
+"total":1840,"precincts":
+{"total":13,"reporting":11},
 "name":"Union"},
 "Clay":
 {"votes":[
@@ -106,10 +106,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Brookings"},
 "Jackson":
 {"votes":[
-{"votes":33,"name":"clinton"},
-{"votes":8,"name":"obama"}],
-"total":41,"precincts":
-{"total":8,"reporting":2},
+{"votes":35,"name":"clinton"},
+{"votes":9,"name":"obama"}],
+"total":44,"precincts":
+{"total":8,"reporting":3},
 "name":"Jackson"},
 "McPherson":
 {"votes":[
@@ -134,10 +134,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Brown"},
 "Minnehaha":
 {"votes":[
-{"votes":9894,"name":"clinton"},
-{"votes":7675,"name":"obama"}],
-"total":17569,"precincts":
-{"total":66,"reporting":58},
+{"votes":11290,"name":"clinton"},
+{"votes":8765,"name":"obama"}],
+"total":20055,"precincts":
+{"total":66,"reporting":66},
 "name":"Minnehaha"},
 "Pennington":
 {"votes":[
@@ -183,10 +183,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Hand"},
 "Walworth":
 {"votes":[
-{"votes":272,"name":"clinton"},
-{"votes":197,"name":"obama"}],
-"total":469,"precincts":
-{"total":15,"reporting":14},
+{"votes":311,"name":"clinton"},
+{"votes":218,"name":"obama"}],
+"total":529,"precincts":
+{"total":15,"reporting":15},
 "name":"Walworth"},
 "Codington":
 {"votes":[
@@ -398,10 +398,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Charles Mix"},
 "Perkins":
 {"votes":[
-{"votes":93,"name":"clinton"},
-{"votes":93,"name":"obama"}],
-"total":186,"precincts":
-{"total":10,"reporting":6},
+{"votes":139,"name":"clinton"},
+{"votes":132,"name":"obama"}],
+"total":271,"precincts":
+{"total":10,"reporting":8},
 "name":"Perkins"},
 "Hyde":
 {"votes":[

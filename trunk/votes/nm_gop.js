@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":52739,"name":"mccain"},
-{"votes":7823,"name":"paul"}],
+{"votes":53752,"name":"mccain"},
+{"votes":8041,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":922},
+{"total":1633,"reporting":934},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":60562,"locals":
+"state":"NM","party":"gop","total":61793,"locals":
 {"San Juan":
 {"votes":[
 {"votes":4041,"name":"mccain"},
@@ -41,10 +41,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Grant"},
 "Union":
 {"votes":[
-{"votes":172,"name":"mccain"},
-{"votes":21,"name":"paul"}],
-"total":193,"precincts":
-{"total":8,"reporting":6},
+{"votes":244,"name":"mccain"},
+{"votes":33,"name":"paul"}],
+"total":277,"precincts":
+{"total":8,"reporting":2},
 "name":"Union"},
 "Rio Arriba":
 {"votes":[
@@ -61,9 +61,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":6,"reporting":6},
 "name":"DeBaca"},
 "Guadalupe":
-{"votes":[],
-"total":0,"precincts":
-{"total":8,"reporting":0},
+{"votes":[
+{"votes":138,"name":"mccain"},
+{"votes":8,"name":"paul"}],
+"total":146,"precincts":
+{"total":8,"reporting":4},
 "name":"Guadalupe"},
 "Eddy":
 {"votes":[
@@ -104,10 +106,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mora"},
 "Torrance":
 {"votes":[
-{"votes":280,"name":"mccain"},
-{"votes":46,"name":"paul"}],
-"total":326,"precincts":
-{"total":18,"reporting":2},
+{"votes":747,"name":"mccain"},
+{"votes":172,"name":"paul"}],
+"total":919,"precincts":
+{"total":18,"reporting":12},
 "name":"Torrance"},
 "Taos":
 {"votes":[
@@ -202,10 +204,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roosevelt"},
 "Los Alamos":
 {"votes":[
-{"votes":1398,"name":"mccain"},
-{"votes":279,"name":"paul"}],
-"total":1677,"precincts":
-{"total":19,"reporting":17},
+{"votes":1734,"name":"mccain"},
+{"votes":351,"name":"paul"}],
+"total":2085,"precincts":
+{"total":19,"reporting":19},
 "name":"Los Alamos"},
 "Curry":
 {"votes":[

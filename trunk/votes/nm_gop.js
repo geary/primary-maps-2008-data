@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":88154,"name":"mccain"},
-{"votes":14351,"name":"paul"}],
+{"votes":88488,"name":"mccain"},
+{"votes":14433,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1512},
+{"total":1633,"reporting":1520},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":102505,"locals":
+"state":"NM","party":"gop","total":102921,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -29,10 +29,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":34041,"name":"mccain"},
-{"votes":6028,"name":"paul"}],
-"total":40069,"precincts":
-{"total":442,"reporting":403},
+{"votes":34375,"name":"mccain"},
+{"votes":6110,"name":"paul"}],
+"total":40485,"precincts":
+{"total":442,"reporting":411},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[

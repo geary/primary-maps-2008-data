@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":24225,"name":"obama","delegates":8},
-{"votes":17803,"name":"clinton","delegates":5},
-{"votes":1292,"name":"nopreference-d"}],
+{"votes":25192,"name":"obama","delegates":8},
+{"votes":18772,"name":"clinton","delegates":5},
+{"votes":1320,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":46},
+{"total":871,"reporting":83},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":43320,"locals":
+"state":"MT","party":"dem","total":45284,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -161,11 +161,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Prairie"},
 "Yellowstone":
 {"votes":[
-{"votes":5168,"name":"obama"},
-{"votes":4759,"name":"clinton"},
-{"votes":361,"name":"nopreference-d"}],
-"total":10288,"precincts":
-{"total":69,"reporting":0},
+{"votes":6004,"name":"obama"},
+{"votes":5588,"name":"clinton"},
+{"votes":386,"name":"nopreference-d"}],
+"total":11978,"precincts":
+{"total":69,"reporting":10},
 "name":"Yellowstone"},
 "Meagher":
 {"votes":[],
@@ -222,11 +222,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Fergus"},
 "Big Horn":
 {"votes":[
-{"votes":289,"name":"obama"},
-{"votes":163,"name":"clinton"},
-{"votes":7,"name":"nopreference-d"}],
-"total":459,"precincts":
-{"total":20,"reporting":5},
+{"votes":378,"name":"obama"},
+{"votes":252,"name":"clinton"},
+{"votes":10,"name":"nopreference-d"}],
+"total":640,"precincts":
+{"total":20,"reporting":7},
 "name":"Big Horn"},
 "Ravalli":
 {"votes":[],
@@ -239,7 +239,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2912,"name":"clinton"},
 {"votes":155,"name":"nopreference-d"}],
 "total":9143,"precincts":
-{"total":101,"reporting":2},
+{"total":101,"reporting":26},
 "name":"Missoula"},
 "Cascade":
 {"votes":[
@@ -255,9 +255,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":13,"reporting":0},
 "name":"Roosevelt"},
 "McCone":
-{"votes":[],
-"total":0,"precincts":
-{"total":3,"reporting":0},
+{"votes":[
+{"votes":51,"name":"clinton"},
+{"votes":42,"name":"obama"}],
+"total":93,"precincts":
+{"total":3,"reporting":1},
 "name":"McCone"},
 "Madison":
 {"votes":[

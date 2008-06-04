@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":54613,"name":"mccain"},
-{"votes":8175,"name":"paul"}],
+{"votes":56820,"name":"mccain"},
+{"votes":8519,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":947},
+{"total":1633,"reporting":976},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":62788,"locals":
+"state":"NM","party":"gop","total":65339,"locals":
 {"San Juan":
 {"votes":[
 {"votes":4041,"name":"mccain"},
@@ -113,10 +113,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Torrance"},
 "Taos":
 {"votes":[
-{"votes":99,"name":"mccain"},
-{"votes":11,"name":"paul"}],
-"total":110,"precincts":
-{"total":39,"reporting":9},
+{"votes":186,"name":"mccain"},
+{"votes":22,"name":"paul"}],
+"total":208,"precincts":
+{"total":39,"reporting":15},
 "name":"Taos"},
 "Lea":
 {"votes":[
@@ -127,10 +127,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lea"},
 "Cibola":
 {"votes":[
-{"votes":29,"name":"mccain"},
-{"votes":4,"name":"paul"}],
-"total":33,"precincts":
-{"total":30,"reporting":2},
+{"votes":128,"name":"mccain"},
+{"votes":45,"name":"paul"}],
+"total":173,"precincts":
+{"total":30,"reporting":6},
 "name":"Cibola"},
 "Quay":
 {"votes":[
@@ -148,17 +148,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Harding"},
 "Chaves":
 {"votes":[
-{"votes":3360,"name":"mccain"},
-{"votes":407,"name":"paul"}],
-"total":3767,"precincts":
-{"total":53,"reporting":50},
+{"votes":4554,"name":"mccain"},
+{"votes":536,"name":"paul"}],
+"total":5090,"precincts":
+{"total":53,"reporting":52},
 "name":"Chaves"},
 "Catron":
 {"votes":[
-{"votes":173,"name":"mccain"},
-{"votes":51,"name":"paul"}],
-"total":224,"precincts":
-{"total":8,"reporting":3},
+{"votes":211,"name":"mccain"},
+{"votes":71,"name":"paul"}],
+"total":282,"precincts":
+{"total":8,"reporting":4},
 "name":"Catron"},
 "Sandoval":
 {"votes":[
@@ -169,17 +169,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[
-{"votes":355,"name":"mccain"},
-{"votes":41,"name":"paul"}],
-"total":396,"precincts":
-{"total":41,"reporting":21},
+{"votes":476,"name":"mccain"},
+{"votes":65,"name":"paul"}],
+"total":541,"precincts":
+{"total":41,"reporting":26},
 "name":"San Miguel"},
 "Socorro":
 {"votes":[
-{"votes":64,"name":"mccain"},
-{"votes":18,"name":"paul"}],
-"total":82,"precincts":
-{"total":29,"reporting":2},
+{"votes":732,"name":"mccain"},
+{"votes":137,"name":"paul"}],
+"total":869,"precincts":
+{"total":29,"reporting":13},
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[

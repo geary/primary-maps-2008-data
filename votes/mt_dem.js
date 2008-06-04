@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":26353,"name":"obama","delegates":8},
-{"votes":19723,"name":"clinton","delegates":5},
-{"votes":1414,"name":"nopreference-d"}],
+{"votes":28820,"name":"obama","delegates":8},
+{"votes":21811,"name":"clinton","delegates":5},
+{"votes":1552,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":103},
+{"total":871,"reporting":130},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":47490,"locals":
+"state":"MT","party":"dem","total":52183,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -129,9 +129,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":2},
 "name":"Powder River"},
 "Custer":
-{"votes":[],
-"total":0,"precincts":
-{"total":14,"reporting":0},
+{"votes":[
+{"votes":616,"name":"clinton"},
+{"votes":475,"name":"obama"},
+{"votes":23,"name":"nopreference-d"}],
+"total":1114,"precincts":
+{"total":14,"reporting":4},
 "name":"Custer"},
 "Park":
 {"votes":[],
@@ -196,11 +199,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Stillwater"},
 "Flathead":
 {"votes":[
-{"votes":1690,"name":"obama"},
-{"votes":930,"name":"clinton"},
-{"votes":52,"name":"nopreference-d"}],
-"total":2672,"precincts":
-{"total":42,"reporting":1},
+{"votes":2774,"name":"obama"},
+{"votes":1622,"name":"clinton"},
+{"votes":95,"name":"nopreference-d"}],
+"total":4491,"precincts":
+{"total":42,"reporting":10},
 "name":"Flathead"},
 "Sheridan":
 {"votes":[],
@@ -223,9 +226,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":10,"reporting":0},
 "name":"Sanders"},
 "Fallon":
-{"votes":[],
-"total":0,"precincts":
-{"total":6,"reporting":0},
+{"votes":[
+{"votes":35,"name":"clinton"},
+{"votes":18,"name":"obama"},
+{"votes":2,"name":"nopreference-d"}],
+"total":55,"precincts":
+{"total":6,"reporting":1},
 "name":"Fallon"},
 "Fergus":
 {"votes":[],
@@ -262,9 +268,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":38,"reporting":0},
 "name":"Cascade"},
 "Roosevelt":
-{"votes":[],
-"total":0,"precincts":
-{"total":13,"reporting":0},
+{"votes":[
+{"votes":10,"name":"obama"},
+{"votes":9,"name":"clinton"},
+{"votes":1,"name":"nopreference-d"}],
+"total":20,"precincts":
+{"total":13,"reporting":1},
 "name":"Roosevelt"},
 "McCone":
 {"votes":[
@@ -304,11 +313,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sweet Grass"},
 "Pondera":
 {"votes":[
-{"votes":149,"name":"obama"},
-{"votes":106,"name":"clinton"},
-{"votes":14,"name":"nopreference-d"}],
-"total":269,"precincts":
-{"total":8,"reporting":2},
+{"votes":262,"name":"obama"},
+{"votes":196,"name":"clinton"},
+{"votes":24,"name":"nopreference-d"}],
+"total":482,"precincts":
+{"total":8,"reporting":3},
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
@@ -327,9 +336,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":18,"reporting":1},
 "name":"Deer Lodge"},
 "Rosebud":
-{"votes":[],
-"total":0,"precincts":
-{"total":12,"reporting":0},
+{"votes":[
+{"votes":598,"name":"obama"},
+{"votes":438,"name":"clinton"},
+{"votes":51,"name":"nopreference-d"}],
+"total":1087,"precincts":
+{"total":12,"reporting":7},
 "name":"Rosebud"},
 "Wheatland":
 {"votes":[],
@@ -343,11 +355,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Blaine"},
 "Dawson":
 {"votes":[
-{"votes":102,"name":"clinton"},
-{"votes":96,"name":"obama"},
-{"votes":7,"name":"nopreference-d"}],
-"total":205,"precincts":
-{"total":12,"reporting":2},
+{"votes":310,"name":"clinton"},
+{"votes":265,"name":"obama"},
+{"votes":15,"name":"nopreference-d"}],
+"total":590,"precincts":
+{"total":12,"reporting":6},
 "name":"Dawson"},
 "Toole":
 {"votes":[],

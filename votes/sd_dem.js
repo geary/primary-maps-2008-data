@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":51445,"name":"clinton","delegates":8},
-{"votes":41600,"name":"obama","delegates":6}],
+{"votes":51853,"name":"clinton","delegates":8},
+{"votes":42056,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":688},
+{"total":762,"reporting":699},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":93045,"locals":
+"state":"SD","party":"dem","total":93909,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -106,10 +106,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Brookings"},
 "Jackson":
 {"votes":[
-{"votes":43,"name":"clinton"},
-{"votes":17,"name":"obama"}],
-"total":60,"precincts":
-{"total":8,"reporting":4},
+{"votes":78,"name":"obama"},
+{"votes":58,"name":"clinton"}],
+"total":136,"precincts":
+{"total":8,"reporting":5},
 "name":"Jackson"},
 "McPherson":
 {"votes":[
@@ -127,10 +127,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sully"},
 "Brown":
 {"votes":[
-{"votes":1518,"name":"clinton"},
-{"votes":1043,"name":"obama"}],
-"total":2561,"precincts":
-{"total":22,"reporting":10},
+{"votes":1573,"name":"clinton"},
+{"votes":1079,"name":"obama"}],
+"total":2652,"precincts":
+{"total":22,"reporting":11},
 "name":"Brown"},
 "Minnehaha":
 {"votes":[
@@ -281,17 +281,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roberts"},
 "Meade":
 {"votes":[
-{"votes":692,"name":"clinton"},
-{"votes":565,"name":"obama"}],
-"total":1257,"precincts":
-{"total":37,"reporting":20},
+{"votes":964,"name":"clinton"},
+{"votes":822,"name":"obama"}],
+"total":1786,"precincts":
+{"total":37,"reporting":26},
 "name":"Meade"},
 "Mellette":
 {"votes":[
-{"votes":64,"name":"obama"},
-{"votes":42,"name":"clinton"}],
-"total":106,"precincts":
-{"total":4,"reporting":2},
+{"votes":142,"name":"obama"},
+{"votes":68,"name":"clinton"}],
+"total":210,"precincts":
+{"total":4,"reporting":3},
 "name":"Mellette"},
 "Faulk":
 {"votes":[
@@ -365,10 +365,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":335,"name":"clinton"},
-{"votes":323,"name":"obama"}],
-"total":658,"precincts":
-{"total":16,"reporting":10},
+{"votes":375,"name":"clinton"},
+{"votes":347,"name":"obama"}],
+"total":722,"precincts":
+{"total":16,"reporting":12},
 "name":"Fall River"},
 "Marshall":
 {"votes":[

@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":32972,"name":"mccain"},
-{"votes":4391,"name":"paul"}],
+{"votes":34016,"name":"mccain"},
+{"votes":4509,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":481},
+{"total":1633,"reporting":503},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":37363,"locals":
+"state":"NM","party":"gop","total":38525,"locals":
 {"San Juan":
 {"votes":[
 {"votes":2034,"name":"mccain"},
@@ -20,10 +20,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Colfax"},
 "Otero":
 {"votes":[
-{"votes":2840,"name":"mccain"},
-{"votes":417,"name":"paul"}],
-"total":3257,"precincts":
-{"total":43,"reporting":25},
+{"votes":3293,"name":"mccain"},
+{"votes":474,"name":"paul"}],
+"total":3767,"precincts":
+{"total":43,"reporting":38},
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
@@ -82,9 +82,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[],
 "total":0,"name":"CD3"},
 "Sierra":
-{"votes":[],
-"total":0,"precincts":
-{"total":11,"reporting":0},
+{"votes":[
+{"votes":514,"name":"mccain"},
+{"votes":50,"name":"paul"}],
+"total":564,"precincts":
+{"total":11,"reporting":3},
 "name":"Sierra"},
 "Valencia":
 {"votes":[],
@@ -161,10 +163,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[
-{"votes":209,"name":"mccain"},
-{"votes":20,"name":"paul"}],
-"total":229,"precincts":
-{"total":41,"reporting":8},
+{"votes":286,"name":"mccain"},
+{"votes":31,"name":"paul"}],
+"total":317,"precincts":
+{"total":41,"reporting":14},
 "name":"San Miguel"},
 "Socorro":
 {"votes":[

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":97076,"name":"obama","delegates":8},
-{"votes":71107,"name":"clinton","delegates":5},
-{"votes":4033,"name":"nopreference-d"}],
+{"votes":97445,"name":"obama","delegates":8},
+{"votes":71553,"name":"clinton","delegates":5},
+{"votes":4036,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":825},
+{"total":871,"reporting":835},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":172216,"locals":
+"state":"MT","party":"dem","total":173034,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -17,10 +17,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Judith Basin"},
 "Richland":
 {"votes":[
-{"votes":146,"name":"obama"},
-{"votes":143,"name":"clinton"}],
-"total":289,"precincts":
-{"total":15,"reporting":7},
+{"votes":534,"name":"clinton"},
+{"votes":463,"name":"obama"}],
+"total":997,"precincts":
+{"total":15,"reporting":15},
 "name":"Richland"},
 "Glacier":
 {"votes":[
@@ -434,11 +434,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Dawson"},
 "Toole":
 {"votes":[
-{"votes":53,"name":"clinton"},
-{"votes":35,"name":"obama"},
-{"votes":2,"name":"nopreference-d"}],
-"total":90,"precincts":
-{"total":10,"reporting":3},
+{"votes":108,"name":"clinton"},
+{"votes":87,"name":"obama"},
+{"votes":5,"name":"nopreference-d"}],
+"total":200,"precincts":
+{"total":10,"reporting":5},
 "name":"Toole"},
 "Gallatin":
 {"votes":[

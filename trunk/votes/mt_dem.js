@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":100218,"name":"obama","delegates":8},
-{"votes":73233,"name":"clinton","delegates":5},
-{"votes":4148,"name":"nopreference-d"}],
+{"votes":100551,"name":"obama","delegates":8},
+{"votes":73476,"name":"clinton","delegates":5},
+{"votes":4167,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":851},
+{"total":871,"reporting":853},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":177599,"locals":
+"state":"MT","party":"dem","total":178194,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -24,11 +24,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Richland"},
 "Glacier":
 {"votes":[
-{"votes":1291,"name":"obama"},
-{"votes":981,"name":"clinton"},
-{"votes":89,"name":"nopreference-d"}],
-"total":2361,"precincts":
-{"total":16,"reporting":11},
+{"votes":1408,"name":"obama"},
+{"votes":1096,"name":"clinton"},
+{"votes":100,"name":"nopreference-d"}],
+"total":2604,"precincts":
+{"total":16,"reporting":13},
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[
@@ -386,10 +386,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":8801,"name":"obama"},
-{"votes":5630,"name":"clinton"},
-{"votes":333,"name":"nopreference-d"}],
-"total":14764,"precincts":
+{"votes":9017,"name":"obama"},
+{"votes":5758,"name":"clinton"},
+{"votes":341,"name":"nopreference-d"}],
+"total":15116,"precincts":
 {"total":56,"reporting":56},
 "name":"Lewis & Clark"},
 "Deer Lodge":

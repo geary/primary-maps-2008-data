@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":47806,"name":"mccain"},
-{"votes":6883,"name":"paul"}],
+{"votes":50958,"name":"mccain"},
+{"votes":7583,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":798},
+{"total":1633,"reporting":885},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":54689,"locals":
+"state":"NM","party":"gop","total":58541,"locals":
 {"San Juan":
 {"votes":[
 {"votes":4041,"name":"mccain"},
@@ -27,10 +27,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":15745,"name":"mccain"},
-{"votes":2131,"name":"paul"}],
-"total":17876,"precincts":
-{"total":442,"reporting":65},
+{"votes":18744,"name":"mccain"},
+{"votes":2815,"name":"paul"}],
+"total":21559,"precincts":
+{"total":442,"reporting":137},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -48,10 +48,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Union"},
 "Rio Arriba":
 {"votes":[
-{"votes":130,"name":"mccain"},
-{"votes":15,"name":"paul"}],
-"total":145,"precincts":
-{"total":47,"reporting":46},
+{"votes":135,"name":"mccain"},
+{"votes":16,"name":"paul"}],
+"total":151,"precincts":
+{"total":47,"reporting":47},
 "name":"Rio Arriba"},
 "DeBaca":
 {"votes":[
@@ -97,10 +97,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Valencia"},
 "Mora":
 {"votes":[
-{"votes":118,"name":"mccain"},
-{"votes":9,"name":"paul"}],
-"total":127,"precincts":
-{"total":13,"reporting":7},
+{"votes":179,"name":"mccain"},
+{"votes":13,"name":"paul"}],
+"total":192,"precincts":
+{"total":13,"reporting":10},
 "name":"Mora"},
 "Torrance":
 {"votes":[
@@ -111,10 +111,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Torrance"},
 "Taos":
 {"votes":[
-{"votes":81,"name":"mccain"},
-{"votes":10,"name":"paul"}],
-"total":91,"precincts":
-{"total":39,"reporting":5},
+{"votes":99,"name":"mccain"},
+{"votes":11,"name":"paul"}],
+"total":110,"precincts":
+{"total":39,"reporting":9},
 "name":"Taos"},
 "Lea":
 {"votes":[
@@ -167,10 +167,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[
-{"votes":286,"name":"mccain"},
-{"votes":31,"name":"paul"}],
-"total":317,"precincts":
-{"total":41,"reporting":14},
+{"votes":355,"name":"mccain"},
+{"votes":41,"name":"paul"}],
+"total":396,"precincts":
+{"total":41,"reporting":21},
 "name":"San Miguel"},
 "Socorro":
 {"votes":[

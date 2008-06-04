@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13889,"name":"obama","delegates":8},
-{"votes":9304,"name":"clinton","delegates":5},
-{"votes":641,"name":"nopreference-d"}],
+{"votes":13997,"name":"obama","delegates":8},
+{"votes":9410,"name":"clinton","delegates":5},
+{"votes":653,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":36},
+{"total":871,"reporting":37},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":23834,"locals":
+"state":"MT","party":"dem","total":24060,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -87,9 +87,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":1,"reporting":0},
 "name":"Wibaux"},
 "Valley":
-{"votes":[],
-"total":0,"precincts":
-{"total":11,"reporting":0},
+{"votes":[
+{"votes":108,"name":"obama"},
+{"votes":106,"name":"clinton"},
+{"votes":12,"name":"nopreference-d"}],
+"total":226,"precincts":
+{"total":11,"reporting":1},
 "name":"Valley"},
 "Lincoln":
 {"votes":[],

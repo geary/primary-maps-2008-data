@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":35227,"name":"mccain"},
-{"votes":7771,"name":"paul"},
-{"votes":3626,"name":"huckabee"},
-{"votes":1575,"name":"romney"},
-{"votes":1471,"name":"uncommitted-r"}],
+{"votes":35859,"name":"mccain"},
+{"votes":7957,"name":"paul"},
+{"votes":3657,"name":"huckabee"},
+{"votes":1596,"name":"romney"},
+{"votes":1509,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":597},
+{"total":762,"reporting":606},
 "delegates":27,"date":"06-03"},
-"state":"SD","party":"gop","total":49670,"locals":
+"state":"SD","party":"gop","total":50578,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":324,"name":"mccain"},
@@ -221,13 +221,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Lawrence":
 {"votes":[
-{"votes":1354,"name":"mccain"},
-{"votes":410,"name":"paul"},
-{"votes":86,"name":"huckabee"},
-{"votes":75,"name":"uncommitted-r"},
-{"votes":39,"name":"romney"}],
-"total":1964,"precincts":
-{"total":12,"reporting":6},
+{"votes":1739,"name":"mccain"},
+{"votes":532,"name":"paul"},
+{"votes":99,"name":"huckabee"},
+{"votes":95,"name":"uncommitted-r"},
+{"votes":57,"name":"romney"}],
+"total":2522,"precincts":
+{"total":12,"reporting":9},
 "name":"Lawrence"},
 "Yankton":
 {"votes":[
@@ -512,13 +512,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":183,"name":"mccain"},
-{"votes":73,"name":"paul"},
-{"votes":18,"name":"huckabee"},
-{"votes":9,"name":"uncommitted-r"},
-{"votes":5,"name":"romney"}],
-"total":288,"precincts":
-{"total":16,"reporting":1},
+{"votes":405,"name":"mccain"},
+{"votes":130,"name":"paul"},
+{"votes":35,"name":"huckabee"},
+{"votes":26,"name":"uncommitted-r"},
+{"votes":8,"name":"romney"}],
+"total":604,"precincts":
+{"total":16,"reporting":5},
 "name":"Fall River"},
 "Marshall":
 {"votes":[
@@ -642,11 +642,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Shannon"},
 "Bennett":
 {"votes":[
-{"votes":163,"name":"mccain"},
-{"votes":26,"name":"paul"},
-{"votes":15,"name":"huckabee"},
+{"votes":188,"name":"mccain"},
+{"votes":33,"name":"paul"},
+{"votes":16,"name":"huckabee"},
 {"votes":6,"name":"romney"},
-{"votes":5,"name":"uncommitted-r"}],
-"total":215,"precincts":
-{"total":8,"reporting":6},
+{"votes":6,"name":"uncommitted-r"}],
+"total":249,"precincts":
+{"total":8,"reporting":8},
 "name":"Bennett"}}})

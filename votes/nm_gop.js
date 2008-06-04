@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":88855,"name":"mccain"},
-{"votes":14528,"name":"paul"}],
+{"votes":89224,"name":"mccain"},
+{"votes":14577,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1526},
+{"total":1633,"reporting":1534},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":103383,"locals":
+"state":"NM","party":"gop","total":103801,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -29,10 +29,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":34584,"name":"mccain"},
-{"votes":6164,"name":"paul"}],
-"total":40748,"precincts":
-{"total":442,"reporting":415},
+{"votes":34622,"name":"mccain"},
+{"votes":6174,"name":"paul"}],
+"total":40796,"precincts":
+{"total":442,"reporting":416},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -220,10 +220,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Curry"},
 "Santa Fe":
 {"votes":[
-{"votes":3384,"name":"mccain"},
-{"votes":675,"name":"paul"}],
-"total":4059,"precincts":
-{"total":92,"reporting":85},
+{"votes":3715,"name":"mccain"},
+{"votes":714,"name":"paul"}],
+"total":4429,"precincts":
+{"total":92,"reporting":92},
 "name":"Santa Fe"},
 "Luna":
 {"votes":[

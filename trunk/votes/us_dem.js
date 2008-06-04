@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9912438,"name":"clinton","delegates":803},
-{"votes":9638206,"name":"obama","delegates":899},
+{"votes":9912450,"name":"clinton","delegates":803},
+{"votes":9638221,"name":"obama","delegates":899},
 {"votes":551618,"name":"edwards"},
 {"votes":258383,"name":"uncommitted-d"},
 {"votes":50582,"name":"richardson"},
@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":734,"name":"judd"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":20572487,"locals":
+"state":"US","party":"dem","total":20572514,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -131,8 +131,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":52,"date":"05-20"},
 "Montana":
 {"votes":[
-{"votes":91953,"name":"obama","delegates":8},
-{"votes":67340,"name":"clinton","delegates":5},
+{"votes":91968,"name":"obama","delegates":8},
+{"votes":67352,"name":"clinton","delegates":5},
 {"votes":3870,"name":"nopreference-d"}],
 "name":"Montana","precincts":
 {"total":871,"reporting":765},

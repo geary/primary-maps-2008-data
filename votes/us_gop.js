@@ -1,15 +1,15 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9328528,"name":"mccain","delegates":1225},
-{"votes":4374326,"name":"romney","delegates":271},
-{"votes":4145548,"name":"huckabee","delegates":273},
-{"votes":1124872,"name":"paul","delegates":19},
+{"votes":9334452,"name":"mccain","delegates":1225},
+{"votes":4374325,"name":"romney","delegates":271},
+{"votes":4145652,"name":"huckabee","delegates":273},
+{"votes":1125487,"name":"paul","delegates":19},
 {"votes":573763,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":66085,"name":"uncommitted-r"},
+{"votes":66119,"name":"uncommitted-r"},
 {"votes":56917,"name":"keyes"},
 {"votes":37805,"name":"hunter"},
-{"votes":20305,"name":"nopreference-r"},
+{"votes":20448,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":1248,"name":"curry"},
 {"votes":998,"name":"cort"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":20025530,"locals":
+"state":"US","party":"gop","total":20032349,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -97,10 +97,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":31,"date":"02-05"},
 "New Mexico":
 {"votes":[
-{"votes":14878,"name":"mccain"},
-{"votes":1752,"name":"paul"}],
+{"votes":15324,"name":"mccain"},
+{"votes":1824,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":157},
+{"total":1633,"reporting":177},
 "delegates":32,"date":"06-03"},
 "Indiana":
 {"votes":[
@@ -275,10 +275,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
+{"votes":5178,"name":"mccain"},
+{"votes":766,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
-{"votes":400,"name":"paul"},
-{"votes":358,"name":"mccain"},
 {"votes":245,"name":"huckabee"},
+{"votes":143,"name":"nopreference-r"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
 "California":
@@ -514,13 +515,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":101,"date":"02-05"},
 "South Dakota":
 {"votes":[
-{"votes":20107,"name":"mccain"},
-{"votes":3997,"name":"paul"},
-{"votes":2086,"name":"huckabee"},
-{"votes":928,"name":"romney"},
-{"votes":860,"name":"uncommitted-r"}],
+{"votes":20765,"name":"mccain"},
+{"votes":4174,"name":"paul"},
+{"votes":2190,"name":"huckabee"},
+{"votes":927,"name":"romney"},
+{"votes":894,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":359},
+{"total":762,"reporting":387},
 "delegates":27,"date":"06-03"},
 "Colorado":
 {"name":"Colorado","precincts":

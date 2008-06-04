@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":14878,"name":"mccain"},
-{"votes":1752,"name":"paul"}],
+{"votes":15324,"name":"mccain"},
+{"votes":1824,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":157},
+{"total":1633,"reporting":177},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":16630,"locals":
+"state":"NM","party":"gop","total":17148,"locals":
 {"San Juan":
 {"votes":[
 {"votes":1137,"name":"mccain"},
@@ -122,10 +122,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Cibola"},
 "Quay":
 {"votes":[
-{"votes":61,"name":"mccain"},
-{"votes":17,"name":"paul"}],
-"total":78,"precincts":
-{"total":25,"reporting":7},
+{"votes":443,"name":"mccain"},
+{"votes":71,"name":"paul"}],
+"total":514,"precincts":
+{"total":25,"reporting":25},
 "name":"Quay"},
 "Harding":
 {"votes":[],
@@ -159,9 +159,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":41,"reporting":1},
 "name":"San Miguel"},
 "Socorro":
-{"votes":[],
-"total":0,"precincts":
-{"total":29,"reporting":0},
+{"votes":[
+{"votes":64,"name":"mccain"},
+{"votes":18,"name":"paul"}],
+"total":82,"precincts":
+{"total":29,"reporting":2},
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[

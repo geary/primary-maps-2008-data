@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":36525,"name":"clinton","delegates":8},
-{"votes":29053,"name":"obama","delegates":6}],
+{"votes":36814,"name":"clinton","delegates":8},
+{"votes":29276,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":479},
+{"total":762,"reporting":481},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":65578,"locals":
+"state":"SD","party":"dem","total":66090,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":361,"name":"clinton"},
@@ -153,10 +153,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Lawrence":
 {"votes":[
-{"votes":490,"name":"obama"},
-{"votes":413,"name":"clinton"}],
-"total":903,"precincts":
-{"total":12,"reporting":3},
+{"votes":606,"name":"obama"},
+{"votes":484,"name":"clinton"}],
+"total":1090,"precincts":
+{"total":12,"reporting":4},
 "name":"Lawrence"},
 "Yankton":
 {"votes":[
@@ -331,10 +331,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Tripp"},
 "Brule":
 {"votes":[
-{"votes":368,"name":"clinton"},
-{"votes":274,"name":"obama"}],
-"total":642,"precincts":
-{"total":5,"reporting":4},
+{"votes":586,"name":"clinton"},
+{"votes":381,"name":"obama"}],
+"total":967,"precincts":
+{"total":5,"reporting":5},
 "name":"Brule"},
 "Sanborn":
 {"votes":[

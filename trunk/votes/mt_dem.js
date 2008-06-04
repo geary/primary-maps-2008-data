@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":5645,"name":"obama","delegates":8},
-{"votes":5116,"name":"clinton","delegates":5},
-{"votes":390,"name":"nopreference-d"}],
+{"votes":10164,"name":"obama","delegates":8},
+{"votes":7801,"name":"clinton","delegates":5},
+{"votes":553,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":2},
+{"total":871,"reporting":22},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":11151,"locals":
+"state":"MT","party":"dem","total":18518,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -260,9 +260,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":0},
 "name":"Pondera"},
 "Lewis & Clark":
-{"votes":[],
-"total":0,"precincts":
-{"total":56,"reporting":0},
+{"votes":[
+{"votes":4519,"name":"obama"},
+{"votes":2685,"name":"clinton"},
+{"votes":163,"name":"nopreference-d"}],
+"total":7367,"precincts":
+{"total":56,"reporting":20},
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[],

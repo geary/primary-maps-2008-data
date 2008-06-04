@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":48271,"name":"clinton","delegates":8},
-{"votes":38469,"name":"obama","delegates":6}],
+{"votes":48852,"name":"clinton","delegates":8},
+{"votes":38991,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":648},
+{"total":762,"reporting":662},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":86740,"locals":
+"state":"SD","party":"dem","total":87843,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -148,10 +148,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pennington"},
 "Custer":
 {"votes":[
-{"votes":213,"name":"obama"},
-{"votes":175,"name":"clinton"}],
-"total":388,"precincts":
-{"total":10,"reporting":6},
+{"votes":247,"name":"obama"},
+{"votes":204,"name":"clinton"}],
+"total":451,"precincts":
+{"total":10,"reporting":8},
 "name":"Custer"},
 "Lawrence":
 {"votes":[
@@ -204,10 +204,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Haakon"},
 "Butte":
 {"votes":[
-{"votes":233,"name":"clinton"},
-{"votes":202,"name":"obama"}],
-"total":435,"precincts":
-{"total":16,"reporting":11},
+{"votes":392,"name":"clinton"},
+{"votes":312,"name":"obama"}],
+"total":704,"precincts":
+{"total":16,"reporting":16},
 "name":"Butte"},
 "Day":
 {"votes":[
@@ -363,10 +363,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":198,"name":"clinton"},
-{"votes":179,"name":"obama"}],
-"total":377,"precincts":
-{"total":16,"reporting":6},
+{"votes":402,"name":"clinton"},
+{"votes":234,"name":"obama"}],
+"total":636,"precincts":
+{"total":16,"reporting":7},
 "name":"Fall River"},
 "Marshall":
 {"votes":[
@@ -418,9 +418,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":6,"reporting":6},
 "name":"Kingsbury"},
 "Todd":
-{"votes":[],
-"total":0,"precincts":
-{"total":9,"reporting":0},
+{"votes":[
+{"votes":323,"name":"obama"},
+{"votes":189,"name":"clinton"}],
+"total":512,"precincts":
+{"total":9,"reporting":6},
 "name":"Todd"},
 "Campbell":
 {"votes":[

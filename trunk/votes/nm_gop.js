@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":53752,"name":"mccain"},
-{"votes":8041,"name":"paul"}],
+{"votes":54613,"name":"mccain"},
+{"votes":8175,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":934},
+{"total":1633,"reporting":947},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":61793,"locals":
+"state":"NM","party":"gop","total":62788,"locals":
 {"San Juan":
 {"votes":[
 {"votes":4041,"name":"mccain"},
@@ -20,10 +20,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Colfax"},
 "Otero":
 {"votes":[
-{"votes":3293,"name":"mccain"},
-{"votes":474,"name":"paul"}],
-"total":3767,"precincts":
-{"total":43,"reporting":38},
+{"votes":3821,"name":"mccain"},
+{"votes":558,"name":"paul"}],
+"total":4379,"precincts":
+{"total":43,"reporting":43},
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
@@ -69,10 +69,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Guadalupe"},
 "Eddy":
 {"votes":[
-{"votes":2451,"name":"mccain"},
-{"votes":202,"name":"paul"}],
-"total":2653,"precincts":
-{"total":44,"reporting":36},
+{"votes":2784,"name":"mccain"},
+{"votes":252,"name":"paul"}],
+"total":3036,"precincts":
+{"total":44,"reporting":44},
 "name":"Eddy"},
 "CD1":
 {"votes":[],

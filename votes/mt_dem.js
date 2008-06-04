@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13997,"name":"obama","delegates":8},
-{"votes":9410,"name":"clinton","delegates":5},
-{"votes":653,"name":"nopreference-d"}],
+{"votes":16833,"name":"obama","delegates":8},
+{"votes":11775,"name":"clinton","delegates":5},
+{"votes":775,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":37},
+{"total":871,"reporting":38},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":24060,"locals":
+"state":"MT","party":"dem","total":29383,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -229,10 +229,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Ravalli"},
 "Missoula":
 {"votes":[
-{"votes":1484,"name":"obama"},
-{"votes":99,"name":"clinton"},
-{"votes":25,"name":"nopreference-d"}],
-"total":1608,"precincts":
+{"votes":3677,"name":"obama"},
+{"votes":1484,"name":"clinton"},
+{"votes":99,"name":"nopreference-d"}],
+"total":5260,"precincts":
 {"total":101,"reporting":1},
 "name":"Missoula"},
 "Cascade":
@@ -287,9 +287,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":56,"reporting":20},
 "name":"Lewis & Clark"},
 "Deer Lodge":
-{"votes":[],
-"total":0,"precincts":
-{"total":18,"reporting":0},
+{"votes":[
+{"votes":980,"name":"clinton"},
+{"votes":643,"name":"obama"},
+{"votes":48,"name":"nopreference-d"}],
+"total":1671,"precincts":
+{"total":18,"reporting":1},
 "name":"Deer Lodge"},
 "Rosebud":
 {"votes":[],

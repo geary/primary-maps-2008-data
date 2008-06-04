@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":50958,"name":"mccain"},
-{"votes":7583,"name":"paul"}],
+{"votes":52739,"name":"mccain"},
+{"votes":7823,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":885},
+{"total":1633,"reporting":922},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":58541,"locals":
+"state":"NM","party":"gop","total":60562,"locals":
 {"San Juan":
 {"votes":[
 {"votes":4041,"name":"mccain"},
@@ -27,10 +27,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":18744,"name":"mccain"},
-{"votes":2815,"name":"paul"}],
-"total":21559,"precincts":
-{"total":442,"reporting":137},
+{"votes":19255,"name":"mccain"},
+{"votes":2942,"name":"paul"}],
+"total":22197,"precincts":
+{"total":442,"reporting":159},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -118,10 +118,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Taos"},
 "Lea":
 {"votes":[
-{"votes":789,"name":"mccain"},
-{"votes":53,"name":"paul"}],
-"total":842,"precincts":
-{"total":46,"reporting":45},
+{"votes":1476,"name":"mccain"},
+{"votes":104,"name":"paul"}],
+"total":1580,"precincts":
+{"total":46,"reporting":46},
 "name":"Lea"},
 "Cibola":
 {"votes":[
@@ -181,10 +181,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[
-{"votes":1564,"name":"mccain"},
-{"votes":208,"name":"paul"}],
-"total":1772,"precincts":
-{"total":136,"reporting":42},
+{"votes":2147,"name":"mccain"},
+{"votes":270,"name":"paul"}],
+"total":2417,"precincts":
+{"total":136,"reporting":56},
 "name":"Dona Ana"},
 "Lincoln":
 {"votes":[

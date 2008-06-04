@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9825237,"name":"clinton","delegates":803},
-{"votes":9530781,"name":"obama","delegates":899},
+{"votes":9828135,"name":"clinton","delegates":803},
+{"votes":9533689,"name":"obama","delegates":899},
 {"votes":551618,"name":"edwards"},
 {"votes":258383,"name":"uncommitted-d"},
 {"votes":50582,"name":"richardson"},
@@ -13,7 +13,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":734,"name":"judd"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":20374352,"locals":
+"state":"US","party":"dem","total":20380158,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -264,10 +264,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":141,"date":"03-04"},
 "South Dakota":
 {"votes":[
-{"votes":29559,"name":"clinton","delegates":8},
-{"votes":23086,"name":"obama","delegates":6}],
+{"votes":32457,"name":"clinton","delegates":8},
+{"votes":25994,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":369},
+{"total":762,"reporting":383},
 "delegates":15,"date":"06-03"},
 "Washington":
 {"name":"Washington","precincts":

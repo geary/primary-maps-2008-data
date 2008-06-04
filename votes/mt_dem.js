@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":101811,"name":"obama","delegates":9},
+{"votes":101810,"name":"obama","delegates":9},
 {"votes":74550,"name":"clinton","delegates":7},
 {"votes":4231,"name":"nopreference-d"}],
 "name":"Montana","precincts":
 {"total":871,"reporting":870},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":180592,"locals":
+"state":"MT","party":"dem","total":180591,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -201,9 +201,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Musselshell":
 {"votes":[
 {"votes":259,"name":"clinton"},
-{"votes":220,"name":"obama"},
+{"votes":219,"name":"obama"},
 {"votes":11,"name":"nopreference-d"}],
-"total":490,"precincts":
+"total":489,"precincts":
 {"total":6,"reporting":6},
 "name":"Musselshell"},
 "Prairie":

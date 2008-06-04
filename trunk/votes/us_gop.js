@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":67018,"name":"uncommitted-r"},
 {"votes":56917,"name":"keyes"},
 {"votes":37805,"name":"hunter"},
-{"votes":22348,"name":"nopreference-r"},
+{"votes":22493,"name":"nopreference-r"},
 {"votes":7971,"name":"tancredo"},
 {"votes":1248,"name":"curry"},
 {"votes":998,"name":"cort"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":20244607,"locals":
+"state":"US","party":"gop","total":20244752,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -277,7 +277,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "votes":[
 {"votes":72134,"name":"mccain"},
 {"votes":20392,"name":"paul"},
-{"votes":2043,"name":"nopreference-r"},
+{"votes":2188,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],

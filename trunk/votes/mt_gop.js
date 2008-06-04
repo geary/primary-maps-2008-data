@@ -4,12 +4,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "votes":[
 {"votes":72134,"name":"mccain"},
 {"votes":20392,"name":"paul"},
-{"votes":2043,"name":"nopreference-r"},
+{"votes":2188,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":95441,"locals":
+"state":"MT","party":"gop","total":95586,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -308,10 +308,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":7792,"name":"mccain"},
 {"votes":3674,"name":"paul"},
-{"votes":130,"name":"nopreference-r"},
+{"votes":275,"name":"nopreference-r"},
 {"votes":36,"name":"romney"},
 {"votes":5,"name":"huckabee"}],
-"total":11637,"precincts":
+"total":11782,"precincts":
 {"total":1,"reporting":1},
 "name":"Flathead"},
 "Sheridan":

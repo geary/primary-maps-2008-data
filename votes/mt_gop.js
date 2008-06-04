@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":48756,"name":"mccain"},
-{"votes":12709,"name":"paul"},
-{"votes":1393,"name":"nopreference-r"},
+{"votes":49456,"name":"mccain"},
+{"votes":12882,"name":"paul"},
+{"votes":1406,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":63730,"locals":
+"state":"MT","party":"gop","total":64616,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -282,12 +282,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Meagher"},
 "Carbon":
 {"votes":[
-{"votes":429,"name":"mccain"},
-{"votes":140,"name":"paul"},
+{"votes":779,"name":"mccain"},
+{"votes":228,"name":"paul"},
+{"votes":26,"name":"nopreference-r"},
 {"votes":21,"name":"romney"},
-{"votes":13,"name":"nopreference-r"},
 {"votes":4,"name":"huckabee"}],
-"total":607,"precincts":
+"total":1058,"precincts":
 {"total":1,"reporting":1},
 "name":"Carbon"},
 "Stillwater":
@@ -357,11 +357,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Fallon"},
 "Fergus":
 {"votes":[
-{"votes":1061,"name":"mccain"},
-{"votes":271,"name":"paul"},
+{"votes":1411,"name":"mccain"},
+{"votes":356,"name":"paul"},
 {"votes":10,"name":"huckabee"},
 {"votes":8,"name":"romney"}],
-"total":1350,"precincts":
+"total":1785,"precincts":
 {"total":1,"reporting":1},
 "name":"Fergus"},
 "Big Horn":

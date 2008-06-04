@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":28109,"name":"mccain"},
-{"votes":5805,"name":"paul"},
-{"votes":2904,"name":"huckabee"},
-{"votes":1236,"name":"romney"},
-{"votes":1154,"name":"uncommitted-r"}],
+{"votes":28251,"name":"mccain"},
+{"votes":5850,"name":"paul"},
+{"votes":2907,"name":"huckabee"},
+{"votes":1238,"name":"romney"},
+{"votes":1163,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":478},
+{"total":762,"reporting":479},
 "delegates":27,"date":"06-03"},
-"state":"SD","party":"gop","total":39208,"locals":
+"state":"SD","party":"gop","total":39409,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":243,"name":"mccain"},
@@ -216,13 +216,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Lawrence":
 {"votes":[
-{"votes":623,"name":"mccain"},
-{"votes":162,"name":"paul"},
-{"votes":38,"name":"huckabee"},
-{"votes":35,"name":"uncommitted-r"},
-{"votes":15,"name":"romney"}],
-"total":873,"precincts":
-{"total":12,"reporting":3},
+{"votes":765,"name":"mccain"},
+{"votes":207,"name":"paul"},
+{"votes":44,"name":"uncommitted-r"},
+{"votes":41,"name":"huckabee"},
+{"votes":17,"name":"romney"}],
+"total":1074,"precincts":
+{"total":12,"reporting":4},
 "name":"Lawrence"},
 "Yankton":
 {"votes":[

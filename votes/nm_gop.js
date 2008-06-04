@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":31998,"name":"mccain"},
-{"votes":4310,"name":"paul"}],
+{"votes":32972,"name":"mccain"},
+{"votes":4391,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":430},
+{"total":1633,"reporting":481},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":36308,"locals":
+"state":"NM","party":"gop","total":37363,"locals":
 {"San Juan":
 {"votes":[
 {"votes":2034,"name":"mccain"},
@@ -47,9 +47,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":8,"reporting":1},
 "name":"Union"},
 "Rio Arriba":
-{"votes":[],
-"total":0,"precincts":
-{"total":47,"reporting":0},
+{"votes":[
+{"votes":130,"name":"mccain"},
+{"votes":15,"name":"paul"}],
+"total":145,"precincts":
+{"total":47,"reporting":46},
 "name":"Rio Arriba"},
 "DeBaca":
 {"votes":[
@@ -65,10 +67,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Guadalupe"},
 "Eddy":
 {"votes":[
-{"votes":2354,"name":"mccain"},
-{"votes":188,"name":"paul"}],
-"total":2542,"precincts":
-{"total":44,"reporting":32},
+{"votes":2451,"name":"mccain"},
+{"votes":202,"name":"paul"}],
+"total":2653,"precincts":
+{"total":44,"reporting":36},
 "name":"Eddy"},
 "CD1":
 {"votes":[],
@@ -198,9 +200,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":19,"reporting":0},
 "name":"Los Alamos"},
 "Curry":
-{"votes":[],
-"total":0,"precincts":
-{"total":48,"reporting":0},
+{"votes":[
+{"votes":747,"name":"mccain"},
+{"votes":52,"name":"paul"}],
+"total":799,"precincts":
+{"total":48,"reporting":1},
 "name":"Curry"},
 "Santa Fe":
 {"votes":[],

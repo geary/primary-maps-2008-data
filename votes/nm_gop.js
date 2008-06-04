@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":87874,"name":"mccain"},
-{"votes":14329,"name":"paul"}],
+{"votes":88038,"name":"mccain"},
+{"votes":14340,"name":"paul"}],
 "name":"New Mexico","precincts":
 {"total":1633,"reporting":1510},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":102203,"locals":
+"state":"NM","party":"gop","total":102378,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -227,9 +227,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Santa Fe"},
 "Luna":
 {"votes":[
-{"votes":1018,"name":"mccain"},
-{"votes":190,"name":"paul"}],
-"total":1208,"precincts":
+{"votes":1182,"name":"mccain"},
+{"votes":201,"name":"paul"}],
+"total":1383,"precincts":
 {"total":18,"reporting":18},
 "name":"Luna"},
 "McKinley":

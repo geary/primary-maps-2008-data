@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":38109,"name":"mccain"},
-{"votes":5268,"name":"paul"}],
+{"votes":40391,"name":"mccain"},
+{"votes":5684,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":566},
+{"total":1633,"reporting":606},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":43377,"locals":
+"state":"NM","party":"gop","total":46075,"locals":
 {"San Juan":
 {"votes":[
 {"votes":2034,"name":"mccain"},
@@ -199,9 +199,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":24,"reporting":22},
 "name":"Roosevelt"},
 "Los Alamos":
-{"votes":[],
-"total":0,"precincts":
-{"total":19,"reporting":0},
+{"votes":[
+{"votes":1398,"name":"mccain"},
+{"votes":279,"name":"paul"}],
+"total":1677,"precincts":
+{"total":19,"reporting":17},
 "name":"Los Alamos"},
 "Curry":
 {"votes":[
@@ -223,9 +225,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":18,"reporting":18},
 "name":"Luna"},
 "McKinley":
-{"votes":[],
-"total":0,"precincts":
-{"total":60,"reporting":11},
+{"votes":[
+{"votes":884,"name":"mccain"},
+{"votes":137,"name":"paul"}],
+"total":1021,"precincts":
+{"total":60,"reporting":34},
 "name":"McKinley"},
 "Hidalgo":
 {"votes":[

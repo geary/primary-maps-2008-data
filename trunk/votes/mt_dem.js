@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":78222,"name":"obama","delegates":8},
-{"votes":56126,"name":"clinton","delegates":5},
-{"votes":3291,"name":"nopreference-d"}],
+{"votes":80251,"name":"obama","delegates":8},
+{"votes":57225,"name":"clinton","delegates":5},
+{"votes":3365,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":625},
+{"total":871,"reporting":648},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":137639,"locals":
+"state":"MT","party":"dem","total":140841,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":143,"name":"clinton"},
@@ -229,11 +229,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Carbon"},
 "Stillwater":
 {"votes":[
-{"votes":562,"name":"obama"},
-{"votes":424,"name":"clinton"},
-{"votes":43,"name":"nopreference-d"}],
-"total":1029,"precincts":
-{"total":8,"reporting":6},
+{"votes":863,"name":"obama"},
+{"votes":713,"name":"clinton"},
+{"votes":61,"name":"nopreference-d"}],
+"total":1637,"precincts":
+{"total":8,"reporting":8},
 "name":"Stillwater"},
 "Flathead":
 {"votes":[
@@ -266,11 +266,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mineral"},
 "Sanders":
 {"votes":[
-{"votes":82,"name":"obama"},
-{"votes":65,"name":"clinton"},
-{"votes":12,"name":"nopreference-d"}],
-"total":159,"precincts":
-{"total":10,"reporting":2},
+{"votes":144,"name":"obama"},
+{"votes":114,"name":"clinton"},
+{"votes":18,"name":"nopreference-d"}],
+"total":276,"precincts":
+{"total":10,"reporting":4},
 "name":"Sanders"},
 "Fallon":
 {"votes":[
@@ -289,11 +289,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Fergus"},
 "Big Horn":
 {"votes":[
-{"votes":1274,"name":"obama"},
-{"votes":390,"name":"clinton"},
-{"votes":24,"name":"nopreference-d"}],
-"total":1688,"precincts":
-{"total":20,"reporting":12},
+{"votes":2134,"name":"obama"},
+{"votes":564,"name":"clinton"},
+{"votes":38,"name":"nopreference-d"}],
+"total":2736,"precincts":
+{"total":20,"reporting":20},
 "name":"Big Horn"},
 "Ravalli":
 {"votes":[
@@ -335,11 +335,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"McCone"},
 "Madison":
 {"votes":[
-{"votes":750,"name":"obama"},
-{"votes":396,"name":"clinton"},
+{"votes":815,"name":"obama"},
+{"votes":435,"name":"clinton"},
 {"votes":44,"name":"nopreference-d"}],
-"total":1190,"precincts":
-{"total":8,"reporting":7},
+"total":1294,"precincts":
+{"total":8,"reporting":8},
 "name":"Madison"},
 "Beaverhead":
 {"votes":[
@@ -374,11 +374,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":7004,"name":"obama"},
-{"votes":4395,"name":"clinton"},
-{"votes":276,"name":"nopreference-d"}],
-"total":11675,"precincts":
-{"total":56,"reporting":35},
+{"votes":7745,"name":"obama"},
+{"votes":4943,"name":"clinton"},
+{"votes":312,"name":"nopreference-d"}],
+"total":13000,"precincts":
+{"total":56,"reporting":45},
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[

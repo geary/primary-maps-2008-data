@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":98848,"name":"obama","delegates":8},
-{"votes":72519,"name":"clinton","delegates":5},
-{"votes":4125,"name":"nopreference-d"}],
+{"votes":100218,"name":"obama","delegates":8},
+{"votes":73233,"name":"clinton","delegates":5},
+{"votes":4148,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":842},
+{"total":871,"reporting":851},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":175492,"locals":
+"state":"MT","party":"dem","total":177599,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -442,9 +442,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Toole"},
 "Gallatin":
 {"votes":[
-{"votes":9040,"name":"obama"},
-{"votes":3424,"name":"clinton"},
-{"votes":127,"name":"nopreference-d"}],
-"total":12591,"precincts":
-{"total":46,"reporting":37},
+{"votes":10410,"name":"obama"},
+{"votes":4138,"name":"clinton"},
+{"votes":150,"name":"nopreference-d"}],
+"total":14698,"precincts":
+{"total":46,"reporting":46},
 "name":"Gallatin"}}})

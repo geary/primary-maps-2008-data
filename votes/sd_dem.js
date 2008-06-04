@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":50907,"name":"clinton","delegates":8},
-{"votes":40675,"name":"obama","delegates":6}],
+{"votes":52295,"name":"clinton","delegates":8},
+{"votes":41964,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":718},
+{"total":762,"reporting":746},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":91582,"locals":
+"state":"SD","party":"dem","total":94259,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -127,10 +127,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sully"},
 "Brown":
 {"votes":[
-{"votes":1670,"name":"clinton"},
-{"votes":1168,"name":"obama"}],
-"total":2838,"precincts":
-{"total":22,"reporting":12},
+{"votes":2513,"name":"clinton"},
+{"votes":1809,"name":"obama"}],
+"total":4322,"precincts":
+{"total":22,"reporting":18},
 "name":"Brown"},
 "Minnehaha":
 {"votes":[
@@ -148,10 +148,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Pennington"},
 "Custer":
 {"votes":[
-{"votes":247,"name":"obama"},
-{"votes":204,"name":"clinton"}],
-"total":451,"precincts":
-{"total":10,"reporting":8},
+{"votes":411,"name":"obama"},
+{"votes":379,"name":"clinton"}],
+"total":790,"precincts":
+{"total":10,"reporting":10},
 "name":"Custer"},
 "Lawrence":
 {"votes":[
@@ -218,10 +218,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Day"},
 "Dewey":
 {"votes":[
-{"votes":194,"name":"obama"},
-{"votes":177,"name":"clinton"}],
-"total":371,"precincts":
-{"total":13,"reporting":7},
+{"votes":520,"name":"obama"},
+{"votes":366,"name":"clinton"}],
+"total":886,"precincts":
+{"total":13,"reporting":13},
 "name":"Dewey"},
 "Jones":
 {"votes":[
@@ -281,10 +281,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roberts"},
 "Meade":
 {"votes":[
-{"votes":964,"name":"clinton"},
-{"votes":822,"name":"obama"}],
-"total":1786,"precincts":
-{"total":37,"reporting":26},
+{"votes":1118,"name":"clinton"},
+{"votes":936,"name":"obama"}],
+"total":2054,"precincts":
+{"total":37,"reporting":37},
 "name":"Meade"},
 "Mellette":
 {"votes":[
@@ -323,10 +323,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Buffalo"},
 "Ziebach":
 {"votes":[
-{"votes":163,"name":"obama"},
-{"votes":98,"name":"clinton"}],
-"total":261,"precincts":
-{"total":8,"reporting":6},
+{"votes":206,"name":"obama"},
+{"votes":121,"name":"clinton"}],
+"total":327,"precincts":
+{"total":8,"reporting":8},
 "name":"Ziebach"},
 "Tripp":
 {"votes":[
@@ -365,10 +365,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":395,"name":"clinton"},
-{"votes":359,"name":"obama"}],
-"total":754,"precincts":
-{"total":16,"reporting":15},
+{"votes":399,"name":"clinton"},
+{"votes":360,"name":"obama"}],
+"total":759,"precincts":
+{"total":16,"reporting":16},
 "name":"Fall River"},
 "Marshall":
 {"votes":[

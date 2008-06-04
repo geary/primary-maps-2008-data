@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":51853,"name":"clinton","delegates":8},
-{"votes":42056,"name":"obama","delegates":6}],
+{"votes":50647,"name":"clinton","delegates":8},
+{"votes":40457,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":699},
+{"total":762,"reporting":708},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":93909,"locals":
+"state":"SD","party":"dem","total":91104,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -141,10 +141,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Minnehaha"},
 "Pennington":
 {"votes":[
-{"votes":6182,"name":"clinton"},
-{"votes":6152,"name":"obama"}],
-"total":12334,"precincts":
-{"total":49,"reporting":45},
+{"votes":4849,"name":"clinton"},
+{"votes":4458,"name":"obama"}],
+"total":9307,"precincts":
+{"total":49,"reporting":49},
 "name":"Pennington"},
 "Custer":
 {"votes":[
@@ -155,10 +155,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Lawrence":
 {"votes":[
-{"votes":1361,"name":"obama"},
-{"votes":1294,"name":"clinton"}],
-"total":2655,"precincts":
-{"total":12,"reporting":11},
+{"votes":1444,"name":"obama"},
+{"votes":1360,"name":"clinton"}],
+"total":2804,"precincts":
+{"total":12,"reporting":12},
 "name":"Lawrence"},
 "Yankton":
 {"votes":[
@@ -289,9 +289,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Mellette":
 {"votes":[
 {"votes":142,"name":"obama"},
-{"votes":68,"name":"clinton"}],
-"total":210,"precincts":
-{"total":4,"reporting":3},
+{"votes":109,"name":"clinton"}],
+"total":251,"precincts":
+{"total":4,"reporting":4},
 "name":"Mellette"},
 "Faulk":
 {"votes":[
@@ -365,10 +365,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Clark"},
 "Fall River":
 {"votes":[
-{"votes":375,"name":"clinton"},
-{"votes":347,"name":"obama"}],
-"total":722,"precincts":
-{"total":16,"reporting":12},
+{"votes":395,"name":"clinton"},
+{"votes":359,"name":"obama"}],
+"total":754,"precincts":
+{"total":16,"reporting":15},
 "name":"Fall River"},
 "Marshall":
 {"votes":[

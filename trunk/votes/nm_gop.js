@@ -1,17 +1,17 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":43964,"name":"mccain"},
-{"votes":6281,"name":"paul"}],
+{"votes":46898,"name":"mccain"},
+{"votes":6784,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":684},
+{"total":1633,"reporting":741},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":50245,"locals":
+"state":"NM","party":"gop","total":53682,"locals":
 {"San Juan":
 {"votes":[
-{"votes":2034,"name":"mccain"},
-{"votes":308,"name":"paul"}],
-"total":2342,"precincts":
-{"total":78,"reporting":15},
+{"votes":4041,"name":"mccain"},
+{"votes":637,"name":"paul"}],
+"total":4678,"precincts":
+{"total":78,"reporting":45},
 "name":"San Juan"},
 "Colfax":
 {"votes":[],
@@ -27,10 +27,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":14978,"name":"mccain"},
-{"votes":1982,"name":"paul"}],
-"total":16960,"precincts":
-{"total":442,"reporting":42},
+{"votes":15745,"name":"mccain"},
+{"votes":2131,"name":"paul"}],
+"total":17876,"precincts":
+{"total":442,"reporting":65},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -55,10 +55,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Rio Arriba"},
 "DeBaca":
 {"votes":[
-{"votes":20,"name":"mccain"},
-{"votes":5,"name":"paul"}],
-"total":25,"precincts":
-{"total":6,"reporting":2},
+{"votes":180,"name":"mccain"},
+{"votes":30,"name":"paul"}],
+"total":210,"precincts":
+{"total":6,"reporting":6},
 "name":"DeBaca"},
 "Guadalupe":
 {"votes":[],

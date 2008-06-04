@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":13381,"name":"obama","delegates":8},
-{"votes":8876,"name":"clinton","delegates":5},
-{"votes":630,"name":"nopreference-d"}],
+{"votes":13670,"name":"obama","delegates":8},
+{"votes":9039,"name":"clinton","delegates":5},
+{"votes":637,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":26},
+{"total":871,"reporting":31},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":22887,"locals":
+"state":"MT","party":"dem","total":23346,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -207,9 +207,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":16,"reporting":0},
 "name":"Fergus"},
 "Big Horn":
-{"votes":[],
-"total":0,"precincts":
-{"total":20,"reporting":0},
+{"votes":[
+{"votes":289,"name":"obama"},
+{"votes":163,"name":"clinton"},
+{"votes":7,"name":"nopreference-d"}],
+"total":459,"precincts":
+{"total":20,"reporting":5},
 "name":"Big Horn"},
 "Ravalli":
 {"votes":[],

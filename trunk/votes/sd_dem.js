@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":53404,"name":"clinton","delegates":8},
+{"votes":53407,"name":"clinton","delegates":8},
 {"votes":42831,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
 {"total":762,"reporting":752},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":96235,"locals":
+"state":"SD","party":"dem","total":96238,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -149,8 +149,8 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "Custer":
 {"votes":[
 {"votes":411,"name":"obama"},
-{"votes":379,"name":"clinton"}],
-"total":790,"precincts":
+{"votes":382,"name":"clinton"}],
+"total":793,"precincts":
 {"total":10,"reporting":10},
 "name":"Custer"},
 "Lawrence":

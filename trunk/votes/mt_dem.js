@@ -4,7 +4,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":8830,"name":"clinton","delegates":5},
 {"votes":630,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":78},
+{"total":871,"reporting":24},
 "delegates":16,"date":"06-03"},
 "state":"MT","party":"dem","total":22798,"locals":
 {"Judith Basin":
@@ -220,7 +220,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":99,"name":"clinton"},
 {"votes":25,"name":"nopreference-d"}],
 "total":1608,"precincts":
-{"total":101,"reporting":55},
+{"total":101,"reporting":1},
 "name":"Missoula"},
 "Cascade":
 {"votes":[],

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":63698,"name":"obama","delegates":8},
-{"votes":43655,"name":"clinton","delegates":5},
-{"votes":2663,"name":"nopreference-d"}],
+{"votes":63852,"name":"obama","delegates":8},
+{"votes":43736,"name":"clinton","delegates":5},
+{"votes":2674,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":429},
+{"total":871,"reporting":428},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":110016,"locals":
+"state":"MT","party":"dem","total":110262,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -32,10 +32,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Silver Bow"},
 "Treasure":
 {"votes":[
-{"votes":89,"name":"obama"},
-{"votes":81,"name":"clinton"}],
-"total":170,"precincts":
-{"total":3,"reporting":2},
+{"votes":93,"name":"obama"},
+{"votes":85,"name":"clinton"},
+{"votes":1,"name":"nopreference-d"}],
+"total":179,"precincts":
+{"total":3,"reporting":3},
 "name":"Treasure"},
 "Petroleum":
 {"votes":[
@@ -256,11 +257,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sanders"},
 "Fallon":
 {"votes":[
-{"votes":114,"name":"clinton"},
-{"votes":113,"name":"obama"},
-{"votes":10,"name":"nopreference-d"}],
-"total":237,"precincts":
-{"total":6,"reporting":5},
+{"votes":163,"name":"obama"},
+{"votes":147,"name":"clinton"},
+{"votes":13,"name":"nopreference-d"}],
+"total":323,"precincts":
+{"total":6,"reporting":1},
 "name":"Fallon"},
 "Fergus":
 {"votes":[],
@@ -300,11 +301,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Cascade"},
 "Roosevelt":
 {"votes":[
-{"votes":636,"name":"obama"},
-{"votes":465,"name":"clinton"},
-{"votes":40,"name":"nopreference-d"}],
-"total":1141,"precincts":
-{"total":13,"reporting":8},
+{"votes":736,"name":"obama"},
+{"votes":509,"name":"clinton"},
+{"votes":47,"name":"nopreference-d"}],
+"total":1292,"precincts":
+{"total":13,"reporting":10},
 "name":"Roosevelt"},
 "McCone":
 {"votes":[

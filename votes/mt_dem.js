@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":100854,"name":"obama","delegates":8},
-{"votes":73822,"name":"clinton","delegates":5},
-{"votes":4189,"name":"nopreference-d"}],
+{"votes":101016,"name":"obama","delegates":8},
+{"votes":73966,"name":"clinton","delegates":5},
+{"votes":4198,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":857},
+{"total":871,"reporting":858},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":178865,"locals":
+"state":"MT","party":"dem","total":179180,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -277,11 +277,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mineral"},
 "Sanders":
 {"votes":[
-{"votes":625,"name":"obama"},
-{"votes":516,"name":"clinton"},
-{"votes":52,"name":"nopreference-d"}],
-"total":1193,"precincts":
-{"total":10,"reporting":9},
+{"votes":787,"name":"obama"},
+{"votes":660,"name":"clinton"},
+{"votes":61,"name":"nopreference-d"}],
+"total":1508,"precincts":
+{"total":10,"reporting":10},
 "name":"Sanders"},
 "Fallon":
 {"votes":[

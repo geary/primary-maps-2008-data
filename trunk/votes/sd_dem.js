@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":20053,"name":"clinton"},
-{"votes":15849,"name":"obama"}],
+{"votes":20053,"name":"clinton","delegates":8},
+{"votes":15849,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
 {"total":762,"reporting":239},
 "delegates":15,"date":"06-03"},

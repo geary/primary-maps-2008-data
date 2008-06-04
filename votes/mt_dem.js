@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":71512,"name":"obama","delegates":8},
-{"votes":50292,"name":"clinton","delegates":5},
-{"votes":3014,"name":"nopreference-d"}],
+{"votes":72018,"name":"obama","delegates":8},
+{"votes":50593,"name":"clinton","delegates":5},
+{"votes":3019,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":539},
+{"total":871,"reporting":545},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":124818,"locals":
+"state":"MT","party":"dem","total":125630,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -92,10 +92,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Daniels"},
 "Granite":
 {"votes":[
-{"votes":262,"name":"obama"},
-{"votes":211,"name":"clinton"},
-{"votes":6,"name":"nopreference-d"}],
-"total":479,"precincts":
+{"votes":325,"name":"obama"},
+{"votes":262,"name":"clinton"},
+{"votes":11,"name":"nopreference-d"}],
+"total":598,"precincts":
 {"total":4,"reporting":4},
 "name":"Granite"},
 "Wibaux":
@@ -338,10 +338,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Madison"},
 "Beaverhead":
 {"votes":[
-{"votes":182,"name":"obama"},
-{"votes":83,"name":"clinton"}],
-"total":265,"precincts":
-{"total":16,"reporting":2},
+{"votes":625,"name":"obama"},
+{"votes":333,"name":"clinton"}],
+"total":958,"precincts":
+{"total":16,"reporting":8},
 "name":"Beaverhead"},
 "Carter":
 {"votes":[

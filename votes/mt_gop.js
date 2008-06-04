@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":68823,"name":"mccain"},
-{"votes":19157,"name":"paul"},
-{"votes":1912,"name":"nopreference-r"},
+{"votes":68833,"name":"mccain"},
+{"votes":19161,"name":"paul"},
+{"votes":1914,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":90764,"locals":
+"state":"MT","party":"gop","total":90780,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":297,"name":"mccain"},
@@ -31,12 +31,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Richland"},
 "Glacier":
 {"votes":[
-{"votes":256,"name":"mccain"},
-{"votes":45,"name":"paul"},
-{"votes":11,"name":"nopreference-r"},
+{"votes":266,"name":"mccain"},
+{"votes":49,"name":"paul"},
+{"votes":13,"name":"nopreference-r"},
 {"votes":5,"name":"huckabee"},
 {"votes":3,"name":"romney"}],
-"total":320,"precincts":
+"total":336,"precincts":
 {"total":1,"reporting":1},
 "name":"Glacier"},
 "Silver Bow":

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9341555,"name":"mccain","delegates":1225},
-{"votes":4374372,"name":"romney","delegates":271},
-{"votes":4145765,"name":"huckabee","delegates":273},
-{"votes":1126709,"name":"paul","delegates":19},
+{"votes":9343462,"name":"mccain","delegates":1225},
+{"votes":4374395,"name":"romney","delegates":271},
+{"votes":4145856,"name":"huckabee","delegates":273},
+{"votes":1127051,"name":"paul","delegates":19},
 {"votes":573763,"name":"giuliani"},
 {"votes":285898,"name":"thompson"},
-{"votes":66169,"name":"uncommitted-r"},
+{"votes":66191,"name":"uncommitted-r"},
 {"votes":56917,"name":"keyes"},
 {"votes":37805,"name":"hunter"},
 {"votes":20448,"name":"nopreference-r"},
@@ -20,7 +20,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":23,"name":"fendig"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"gop","total":20040884,"locals":
+"state":"US","party":"gop","total":20043269,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":113074,"name":"mccain","delegates":36},
@@ -97,10 +97,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":31,"date":"02-05"},
 "New Mexico":
 {"votes":[
-{"votes":21282,"name":"mccain"},
-{"votes":2738,"name":"paul"}],
+{"votes":22221,"name":"mccain"},
+{"votes":2859,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":253},
+{"total":1633,"reporting":281},
 "delegates":32,"date":"06-03"},
 "Indiana":
 {"votes":[
@@ -515,13 +515,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":101,"date":"02-05"},
 "South Dakota":
 {"votes":[
-{"votes":21910,"name":"mccain"},
-{"votes":4482,"name":"paul"},
-{"votes":2303,"name":"huckabee"},
-{"votes":974,"name":"romney"},
-{"votes":944,"name":"uncommitted-r"}],
+{"votes":22878,"name":"mccain"},
+{"votes":4703,"name":"paul"},
+{"votes":2394,"name":"huckabee"},
+{"votes":997,"name":"romney"},
+{"votes":966,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":410},
+{"total":762,"reporting":419},
 "delegates":27,"date":"06-03"},
 "Colorado":
 {"name":"Colorado","precincts":

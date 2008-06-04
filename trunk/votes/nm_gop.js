@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":21282,"name":"mccain"},
-{"votes":2738,"name":"paul"}],
+{"votes":22221,"name":"mccain"},
+{"votes":2859,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":253},
+{"total":1633,"reporting":281},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":24020,"locals":
+"state":"NM","party":"gop","total":25080,"locals":
 {"San Juan":
 {"votes":[
 {"votes":1137,"name":"mccain"},
@@ -65,10 +65,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Guadalupe"},
 "Eddy":
 {"votes":[
-{"votes":1812,"name":"mccain"},
-{"votes":141,"name":"paul"}],
-"total":1953,"precincts":
-{"total":44,"reporting":22},
+{"votes":2354,"name":"mccain"},
+{"votes":188,"name":"paul"}],
+"total":2542,"precincts":
+{"total":44,"reporting":32},
 "name":"Eddy"},
 "CD1":
 {"votes":[],
@@ -202,9 +202,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":92,"reporting":0},
 "name":"Santa Fe"},
 "Luna":
-{"votes":[],
-"total":0,"precincts":
-{"total":18,"reporting":0},
+{"votes":[
+{"votes":397,"name":"mccain"},
+{"votes":74,"name":"paul"}],
+"total":471,"precincts":
+{"total":18,"reporting":18},
 "name":"Luna"},
 "McKinley":
 {"votes":[],

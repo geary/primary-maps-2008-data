@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":5168,"name":"obama","delegates":8},
-{"votes":4759,"name":"clinton","delegates":5},
-{"votes":361,"name":"nopreference-d"}],
+{"votes":5645,"name":"obama","delegates":8},
+{"votes":5116,"name":"clinton","delegates":5},
+{"votes":390,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":0},
+{"total":871,"reporting":2},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":10288,"locals":
+"state":"MT","party":"dem","total":11151,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -33,9 +33,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":3,"reporting":0},
 "name":"Treasure"},
 "Petroleum":
-{"votes":[],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":[
+{"votes":38,"name":"clinton"},
+{"votes":27,"name":"obama"},
+{"votes":4,"name":"nopreference-d"}],
+"total":69,"precincts":
+{"total":1,"reporting":1},
 "name":"Petroleum"},
 "Lake":
 {"votes":[],
@@ -53,8 +56,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":13,"reporting":0},
 "name":"Phillips"},
 "Jefferson":
-{"votes":[],
-"total":0,"precincts":
+{"votes":[
+{"votes":290,"name":"obama"},
+{"votes":188,"name":"clinton"},
+{"votes":14,"name":"nopreference-d"}],
+"total":492,"precincts":
 {"total":14,"reporting":0},
 "name":"Jefferson"},
 "Hill":
@@ -241,9 +247,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":0},
 "name":"Carter"},
 "Sweet Grass":
-{"votes":[],
-"total":0,"precincts":
-{"total":5,"reporting":0},
+{"votes":[
+{"votes":160,"name":"obama"},
+{"votes":131,"name":"clinton"},
+{"votes":11,"name":"nopreference-d"}],
+"total":302,"precincts":
+{"total":5,"reporting":1},
 "name":"Sweet Grass"},
 "Pondera":
 {"votes":[],

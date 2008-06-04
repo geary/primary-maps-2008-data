@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":96308,"name":"obama","delegates":8},
-{"votes":70576,"name":"clinton","delegates":5},
-{"votes":4012,"name":"nopreference-d"}],
+{"votes":96810,"name":"obama","delegates":8},
+{"votes":70896,"name":"clinton","delegates":5},
+{"votes":4018,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":815},
+{"total":871,"reporting":817},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":170896,"locals":
+"state":"MT","party":"dem","total":171724,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -24,11 +24,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Richland"},
 "Glacier":
 {"votes":[
-{"votes":548,"name":"obama"},
-{"votes":486,"name":"clinton"},
-{"votes":80,"name":"nopreference-d"}],
-"total":1114,"precincts":
-{"total":16,"reporting":7},
+{"votes":1050,"name":"obama"},
+{"votes":806,"name":"clinton"},
+{"votes":86,"name":"nopreference-d"}],
+"total":1942,"precincts":
+{"total":16,"reporting":9},
 "name":"Glacier"},
 "Silver Bow":
 {"votes":[

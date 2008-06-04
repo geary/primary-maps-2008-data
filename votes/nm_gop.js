@@ -3,7 +3,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":92131,"name":"mccain"},
 {"votes":15096,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1585},
+{"total":1633,"reporting":1603},
 "delegates":32,"date":"06-03"},
 "state":"NM","party":"gop","total":107227,"locals":
 {"San Juan":
@@ -188,7 +188,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":4263,"name":"mccain"},
 {"votes":578,"name":"paul"}],
 "total":4841,"precincts":
-{"total":136,"reporting":115},
+{"total":136,"reporting":133},
 "name":"Dona Ana"},
 "Lincoln":
 {"votes":[

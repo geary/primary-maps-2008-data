@@ -1,17 +1,17 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":72505,"name":"mccain"},
-{"votes":11475,"name":"paul"}],
+{"votes":72840,"name":"mccain"},
+{"votes":11541,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1297},
+{"total":1633,"reporting":1302},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":83980,"locals":
+"state":"NM","party":"gop","total":84381,"locals":
 {"San Juan":
 {"votes":[
-{"votes":5157,"name":"mccain"},
-{"votes":807,"name":"paul"}],
-"total":5964,"precincts":
-{"total":78,"reporting":65},
+{"votes":5547,"name":"mccain"},
+{"votes":870,"name":"paul"}],
+"total":6417,"precincts":
+{"total":78,"reporting":70},
 "name":"San Juan"},
 "Colfax":
 {"votes":[
@@ -206,9 +206,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Roosevelt"},
 "Los Alamos":
 {"votes":[
-{"votes":1789,"name":"mccain"},
-{"votes":351,"name":"paul"}],
-"total":2140,"precincts":
+{"votes":1734,"name":"mccain"},
+{"votes":354,"name":"paul"}],
+"total":2088,"precincts":
 {"total":19,"reporting":19},
 "name":"Los Alamos"},
 "Curry":

@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":102198,"name":"obama","delegates":9},
-{"votes":74685,"name":"clinton","delegates":7},
+{"votes":102373,"name":"obama","delegates":9},
+{"votes":74792,"name":"clinton","delegates":7},
 {"votes":4236,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":870},
+{"total":871,"reporting":871},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":181119,"locals":
+"state":"MT","party":"dem","total":181401,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -223,9 +223,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":69,"reporting":69},
 "name":"Yellowstone"},
 "Meagher":
-{"votes":[],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":[
+{"votes":175,"name":"obama"},
+{"votes":107,"name":"clinton"}],
+"total":282,"precincts":
+{"total":1,"reporting":1},
 "name":"Meagher"},
 "Carbon":
 {"votes":[

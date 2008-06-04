@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":74132,"name":"mccain"},
-{"votes":11823,"name":"paul"}],
+{"votes":82762,"name":"mccain"},
+{"votes":13181,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1336},
+{"total":1633,"reporting":1432},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":85955,"locals":
+"state":"NM","party":"gop","total":95943,"locals":
 {"San Juan":
 {"votes":[
 {"votes":5547,"name":"mccain"},
@@ -29,10 +29,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":27283,"name":"mccain"},
-{"votes":4589,"name":"paul"}],
-"total":31872,"precincts":
-{"total":442,"reporting":324},
+{"votes":30437,"name":"mccain"},
+{"votes":5164,"name":"paul"}],
+"total":35601,"precincts":
+{"total":442,"reporting":361},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -46,7 +46,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":244,"name":"mccain"},
 {"votes":33,"name":"paul"}],
 "total":277,"precincts":
-{"total":8,"reporting":2},
+{"total":8,"reporting":8},
 "name":"Union"},
 "Rio Arriba":
 {"votes":[
@@ -67,7 +67,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":156,"name":"mccain"},
 {"votes":17,"name":"paul"}],
 "total":173,"precincts":
-{"total":8,"reporting":7},
+{"total":8,"reporting":8},
 "name":"Guadalupe"},
 "Eddy":
 {"votes":[
@@ -115,16 +115,16 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Torrance"},
 "Taos":
 {"votes":[
-{"votes":301,"name":"mccain"},
-{"votes":39,"name":"paul"}],
-"total":340,"precincts":
-{"total":39,"reporting":22},
+{"votes":388,"name":"mccain"},
+{"votes":50,"name":"paul"}],
+"total":438,"precincts":
+{"total":39,"reporting":28},
 "name":"Taos"},
 "Lea":
 {"votes":[
-{"votes":1476,"name":"mccain"},
-{"votes":104,"name":"paul"}],
-"total":1580,"precincts":
+{"votes":3714,"name":"mccain"},
+{"votes":272,"name":"paul"}],
+"total":3986,"precincts":
 {"total":46,"reporting":46},
 "name":"Lea"},
 "Cibola":
@@ -150,10 +150,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Harding"},
 "Chaves":
 {"votes":[
-{"votes":4554,"name":"mccain"},
-{"votes":536,"name":"paul"}],
-"total":5090,"precincts":
-{"total":53,"reporting":52},
+{"votes":5258,"name":"mccain"},
+{"votes":616,"name":"paul"}],
+"total":5874,"precincts":
+{"total":53,"reporting":53},
 "name":"Chaves"},
 "Catron":
 {"votes":[
@@ -164,24 +164,24 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Catron"},
 "Sandoval":
 {"votes":[
-{"votes":3077,"name":"mccain"},
-{"votes":670,"name":"paul"}],
-"total":3747,"precincts":
-{"total":92,"reporting":88},
+{"votes":4235,"name":"mccain"},
+{"votes":937,"name":"paul"}],
+"total":5172,"precincts":
+{"total":92,"reporting":90},
 "name":"Sandoval"},
 "San Miguel":
 {"votes":[
-{"votes":572,"name":"mccain"},
-{"votes":75,"name":"paul"}],
-"total":647,"precincts":
-{"total":41,"reporting":40},
+{"votes":588,"name":"mccain"},
+{"votes":77,"name":"paul"}],
+"total":665,"precincts":
+{"total":41,"reporting":41},
 "name":"San Miguel"},
 "Socorro":
 {"votes":[
-{"votes":732,"name":"mccain"},
-{"votes":137,"name":"paul"}],
-"total":869,"precincts":
-{"total":29,"reporting":13},
+{"votes":847,"name":"mccain"},
+{"votes":154,"name":"paul"}],
+"total":1001,"precincts":
+{"total":29,"reporting":20},
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[
@@ -213,17 +213,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Los Alamos"},
 "Curry":
 {"votes":[
-{"votes":1319,"name":"mccain"},
-{"votes":94,"name":"paul"}],
-"total":1413,"precincts":
+{"votes":1723,"name":"mccain"},
+{"votes":151,"name":"paul"}],
+"total":1874,"precincts":
 {"total":48,"reporting":47},
 "name":"Curry"},
 "Santa Fe":
 {"votes":[
-{"votes":2771,"name":"mccain"},
-{"votes":526,"name":"paul"}],
-"total":3297,"precincts":
-{"total":92,"reporting":73},
+{"votes":3384,"name":"mccain"},
+{"votes":675,"name":"paul"}],
+"total":4059,"precincts":
+{"total":92,"reporting":85},
 "name":"Santa Fe"},
 "Luna":
 {"votes":[
@@ -234,10 +234,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Luna"},
 "McKinley":
 {"votes":[
-{"votes":1016,"name":"mccain"},
-{"votes":165,"name":"paul"}],
-"total":1181,"precincts":
-{"total":60,"reporting":34},
+{"votes":1157,"name":"mccain"},
+{"votes":197,"name":"paul"}],
+"total":1354,"precincts":
+{"total":60,"reporting":57},
 "name":"McKinley"},
 "Hidalgo":
 {"votes":[

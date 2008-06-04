@@ -2,13 +2,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":42807,"name":"mccain"},
 {"votes":10117,"name":"paul"},
-{"votes":4327,"name":"huckabee"},
+{"votes":4326,"name":"huckabee"},
 {"votes":1980,"name":"romney"},
-{"votes":1784,"name":"uncommitted-r"}],
+{"votes":1791,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
 {"total":762,"reporting":752},
 "delegates":27,"date":"06-03"},
-"state":"SD","party":"gop","total":61015,"locals":
+"state":"SD","party":"gop","total":61021,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":324,"name":"mccain"},
@@ -313,9 +313,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
 {"votes":128,"name":"mccain"},
 {"votes":33,"name":"paul"},
-{"votes":7,"name":"huckabee"},
-{"votes":7,"name":"romney"}],
-"total":175,"precincts":
+{"votes":7,"name":"romney"},
+{"votes":7,"name":"uncommitted-r"},
+{"votes":6,"name":"huckabee"}],
+"total":181,"precincts":
 {"total":13,"reporting":13},
 "name":"Dewey"},
 "Jones":

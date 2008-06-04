@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":19486,"name":"mccain"},
-{"votes":2426,"name":"paul"}],
+{"votes":21282,"name":"mccain"},
+{"votes":2738,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":228},
+{"total":1633,"reporting":253},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":21912,"locals":
+"state":"NM","party":"gop","total":24020,"locals":
 {"San Juan":
 {"votes":[
 {"votes":1137,"name":"mccain"},
@@ -167,15 +167,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[
-{"votes":43,"name":"mccain"},
-{"votes":10,"name":"paul"}],
-"total":53,"precincts":
-{"total":136,"reporting":1},
+{"votes":294,"name":"mccain"},
+{"votes":44,"name":"paul"}],
+"total":338,"precincts":
+{"total":136,"reporting":7},
 "name":"Dona Ana"},
 "Lincoln":
-{"votes":[],
-"total":0,"precincts":
-{"total":23,"reporting":0},
+{"votes":[
+{"votes":1545,"name":"mccain"},
+{"votes":278,"name":"paul"}],
+"total":1823,"precincts":
+{"total":23,"reporting":19},
 "name":"Lincoln"},
 "Roosevelt":
 {"votes":[

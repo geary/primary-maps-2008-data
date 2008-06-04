@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":52295,"name":"clinton","delegates":8},
-{"votes":41964,"name":"obama","delegates":6}],
+{"votes":53404,"name":"clinton","delegates":8},
+{"votes":42831,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":746},
+{"total":762,"reporting":752},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":94259,"locals":
+"state":"SD","party":"dem","total":96235,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -43,10 +43,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Grant"},
 "Union":
 {"votes":[
-{"votes":1052,"name":"clinton"},
-{"votes":788,"name":"obama"}],
-"total":1840,"precincts":
-{"total":13,"reporting":11},
+{"votes":1418,"name":"clinton"},
+{"votes":1102,"name":"obama"}],
+"total":2520,"precincts":
+{"total":13,"reporting":13},
 "name":"Union"},
 "Clay":
 {"votes":[
@@ -127,10 +127,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sully"},
 "Brown":
 {"votes":[
-{"votes":2513,"name":"clinton"},
-{"votes":1809,"name":"obama"}],
-"total":4322,"precincts":
-{"total":22,"reporting":18},
+{"votes":3256,"name":"clinton"},
+{"votes":2362,"name":"obama"}],
+"total":5618,"precincts":
+{"total":22,"reporting":22},
 "name":"Brown"},
 "Minnehaha":
 {"votes":[

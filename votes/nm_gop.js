@@ -1,17 +1,17 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":84138,"name":"mccain"},
-{"votes":13526,"name":"paul"}],
+{"votes":85021,"name":"mccain"},
+{"votes":13678,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1459},
+{"total":1633,"reporting":1479},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":97664,"locals":
+"state":"NM","party":"gop","total":98699,"locals":
 {"San Juan":
 {"votes":[
-{"votes":5547,"name":"mccain"},
-{"votes":870,"name":"paul"}],
-"total":6417,"precincts":
-{"total":78,"reporting":70},
+{"votes":6285,"name":"mccain"},
+{"votes":968,"name":"paul"}],
+"total":7253,"precincts":
+{"total":78,"reporting":78},
 "name":"San Juan"},
 "Colfax":
 {"votes":[
@@ -178,10 +178,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"San Miguel"},
 "Socorro":
 {"votes":[
-{"votes":847,"name":"mccain"},
-{"votes":154,"name":"paul"}],
-"total":1001,"precincts":
-{"total":29,"reporting":20},
+{"votes":967,"name":"mccain"},
+{"votes":204,"name":"paul"}],
+"total":1171,"precincts":
+{"total":29,"reporting":29},
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[
@@ -234,10 +234,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Luna"},
 "McKinley":
 {"votes":[
-{"votes":1157,"name":"mccain"},
-{"votes":197,"name":"paul"}],
-"total":1354,"precincts":
-{"total":60,"reporting":57},
+{"votes":1182,"name":"mccain"},
+{"votes":201,"name":"paul"}],
+"total":1383,"precincts":
+{"total":60,"reporting":60},
 "name":"McKinley"},
 "Hidalgo":
 {"votes":[

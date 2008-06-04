@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":88488,"name":"mccain"},
-{"votes":14433,"name":"paul"}],
+{"votes":88855,"name":"mccain"},
+{"votes":14528,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1520},
+{"total":1633,"reporting":1526},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":102921,"locals":
+"state":"NM","party":"gop","total":103383,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -15,10 +15,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"San Juan"},
 "Colfax":
 {"votes":[
-{"votes":586,"name":"mccain"},
-{"votes":97,"name":"paul"}],
-"total":683,"precincts":
-{"total":21,"reporting":20},
+{"votes":676,"name":"mccain"},
+{"votes":108,"name":"paul"}],
+"total":784,"precincts":
+{"total":21,"reporting":21},
 "name":"Colfax"},
 "Otero":
 {"votes":[
@@ -29,10 +29,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":34375,"name":"mccain"},
-{"votes":6110,"name":"paul"}],
-"total":40485,"precincts":
-{"total":442,"reporting":411},
+{"votes":34584,"name":"mccain"},
+{"votes":6164,"name":"paul"}],
+"total":40748,"precincts":
+{"total":442,"reporting":415},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -157,10 +157,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Chaves"},
 "Catron":
 {"votes":[
-{"votes":328,"name":"mccain"},
-{"votes":113,"name":"paul"}],
-"total":441,"precincts":
-{"total":8,"reporting":7},
+{"votes":396,"name":"mccain"},
+{"votes":143,"name":"paul"}],
+"total":539,"precincts":
+{"total":8,"reporting":8},
 "name":"Catron"},
 "Sandoval":
 {"votes":[

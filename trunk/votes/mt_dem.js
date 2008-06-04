@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":93122,"name":"obama","delegates":8},
-{"votes":68531,"name":"clinton","delegates":5},
-{"votes":3936,"name":"nopreference-d"}],
+{"votes":94624,"name":"obama","delegates":8},
+{"votes":69266,"name":"clinton","delegates":5},
+{"votes":3952,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":774},
+{"total":871,"reporting":798},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":165589,"locals":
+"state":"MT","party":"dem","total":167842,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -355,10 +355,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Madison"},
 "Beaverhead":
 {"votes":[
-{"votes":625,"name":"obama"},
-{"votes":333,"name":"clinton"}],
-"total":958,"precincts":
-{"total":16,"reporting":8},
+{"votes":747,"name":"obama"},
+{"votes":405,"name":"clinton"}],
+"total":1152,"precincts":
+{"total":16,"reporting":16},
 "name":"Beaverhead"},
 "Carter":
 {"votes":[
@@ -442,9 +442,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Toole"},
 "Gallatin":
 {"votes":[
-{"votes":7660,"name":"obama"},
-{"votes":2761,"name":"clinton"},
-{"votes":111,"name":"nopreference-d"}],
-"total":10532,"precincts":
-{"total":46,"reporting":21},
+{"votes":9040,"name":"obama"},
+{"votes":3424,"name":"clinton"},
+{"votes":127,"name":"nopreference-d"}],
+"total":12591,"precincts":
+{"total":46,"reporting":37},
 "name":"Gallatin"}}})

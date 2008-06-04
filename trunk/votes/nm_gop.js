@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":85,"name":"mccain"},
-{"votes":21,"name":"paul"}],
+{"votes":1324,"name":"mccain"},
+{"votes":179,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":9},
+{"total":1633,"reporting":59},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":106,"locals":
+"state":"NM","party":"gop","total":1503,"locals":
 {"San Juan":
 {"votes":[],
 "total":0,"precincts":
@@ -115,9 +115,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":5,"reporting":0},
 "name":"Harding"},
 "Chaves":
-{"votes":[],
-"total":0,"precincts":
-{"total":53,"reporting":0},
+{"votes":[
+{"votes":1239,"name":"mccain"},
+{"votes":158,"name":"paul"}],
+"total":1397,"precincts":
+{"total":53,"reporting":50},
 "name":"Chaves"},
 "Catron":
 {"votes":[],

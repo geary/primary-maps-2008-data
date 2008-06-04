@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":28812,"name":"clinton","delegates":8},
-{"votes":22493,"name":"obama","delegates":6}],
+{"votes":29559,"name":"clinton","delegates":8},
+{"votes":23086,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":358},
+{"total":762,"reporting":369},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":51305,"locals":
+"state":"SD","party":"dem","total":52645,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":285,"name":"clinton"},
@@ -36,10 +36,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lyman"},
 "Grant":
 {"votes":[
-{"votes":533,"name":"clinton"},
-{"votes":215,"name":"obama"}],
-"total":748,"precincts":
-{"total":11,"reporting":7},
+{"votes":559,"name":"clinton"},
+{"votes":230,"name":"obama"}],
+"total":789,"precincts":
+{"total":11,"reporting":8},
 "name":"Grant"},
 "Union":
 {"votes":[
@@ -125,10 +125,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sully"},
 "Brown":
 {"votes":[
-{"votes":373,"name":"clinton"},
-{"votes":283,"name":"obama"}],
-"total":656,"precincts":
-{"total":22,"reporting":2},
+{"votes":519,"name":"clinton"},
+{"votes":374,"name":"obama"}],
+"total":893,"precincts":
+{"total":22,"reporting":3},
 "name":"Brown"},
 "Minnehaha":
 {"votes":[
@@ -188,10 +188,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Walworth"},
 "Codington":
 {"votes":[
-{"votes":1223,"name":"clinton"},
-{"votes":896,"name":"obama"}],
-"total":2119,"precincts":
-{"total":33,"reporting":21},
+{"votes":1367,"name":"clinton"},
+{"votes":977,"name":"obama"}],
+"total":2344,"precincts":
+{"total":33,"reporting":23},
 "name":"Codington"},
 "Haakon":
 {"votes":[],
@@ -233,10 +233,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Davison"},
 "Lincoln":
 {"votes":[
-{"votes":1119,"name":"clinton"},
-{"votes":788,"name":"obama"}],
-"total":1907,"precincts":
-{"total":29,"reporting":18},
+{"votes":1287,"name":"clinton"},
+{"votes":1014,"name":"obama"}],
+"total":2301,"precincts":
+{"total":29,"reporting":20},
 "name":"Lincoln"},
 "Spink":
 {"votes":[
@@ -295,7 +295,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":117,"name":"clinton"},
 {"votes":86,"name":"obama"}],
 "total":203,"precincts":
-{"total":5,"reporting":0},
+{"total":5,"reporting":1},
 "name":"Hanson"},
 "Gregory":
 {"votes":[
@@ -341,17 +341,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sanborn"},
 "Harding":
 {"votes":[
-{"votes":15,"name":"obama"},
-{"votes":10,"name":"clinton"}],
-"total":25,"precincts":
-{"total":4,"reporting":1},
+{"votes":23,"name":"obama"},
+{"votes":21,"name":"clinton"}],
+"total":44,"precincts":
+{"total":4,"reporting":2},
 "name":"Harding"},
 "Clark":
 {"votes":[
 {"votes":216,"name":"clinton"},
-{"votes":98,"name":"obama"}],
-"total":314,"precincts":
-{"total":13,"reporting":6},
+{"votes":114,"name":"obama"}],
+"total":330,"precincts":
+{"total":13,"reporting":7},
 "name":"Clark"},
 "Fall River":
 {"votes":[],
@@ -381,10 +381,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Potter"},
 "Charles Mix":
 {"votes":[
-{"votes":743,"name":"clinton"},
-{"votes":614,"name":"obama"}],
-"total":1357,"precincts":
-{"total":13,"reporting":12},
+{"votes":857,"name":"clinton"},
+{"votes":694,"name":"obama"}],
+"total":1551,"precincts":
+{"total":13,"reporting":13},
 "name":"Charles Mix"},
 "Perkins":
 {"votes":[],
@@ -433,10 +433,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Turner"},
 "Moody":
 {"votes":[
-{"votes":573,"name":"clinton"},
-{"votes":404,"name":"obama"}],
-"total":977,"precincts":
-{"total":6,"reporting":5},
+{"votes":711,"name":"clinton"},
+{"votes":480,"name":"obama"}],
+"total":1191,"precincts":
+{"total":6,"reporting":6},
 "name":"Moody"},
 "Shannon":
 {"votes":[],

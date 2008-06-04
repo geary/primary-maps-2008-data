@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":100551,"name":"obama","delegates":8},
-{"votes":73476,"name":"clinton","delegates":5},
-{"votes":4167,"name":"nopreference-d"}],
+{"votes":100854,"name":"obama","delegates":8},
+{"votes":73822,"name":"clinton","delegates":5},
+{"votes":4189,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":853},
+{"total":871,"reporting":857},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":178194,"locals":
+"state":"MT","party":"dem","total":178865,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":228,"name":"obama"},
@@ -390,7 +390,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5758,"name":"clinton"},
 {"votes":341,"name":"nopreference-d"}],
 "total":15116,"precincts":
-{"total":56,"reporting":56},
+{"total":56,"reporting":55},
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[
@@ -434,11 +434,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Dawson"},
 "Toole":
 {"votes":[
-{"votes":108,"name":"clinton"},
-{"votes":87,"name":"obama"},
-{"votes":5,"name":"nopreference-d"}],
-"total":200,"precincts":
-{"total":10,"reporting":5},
+{"votes":454,"name":"clinton"},
+{"votes":390,"name":"obama"},
+{"votes":27,"name":"nopreference-d"}],
+"total":871,"precincts":
+{"total":10,"reporting":10},
 "name":"Toole"},
 "Gallatin":
 {"votes":[

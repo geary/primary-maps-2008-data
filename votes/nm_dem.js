@@ -12,7 +12,37 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":70,"name":"dodd"}],
 "delegates":26,"date":"02-05","type":"caucus"},
 "state":"NM","party":"dem","total":140563,"locals":
-{"CD1":
+{"San Juan":
+{"votes":[],
+"total":0,"name":"San Juan"},
+"Colfax":
+{"votes":[],
+"total":0,"name":"Colfax"},
+"Otero":
+{"votes":[],
+"total":0,"name":"Otero"},
+"Bernalillo":
+{"votes":[],
+"total":0,"name":"Bernalillo"},
+"Grant":
+{"votes":[],
+"total":0,"name":"Grant"},
+"Union":
+{"votes":[],
+"total":0,"name":"Union"},
+"Rio Arriba":
+{"votes":[],
+"total":0,"name":"Rio Arriba"},
+"DeBaca":
+{"votes":[],
+"total":0,"name":"DeBaca"},
+"Guadalupe":
+{"votes":[],
+"total":0,"name":"Guadalupe"},
+"Eddy":
+{"votes":[],
+"total":0,"name":"Eddy"},
+"CD1":
 {"votes":[
 {"votes":25782,"name":"obama"},
 {"votes":24045,"name":"clinton"},
@@ -50,4 +80,73 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":30,"name":"dodd"}],
 "total":53573,"precincts":
 {"total":67,"reporting":67},
-"name":"CD3"}}})
+"name":"CD3"},
+"Sierra":
+{"votes":[],
+"total":0,"name":"Sierra"},
+"Valencia":
+{"votes":[],
+"total":0,"name":"Valencia"},
+"Mora":
+{"votes":[],
+"total":0,"name":"Mora"},
+"Torrance":
+{"votes":[],
+"total":0,"name":"Torrance"},
+"Taos":
+{"votes":[],
+"total":0,"name":"Taos"},
+"Lea":
+{"votes":[],
+"total":0,"name":"Lea"},
+"Cibola":
+{"votes":[],
+"total":0,"name":"Cibola"},
+"Quay":
+{"votes":[],
+"total":0,"name":"Quay"},
+"Harding":
+{"votes":[],
+"total":0,"name":"Harding"},
+"Chaves":
+{"votes":[],
+"total":0,"name":"Chaves"},
+"Catron":
+{"votes":[],
+"total":0,"name":"Catron"},
+"Sandoval":
+{"votes":[],
+"total":0,"name":"Sandoval"},
+"San Miguel":
+{"votes":[],
+"total":0,"name":"San Miguel"},
+"Socorro":
+{"votes":[],
+"total":0,"name":"Socorro"},
+"Dona Ana":
+{"votes":[],
+"total":0,"name":"Dona Ana"},
+"Lincoln":
+{"votes":[],
+"total":0,"name":"Lincoln"},
+"Roosevelt":
+{"votes":[],
+"total":0,"name":"Roosevelt"},
+"Los Alamos":
+{"votes":[],
+"total":0,"name":"Los Alamos"},
+"Curry":
+{"votes":[],
+"total":0,"name":"Curry"},
+"Santa Fe":
+{"votes":[],
+"total":0,"name":"Santa Fe"},
+"Luna":
+{"votes":[],
+"total":0,"name":"Luna"},
+"McKinley":
+{"votes":[],
+"total":0,"name":"McKinley"},
+"Hidalgo":
+{"votes":[],
+"total":0,"name":"Hidalgo"}}})

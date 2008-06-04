@@ -1,14 +1,14 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":42829,"name":"mccain"},
-{"votes":10121,"name":"paul"},
-{"votes":4335,"name":"huckabee"},
+{"votes":42843,"name":"mccain"},
+{"votes":10127,"name":"paul"},
+{"votes":4337,"name":"huckabee"},
 {"votes":1982,"name":"romney"},
-{"votes":1792,"name":"uncommitted-r"}],
+{"votes":1793,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":758},
+{"total":762,"reporting":762},
 "delegates":27,"date":"06-03"},
-"state":"SD","party":"gop","total":61059,"locals":
+"state":"SD","party":"gop","total":61082,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":324,"name":"mccain"},
@@ -650,13 +650,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Moody"},
 "Shannon":
 {"votes":[
-{"votes":22,"name":"mccain"},
-{"votes":4,"name":"paul"},
+{"votes":36,"name":"mccain"},
+{"votes":10,"name":"paul"},
+{"votes":3,"name":"huckabee"},
 {"votes":2,"name":"romney"},
-{"votes":1,"name":"huckabee"},
-{"votes":1,"name":"uncommitted-r"}],
-"total":30,"precincts":
-{"total":10,"reporting":6},
+{"votes":2,"name":"uncommitted-r"}],
+"total":53,"precincts":
+{"total":10,"reporting":10},
 "name":"Shannon"},
 "Bennett":
 {"votes":[

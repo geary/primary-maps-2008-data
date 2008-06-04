@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":25192,"name":"obama","delegates":8},
-{"votes":18772,"name":"clinton","delegates":5},
-{"votes":1320,"name":"nopreference-d"}],
+{"votes":25307,"name":"obama","delegates":8},
+{"votes":18878,"name":"clinton","delegates":5},
+{"votes":1327,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":83},
+{"total":871,"reporting":87},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":45284,"locals":
+"state":"MT","party":"dem","total":45512,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -85,9 +85,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":4,"reporting":0},
 "name":"Granite"},
 "Wibaux":
-{"votes":[],
-"total":0,"precincts":
-{"total":1,"reporting":0},
+{"votes":[
+{"votes":53,"name":"clinton"},
+{"votes":49,"name":"obama"},
+{"votes":3,"name":"nopreference-d"}],
+"total":105,"precincts":
+{"total":1,"reporting":1},
 "name":"Wibaux"},
 "Valley":
 {"votes":[
@@ -116,9 +119,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":2,"reporting":0},
 "name":"Golden Valley"},
 "Powder River":
-{"votes":[],
-"total":0,"precincts":
-{"total":8,"reporting":0},
+{"votes":[
+{"votes":12,"name":"clinton"},
+{"votes":9,"name":"obama"}],
+"total":21,"precincts":
+{"total":8,"reporting":2},
 "name":"Powder River"},
 "Custer":
 {"votes":[],
@@ -289,11 +294,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sweet Grass"},
 "Pondera":
 {"votes":[
-{"votes":92,"name":"obama"},
-{"votes":65,"name":"clinton"},
-{"votes":10,"name":"nopreference-d"}],
-"total":167,"precincts":
-{"total":8,"reporting":1},
+{"votes":149,"name":"obama"},
+{"votes":106,"name":"clinton"},
+{"votes":14,"name":"nopreference-d"}],
+"total":269,"precincts":
+{"total":8,"reporting":2},
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[

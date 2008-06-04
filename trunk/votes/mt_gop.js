@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":15987,"name":"mccain"},
-{"votes":3117,"name":"paul"},
+{"votes":16299,"name":"mccain"},
+{"votes":3256,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
-{"votes":400,"name":"nopreference-r"},
+{"votes":415,"name":"nopreference-r"},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":20376,"locals":
+"state":"MT","party":"gop","total":20842,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -131,10 +131,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Granite"},
 "Wibaux":
 {"votes":[
-{"votes":12,"name":"paul"},
-{"votes":1,"name":"huckabee"},
-{"votes":1,"name":"mccain"}],
-"total":14,"precincts":
+{"votes":158,"name":"mccain"},
+{"votes":95,"name":"paul"},
+{"votes":15,"name":"nopreference-r"},
+{"votes":1,"name":"huckabee"}],
+"total":269,"precincts":
 {"total":1,"reporting":1},
 "name":"Wibaux"},
 "Valley":
@@ -176,11 +177,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Golden Valley"},
 "Powder River":
 {"votes":[
+{"votes":102,"name":"mccain"},
+{"votes":34,"name":"paul"},
 {"votes":7,"name":"romney"},
-{"votes":4,"name":"paul"},
-{"votes":3,"name":"mccain"},
 {"votes":2,"name":"huckabee"}],
-"total":16,"precincts":
+"total":145,"precincts":
 {"total":1,"reporting":1},
 "name":"Powder River"},
 "Custer":
@@ -437,12 +438,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sweet Grass"},
 "Pondera":
 {"votes":[
-{"votes":148,"name":"mccain"},
-{"votes":36,"name":"paul"},
+{"votes":200,"name":"mccain"},
+{"votes":46,"name":"paul"},
 {"votes":15,"name":"romney"},
 {"votes":9,"name":"nopreference-r"},
 {"votes":4,"name":"huckabee"}],
-"total":212,"precincts":
+"total":274,"precincts":
 {"total":1,"reporting":1},
 "name":"Pondera"},
 "Lewis & Clark":

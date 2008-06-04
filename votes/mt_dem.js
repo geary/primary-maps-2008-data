@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":25307,"name":"obama","delegates":8},
-{"votes":18878,"name":"clinton","delegates":5},
-{"votes":1327,"name":"nopreference-d"}],
+{"votes":25811,"name":"obama","delegates":8},
+{"votes":19299,"name":"clinton","delegates":5},
+{"votes":1345,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":87},
+{"total":871,"reporting":97},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":45512,"locals":
+"state":"MT","party":"dem","total":46455,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -80,9 +80,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":5,"reporting":1},
 "name":"Daniels"},
 "Granite":
-{"votes":[],
-"total":0,"precincts":
-{"total":4,"reporting":0},
+{"votes":[
+{"votes":262,"name":"obama"},
+{"votes":211,"name":"clinton"},
+{"votes":6,"name":"nopreference-d"}],
+"total":479,"precincts":
+{"total":4,"reporting":4},
 "name":"Granite"},
 "Wibaux":
 {"votes":[
@@ -142,10 +145,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Garfield"},
 "Chouteau":
 {"votes":[
-{"votes":46,"name":"clinton"},
-{"votes":43,"name":"obama"}],
-"total":89,"precincts":
-{"total":12,"reporting":2},
+{"votes":222,"name":"obama"},
+{"votes":208,"name":"clinton"},
+{"votes":9,"name":"nopreference-d"}],
+"total":439,"precincts":
+{"total":12,"reporting":6},
 "name":"Chouteau"},
 "Teton":
 {"votes":[],
@@ -280,9 +284,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":16,"reporting":0},
 "name":"Beaverhead"},
 "Carter":
-{"votes":[],
-"total":0,"precincts":
-{"total":4,"reporting":0},
+{"votes":[
+{"votes":63,"name":"obama"},
+{"votes":48,"name":"clinton"},
+{"votes":3,"name":"nopreference-d"}],
+"total":114,"precincts":
+{"total":4,"reporting":2},
 "name":"Carter"},
 "Sweet Grass":
 {"votes":[

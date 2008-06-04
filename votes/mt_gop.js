@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":16299,"name":"mccain"},
-{"votes":3256,"name":"paul"},
+{"votes":17093,"name":"mccain"},
+{"votes":3451,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
-{"votes":415,"name":"nopreference-r"},
+{"votes":451,"name":"nopreference-r"},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":20842,"locals":
+"state":"MT","party":"gop","total":21867,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -122,11 +122,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Daniels"},
 "Granite":
 {"votes":[
-{"votes":8,"name":"mccain"},
+{"votes":244,"name":"mccain"},
+{"votes":55,"name":"paul"},
+{"votes":6,"name":"nopreference-r"},
 {"votes":5,"name":"romney"},
-{"votes":3,"name":"paul"},
 {"votes":1,"name":"huckabee"}],
-"total":17,"precincts":
+"total":311,"precincts":
 {"total":1,"reporting":1},
 "name":"Granite"},
 "Wibaux":
@@ -213,12 +214,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Garfield"},
 "Chouteau":
 {"votes":[
-{"votes":72,"name":"mccain"},
-{"votes":15,"name":"paul"},
+{"votes":460,"name":"mccain"},
+{"votes":93,"name":"paul"},
+{"votes":24,"name":"nopreference-r"},
 {"votes":7,"name":"romney"},
-{"votes":4,"name":"huckabee"},
-{"votes":1,"name":"nopreference-r"}],
-"total":99,"precincts":
+{"votes":4,"name":"huckabee"}],
+"total":588,"precincts":
 {"total":1,"reporting":1},
 "name":"Chouteau"},
 "Teton":
@@ -421,9 +422,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Beaverhead"},
 "Carter":
 {"votes":[
+{"votes":162,"name":"mccain"},
+{"votes":62,"name":"paul"},
 {"votes":14,"name":"huckabee"},
-{"votes":4,"name":"mccain"}],
-"total":18,"precincts":
+{"votes":7,"name":"nopreference-r"}],
+"total":245,"precincts":
 {"total":1,"reporting":1},
 "name":"Carter"},
 "Sweet Grass":

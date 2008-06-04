@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":34016,"name":"mccain"},
-{"votes":4509,"name":"paul"}],
+{"votes":38109,"name":"mccain"},
+{"votes":5268,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":503},
+{"total":1633,"reporting":566},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":38525,"locals":
+"state":"NM","party":"gop","total":43377,"locals":
 {"San Juan":
 {"votes":[
 {"votes":2034,"name":"mccain"},
@@ -27,10 +27,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":14524,"name":"mccain"},
-{"votes":1915,"name":"paul"}],
-"total":16439,"precincts":
-{"total":442,"reporting":32},
+{"votes":14978,"name":"mccain"},
+{"votes":1982,"name":"paul"}],
+"total":16960,"precincts":
+{"total":442,"reporting":42},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -89,9 +89,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":11,"reporting":3},
 "name":"Sierra"},
 "Valencia":
-{"votes":[],
-"total":0,"precincts":
-{"total":51,"reporting":0},
+{"votes":[
+{"votes":2590,"name":"mccain"},
+{"votes":525,"name":"paul"}],
+"total":3115,"precincts":
+{"total":51,"reporting":35},
 "name":"Valencia"},
 "Mora":
 {"votes":[
@@ -177,17 +179,17 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Socorro"},
 "Dona Ana":
 {"votes":[
-{"votes":294,"name":"mccain"},
-{"votes":44,"name":"paul"}],
-"total":338,"precincts":
-{"total":136,"reporting":7},
+{"votes":735,"name":"mccain"},
+{"votes":108,"name":"paul"}],
+"total":843,"precincts":
+{"total":136,"reporting":21},
 "name":"Dona Ana"},
 "Lincoln":
 {"votes":[
-{"votes":1545,"name":"mccain"},
-{"votes":278,"name":"paul"}],
-"total":1823,"precincts":
-{"total":23,"reporting":19},
+{"votes":2153,"name":"mccain"},
+{"votes":381,"name":"paul"}],
+"total":2534,"precincts":
+{"total":23,"reporting":23},
 "name":"Lincoln"},
 "Roosevelt":
 {"votes":[

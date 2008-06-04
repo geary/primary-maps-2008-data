@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":46898,"name":"mccain"},
-{"votes":6784,"name":"paul"}],
+{"votes":47806,"name":"mccain"},
+{"votes":6883,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":741},
+{"total":1633,"reporting":798},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":53682,"locals":
+"state":"NM","party":"gop","total":54689,"locals":
 {"San Juan":
 {"votes":[
 {"votes":4041,"name":"mccain"},
@@ -41,10 +41,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Grant"},
 "Union":
 {"votes":[
-{"votes":62,"name":"mccain"},
-{"votes":20,"name":"paul"}],
-"total":82,"precincts":
-{"total":8,"reporting":1},
+{"votes":172,"name":"mccain"},
+{"votes":21,"name":"paul"}],
+"total":193,"precincts":
+{"total":8,"reporting":6},
 "name":"Union"},
 "Rio Arriba":
 {"votes":[
@@ -83,10 +83,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "total":0,"name":"CD3"},
 "Sierra":
 {"votes":[
-{"votes":985,"name":"mccain"},
-{"votes":98,"name":"paul"}],
-"total":1083,"precincts":
-{"total":11,"reporting":6},
+{"votes":1037,"name":"mccain"},
+{"votes":103,"name":"paul"}],
+"total":1140,"precincts":
+{"total":11,"reporting":8},
 "name":"Sierra"},
 "Valencia":
 {"votes":[
@@ -125,10 +125,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lea"},
 "Cibola":
 {"votes":[
-{"votes":28,"name":"mccain"},
+{"votes":29,"name":"mccain"},
 {"votes":4,"name":"paul"}],
-"total":32,"precincts":
-{"total":30,"reporting":1},
+"total":33,"precincts":
+{"total":30,"reporting":2},
 "name":"Cibola"},
 "Quay":
 {"votes":[
@@ -152,9 +152,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":53,"reporting":50},
 "name":"Chaves"},
 "Catron":
-{"votes":[],
-"total":0,"precincts":
-{"total":8,"reporting":0},
+{"votes":[
+{"votes":173,"name":"mccain"},
+{"votes":51,"name":"paul"}],
+"total":224,"precincts":
+{"total":8,"reporting":3},
 "name":"Catron"},
 "Sandoval":
 {"votes":[
@@ -207,10 +209,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Los Alamos"},
 "Curry":
 {"votes":[
-{"votes":747,"name":"mccain"},
-{"votes":52,"name":"paul"}],
-"total":799,"precincts":
-{"total":48,"reporting":1},
+{"votes":1319,"name":"mccain"},
+{"votes":94,"name":"paul"}],
+"total":1413,"precincts":
+{"total":48,"reporting":47},
 "name":"Curry"},
 "Santa Fe":
 {"votes":[

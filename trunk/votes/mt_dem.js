@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":101811,"name":"obama","delegates":8},
-{"votes":74550,"name":"clinton","delegates":5},
+{"votes":101811,"name":"obama","delegates":9},
+{"votes":74550,"name":"clinton","delegates":7},
 {"votes":4231,"name":"nopreference-d"}],
 "name":"Montana","precincts":
 {"total":871,"reporting":870},

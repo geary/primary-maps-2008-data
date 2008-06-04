@@ -135,7 +135,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":73966,"name":"clinton","delegates":5},
 {"votes":4198,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":858},
+{"total":871,"reporting":859},
 "delegates":16,"date":"06-03"},
 "New Hampshire":
 {"votes":[

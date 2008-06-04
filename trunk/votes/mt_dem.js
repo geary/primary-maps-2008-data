@@ -4,7 +4,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":73966,"name":"clinton","delegates":5},
 {"votes":4198,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":858},
+{"total":871,"reporting":859},
 "delegates":16,"date":"06-03"},
 "state":"MT","party":"dem","total":179180,"locals":
 {"Judith Basin":
@@ -390,7 +390,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":5758,"name":"clinton"},
 {"votes":341,"name":"nopreference-d"}],
 "total":15116,"precincts":
-{"total":56,"reporting":55},
+{"total":56,"reporting":56},
 "name":"Lewis & Clark"},
 "Deer Lodge":
 {"votes":[

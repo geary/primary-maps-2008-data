@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":89421,"name":"mccain"},
-{"votes":14602,"name":"paul"}],
+{"votes":89790,"name":"mccain"},
+{"votes":14652,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1534},
+{"total":1633,"reporting":1548},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":104023,"locals":
+"state":"NM","party":"gop","total":104442,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -94,10 +94,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sierra"},
 "Valencia":
 {"votes":[
-{"votes":2712,"name":"mccain"},
-{"votes":553,"name":"paul"}],
-"total":3265,"precincts":
-{"total":51,"reporting":37},
+{"votes":3081,"name":"mccain"},
+{"votes":603,"name":"paul"}],
+"total":3684,"precincts":
+{"total":51,"reporting":51},
 "name":"Valencia"},
 "Mora":
 {"votes":[

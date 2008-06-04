@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":12967,"name":"mccain"},
-{"votes":1559,"name":"paul"}],
+{"votes":13141,"name":"mccain"},
+{"votes":1589,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":122},
+{"total":1633,"reporting":125},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":14526,"locals":
+"state":"NM","party":"gop","total":14730,"locals":
 {"San Juan":
 {"votes":[],
 "total":0,"precincts":
@@ -50,9 +50,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"total":47,"reporting":0},
 "name":"Rio Arriba"},
 "DeBaca":
-{"votes":[],
-"total":0,"precincts":
-{"total":6,"reporting":0},
+{"votes":[
+{"votes":20,"name":"mccain"},
+{"votes":5,"name":"paul"}],
+"total":25,"precincts":
+{"total":6,"reporting":2},
 "name":"DeBaca"},
 "Guadalupe":
 {"votes":[],
@@ -94,10 +96,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Mora"},
 "Torrance":
 {"votes":[
-{"votes":126,"name":"mccain"},
-{"votes":21,"name":"paul"}],
-"total":147,"precincts":
-{"total":18,"reporting":1},
+{"votes":280,"name":"mccain"},
+{"votes":46,"name":"paul"}],
+"total":326,"precincts":
+{"total":18,"reporting":2},
 "name":"Torrance"},
 "Taos":
 {"votes":[],

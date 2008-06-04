@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":5178,"name":"mccain"},
-{"votes":766,"name":"paul"},
+{"votes":5759,"name":"mccain"},
+{"votes":922,"name":"paul"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
-{"votes":143,"name":"nopreference-r"},
+{"votes":149,"name":"nopreference-r"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":6959,"locals":
+"state":"MT","party":"gop","total":7702,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -56,12 +56,13 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Treasure"},
 "Petroleum":
 {"votes":[
+{"votes":66,"name":"mccain"},
+{"votes":22,"name":"paul"},
 {"votes":4,"name":"huckabee"},
-{"votes":2,"name":"paul"},
-{"votes":1,"name":"keyes"},
+{"votes":2,"name":"nopreference-r"},
 {"votes":1,"name":"romney"},
-{"votes":1,"name":"mccain"}],
-"total":9,"precincts":
+{"votes":1,"name":"keyes"}],
+"total":96,"precincts":
 {"total":1,"reporting":1},
 "name":"Petroleum"},
 "Lake":
@@ -91,11 +92,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Phillips"},
 "Jefferson":
 {"votes":[
+{"votes":218,"name":"mccain"},
+{"votes":64,"name":"paul"},
 {"votes":10,"name":"romney"},
 {"votes":5,"name":"huckabee"},
-{"votes":5,"name":"paul"},
-{"votes":2,"name":"mccain"}],
-"total":22,"precincts":
+{"votes":3,"name":"nopreference-r"}],
+"total":300,"precincts":
 {"total":1,"reporting":1},
 "name":"Jefferson"},
 "Hill":
@@ -412,11 +414,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Carter"},
 "Sweet Grass":
 {"votes":[
+{"votes":297,"name":"mccain"},
+{"votes":70,"name":"paul"},
 {"votes":12,"name":"huckabee"},
-{"votes":3,"name":"mccain"},
 {"votes":2,"name":"romney"},
-{"votes":1,"name":"paul"}],
-"total":18,"precincts":
+{"votes":1,"name":"nopreference-r"}],
+"total":382,"precincts":
 {"total":1,"reporting":1},
 "name":"Sweet Grass"},
 "Pondera":

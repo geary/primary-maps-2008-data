@@ -1,19 +1,19 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":9831576,"name":"clinton","delegates":803},
-{"votes":9536272,"name":"obama","delegates":899},
+{"votes":9832560,"name":"clinton","delegates":803},
+{"votes":9537225,"name":"obama","delegates":899},
 {"votes":551618,"name":"edwards"},
 {"votes":258383,"name":"uncommitted-d"},
 {"votes":50582,"name":"richardson"},
 {"votes":49660,"name":"kucinich"},
 {"votes":38995,"name":"biden"},
 {"votes":27416,"name":"gravel"},
-{"votes":23083,"name":"nopreference-d"},
+{"votes":23112,"name":"nopreference-d"},
 {"votes":17863,"name":"dodd"},
 {"votes":734,"name":"judd"}],
 "precincts":
 {"total":0,"reporting":0}},
-"state":"US","party":"dem","total":20386182,"locals":
+"state":"US","party":"dem","total":20388148,"locals":
 {"Mississippi":
 {"votes":[
 {"votes":255809,"name":"obama","delegates":20},
@@ -131,11 +131,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":52,"date":"05-20"},
 "Montana":
 {"votes":[
-{"votes":5168,"name":"obama","delegates":8},
-{"votes":4759,"name":"clinton","delegates":5},
-{"votes":361,"name":"nopreference-d"}],
+{"votes":5645,"name":"obama","delegates":8},
+{"votes":5116,"name":"clinton","delegates":5},
+{"votes":390,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":0},
+{"total":871,"reporting":2},
 "delegates":16,"date":"06-03"},
 "New Hampshire":
 {"votes":[
@@ -264,10 +264,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "delegates":141,"date":"03-04"},
 "South Dakota":
 {"votes":[
-{"votes":35898,"name":"clinton","delegates":8},
-{"votes":28577,"name":"obama","delegates":6}],
+{"votes":36525,"name":"clinton","delegates":8},
+{"votes":29053,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":462},
+{"total":762,"reporting":479},
 "delegates":15,"date":"06-03"},
 "Washington":
 {"name":"Washington","precincts":

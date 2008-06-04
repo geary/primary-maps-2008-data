@@ -1,12 +1,12 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":72018,"name":"obama","delegates":8},
-{"votes":50593,"name":"clinton","delegates":5},
-{"votes":3019,"name":"nopreference-d"}],
+{"votes":72871,"name":"obama","delegates":8},
+{"votes":51154,"name":"clinton","delegates":5},
+{"votes":2997,"name":"nopreference-d"}],
 "name":"Montana","precincts":
-{"total":871,"reporting":545},
+{"total":871,"reporting":554},
 "delegates":16,"date":"06-03"},
-"state":"MT","party":"dem","total":125630,"locals":
+"state":"MT","party":"dem","total":127022,"locals":
 {"Judith Basin":
 {"votes":[],
 "total":0,"precincts":
@@ -217,11 +217,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Meagher"},
 "Carbon":
 {"votes":[
-{"votes":470,"name":"obama"},
-{"votes":450,"name":"clinton"},
-{"votes":66,"name":"nopreference-d"}],
-"total":986,"precincts":
-{"total":16,"reporting":11},
+{"votes":1137,"name":"obama"},
+{"votes":866,"name":"clinton"},
+{"votes":44,"name":"nopreference-d"}],
+"total":2047,"precincts":
+{"total":16,"reporting":16},
 "name":"Carbon"},
 "Stillwater":
 {"votes":[
@@ -277,10 +277,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Fallon"},
 "Fergus":
 {"votes":[
-{"votes":742,"name":"obama"},
-{"votes":601,"name":"clinton"}],
-"total":1343,"precincts":
-{"total":16,"reporting":12},
+{"votes":928,"name":"obama"},
+{"votes":746,"name":"clinton"}],
+"total":1674,"precincts":
+{"total":16,"reporting":16},
 "name":"Fergus"},
 "Big Horn":
 {"votes":[

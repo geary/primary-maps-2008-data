@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":93636,"name":"mccain"},
-{"votes":15341,"name":"paul"}],
+{"votes":93496,"name":"mccain"},
+{"votes":15296,"name":"paul"}],
 "name":"New Mexico","precincts":
 {"total":1633,"reporting":1631},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":108977,"locals":
+"state":"NM","party":"gop","total":108792,"locals":
 {"San Juan":
 {"votes":[
 {"votes":6285,"name":"mccain"},
@@ -129,9 +129,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lea"},
 "Cibola":
 {"votes":[
-{"votes":705,"name":"mccain"},
-{"votes":148,"name":"paul"}],
-"total":853,"precincts":
+{"votes":565,"name":"mccain"},
+{"votes":103,"name":"paul"}],
+"total":668,"precincts":
 {"total":30,"reporting":30},
 "name":"Cibola"},
 "Quay":

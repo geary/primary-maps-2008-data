@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":50647,"name":"clinton","delegates":8},
-{"votes":40457,"name":"obama","delegates":6}],
+{"votes":50907,"name":"clinton","delegates":8},
+{"votes":40675,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":708},
+{"total":762,"reporting":718},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":91104,"locals":
+"state":"SD","party":"dem","total":91582,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -106,10 +106,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Brookings"},
 "Jackson":
 {"votes":[
-{"votes":78,"name":"obama"},
-{"votes":58,"name":"clinton"}],
-"total":136,"precincts":
-{"total":8,"reporting":5},
+{"votes":132,"name":"clinton"},
+{"votes":95,"name":"obama"}],
+"total":227,"precincts":
+{"total":8,"reporting":8},
 "name":"Jackson"},
 "McPherson":
 {"votes":[
@@ -127,10 +127,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sully"},
 "Brown":
 {"votes":[
-{"votes":1573,"name":"clinton"},
-{"votes":1079,"name":"obama"}],
-"total":2652,"precincts":
-{"total":22,"reporting":11},
+{"votes":1670,"name":"clinton"},
+{"votes":1168,"name":"obama"}],
+"total":2838,"precincts":
+{"total":22,"reporting":12},
 "name":"Brown"},
 "Minnehaha":
 {"votes":[
@@ -197,10 +197,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Codington"},
 "Haakon":
 {"votes":[
-{"votes":56,"name":"clinton"},
-{"votes":46,"name":"obama"}],
-"total":102,"precincts":
-{"total":6,"reporting":5},
+{"votes":83,"name":"clinton"},
+{"votes":64,"name":"obama"}],
+"total":147,"precincts":
+{"total":6,"reporting":6},
 "name":"Haakon"},
 "Butte":
 {"votes":[
@@ -253,10 +253,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Spink"},
 "Corson":
 {"votes":[
-{"votes":142,"name":"obama"},
-{"votes":128,"name":"clinton"}],
-"total":270,"precincts":
-{"total":17,"reporting":12},
+{"votes":236,"name":"obama"},
+{"votes":190,"name":"clinton"}],
+"total":426,"precincts":
+{"total":17,"reporting":17},
 "name":"Corson"},
 "Hutchinson":
 {"votes":[

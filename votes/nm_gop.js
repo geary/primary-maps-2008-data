@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":72840,"name":"mccain"},
-{"votes":11541,"name":"paul"}],
+{"votes":74132,"name":"mccain"},
+{"votes":11823,"name":"paul"}],
 "name":"New Mexico","precincts":
-{"total":1633,"reporting":1302},
+{"total":1633,"reporting":1336},
 "delegates":32,"date":"06-03"},
-"state":"NM","party":"gop","total":84381,"locals":
+"state":"NM","party":"gop","total":85955,"locals":
 {"San Juan":
 {"votes":[
 {"votes":5547,"name":"mccain"},
@@ -29,10 +29,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Otero"},
 "Bernalillo":
 {"votes":[
-{"votes":26806,"name":"mccain"},
-{"votes":4448,"name":"paul"}],
-"total":31254,"precincts":
-{"total":442,"reporting":296},
+{"votes":27283,"name":"mccain"},
+{"votes":4589,"name":"paul"}],
+"total":31872,"precincts":
+{"total":442,"reporting":324},
 "name":"Bernalillo"},
 "Grant":
 {"votes":[
@@ -64,10 +64,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"DeBaca"},
 "Guadalupe":
 {"votes":[
-{"votes":138,"name":"mccain"},
-{"votes":8,"name":"paul"}],
-"total":146,"precincts":
-{"total":8,"reporting":4},
+{"votes":156,"name":"mccain"},
+{"votes":17,"name":"paul"}],
+"total":173,"precincts":
+{"total":8,"reporting":7},
 "name":"Guadalupe"},
 "Eddy":
 {"votes":[
@@ -157,10 +157,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Chaves"},
 "Catron":
 {"votes":[
-{"votes":211,"name":"mccain"},
-{"votes":71,"name":"paul"}],
-"total":282,"precincts":
-{"total":8,"reporting":4},
+{"votes":387,"name":"mccain"},
+{"votes":87,"name":"paul"}],
+"total":474,"precincts":
+{"total":8,"reporting":7},
 "name":"Catron"},
 "Sandoval":
 {"votes":[
@@ -227,9 +227,9 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Santa Fe"},
 "Luna":
 {"votes":[
-{"votes":397,"name":"mccain"},
-{"votes":74,"name":"paul"}],
-"total":471,"precincts":
+{"votes":1018,"name":"mccain"},
+{"votes":190,"name":"paul"}],
+"total":1208,"precincts":
 {"total":18,"reporting":18},
 "name":"Luna"},
 "McKinley":

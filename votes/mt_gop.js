@@ -2,14 +2,14 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"name":"Montana","precincts":
 {"total":56,"reporting":56},
 "votes":[
-{"votes":24751,"name":"mccain"},
-{"votes":5611,"name":"paul"},
-{"votes":651,"name":"nopreference-r"},
+{"votes":26865,"name":"mccain"},
+{"votes":6174,"name":"paul"},
+{"votes":706,"name":"nopreference-r"},
 {"votes":625,"name":"romney","delegates":25},
 {"votes":245,"name":"huckabee"},
 {"votes":2,"name":"keyes"}],
 "delegates":25,"date":"02-05","type":"caucus"},
-"state":"MT","party":"gop","total":31885,"locals":
+"state":"MT","party":"gop","total":34617,"locals":
 {"Judith Basin":
 {"votes":[
 {"votes":5,"name":"paul"},
@@ -76,11 +76,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Lake"},
 "Liberty":
 {"votes":[
-{"votes":68,"name":"mccain"},
-{"votes":33,"name":"paul"},
-{"votes":9,"name":"nopreference-r"},
+{"votes":161,"name":"mccain"},
+{"votes":59,"name":"paul"},
+{"votes":11,"name":"nopreference-r"},
 {"votes":5,"name":"romney"}],
-"total":115,"precincts":
+"total":236,"precincts":
 {"total":1,"reporting":1},
 "name":"Liberty"},
 "Phillips":
@@ -94,12 +94,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Phillips"},
 "Jefferson":
 {"votes":[
-{"votes":285,"name":"mccain"},
-{"votes":79,"name":"paul"},
+{"votes":563,"name":"mccain"},
+{"votes":141,"name":"paul"},
+{"votes":10,"name":"nopreference-r"},
 {"votes":10,"name":"romney"},
-{"votes":5,"name":"huckabee"},
-{"votes":4,"name":"nopreference-r"}],
-"total":383,"precincts":
+{"votes":5,"name":"huckabee"}],
+"total":729,"precincts":
 {"total":1,"reporting":1},
 "name":"Jefferson"},
 "Hill":
@@ -197,11 +197,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Custer"},
 "Park":
 {"votes":[
+{"votes":1035,"name":"mccain"},
+{"votes":355,"name":"paul"},
+{"votes":26,"name":"nopreference-r"},
 {"votes":6,"name":"romney"},
-{"votes":6,"name":"mccain"},
-{"votes":2,"name":"paul"},
 {"votes":1,"name":"huckabee"}],
-"total":15,"precincts":
+"total":1423,"precincts":
 {"total":1,"reporting":1},
 "name":"Park"},
 "Garfield":
@@ -351,12 +352,12 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Fergus"},
 "Big Horn":
 {"votes":[
-{"votes":253,"name":"mccain"},
-{"votes":39,"name":"paul"},
+{"votes":278,"name":"mccain"},
+{"votes":42,"name":"paul"},
 {"votes":7,"name":"huckabee"},
 {"votes":7,"name":"nopreference-r"},
 {"votes":6,"name":"romney"}],
-"total":312,"precincts":
+"total":340,"precincts":
 {"total":1,"reporting":1},
 "name":"Big Horn"},
 "Ravalli":
@@ -408,11 +409,11 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"McCone"},
 "Madison":
 {"votes":[
-{"votes":25,"name":"mccain"},
-{"votes":9,"name":"paul"},
-{"votes":3,"name":"nopreference-r"},
+{"votes":236,"name":"mccain"},
+{"votes":51,"name":"paul"},
+{"votes":10,"name":"nopreference-r"},
 {"votes":3,"name":"romney"}],
-"total":40,"precincts":
+"total":300,"precincts":
 {"total":1,"reporting":1},
 "name":"Madison"},
 "Beaverhead":
@@ -445,22 +446,22 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Sweet Grass"},
 "Pondera":
 {"votes":[
-{"votes":314,"name":"mccain"},
-{"votes":68,"name":"paul"},
-{"votes":19,"name":"nopreference-r"},
+{"votes":491,"name":"mccain"},
+{"votes":99,"name":"paul"},
+{"votes":27,"name":"nopreference-r"},
 {"votes":15,"name":"romney"},
 {"votes":4,"name":"huckabee"}],
-"total":420,"precincts":
+"total":636,"precincts":
 {"total":1,"reporting":1},
 "name":"Pondera"},
 "Lewis & Clark":
 {"votes":[
-{"votes":1696,"name":"mccain"},
-{"votes":294,"name":"paul"},
-{"votes":42,"name":"nopreference-r"},
+{"votes":1991,"name":"mccain"},
+{"votes":338,"name":"paul"},
+{"votes":48,"name":"nopreference-r"},
 {"votes":36,"name":"romney"},
 {"votes":10,"name":"huckabee"}],
-"total":2078,"precincts":
+"total":2423,"precincts":
 {"total":1,"reporting":1},
 "name":"Lewis & Clark"},
 "Deer Lodge":

@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":53655,"name":"clinton","delegates":8},
-{"votes":43155,"name":"obama","delegates":6}],
+{"votes":53725,"name":"clinton","delegates":8},
+{"votes":43291,"name":"obama","delegates":6}],
 "name":"South Dakota","precincts":
-{"total":762,"reporting":753},
+{"total":762,"reporting":756},
 "delegates":15,"date":"06-03"},
-"state":"SD","party":"dem","total":96810,"locals":
+"state":"SD","party":"dem","total":97016,"locals":
 {"Bon Homme":
 {"votes":[
 {"votes":614,"name":"clinton"},
@@ -456,10 +456,10 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 "name":"Moody"},
 "Shannon":
 {"votes":[
-{"votes":264,"name":"obama"},
-{"votes":248,"name":"clinton"}],
-"total":512,"precincts":
-{"total":10,"reporting":1},
+{"votes":400,"name":"obama"},
+{"votes":318,"name":"clinton"}],
+"total":718,"precincts":
+{"total":10,"reporting":4},
 "name":"Shannon"},
 "Bennett":
 {"votes":[

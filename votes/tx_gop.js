@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":707622,"name":"mccain","delegates":99},
-{"votes":521951,"name":"huckabee","delegates":12},
+{"votes":707622,"name":"mccain","delegates":121},
+{"votes":521951,"name":"huckabee","delegates":16},
 {"votes":69824,"name":"paul"},
 {"votes":27579,"name":"romney"},
 {"votes":17611,"name":"uncommitted-r"},

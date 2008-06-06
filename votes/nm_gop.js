@@ -1,10 +1,10 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":93496,"name":"mccain"},
+{"votes":93496,"name":"mccain","delegates":29},
 {"votes":15296,"name":"paul"}],
 "name":"New Mexico","precincts":
 {"total":1633,"reporting":1631},
-"delegates":32,"date":"06-03"},
+"delegates":29,"date":"06-03"},
 "state":"NM","party":"gop","total":108792,"locals":
 {"San Juan":
 {"votes":[

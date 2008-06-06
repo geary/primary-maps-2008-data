@@ -1,11 +1,11 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":87341,"name":"mccain"},
-{"votes":29741,"name":"paul"},
+{"votes":87341,"name":"mccain","delegates":17},
+{"votes":29741,"name":"paul","delegates":6},
 {"votes":7974,"name":"uncommitted-r"}],
 "name":"Idaho","precincts":
 {"total":940,"reporting":940},
-"delegates":32,"date":"05-27"},
+"delegates":24,"date":"05-27"},
 "state":"ID","party":"gop","total":125056,"locals":
 {"Camas":
 {"votes":[

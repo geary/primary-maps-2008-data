@@ -1,6 +1,6 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":142855,"name":"mccain"},
+{"votes":142855,"name":"mccain","delegates":42},
 {"votes":16239,"name":"huckabee"},
 {"votes":13439,"name":"paul"},
 {"votes":10677,"name":"uncommitted-r"},
@@ -9,7 +9,7 @@ GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":2138,"name":"keyes"}],
 "name":"Kentucky","precincts":
 {"total":3532,"reporting":3532},
-"delegates":45,"date":"05-20"},
+"delegates":42,"date":"05-20"},
 "state":"KY","party":"gop","total":197625,"locals":
 {"Metcalfe":
 {"votes":[

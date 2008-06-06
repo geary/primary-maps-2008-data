@@ -1,7 +1,7 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":17393180,"name":"clinton","delegates":1632},
-{"votes":17054217,"name":"obama","delegates":1734},
+{"votes":17393180,"name":"clinton","delegates":1914},
+{"votes":17054217,"name":"obama","delegates":2191},
 {"votes":966088,"name":"edwards"},
 {"votes":276524,"name":"uncommitted-d"},
 {"votes":104610,"name":"richardson"},

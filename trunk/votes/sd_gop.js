@@ -1,13 +1,13 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":42843,"name":"mccain"},
+{"votes":42843,"name":"mccain","delegates":24},
 {"votes":10127,"name":"paul"},
 {"votes":4337,"name":"huckabee"},
 {"votes":1982,"name":"romney"},
 {"votes":1793,"name":"uncommitted-r"}],
 "name":"South Dakota","precincts":
 {"total":762,"reporting":762},
-"delegates":27,"date":"06-03"},
+"delegates":24,"date":"06-03"},
 "state":"SD","party":"gop","total":61082,"locals":
 {"Bon Homme":
 {"votes":[

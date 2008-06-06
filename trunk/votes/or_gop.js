@@ -1,10 +1,10 @@
 GoogleElectionMap.votesReady({"status":"ok","totals":
 {"votes":[
-{"votes":263768,"name":"mccain"},
-{"votes":46279,"name":"paul"}],
+{"votes":263768,"name":"mccain","delegates":23},
+{"votes":46279,"name":"paul","delegates":4}],
 "name":"Oregon","precincts":
 {"total":1000,"reporting":880},
-"delegates":30,"date":"05-20"},
+"delegates":27,"date":"05-20"},
 "state":"OR","party":"gop","total":310047,"locals":
 {"Wheeler":
 {"votes":[
